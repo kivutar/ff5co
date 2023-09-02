@@ -234,7 +234,7 @@ my %sentences = (
     "\x02:  Let's go, Boco!" =>
     "\x02:  O Boco, andemu.",
 
-    "\x02:  That spring...!"
+    "\x02:  That spring...!" =>
     "\x02:  Una sorgente ! ",
 
     "This is a Spring of Recovery.>>>>HP/MP restored!>Status restored!>Recovered from 'Wounded' status!" =>
