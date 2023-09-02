@@ -1,4 +1,5 @@
 use File::Slurper qw(read_binary write_binary);
+use Tie::IxHash;
 
 my %b2c = (
     "00" => "|",
@@ -7,6 +8,7 @@ my %b2c = (
     "0C" => "\x0C",
     "17" => "\x17", # wait
     "AB" => "\xAB",
+    "C5" => "\xC5",
 
     "60" => "A",
     "61" => "B",
@@ -91,7 +93,8 @@ my %b2c = (
 
 my %c2b = reverse %b2c;
 
-my %sentences = (
+tie my %sentences, Tie::IxHash;
+%sentences = (
     ">            Nothing happened." =>
     ">           Nunda he accadutu.",
 
@@ -306,6 +309,75 @@ my %sentences = (
     "Faris:  That pendant..." =>
     "Faris:  Stu pendente...",
 
+    "Faris:  Keep them locked up!>Pirates:  Yes Cap'n!!" =>
+    "Faris:  Incarceli !>Pirati:  Ie Capitanu !!       ",
+
+    "Galuf:  This is great...  Who the >  heck said we should steal this >  boat, anyways?" =>
+    "Galuf:  Geniale ! Quale ha >  avutu l'idea di arruba sta nave ?                      ",
+
+    "\x02:  Hey there old man, I >  think it was YOU!" =>
+    "\x02:  O vecchiettu ! Credo >  ch'eri TU !      ",
+
+    "Galuf:  Ooo... my head hurts!  I... >  can't remember...>>>\x02:  ...>  What a convenient excuse..." =>
+    "Galuf:  Ooo... u mo capu...  Un... >  mi ricordu...>>>\x02:  ...>  Che scusa comoda...             ",
+
+    "Faris:  Why would the princess of >  Tycoon have the same pendant >  as me...?" =>
+    "Faris:  Perche a principessa di >  Tycoon ha avutu un >  pendente cum'e me ?  ",
+
+    "Faris:  She said her father is at the>  Wind Shrine..." =>
+    "Faris:  E so babbu he >  a u Tempiu di u Ventu...     ",
+
+    "Faris:  We're heading for the Wind >  Shrine!" =>
+    "Faris:  Andemu versu u Tempiu di u >  Ventu !",
+
+    "Pirates:  Captain, what should we >  do with these people?>>>Faris:  Untie their ropes!" =>
+    "Pirati:  Capitanu, chi facemu di >  sti genti ?>>>Faris:  Liberali !                   ",
+
+    "Faris:  Hurry up!!" =>
+    "Faris:  Subittu !!",
+
+    "Lenna:  Why...?>>>>Faris:  I'm saying that I'm going to >  lend you my help.>  Isn't that good enough?>>Faris:  We're off!>  To the Wind Shrine!>>>Pirates:  ...>>>>Faris:  Are you guys going to listen >  to me?" =>
+    "Lenna:  Perche...?>>>>Faris:  Ti dicu ch'aghju da aiutati.>  Un site micca felice ?>>>>Faris:  Andemu !>  Versu u Tempiu di u Ventu !>>>Pirati:  ...>>>>Faris:  Vulete ascoltami o no ?                           ",
+
+    "Faris:  Answer me!>>>>Pirates:  A... ay\xC5ay, sir!" =>
+    "Faris:  Rispondi !>>>>Pirati:  Ie\xC5Ie, Capitanu !",
+
+    "Faris:  We're off!" =>
+    "Faris:  Andemu !  ",
+
+    "Lenna:  But, with the wind >  stopped... how will the ship >  move?>>Faris:  You really wanna know!?" =>
+    "Lenna:  Ma, senza ventu... >  comu fa a nave per naviga ? >>Faris:  Vuleti sapiri !?                ",
+
+    "Faris:  Syldra!>  Why don't you introduce youself?" =>
+    "Faris:  O Syldra !>  Mostrati !                   ",
+
+    "Faris:  How about that!>  Syldra and I grew up together.  >  We're basically brothers!" =>
+    "Faris:  E allora !>  Eiu e Syldra avemu crisciutu >  inseme.  Semu fratelli !         ",
+
+    "Would you like me to navigate until>  we get to the Wind Shrine?" =>
+    "Vulete anda a u Tempiu di >  u Ventu, no ?                      ",
+
+    "I'm seasick..." =>
+    "Aghju nausea..",
+
+    "Captain!>  Please take these with you!>>>Received 8 Potions!" =>
+    "Capitanu !>  Prendi sti Pozioni !>>>Riceveti 8 Pozioni !    ",
+
+    "Received 8 Potions!" =>
+    "Riceveti 8 Pozioni.",
+
+    "Be careful!" =>
+    "Forza !!   ",
+
+    "Captain...>  I... I love you...." =>
+    "Capitanu...>  Vi... amu tantu...",
+
+    "The earthquake connected our >  hideout to a weird cave." =>
+    "U scoppu ha connessu u rifugiu >  cun una grotta strana.",
+
+    "We'll be alright while the Captain's >  away." =>
+    "Staremu bonu finche u Capitanu >  he via.    ", # FIXME
+
     "\x02:  What's that...?" =>
     "\x02:  Chi he...?     ",
 );
@@ -334,10 +406,20 @@ foreach my $sentence (keys %sentences) {
     my $translation = $sentences{$sentence};
     my $encoded_sentence = encode($sentence);
     my $encoded_translation = encode($translation);
-    print($sentence), "\n";
+    #print($sentence), "\n";
     printx($encoded_sentence);
-    print($translation), "\n";
+    #print($translation), "\n";
     printx($encoded_translation);
+
+    # check that the lenght matches
+    if (length($encoded_sentence) != length($encoded_translation)) {
+        print "ERROR: $sentence\n";
+        print "ERROR: $translation\n";
+        print "ERROR: $encoded_sentence\n";
+        print "ERROR: $encoded_translation\n";
+        die;
+    }
+
     $bytes =~ s/\Q$encoded_sentence\E/$encoded_translation/g;
 }
 
