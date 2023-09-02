@@ -1,0 +1,2171 @@
+>            Nothing happened.
+|>     Can't carry any more items!
+|>Obtained \AB\11"!
+|>Obtained \10 Gil!
+|>Obtained \AB\12"!
+|>           Monster\C5in\C5a\C5box!!
+|>                 It's empty...
+|>          Please select a name.
+|>                 Opened lock.
+|Welcome to the Traveler's Inn!>  Room and board is \10 Gil >  for the night.  Would you like a >  room tonight?
+|Welcome to the Traveler's Inn!>  Room and board is \10 Gil >  for the night.  Would you like a >  room tonight?
+|Welcome to the Traveler's Inn!>  Room and board is \10 Gil >  for the night.  Would you like a >  room tonight?
+|Welcome to the Traveler's Inn!>  Room and board is \10 Gil >  for the night.  Would you like a >  room tonight?
+|Welcome to the Traveler's Inn!>  Room and board is \10 Gil >  for the night.  Would you like a >  room tonight?
+|Please rest well...
+|Please come again!
+|A sacred power protects this >  spot...>>>You can rest using a \ABTent" or >  \ABCabin".>  You may also save your game.
+|Pretty Good!>>>>Received 1\53\53 Gil!
+|>        Locked from the inside.
+|>                  It's locked.
+|>Obtained \ABCabin"!
+|Lenna:  Father!    µ\02\0F
+|Lenna:  Do you really have to go?  >   µ\02\0F>>>King:  Lenna, you need to protect >  the castle.  You mustn't follow >  me.>Lenna:  But...    µ\04\0F
+|King:  Something about the wind >  bothers me...>  I must go check the crystal of >  the Wind Shrine.    µ\04\0F
+|Lenna:  Yes... I can feel it, too...>  But, by yourself...?    µ\02\0F>>>King:  Don't worry.    µ\04\0F
+|Faris:  The wind...    µ>>  stopped...    µ>\0F
+|The wind stopped!!  I've got to >  hurry!!    µ\02\0F
+|Lenna:  The wind...!!  Has something>  happened...    µ>>  to Father!?    µ\02\0F
+|King Tycoon:  What!?    µ\02\0F
+|I'll teach you about the Rings...>>>>The Fire Ring...>  absorbs flame,>  and protects against cold,>  but is weak against water.>The Coral Ring...>  absorbs water,>  and protects against flame,>  but is weak against thunder.>The Angel Ring...>  prevents the effects of Zombie >  and Aging.
+|Moogle:  Kupo!    µ>\0F
+|Equip/Optimum selects equipment >  based on attack and defense >  power, so it may remove things >  like \ABElf Cape" and \ABGold Hairpin".>But keep in mind that you may >  want to wear these for their >  special powers.
+|\ABBoco, let's go!
+|\ABBoco, wait here.
+|\ABAre you okay?>Lenna:  Y..., yes...
+|Lenna:  Thank you very much for >  helping me.  I'm Lenna.>  And you...?>\ABI'm...
+|\02:  I'm \02.  >  Journeying with a chocobo to >  nowhere in particular...>>Lenna:  \02...
+|Lenna:  This thing suddenly came >  falling from the sky...>  the blast sent me flying, and I fell>  unconscious...>\02:  Is it a meteor?>Lenna:  A meteor...?>  Might it have something to do >  with the wind stopping?
+|Lenna:  Thank you so much.  I wish>  I could repay you, but I must >  hurry...
+|\02:  Hey, wait a sec...
+|Lenna:  Did you hear something?>\02:  Huh?>>>Ugh......
+|Unnh...    \0C>  Help...
+|\02:  It's coming from over>  there!
+|Lenna:  Are you all right?>>>>Old Man:  Where am I...?>  Ooh... my head...
+|Old Man:  What... what's with >  me...?  I can't remember...  I can't>  remember a thing!!>>\02:  You hit your head...  >  is it amnesia...?
+|Old Man:  ...ah!>  That's right, my name's Galuf!>>>Lenna:  Anything else?>>>>Galuf:  ...  No...>  I can't remember anything >  besides my name...
+|Lenna:  I'm really very sorry, but I >  have to hurry.>>>\02:  Where're you going?>Lenna:  The Wind Shrine...
+|Galuf:  The Wind Shrine!!  I have a >  feeling that's where I needed to >  go, too!>>Galuf:  I'll go with you!>Lenna:  But...
+|Galuf:  I MUST go.>  Please take me with you!!
+|Lenna:  \02...>  What about you?>>>\02:  I'll continue my >  journey.
+|Lenna:  \02...>  Thank you so much!  Goodbye...>Galuf:  Farewell!
+|\02:  Ouch...  Boco!>  Don't stop so suddenly!
+|\02:  Why are you giving >  me that look!?>Wark!  Wark, wark!
+|\02:  ... I know... It's an old >  man and a girl...  And there are >  lots of Goblins around here.  Got >  it, Boco.
+|Lenna:  Eeeek!>Galuf:  Aaggh!
+|\02:  Boco, let's hurry!!>Wark!!
+|Lenna:  Unhh...    µ> ...
+|\02:  Hey!>Lenna:  \02!!
+|Lenna:  Thank you so very much...>\02:  Aw, stop that.
+|\02:  The meteor's shock's >  collapsed cliffs and made the >  ground split.>>\02:  And now, the road to >  Tule's been blocked...
+|Lenna:  But I have to get to the >  Wind Shrine...>Galuf:  Ugh... unnh...
+|Galuf:  To the Wind Shrine... got to >  hurry... to the Wind Shrine...>>>\02:  This old geezer too...
+|\02:  You know what?  I'm >  going to go with you.>Lenna:  What?>  Really!!>\02:  My dad...  He said for >  me to travel the world and see >  things...>>And besides... the wind is calling.>>>>Galuf:  Say what you want, but >  isn't the truth that you just want>  to be with this girl?
+|\02:  Hey, you were >  awake!!>Galuf:  Of course I was!
+|Galuf:  But the road has been >  blocked...  What will we do?>\02:  ...>Lenna:  ...
+|Lenna:  But we must go!>>>>Galuf:  Yeah.>\02:  Well, then!  Let's go!!
+|Lenna:  A cave in such a place...>\02:  It must have been >  formed by that earthquake...
+|\02:  Boco, it's dangerous >  ahead.  You've got stay back >  here.
+|Wark!
+|\02:  Let's go, Boco!
+|Wark!
+|\02:  That spring...!
+|This is a Spring of Recovery.>>>>HP/MP restored!>Status restored!>Recovered from 'Wounded' status!
+|HP/MP restored!>Status restored!>Recovered from 'Wounded' status!
+|\02:  That button...?
+|\02:  That ship...?>  How does it sail without wind...?
+|\02:  This must be the >  pirates' hideout...  so that ship >  we saw was a pirate ship?
+|Lenna:  I wonder if we couldn't get>  a ride?
+|\02:  Uhh... these are >  PIRATES we're talking about >  here...
+|Galuf:  Well, then we haven't but >  to sneak the ship ourselves!
+|\02:  Hey old man, you're >  more daring than I thought!
+|\02:  He's sleeping...
+|Pirate:  Mumble... mumble...
+|\02:  We're off!!
+|Zzz... zzz...>  I fixed the ship's wheel, Captain...>>>Zzz... zzz...>  Take the wheel... Syldra'll...
+|Galuf:  \02...>  What's wrong?>>>\02:  It's no use.>  It won't move at all.  What's >  going on here??
+|And just what do you think you're >  doing!?
+|Faris:  How bold you are!  Just >  going to sneak in here and steal >  my ship, eh?
+|Lenna:  I am Tycoon's princess >  Lenna.  I apologize for trying to >  just take your ship like that.
+|\02:  Tycoon's...>Galuf:  ... princess!?
+|\02:  But that sure was a >  shock... that Lenna was the >  princess of Tycoon...>>Lenna:  I'm sorry...  I wasn't >  intending to hide it...>>>\02:  But why were you >  going to the Wind Shrine by >  yourself?>>Lenna:  Because my father is >  there.  And when the wind >  stopped... I thought something >  bad had happened...>Lenna:  So I snuck out of the castle>  alone... and then, that meteor >  came falling from the sky...
+|Lenna:  Please!>  Please lend us your ship!  I must >  get to the Wind Shrine!  My >  father is in danger!
+|Faris:  Eh!  You're Tycoon's >  princess!  This one's gonna be >  worth a lot!>>\02:  Stop!!
+|Lenna:  I beg you!!
+|Faris:  That pendant...
+|Faris:  Keep them locked up!>Pirates:  Yes Cap'n!!
+|Galuf:  This is great...  Who the >  heck said we should steal this >  boat, anyways?
+|\02:  Hey there old man, I >  think it was YOU!
+|Galuf:  Ooo... my head hurts!  I... >  can't remember...>>>\02:  ...>  What a convenient excuse...
+|Faris:  Why would the princess of >  Tycoon have the same pendant >  as me...?
+|Faris:  She said her father is at the>  Wind Shrine...
+|Faris:  We're heading for the Wind >  Shrine!
+|Pirates:  Captain, what should we >  do with these people?>>>Faris:  Untie their ropes!
+|Faris:  Hurry up!!
+|Lenna:  Why...?>>>>Faris:  I'm saying that I'm going to >  lend you my help.>  Isn't that good enough?>>Faris:  We're off!>  To the Wind Shrine!>>>Pirates:  ...>>>>Faris:  Are you guys going to listen >  to me?
+|Faris:  Answer me!>>>>Pirates:  A... ay\C5ay, sir!
+|Faris:  We're off!
+|Lenna:  But, with the wind >  stopped... how will the ship >  move?>>Faris:  You really wanna know!?
+|Faris:  Syldra!>  Why don't you introduce youself?
+|Faris:  How about that!>  Syldra and I grew up together.  >  We're basically brothers!
+|Would you like me to navigate until>  we get to the Wind Shrine?
+|I'm seasick...
+|Captain!>  Please take these with you!>>>Received 8 Potions!
+|Received 8 Potions!
+|Be careful!
+|Captain...>  I... I love you....
+|The earthquake connected our >  hideout to a weird cave.
+|We'll be alright while the Captain's >  away.
+|We're pirates, we do what we like!
+|We found a funny bird collapsed in>  the cave.
+|We'll protect the hideout!!
+|Some bird that goes \AAwark' is >  having its wounds treated in bed.
+|\02:  Boco's footprints...>  Could he have chased after us >  into the cave?
+|It's alright!  You can leave this bird>  to me!  He'll be fine after resting >  here a bit.
+|\02:  Boco!
+|Boco:  W... Wark...>Lenna:  He's hurt!
+|He had fallen in the cave, so we >  brought him here.  He'll be >  alright!  I'll watch after him.>>Don't worry about it!
+|\02:  Please take good >  care of him!
+|Just leave it to me!
+|Wark...>\02:  Boco, get well soon!
+|Princess Lenna!
+|Over here, please!
+|Princess Lenna!
+|Lenna:  What in the world is going >  on...?
+|The wind suddenly stopped, and >  monsters came rushing into the >  Shrine!
+|Lenna:  What about Father!?
+|King Tycoon has gone up to the >  top floor... but he hasn't come >  back.
+|Something must have happened!
+|Faris:  The Crystal Room is on the >  top floor!  Let's go!!
+|Lenna:  Faris...     \0CThanks!
+|Monsters raided the shrine... and >  we ended up fleeing to this >  room.
+|King Tycoon went to the top floor >  to see what was going on with >  the Crystal.
+|The Wind Crystal was being >  controlled by a machine...
+|The machine suddenly stopped >  responding to our commands...!!
+|Princess Lenna, please take these >  with you.>>>Received 5 Potions!
+|This water will revitalize you >  when you drink it.
+|Please, be careful.
+|Princess Lenna...>  The power of the wind continues>  to weaken...
+|We will pray here for the revival >  of the Crystal.
+|The wind's power will fade >  steadily...>  When the wind stops...
+|Could the machine that was >  amplifying the Crystal's power >  have caused it to shatter?
+|I've heard that the power of the >  Crystals in Worus and Karnak is >  amplified using the same >  technology...
+|If all the Crystals should shatter...?
+|\02:  Stand guard!!
+|Lenna:  The Crystal!>\02:  It's shattered!!
+|\02:  Huh?
+|>             The Spirit of Fire>                    Courage
+|>            The Spirit of Water>                   Kindness
+|>            The Spirit of Earth>                      Hope
+|>             The Spirit of Wind>                    Pursuit
+|\02:  What...>Faris:  ... in the world?>Galuf:  It feels warm...>Lenna:  The Crystals' Spirits?
+|... Le... Lenna....
+|Lenna:  Father!!>Faris:  !?
+|Listen well.>  You are the chosen warriors...>  The four who hold the spirits.>>Lenna:  Father!>  What do you mean?
+|The Wind Crystal has shattered.  >  And it seems as though the other>  three Crystals will as well.>>You must protect them!  An evil >  spirit is about to return...>>>One that will plunge all into >  darkness...
+|Lenna:  Father!!
+|Go!>  Chosen warriors...>  Protect the Crystals...
+|Lenna:  Father...!!!
+|Lenna:  What are these?>\02:  Pieces of the Crystal?
+|            The Crystal Pieces>         These hold the powers>          of the ancient heroes>             that dwell within.>>                     Knight>                   Black Belt>>>                  Blue Mage>                      Thief>>>                 Black Mage>                 White Mage
+|\02:  Pieces of Crystal...>  They're lending us their power?
+|Galuf:  Let's talk later.  We need to>  get out of here.
+|Faris:  Lenna...
+|Lenna:  If I remember correctly, >  there should be a warp gate to >  the outside behind the altar...
+|  How to use the Pieces of Crystal>Would you like an explanation of >  the Job/Ability System?
+|>               Final Fantasy V>            Job/Ability System>>The warriors chosen by the >  Crystals gain the powers of the >  ancient heroes that rest within >  them.>Thus they are granted \AAJobs'.
+|By using a Job, each of the four >  warriors can gain special skills of>  that Job.  These we call \AAAbilities'.
+|When you select a Job or any >  Abilities, your equipment will, for >  a moment, be removed.>>Don't worry... It will automatically >  be re\C5equipped with optimal >  equipment.
+|By combining Jobs and Abilities >  skillfully, you can create new >  types of characters.>>You might make a \AABlack Mage >  that can Jump', or a \AAKnight that >  uses White Magic'.>>As an example, let's create a >  \AAKnight that uses White Magic'.>>>First, select the \AAWhite Mage' for a>  character's Job.
+|Then, as you gain Ability Points >  (ABP) in battle, you will eventually>  earn the White Mage's Ability >  \AAWhite'.>Next, change the character's Job >  to \AAKnight', then select \AAWhite' >  from the Ability menu.  Select >  equipment for your knight...>And now you have a \AAKnight that >  uses white magic'!
+|Wark!
+|Wark!
+|Pirates:  Beer, beer!!
+|Faris:  I'm going too.
+|Pirates:  We're off!
+|Faris:  Hey!>  Were you trying to leave me >  here!?
+|We're only helping you out >  because the Captain said so!
+|Captain...>  I... I love you...
+|The Captain's on the second floor!
+|And Lenna's cute too!
+|You guys've gotta have some too!
+|The pirates' leader?  The leader >  went upstairs.
+|>              Special Service!!!    µ\02\0F
+|>                    Whew!!
+|There's no more beer.>  The pirates drank ALL of it!
+|I... I'm not peeking or anything...!
+|Dancer:  Have a seat there, and >  look this way!
+|\02:  Hold on, I'll go take a >  look.
+|Galuf:  \02!>  Is something wrong?>>>\02:  No... nothing at all...>  Maybe I'm just going crazy...?>>>Galuf:  Hmm... get out of the way!
+|Galuf:  Beautiful...>  Makes my heart throb!
+|Lenna:  What are you two babbling>  about?
+|Faris:  Ahhh... Hmmm...>  I slept well...
+|Faris:  What are you guys doing?>  Snap out of it!
+|Faris:  Sorry, but I'd like to be left >  alone for a while...>  See you later.
+|The pirates went into the Pub!
+|... Hic! ...>  The pirates've taken over the >  Pub...>  Hiccup! ...
+|I'm getting dizzy.
+|Did you say a meteor fell near >  Tycoon Castle?  It looks like one >  landed over towards Karnak, too.
+|Once, long, long ago... a dreadful >  monster was sealed at the >  bottom of the Canal with the >  power of the Wind Crystal...>That's a story I heard from an old >  man.
+|If you continue east after going >  through the Canal, you'll reach a >  country called Worus. >>It's flourishing by the power of >  the Water Crystal.
+|With a machine amplifying the >  Wind Crystal's energy, we're now>  we're able to send boats to very >  far off places!>A ship is supposed to be arriving >  from Worus soon...
+|The wind seems to be getting >  weaker...
+|The monster of the Canal aims >  only at women.
+|The pirates really lost their spirits.
+|The pirates said they were >  returning to their hideout and >  took off.
+|They said they were pirates, and >  we were all afraid.  But they >  have never attacked our boats!
+|Shall I take you to the Beginner's >  House?
+|Wow, you're confident.
+|Close your eyes for a moment!
+|Alright, we're there!
+|Are you beginners?
+|Please, come on in!
+|NO LOITERING...
+|GET OUT!!
+|Thank you for visiting the >  Beginner's House!
+|Sometimes there are things hidden>  in objects like treasure boxes >  and pots!>  You should try to look for them.
+|Put characters with weak defense>  power, like magic users, in the >  back row!>>When you push left while on the >  menu screen, the cursor will >  move over to the characters, and>  there you push the A button.>By doing this, you can shift >  between the front and back >  rows.
+|If your hair becomes white, you >  are \AAAging.'  Your status levels >  will steadily decrease.
+|The character who is normally >  displayed in walkabout mode is >  the first one in the lineup.  To >  change this...
+|Undead monsters and ghosts can >  be defeated with restorative >  spells and items, such as \AACure' >  and \AAPotion'.
+|Be on the lookout for secret >  passages!  For example, you can >  pass through the wall on my left!>>Also, if any character is a Thief or >  has the \AAPassages' Ability, you'll >  be able to see these hidden >  passages.
+|Be sure to save frequently.  That >  way, if you're ever to be killed, >  you'll be able to continue from >  where you last saved.
+|Do you want an explanation about >  the Job/Ability System?
+|Numbers will pop up in battle.>  White numbers show damage.>  Green numbers show recovery.
+|In battle, if you hold down the L >  and R buttons simultaneously, >  you can run away!
+|When your HP (Hit Points) are low, >  use items like \AAPotions' or spells >  like the white \AACure' magic to >  recover them.
+|There's a present from me inside >  this box!
+|Sometimes monsters lurk in >  treasure chests!>  Be careful!!
+|\AAWait Mode'>  You can change the battle mode >  to \AAWait' in the Config menu.>>During battle, time will stop while >  you choose your commands.  This>  allows you to select magic and >  items at your own pace!
+|Would you like to hear about a >  few of the more complicated >  Abilities?
+|\AADouble Grip'>  With this, you hold a weapon in >  one hand and leave the other >  hand empty.>In other words, you wield a >  weapon with both hands, and >  your attack power doubles.>>\AADash'>  While in places like towns and >  caves, hold down B while you >  move to dash.>Having a Thief in your party is fine>  as well.>>>\AABlue Magic' and \AALearning'>  The learning and usage of enemy>  techniques is 'Blue Magic'.>>When a Blue Mage or a character >  that has the \AALearning' Ability is >  hit by certain enemy techniques...>>...that character learns that >  technique.>>>Then, a Blue Mage or a character >  with the \AABlue Magic' Ability will >  gain the ability to use these >  techniques.>Now you can learn and use >  techniques like Goblin's \AAGoblin >  Punch', Steel Bat's \AAVampire', and >  Mold Wind's \AAAero'!
+|Faris:  Don't forget me!
+|Faris:  Well, see ya later!
+|Lenna:  This is Zokk's house...
+|\02:  Someone you know?
+|Lenna:  Yes.>  He's the man who built the gate >  to the Torna Canal.
+|Lenna:  It doesn't look like he's >  home right now...>>>\02:  Well, let's try back >  later.
+|Zokk:  Princess Lenna!>>>>Lenna:  Zokk!
+|Zokk:  It's nice to see you again.>>>>Lenna:  Zokk... I have a favor to >  ask of you.  We need to pass >  through the Torna Canal in order >  to get to Worus.>Zokk:  But, now that the Wind >  Crystal is gone, that place is >  infested with monsters!  It's too >  dangerous.
+|Zokk:  And besides...>  I've lost the key to the Canal...
+|Zokk:  Anyways, Princess Lenna, >  please stay at my house for the >  night.
+|Zokk:  Come right this way.
+|\02:  The Crystals...>  Dad used to talk about those, >  now that I think about it...
+|The Crystals must be protected...
+|If anything should happen to me, >  don't tell \02 about the >  Crystals...>>I... I don't want to burden him with>  this...
+|...
+|Lenna:  ...>  Father...>  I'll protect the Crystals...
+|Zokk:  Is anything wrong?
+|\02:  No...>  I was just thinking about my late>  mom and dad...
+|Zokk:  ... Please, take this!>>>>\02:  What is it?>Zokk:  It's the key to the Canal.  >  With this, you can open the gate >  and get to Worus.
+|Zokk:  I've been hiding my worries >  about Princess Lenna...
+|Zokk:  Please keep her safe!
+|Zokk:  Princess Lenna!>  Please, be very careful!!
+|Pirates:  Captain!>  Wait up!!
+|Faris:  I'm going to leave you here!
+|Captain!>Why!?>We'll go with you!!
+|Faris:  I'm sorry, you can't.
+|Pirate:  But Captain!!
+|Faris:  It looks like it's going to be >  a long journey...>  Be sure to protect the hideout >  while I'm gone.  Okay, guys?>Pirate:  Captain!...>>>>Faris:  Please...>Pirate:  Captain...
+|Pirate:  A... ay\C5ay, sir!
+|Pirate:  Take good care of >  yourself, Captain!
+|\02:  Lenna, what's >  wrong?
+|\AAThe Wind Crystal has shattered...
+|Now, the wind's power is only >  weakening...>  But before long, the wind will >  have stopped completely.>And after a few years, the sky >  will not stir\9C the birds will lose >  their place to fly...
+|\AAFather said to protect the other >  three Crystals.
+|\02:  Three Crystals...?>>>>\AAThe Crystals of Water, Fire, and >  Earth.
+|\02:  But what if they >  shatter...?>>>\AAFor a while, nothing will happen, >  but...>>>Slowly the Earth will rot... the >  Water will stagnate, cease to >  flow...>>The power of Fire will be gone, >  and everything will be frozen in >  coldness...>>It will become a world in which >  man cannot live...
+|Galuf:  We're going to protect the >  Crystals!
+|\02:  Oh, your memory's >  returned?
+|Galuf:  Nope.>  But I'm going to protect them >  anyways!
+|Faris:  I'll go too!
+|Faris:  We have to search for >  Lenna's father!>>>\02:  You mean the King of>  Tycoon who disappeared into >  that shadow?
+|Faris:  I know he's alive!>  Lenna's father wouldn't just die!
+|Lenna:  \02...>  Will you come with us...?
+|\02:  I was only a >  wanderer...>  But when I look at these...
+|Lenna:  The Pieces of Crystal...>>>>\02:  They're lending us >  their power so we can protect >  the entire world... and the spirit >  of the wind...>  ... ... ...>>>>Let's go!  To protect the Crystals!
+|Galuf:  Alright, we're on our way!
+|Galuf:  \02!>  Where'd you get the key to the >  Canal!?>>\02:  Wherever, why does >  it matter?>  Come on, let's go!
+|>     The canal's gates are locked.
+|\02:  What is THAT?>>>>Lenna:  It couldn't be...>  The monster that was sealed in >  the Canal...
+|Faris:  I'm losing control!!>>>>Galuf:  We're being sucked in!
+|Faris:  Syldra, what is it!?>>>>\02:  Stand guard!!  >  Something's coming!!
+|Faris:  Syldra!>>>>\02:  It's still alive!!  It's >  trying to take Syldra with it!
+|Faris:  Syldra!
+|Faris:  Let go!>  Let go of me!!!>  Syldraaaa!!!
+|\02:  How's Faris...?>>>>Galuf:  I think we should just leave>  Faris alone for a while...
+|\02:  This ship...>  It's being cast away... isn't it?
+|Lenna:  Faris...>  I'm sure Syldra's alive...
+|\02:  Where are we?>Faris:  The Ship Graveyard...>>>Lenna:  A home of undead >  monsters, made by the remains >  of drifting ships that gathered...>>Galuf:  Well whatever, let's get out>  of this place!!
+|Faris:  Do you really want to go >  through here?>  We'll all get wet...>>\02:  What are you saying?>  Let's go!
+|\02:  Man, I'm soaked...>Lenna:  This place seems safe.>  Let's take a rest.
+|Lenna:  I have to go dry my >  clothes...>  Don't peek!
+|\02:  C'mon, let's dry our >  clothes!
+|Faris:  I'm just fine... really...>>>>Galuf:  How can you say that?>  You'll catch a cold!
+|Faris:  Stop that!>  Hey, I said stop!!
+|Lenna:  What's goin on?
+|\02:  Lenna, Fa... Faris is...>>>>Galuf:  A girl!!
+|Faris:  What's wrong with that!?>>>>Lenna:  But, why...?
+|Faris:  I was found by the pirates >  when I was little, and they raised>  me...>>\02:  And you pretended to>  be a man?>>>Faris:  A female pirate would just >  get laughed at...
+|Galuf:  Hmph.>  I knew you were too beautiful to>  be a man!
+|Faris:  Hey, just remember that >  my being female doesn't make >  me any less important!  I'm just >  as good as you guys!>\02:  Yeah...>>>>Faris:  Well, get over it.>  Time for bed!
+|Faris:  Aaaah, slept well...>  Alright, let's get going!!
+|Galuf:  I still think Faris seems like >  a man...>>>\02:  Who cares?  Faris is >  Faris!
+|Lenna:  Yeah!
+|Faris:  What're you doing?  Let's >  go!!
+|\02:  I've got a bad feeling >  about this...
+|Stella:  \02...>  Come here, honey...>>>\02:  Mom...
+|King Tycoon:  Come here...>>>>Lenna:  Father!
+|Faris:  Lenna!?....>      \0C....uhhn...
+|Girl:  Grandpa...>  Come over here...
+|Galuf:  Who are you...?>  I can't remember...
+|Let me take your souls... Join us!
+|Galuf:  Who the heck are you!?>>>>Hrmph...>  Why won't my spell work on >  you...?>>I am Siren.>  I have taken the souls of these >  three.  If you don't try to hinder >  me, I'll let you go.
+|Galuf:  Sorry, but I can't do that!>Siren:  Why do you protect these >  three?>>Galuf:  Because they're...    \0C>  They're my friends!
+|Galuf:  Don't be fooled by her!  >  Open your eyes!
+|\02 awakened!>Lenna awakened!>Faris awakened!
+|\02:  Galuf!>  You saved our lives!!>>>Galuf:  Don't sweat it...
+|\02:  Don't be >  embarrassed!>>>Galuf:  I'm not!!
+|>Obtained \ABWorld Map"!
+|Since the wind's weakened, we >  can't send out ships.
+|The sea is getting so still...>  Isn't it sad?...
+|This town's harbor is the best in >  the world!  But now our boats >  won't sail...
+|We can't catch fish anymore!
+|You came from the Ship >  Graveyard?  You aren't ghosts, >  are you!?
+|A desert's appeared to the west.  >  It's scary.
+|The Hiryuu were used in a war 5\53 >  years ago, and nearly died out...  >  The one that's in Tycoon is the >  only one left alive.
+|The Crystals have shattered...  I >  wonder what will happen next...?
+|So it's true, huh?  A meteor fell >  near Tycoon?
+|The Tower of Worus sank?  Well, >  if you had a submarine, you could>  probably get there again...
+|If we can't send boats out, we >  can't get to Worus.>  This is the end of sea travel!
+|I wonder what that tall tower >  standing in the desert that >  appeared to the north is?
+|Boats aren't going to Worus >  anymore!  It's all because of the >  wind weakening.
+|The wind and water have both >  died.>  Now there's definitely no way >  we can sail...
+|The country of Worus lies to the >  south of this town, across the >  sea.  They're using the power of >  the Water Crystal...
+|Don't you think I'm beautiful?
+|>                      Poof!
+|Didn't I look like a woman?>  What do you think of my >  disguise?>>And...     \0C>  ... if I take it a step further...
+|Merchant:  See, just like I said.
+|Lately I haven't been fighting with >  my wife.
+|My wife keeps saying weird >  things.  She rambles about some >  dragon...
+|It's amazing, but it looks like what >  my husband was saying was >  true!
+|Looks like I still need to listen to >  my husband.
+|It's true!!>  A big dragon was flying towards >  the North Mountain!
+|The purple flowers that bloom on >  the North Mountain are >  poisonous.
+|My husband says he saw a dragon>  flying towards the North >  Mountain.>>But since nobody believes him, he's>  hiding out up on the second floor >  of the Pub.
+|Those lizard\C5like hibernating >  things can't stand the cold.
+|Do you have a World Map?>  Then you can see the whole >  world just by pressing the Y >  button!
+|Knights can hold things in both >  hands!    \0C>  Hic!
+|I heard that there is some Hiryuu >  Plant on the North Mountain.>  But it's surrounded by poisonous >  plants...
+|There used to be a strange guy >  who mimicked people.  He >  wanted to go to the Worus >  Tower...>But now that it's sunk...
+|Hiryuu and Hiryuu Plant are both >  really rare.  I bet they'd make >  good business!
+|Lenna:  We've got to stop them!>  But how can we get to Worus?>>>Boats used to travel there, but >  since the wind has weakened...>>>Galuf:  And we don't have Syldra >  anymore either...
+|Galuf:  Faris...>  I'm sorry.
+|Lenna:  \02, don'y you >  know of any good way to get >  there?>>\02:  If there's no wind, >  we can't go by sea...
+|\02:  And if we can't go by >  sea... we must go by...
+|I really saw it...>  I saw a dragon go flying towards>  the North Mountain!!
+|Lenna:  What kind of dragon!?>It almost looked like it was >  wearing armor...
+|Lenna:  My father's Hiryuu is on >  the North Mountain?...
+|Faris:  What's wrong, Lenna?>>>>Lenna:  There is a plant growing >  on the North Mountain, called the>  \ABHiryuu Plant".>>Nothing other than it can heal a >  Hiryuu's wounds...>  Perhaps the Hiryuu is injured...?
+|Galuf:  And if we can't go by sea...>>>>\02:  ...    \0C>  ...    \0C>  ...>  We'll go by air!!>Lenna:  We could get to Worus if >  we had the Hiryuu.>Galuf:  Nice plan.  To the North >  Mountain!!
+|Lenna:  Father's helmet!
+|>           Lenna was poisoned!
+|\02:  Lenna!
+|Magisa:  Hehehe...>  We came chasing after the >  Hiryuu, but that's some tough >  game!>\02:  The Hiryuu?>Magisa:  A Hiryuu's horn can fetch >  a pretty good price, hehehe!
+|Magisa:  And look, it's the princess >  of Tycoon!  She'll make a nice gift>  to take back to my husband.  >  Heehee...!
+|Faris:  Stop!!
+|\02:  Faris!>Magisa:  She fell!  Heehee...
+|Magisa:  Huh!?
+|\02:  Lenna!
+|Magisa:  Crap, I guess I'll just have>  to take out all four of you!
+|Lenna:  Thanks, Faris!
+|Lenna:  Hiryuu!>Faris:  What an awful wound...>>>Lenna:  Hiryuu...>  Here you go, I'll fix you up.
+|Faris:  Lenna!  What do you think >  you're doing!?
+|Lenna:  I'm alright.>  Stay back!>  If I can treat it with the Hiryuu >  Plant...
+|Lenna:  Hurry...>  Give this to the Hiryuu...
+|Lenna:  Get better, Hir\C5...
+|Galuf:  That was a truly rash thing >  to do...
+|>    Lenna's status was restored!>>>Lenna:  Hiryuu...thank you!>Galuf:  It's alright!  Come on, let's >  go!!
+|\02:  I.. I'm...>  kind of afraid of heights...
+|\02:  Hey, what's so >  funny!?>Galuf:  Oh, just get on!
+|Who are you?>  Get out, get out!!
+|You can't enter the Tower without>  permission from the King of >  Worus!
+|This water is so pretty, thanks to >  the Crystal!>  Monsters won't come near it!
+|With the Crystal lost, the water >  has gradually tainted...
+|King Worus is great!>  He's using the power of the >  Water Crystal for the good of us >  all.
+|Our kind King's wounds have put >  his life in danger...
+|The Crystal is in the Worus Tower.
+|The Crystal's gone now...
+|Is it true that Tycoon's Crystal >  shattered?
+|As with Tycoon, our Crystal has >  shattered.>>>It's said there are two more >  Crystals in the world, but I don't >  know where they are...
+|To the north is Worus Tower.  >  That's where all the town's >  water comes from!
+|A soldier of Karnak was found >  near the meteor.  But Karnak is >  on a continent far to the west...>>Without wind to move a boat, how>  could he have come here?
+|This is Galura.  He lives around the >  Worus Tower.  He's a really nice >  baby, so please don't be mean to >  him!
+|How could someone be so cruel as >  to use Galura like that!?
+|The town is protected from >  monsters by the water.
+|The Crystal is gone... and so is the >  power of water...>  Now, the we must protect the >  town ourselves
+|Ribbit, ribbit!
+|The frogs have it easy!
+|Being protected by the power of >  water, the kingdom of Worus is >  invincible!
+|If you run into a monster called >  Garkimasera, you're done for...
+|There's a rumor that a treasure >  sleeps in the basement of this >  castle...
+|The legends say that the ice Esper >  Shiva was sealed somewhere in >  this castle long ago...
+|I heard that a meteor fell near the>  Worus Tower north of here.
+|Hey, will you please let me out of >  here?
+|Yaaay I'm so lucky!!
+|I'm the great thief, Lone Wolf!!>  Won't you let me out?
+|I'm the great thief, Lone Wolf!!>  I won't forget about you guys!>  See ya!
+|Jerk!!
+|\02:  Ugh!!
+|\02:  Whew... it was only >  rusted... we'd better stay away >  from that one!
+|\02:  He's passed out...>  Let's leave.
+|The king is very nice, but he still >  doesn't forgive bad things...
+|...(sigh)...>  How can I continue research on >  Crystals with only these books?
+|I'd be able to make some progress>  if only I could see the books at >  the Ancient Library far to the >  west...
+|According to this book...>\ABEsper Shiva... was sealed in water>  purified by the Crystal..."
+|The water purified by the Crystal >  flows from the tower to the >  north of this castle.
+|This is the Castle of Worus!
+|The King has headed to the >  meteor.
+|The people down in the dungeon >  are trash.  Don't listen to their >  pleas, whatever you do!
+|I am the ice Esper Shiva...>  Are you fit to be my masters?>  Let's find out!
+|>         Obtained Esper \ABShiva"!
+|King Worus:  Why, if it isn't >  Princess Lenna!>>>Lenna:  King Worus!>  It's been a long time.
+|Lenna:  Please!>  Please stop amplifying the power>  of the Water Crystal >  immediately!>King:  (chuckle)... You must be >  kidding... We can't do that!  >  Thanks to the Crystal, we can all >  live in wealth and abundance!
+|Lenna:  But if you continue, the >  Crystal will shatter!>>>King:  Hmm...    \0C>  I've heard about the Wind >  Crystal...
+|But... we can't be sure that same >  will happen to the Water >  Crystal...>>And the people would be against it.
+|\02:  We're in no situation >  to be taking chances!
+|\02:  What was that!?
+|Soldier:  Your highness!  A meteor >  has fallen near the Tower!>King:  What!?
+|King:  Quickly!>  Gather the soldiers!!  Head for >  the Tower!>Soldier:  Yes sir!
+|King:  I'm sorry, but this is very >  urgent business.  Princess Lenna, >  let us discuss this again at a later>  time.
+|King:  Let's go!!
+|Galura suddenly went wild and ran>  into the tower.  The King chased >  after him...>>There was also a strange >  warrior... I had never seen him >  before...
+|Galura's never attacked humans >  before...
+|King Worus:  Galura went >  upstairs...>  Please...  Protect the Crystal...
+|He's dead...
+|Warrior:  Galura is being >  controlled!  We can't let him >  break the Crystal!!
+|\02:  Stand guard!!
+|Lenna:  The Crystal!!
+|Lenna:  We were too late...>>>>Warrior:  Unnh...
+|Warrior:  Unnh...>  ...Sir Galuf!!!
+|Galuf:  You know who I am?>Warrior:  Sir Galuf...>  I wasn't able to save the Crystal...>   I'm sor...ry... 
+|Galuf:  Tell me!  Who am I!?>Warrior:  Protect the...>  Fire Crystal...Unnh...
+|Faris:  The shards of the Crystal...>\02:  Are they lending us >  their power?
+|>                  Red Mage
+|>                  Berserker
+|>                Mystic Knight
+|>                  Time Mage
+|>                  Summoner
+|\02:  What's happening!?>>>>Faris:  The tower's sinking?
+|Faris:  Syldra!
+|Faris:  Syldra!>  You're alive!!
+|Lenna:  Syldra...>  You used the last of your power >  to rescue us...
+|Faris:  Syldraaa!>  Don't die!!
+|Lenna:  Syldra...>  Thank you......
+|Faris:  Syl...dra....
+|Karnak Soldier:  As I was >  investigating the inside of the >  meteor that fell by Karnak, I fell >  unconscious...>Karnak Soldier:  ...I found myself in>  a meteor around some Tower...>>>Karnak Soldier:  Hey, you!  Where >  am I?  And where the heck's my >  castle!?
+|I can't believe the Water Crystal >  has shattered...
+|The King was attacked by Galura... >  He is resting in is room.
+|That soldier came out of a hole in >  the meteor up north.>>>He keeps muttering about... how >  he was warped or something.
+|We brought in a wounded soldier >  from Karnak.  He's sleeping in >  the soldiers' room.
+|King:  So you were correct... >  \C5cough\C5...>>>Lenna:  King Worus!>  Are you alright?>>>King:  Please hurry to Karnak.  >  There they are also using a >  machine to amplify the Crystal's >  power...
+|King:  It appears a meteor has also>  fallen near Karnak...>  There's no time to waste...>...\C5cough\C5, \C5cough\C5...
+|...\C5cough\C5, \C5cough\C5...
+|Princess Lenna...>  If you have the Hiryuu, why don't>  you return to Tycoon?  Surely, >  they must all be worried.
+|Please hear the King's request.
+|Lenna:  \02!>Galuf:  Was he warped?
+|Lenna:  Let's follow him!
+|Galuf:  This place... I recognize it...>  And that soldier in the Tower >  knew me, too...>>Galuf:  Who the heck am I...?
+|\02:  The energy is getting >  weaker....
+|You're alright!!
+|The Chancellor awaits you.
+|The party is still going on.  Listen, >  you can hear it!
+|Princess Lenna!!
+|We are so glad that you were >  safe!
+|Ah, Princess Lenna!
+|Hey everyone!!>Princess Lenna's come back!!
+|Chancellor:  Princess Lenna!>Lenna:  I'm sorry to have worried >  you.>>Chancellor:  Please return to the >  castle!  There aren't very many >  soldiers left from fights with the>  monsters.>Chancellor:  Without the Princess, it>  will never be the same again!>>>Lenna:  But I have to go...>Chancellor:  Then what will happen>  to this kingdom?>>Lenna:  It's not just Tycoon...>  Something's about to happen to >  the entire world!
+|Lenna:  ...    \0C  And...>  Father is still alive!
+|Chancellor:  I understand.  We will >  protect this kingdom with our >  lives!
+|Lenna:  I'll certainly return with >  Father.>  Until then, everyone hang in >  there!
+|Chancellor:  Anyways, why don't >  you stay at the castle for >  tonight?
+|Lenna:  Faris?
+|Faris:  Huh?  Oh it's you, Lenna...  >  What is it?
+|Lenna:  Sister...>Faris:  !?>>>Lenna:  Sister, aren't you?>Faris:  What are you saying!?>  I'm your ...?  Think before you >  speak, Lenna!>Lenna:  But...
+|Faris:  Me, a pirate leader, really a>  princess...?>  That's not even funny!
+|Lenna:  But...>  Your pendant...
+|\02...>  \02!>>>\02:  ...>...HUHN!
+|Lenna:  \C5giggle\C5...>Galuf:  What are you doing!?>Faris:  Hahaha, you're so weird!!
+|Faris:  Lenna, are you awake?
+|Lenna:  Yes.>Faris:  When I was little, the shock >  from falling into the sea made >  me forget... but...>Lenna:  Sister...>Faris:  Seeing this room now, I >  remember...
+|Sarisa:  Umm... let's see...>         Cure...>           Cure 2...>             Cure 3...
+|Jenica:  Good, that's all for today.>Sarisa:  Phew. I'm tired...>>>Jenica:  Your mother has asked >  for you to put Lenna to bed.>>>Jenica:  Please go do that while I'm>  grading your test!>>>Sarisa:  Yes ma'am!
+|Jenica:  And come right back!>Sarisa:  Aw...
+|Sarisa:  Lenna... I'm finally getting >  to ride the Hiryuu tomorrow with>  Father.>Lenna:  Goo goo...>Sarisa:  Father said that it's a >  wo...wonderful feeling to fly high>  in the skies.>>Sarisa:  He says that from up >  there, people on the ground look >  like they have had Float cast on >  them...
+|Sarisa:  Or wait... was it something>  else?  Maybe Toad?  Exit?  >  Hmm... maybe it was Mini...
+|She sure is taking a while.
+|Lenna:  Sister...>Faris:  What, Lenna?>>>Lenna:  Let's not tell the Chancellor>  about you for now.  If he found >  out, we'd be kept here for too >  long.>Faris:  You're right...
+|Faris:  And we have to use our >  power to search for Father.  >  There isn't time to waste.
+|Faris:  And we have to go help >  Galuf.  We need to hurry...
+|Chancellor:  Will you be staying >  here tonight?
+|Lenna:  Father is... gone...>  But there is still someone who >  needs our help.
+|Lenna:  I will return.  Until then, I >  need everyone's cooperation.
+|Lenna:  Sister...>  Do you remember Father?>Faris:  It's been... 15 years...?
+|Sarisa:  No!>  Nooooooo\C5\C5!!>  I'm scared!
+|King Tycoon:  But I thought you >  were looking forward to going >  flying.  Come on!
+|King:  I'm going to search for the >  best doctor in the world again >  today.  For Mother.  Behave >  yourself while I'm away.
+|Sarisa:  Waaah!>I'm going, too!!
+|>          King Tycoon's Journal>>>\AB... day of ... month>  Today I was supposed to take >  Sarisa for a ride on the Hiryuu...>>\ABShe made such a nuisance of >  herself..."
+|Lenna:  You mean there isn't any >  way to help Mother?
+|King Tycoon:  The doctors have >  done all they can.  They say the >  disease can only be cured with >  the tongue of a Hiryuu...
+|King:  Lenna!>What in the world are you doing >  with that knife!?>...    \0C you would never!
+|King:  Wait!!
+|Jenica:  I'll go.
+|Princess Lenna!>  If you kill that Hiryuu, they'll >  become extinct.  And...>>Your mother dearly loved that >  dragon.  Even then, you would >  cut out it's tongue...?
+|Your father has come here many >  times agonizing over this.  >  But...it's for the best.
+|King:  FOOL!!
+|Lenna:  Ooh... sniffle...>  Mother....
+|Please be careful!
+|Go ahead and take anything in this >  castle that would be of use to >  you.
+|Come back soon!
+|I'm on the lookout.
+|I don't know exactly what's >  happening... but I wish you luck.
+|Why don't you have a look around >  the castle?
+|A little while ago, the Chancellor >  said he had something to give to >  Princess Lenna, so he went >  outside.
+|There's a legend saying 1\53\53\53 years>  ago, the sky over Tycoon split >  open...
+|So the King's Hiryuu was alive!>That's good.
+|The Chancellor hasn't been calm >  ever since Princess Lenna left.
+|I wish Princess Lenna could stay >  here.
+|Jenica:  I've worked in this castle >  for many years.  I used to take >  care for Princess Lenna and >  Princess Sarisa...>\02:  Sarisa?>>>>Jenica:  Yes, Lenna's older sister.>>>>Jenica:  When Sarisa was still a >  young child, a ship she and the >  King were on was met by a >  storm...
+|Jenica:  I had had a slight feeling... >  that maybe you were Sarisa.
+|Jenica:  I remember that time....
+|The Chancellor must be very >  relieved.
+|Chancellor:  Princess Lenna, this >  cane has been passed down >  through many generations here >  in Tycoon.>Chancellor:  It will surely be of help>  to you.>Lenna:  Thanks!
+|We'll protect this castle while the >  Princess is away.  Don't worry!
+|I guess it's useless to try to keep >  you from leaving. (sob)...>>>Lenna:  Please don't be so sad...>I have to go for the sake of this >  whole world!
+|Princess, have you decided to >  come back yet?
+|Please call if you need anything.
+|Sorry, can't enter the castle.>  The monsters coming from the >  meteor are after the castle's >  Crystal.
+|The monsters that came out of >  the meteor haven't attacked the >  town.
+|We can make weapons and armor >  easily thanks to the Crystal!  So >  this town's weapons and armor >  are amazingly inexpensive!!
+|People from the Ancient Library >  started telling us to not use the >  Crystal's power.>>They were so persistent, that the >  Queen had a wall built to stop >  anyone from going to or coming >  from the Ancient Library.
+|The Ancient Library lies south of >  here.  That's where Dr. Cid is >  from!
+|A man named Cid is the one who >  created the machines to amplify >  the Crystals' power!>  Isn't he wonderful?
+|Have you heard of a monster >  called \ABCrew Dust"?>>>Well, when there's only one of >  them left, they'll hit you with a >  \ABFlash".  They're tough!
+|A frightening monster called Dohlm>  Chimera lives in the desert to the>  west...
+|It's them!>\02:  ???>>>You must be here with the >  monsters!  I saw you come out of>  the meteor!!
+|Galuf:  Now what do we do...?>\02:  !?
+|I used the last of my special >  gunpowder... to find out the >  other side of the wall was just >  another cell...?
+|Hey you!>  You just laughed, didn't you?
+|Oh never mind...>I'm Cid.>>>Lenna:  Cid?  The one who built the>  machines to amplify the Crystal's>  power...
+|Cid:  ...>>>>Lenna:  I'm sorry.>Cid:  No, it's alright.  All of this is >  my fault...
+|Cid:  According to a book I found at>  the Ancient Library, long ago the >  Crystals had power much greater>  than they do now...>Cid:  I studied the Crystals in >  Tycoon, Worus, and Karnak and >  built machines to amplify their >  power...>Cid:  But, this was a terrible >  mistake...>>>Cid:  When a Crystal's power is >  amplified, the Crystal will >  shatter... it's all my fault...
+|\02:  But why are you in >  jail?>>>Cid:  It was too late for me to save>  the Crystals of Tycoon and >  Worus...>>Cid:  ... so I knew I had to prevent >  at least Karnak's Crystal from >  shattering...>>But they caught me when I tried to>  stop the machine...
+|\02:  So you have the same>  goal we do...>You're trying to protect the >  Crystals too?
+|\02:  These asked us to!
+|What!?>  The Crystal pieces!!  Who in the >  world are you guys...!?
+|Minister:  Dr. Cid!!>  Dr. Cid!!
+|Cid:  What's the matter?>Minister:  What you said was >  right!!  A crack has formed in the>  Crystal!>Cid:  What!?>>>>Minister:  We stopped the machine>  at once, but the Crystal's power >  continued to grow...>>Cid:  The Steamship...>Minister:  Huh?>Cid:  The Steamship is probably >  sucking up the Crystal's power...>Minister:  Dr. Cid, please lend us >  your help!
+|Cid:  These people are going to >  help us!>>>Minister:  Huh!?  But these people >  came out of the meteor\9C they're >  with the werewolves!
+|Cid:  Well then, I won't help either!
+|Minister:  I..., fine then.
+|Cid:  Will you help us?
+|Cid:  I'll go to the Steamship first.>  It's dangerous there.>  Come once you're totally >  prepared.>  I'll be waiting!
+|No one may enter the castle!>  Go home!!
+|The Crystal is located in the >  basement of this castle.
+|A crack has formed in the Crystal...>  It's spewing out flames!
+|Flames are in the way!>  We can't reach the Crystal!
+|We turned off the machine before>  the Crystal cracked, but...
+|The Crystal cracks...>  Werewolves attacks...>  What the hell is going on here!?
+|The Queen is missing!
+|Is this the end of the Karnak that >  prospered from the power of >  the flame...?
+|Have we relied on the Crystal's >  power too much?
+|It's rumored that the Crystals of >  Tycoon and Worus have >  shattered too...
+|The Steamship can run even when >  the wind is not blowing!
+|The engine is powered by the >  Crystal of Fire!
+|It seems like the werewolf that >  came out of the meteor is after >  this castle's Crystal.
+|Minister:  Dr. Cid is waiting on the >  Steamship... But where on earth >  is the Queen?
+|It sure is a miracle that the >  werewolf never attacked the >  town.
+|The werewolf's target must be >  this castle's Crystal!
+|The black shadow... ugh...
+|Commander!  Please get up!
+|We'll be alright.>  The monsters won't take even a >  step inside this castle!
+|Soldier:  It's a werewolf!!
+|Soldier:  We can't let him get in the>  castle!!
+|Dr. Cid's explosives will chase him >  off for now, but it's a matter of >  time until he comes back...
+|Soldier:  No one's allowed in the >  Steamship!
+|There are elevators inside the >  Steamship.  They're controlled by>  the red levers.
+|There are monsters inside the >  Steamship...
+|Please stop the engine!
+|If you don't hurry, the Crystal will >  shatter...
+|Cid:  I've been waiting for you!
+|Cid:  As I thought, this ship is >  sucking away at the power of >  the Crystal of Fire.>\02:  The engine is?>Cid:  Yes.  If the engine isn't >  stopped immediately, the Crystal >  will shatter.  Will you go!?
+|Cid:  You can enter from here... but>  be careful!  Monsters have >  gotten inside.  Please stop the >  engine!!
+|Cid:  Stop the engine.  Please!
+|Lenna:  Queen Karnak!!>>>>\02:  What!?
+|Queen:  You people are standing in >  the way of my revival!>I must get rid of you!!
+|\02:  Queen Karnak!>>>>Queen:  I was being controlled by >  something...>  An evil spirit...>  A being who seeks darkness....>\02:  Queen!>>>>Queen:  It isn't just the machines' >  fault that the Crystals are >  shattering...>>Queen:  The evil spirit is using >  them, trying to bring about his >  resurrection...>>Queen:  Please.  Please protect the >  Crystal of Fire.  You should be >  able to get to the Crystal Room >  through that pipe...
+|I'm alright.>  So...>  Please...>  Protect the Crystal...!
+|Lenna:  The Crystal!
+|Wolf:  Yes!  It's safe!!
+|Wolf:  Galuf!?
+|\02:  A werewolf!!>>>>Stop!  I'm not your enemy!>>>>\02:  Huh!?
+|Wolf:  Galuf!>  What's wrong with you!?>>>Galuf:  You know me!?>  Uhhn....>  I don't remember...>  Who AM I...?
+|Wolf:  What are you doing?>  If you do such a thing, the Crystal>  will shatter!!
+|That's three...>  Just one more will dissolve the >  seal...>  Fwa, ha, ha...
+|\02:  It's no use, the lever's>  broken!  It won't go back!
+|Galuf!  While I'm holding this, get >  out of here!  There's only one >  left...  You've got to protect the >  Earth Crystal!!
+|C'mon, go!>  When the Crystal explodes, this >  room'll be a hellhouse!>>Escape from this castle quickly!  >  And protect the Earth Crystal!!
+|\02:  Werewolf!>Lenna:  Let's save him!!
+|Galuf...>  Go...!
+|Faris:  The flames are >  disappearing...>>>\02:  Is the power of the >  Crystal dissipating...?
+|Lenna:  The Crystal...>  ... has shattered...>>>Galuf:  What about the Werewolf?>>>>\02:  He was probably...    >  \0C>  ...swallowed in the flames...
+|Lenna:  We have to hurry!
+|Lenna:  The Fire Crystal's power is >  what supported this castle!>>>\02:  The Crystal >  shattered... the castle will >  explode!?
+|Lenna:  Yes!!>  There isn't much time!
+|>      Castle Karnak explodes in...>                 1\53 minutes!
+|\02:  The pieces of the >  Crystal...>Lenna:  They're lending us their >  power?
+|>                   Mediator
+|>                 Geomancer
+|>                      Ninja
+|Cid:  If only I hadn't created such >  awful machines...
+|Cid:  Everything is my fault!!  If >  only I weren't here...
+|\02:  Cid!>Lenna:  Cid!>Faris:  ...>Galuf:  It's tough for him...
+|Queen:  Darkness...>  Please... don't come... stay >  awaaaay...
+|The Queen was rescued from the >  Steamship, but she's injured...
+|The Queen keeps having >  nightmares.
+|How could anything have escaped >  from the castle...
+|The Queen is on the second floor, >  but, she's wounded...>  And alas... the castle is gone...
+|This is the town of Karnak.  We >  benefit from the power of the >  Crystal of Fire.
+|If you're looking for Dr. Cid, he >  went off to the Steamship.
+|The power of fire is >  disappearing...
+|Cid's grandson, named Mid, lives at>  the Ancient Library.>>>He's another prodigy, and he's an >  inventor also.
+|The Crystal's gone... soon the >  Steamship won't move at all.
+|Dr. Cid's upstairs.>  He seems pretty down...
+|Dr. Cid seemed excited when he >  left.>  What happened?
+|\02:  Cid!>Cid:  Go away!>  If only I'd not built those >  machines...
+|Lenna:  Cid, it isn't your fau...>Cid:  Please, just leave me alone!
+|Cid:  ...
+|Have you heard?>  There's a rumor going around >  that Dr. Cid is locked up in jail...
+|I am in LOVE with fire.
+|Is the werewolf thing that came >  out of the meteor really a bad >  guy?
+|I'm an adventurer from Jacole.>  But the road from the Ancient >  Library to the south has been >  blocked, so I can't go home...
+|The weapons and armor sold in >  Jacole are REALLY strong!!
+|I saw a weird guy being captured >  by the soldiers.
+|Mid's missing!!
+|Mid said he was looking for some >  book...>  Then he disappeared!
+|Mid?>  Mid is Dr. Cid's grandson!
+|The basement here is full of >  monsters.
+|This is the Ancient Library...>  The place where books from the >  far past lie.
+|There are some books downstairs >  that have been taken over by >  monsters.
+|This book is the oldest book in the >  library, but half of it is missing >  so it can't be read.
+|I have a feeling that there's >  something very important in this >  book...
+|There's a town called Jacole far to>  the south of here.    Some very >  rare items have been discovered >  in the ruins there...
+|This bookshelf...
+|It seems that long ago, the >  Crystals had much stronger >  power than they do now...>>Dr. Cid based his inventions upon >  his findings here.
+|A monster that appeared 3\53 years>  ago near the Wind Shrine is >  sealed in the basement here.>  Its name is \AAByblos'...
+|I wish I could burn the books >  possessed by monsters... but I >  don't know which they are!>  It sure is frustrating...
+|A long time ago, Ifrit would burn >  books that were possessed by >  monsters, but...
+|   A book written by a Blue Mage>\ABFinally I've learned them... Aero... >  Level 5 Doom...
+|   A journal written by a traveler>\ABI guess I'll give this mysterious>staff to the people of Tycoon..."
+|It's great that Mid is alright!
+|Mid left the Ancient Library.  He >  said he was going to see Dr. Cid...
+|Mid hastily rushed out of here!
+|Mid was mumbling something >  about Dr. Cid...
+|\02:  ???
+|Bookshelf:  I'm not letting you >  through!
+|Bookshelf:  I... Ifrit...!>  Help!!
+|I am Ifrit...>>>>Ifrit:  I have been sealed in this >  book for many years...
+|Only those whose bodies can >  withstand my flames may >  summon me!!
+|>          Obtained Esper \ABIfrit"!
+|\02:  Who's that?>Lenna:  Mid?>>>Galuf:  Be careful!  I have a bad >  feeling about this!
+|Scholar:  Mid!!
+|Mid:  Hey!>  Don't bother me while I'm >  reading!>>\02:  You've been reading >  that book this whole time!?>>>Mid:  What?>  Were you the ones making all >  that noise back there?
+|\02:  !?>Lenna:  ...!?>Galuf:  Uh...>Faris:  Weird guy...
+|Mid:  Well, I'm gonna go back now! >  You all coming with me?  I know >  a secret exit!
+|Scholar:  Mid!  You're alright!>Scholar:  Thank you for rescuing >  Mid!>Scholar:  Phew!
+|Mid:  Huh?>  You guys came down there to >  rescue me?
+|Mid:  Thank you!  I should >  apologize for not thanking you >  earlier!>  Oh, by the way, everyone!
+|Mid:  I found a great book!  Look... >  We might be able to get the >  Steamship running if we do this.
+|Mid:  I have to let Grandpa Cid >  know about this right away!>\02:  Cid!?>>Mid:  You know him?  He's my >  grandpa!
+|Mid:  Grandpa is amazing!  No >  matter how much trouble he has,>  he never gives up!
+|Faris:  But right now, Cid...>>>>Mid:  Huh?
+|Faris:  He's about to give up...>>>>Mid:  What!?>  That can't be!!
+|Lenna:  Mid!!
+|\02:  Cid!>>>>Cid:  ....>>>>Lenna:  Did Mid come here!?>Faris:  Cid!>  Pull yourself together!
+|Cid:  I'm hopeless now...>  Don't bother yourself with me...
+|Mid:  Grandpa!
+|Cid:  Mid!
+|Cid:  Ow!>  Hey, hey, hey, Mid, stop that!
+|Mid:  Grandpa, you idiot!  You idiot!!>  Nothing can make you give up!
+|Cid:  Mid...>>>>Mid:  You're the one who always >  said not to be afraid of failures...>>>Mid:  You're the one who always >  said that if you do fail, then you >  should just try it over again...>Cid:  Mid...
+|Cid:  Mid, ...>  ...     \0C>  ...     \0C should just try it over...  >   \0C again...>  ...>>>>Cid:  Mid!  You're right!
+|Mid:  Grandpa!!
+|Cid:  The Earth Crystal is still alive.>>>>\02:  But where is it?>>>>Cid:  I have no idea.  But we must >  find it and protect it!  And in >  order to do that...>>Mid:  The Steamship!
+|Cid:  We must get the Steamship to>  move.  But we don't have the >  Fire Crystal's power anymore...>Mid:  Grandpa, take a look at this!
+|Cid:  This book...!?>  hmm...    µ\03 ...    \0C>  Ah\C5ha!>>Cid:  Now, THAT's an idea!  Great >  work, Mid!
+|Cid:  Let's get to it right away!>Mid:  Yeah!!
+|Mid:  Hey, you guys stay out of the>  way for a while, ok?
+|Cid:  Sorry, sorry, Mid's just >  excited.  Why don't you take a >  rest until we're done with the >  Steamship?
+|\02:  Galuf, what's wrong?
+|Faris:  I knew something wasn't >  right about you... what is it?>>>Lenna:  Are you alright, Galuf?
+|Galuf:  My head...
+|Galuf:  I think I might remember >  something...
+|Cara:  Grandpa!
+|Galuf:  Cara!
+|Galuf:  Ouch!>  Hey hey hey, Cara, stop that!
+|Cara:  Grandpa, you idiot!
+|Galuf:  Ca...    \0C ra...
+|\02:  Galuf!  What >  happened!?>Lenna:  Were you able to >  remember anything!?
+|Galuf:  ...I'm not a person of this >  world!
+|Galuf:  I came here in a meteor >  from another world, to prevent >  the return of an evil...>>Galuf:  ... an evil force that we >  sealed off in this world 3\53 years >  ago...>>\02:  An evil being that will>  return?>>>Galuf:  Yes.>  The Dark Mage Exdeath!
+|It's for sure!>This is where the powers of the 4 >  Crystals gather!>>Let's do it, then!>  Let's use the power of the >  Crystals and seal Exdeath here!
+|I had come to this world before in >  a meteor...>  ... 3\53 years ago...
+|Lenna:  If the 4 Crystals shatter, >  then Exdeath's seal will be >  released...>>Galuf:  That's right...>..Uhhn....
+|\02:  Galuf!
+|\02:  I... can't remember >  anything else clearly...uuhn...>  We can't let Exdeath... re... turn...
+|\02:  Galuf!>>>>Galuf:  I'm... fine...
+|Mid:  Zzz... zzz...
+|Cid:  Aah... slept well!
+|Mid:  Aah... slept well!>  Hehe, I'm copying Grandpa!
+|Mid:  We're finished!>Cid:  A ship that moves without >  wind!
+|\02:  We'll search for the >  Earth Crystal using this boat!>>>Cid:  Yes!  Please do!!>  We'll be at the Ancient Library.>Mid:  We just might find some clue>  there somewhere!
+|Cid:  If anything happens, come to >  the Ancient Library!>Mid:  Be careful!!
+|\02:  Let's go!!
+|Cid:  I'm researching the >  whereabouts of the Earth Crystal>  but...>>Cid:  Nothing!  I haven't found >  anything at all!
+|Mid:  Nothing!  I haven't found >  anything at all!
+|Cid:  Hey!  Stop copying me!
+|Mid:  Hehe...
+|Mid:  There's something in this >  book about an island that's >  shaped like a crescent moon...>>Mid:  ... But something about it >  doesn't feel right about it...
+|Dr. Cid's come back!
+|Cid and Mid.>  There's no such thing as a >  problem they can't solve!
+|I am Dr. Cid's assistant.
+|I've been asked by Mid to find >  books that have information >  about some crescent\C5shaped >  island...
+|\02:  It's empty!
+|>         There's a card inside...>>>\ABThe great thief Lone Wolf was >  here!!"
+|>Obtained \ABThunder Whip"!
+|There's a button in the chest.>Push it?
+|There's a button in the chest.>Push it?
+|Did you come to defeat me?>  ... well I don't have time to keep >  you company.  I'll give you just >  one minute.>Is that okay?
+|Hmph...>  I won't spare you any mercy >  after one minute.  Do you still >  want to try?
+|Hmph...>  Don't come begging for mercy >  later...
+|Time's up.>  Come back some other time!
+|>         Obtained Esper \ABOdin"!
+|>Obtained 1\53 Gil!
+|>Obtained 2\53 Gil!
+|>Obtained 4\53 Gil!
+|>Obtained 8\53 Gil!
+|>Obtained 16\53 Gil!
+|>Obtained 32\53 Gil!
+|>Obtained 64\53 Gil!
+|>Obtained 128\53 Gil!
+|>Obtained 256\53 Gil!
+|>Obtained 512\53 Gil!
+|>Obtained 1\5324\53 Gil!
+|>Obtained 2\5348\53 Gil!
+|>Obtained 4\5396\53 Gil!
+|We live peacefully herding sheep.
+|Have you seen the big waterfall to>  the east?>  Isn't it awesome?>  It's called the Istory Falls!
+|The earthquake blocked the road >  to the waterfall.
+|I was going around and around the>  flower bed and I found >  something nice!
+|It's so warm, it's surprising that >  some frogs are still>asleep!
+|A monster that looks like an odd >  old man wanders in the forest to>  the east.>  He hits you with thunder!
+|You shouldn't talk to that sheep >  over in the left corner!  She kicks>  people often.
+|\02:  What attitude!
+|Wow!  You scared me!>  I was playing \ABMonster Trainer"!!
+|Baa, baa..
+|Ribbit, ribbit!
+|The frog left something behind!>>>>>Obtained \ABToad"!
+|Are you the ones who are on a >  journey to protect the Crystal?
+|Then please, take use of this song!
+|>          Learned \ABLove Song"!
+|The \ABLove Song" is a song about >  tender feelings...>  It calms monsters' hearts.
+|I must have been thinking of >  someone else...
+|I live quietly in this village making >  songs...>  I will until the pain of losing... >  her... heals.
+|There's probably something hidden>  behind the waterfall...>>>That's what my great, great >  grandmother said.
+|He.. here it comes...!>Another earthquake!!
+|\02:  What!?  The ship!!
+|\02:  The ship's sinking!!
+|You look like you're tired from >  traveling.  I'll teach you a song.
+|>           Learned \ABLife Song"!>>>This song gradually increases your>  vitality during battle.
+|Please play some tunes.  It might >  remind me of a song to teach >  you...
+|You're still going to get better.
+|That's a nice tune.>  Here, I'll teach you another song!
+|>         Learned \ABPower Song"!>>>This song gradually increases your>  strength during battle.
+|          Learned \ABHero Song"!>>>>This song gradually increases your>  levels during battle.
+|You're now master of piano.
+|Galuf:  What is that?>>>>Lenna:  A chocobo?>>>>Faris:  But it's a bit different...>>>>\02:  I'll catch it!!
+|Wark!!
+|\02:  Hey this one's a black>  chocobo!>>>Lenna:  So they weren't extinct!>>>>\02:  Well, let's see if you >  can fly!>  Go!!
+|Wark\C5!>>>>Galuf:  ...>Faris:  Huh?>  Look...!
+|Wa... ...>  \C5hack\C5, \C5hack!\C5>  Wark!
+|Lenna:  Pieces of Crystal...?>>>>Faris:  These must be the ones >  that were sent flying in the >  explosion at Karnak...
+|\02:  So that's why he >  couldn't fly!
+|>                      Bard>                     Hunter
+|\02:  Eew!  I don't know if I>  want to touch these...>>>Galuf:  Let's hope it can fly now...
+|\02:  It's no use...
+|Galuf:  Oh, calm down...
+|Lenna:  Keep trying, \02!!
+|Galuf:  Giving up?
+|\02:  Not yet...!
+|Cid and Mid have gone to the >  Ancient Library.
+|They got the Steamship working >  again!?>  I told you Dr. Cid's amazing!
+|I heard that there was a guest at >  the Inn that left without paying, >  calling himself a king!!
+|I saw the King of Tycoon!>  He was mumbling something >  about the Quicksand Desert.
+|Why would the King of Tycoon >  just show up in this town... I >  don't believe it.>>You know what, he was asking a >  bunch of stuff about you four...
+|Cid:  Hey, you're back!>>>>\02:  Cid...>The Steamship...
+|Cid:  I see...>Mid:  Not a problem!>  We can just build another >  Steamship!>Cid:  But listen!  We have found >  King Tycoon!
+|Lenna:  What!?>>>>Cid:  It seems that he was seen in >  the town of Karnak.  Then it >  looks like he went into the >  Quicksand Desert...>Faris:  The Quicksand Desert?>>>>Mid:  It's the desert that lies to the>  west of here.>  The sand there flows like rivers...>>Cid:  No one can enter it...>  Beyond the desert, they say >  there are the ruins of a city...>>\02:  How did King >  Tycoon...?>>>Cid:  I don't know.
+|Mid:  The people here who said >  they saw him said that his body >  was floating in the air...>\02:  Floating...!?
+|Lenna:  Father...>>>>Faris:  Let's go to the Quicksand >  Desert!
+|Galuf:  But we won't be able to get>  through it...>>>Faris:  We'll find a way!
+|\02:  Let's give it a try!
+|Cid:  The Quicksand Desert...>  I wonder how you might be able >  to get through...
+|Mid:  On the other side of the >  desert, there is a ruined city...>>>Mid:  It's what remains of a city >  from a very ancient civilization.
+|The Quicksand Desert...>  The sand there is constantly >  moving, and no one can pass >  through...
+|That black bird...>  It's a black chocobo, isn't it!?  So >  there are some still alive!
+|It's true!>  The King of Tycoon went into the>  Quicksand Desert.
+|I'm beginning to wonder if it really>  was King Tycoon...
+|The Quicksand Desert...>  According to an old book, >  something important was sealed >  there...
+|Galuf:  ...(sigh)...    \0C>This doesn't look good...
+|Cid:  Wait!>>>>Mid:  It's too soon to give up!
+|Cid:  You could make a bridge!>>>>Mid:  It might be a little dangerous,>  but it's worth the try!!
+|Cid:  We'll disturb the SandWorm >  that lives in this desert...>>>Mid:  You guys defeat it.>>>>Cid:  Then you can walk across the >  body of the worm!!
+|Galuf:  How violent!>>>>Cid:  Look who's talking!>Hahaha!!
+|Cid:  Well, take your time...>  Get everything ready!
+|Mid:  Are you ready?
+|Mid:  I read that it would be >  unwise to use magic against the >  SandWorm!>Be careful...>Cid:  Here goes!!
+|Mid:  You did it!>Cid:  Now you can get through!
+|\02:  Cid and Mid...>  While we're gone, can you look >  after the black chocobo that we >  left in the forest?
+|Cid:  Be careful!!
+|Mid:  Be careful!!
+|\02:  What is this?>Lenna:  The ruined city they were >  talking about?
+|\02:  What is this?>Lenna:  The ruined city they were >  talking about?
+|Lenna:  Was that...>Faris:  King Tycoon?
+|Lenna:  Father!>>>>Faris:  ...>F...    \0CFather...
+|Lenna:  Father!>>>>Faris:  ...>F...    \0CFather...
+|Lenna:  Faris!>Faris:  ...>>>Lenna:  So you WERE my sister!>Faris:  I'm sorry...>  It was too hard for me to say...
+|Lenna:  Sister!>Faris:  Lenna!
+|\02:  What is this?>Lenna:  What a strange place...>>>Faris:  By the way... where's >  Galuf?>\02:  Hey, now that you >  mention it...>Lenna:  Have we been split while >  we were falling...?
+|\02:  Well, we know that >  old man...  I'm sure we'll meet up >  with him somewhere.
+|Galuf:  Hey!>  What's the big idea?>>>\02:  S... sorry!
+|\02:  What's this!?
+|\02:  Watch out!!
+|>                 Meanwhile...
+|Cid:  He should be fine if we >  returned him to this forest...>Mid:  \02... we've fulfilled >  our promise...
+|\02:  Phew... that was >  CLOSE.>>>Galuf:  It was probably some >  teleportation device.>>>Faris:  It probably broke from lying>  unused for so long.
+|\02:  It's looks dangerous >  past here.
+|There is a lever.>Push it?
+|There is a lever.>Pull it?
+|\02:  Unnnnnggh!>    \0CIt's no use....>>>\02:  Huh?    \0C>I see some writing on the wall.>\ABLook at the flowers in the center >  room."
+|There is a note.>\ABLook at the stationery in the >  room to the right..."
+|\ABMonkeys always look!"
+|\02:  ... ... ...>Lenna:  Calm down, \02...>Faris:  There's a second sheet...>>\ABCheck the pot."
+|\ABGo 8 down, 4 right, and pull at >  what you find there!"
+|\ABGo 6 down, 4 right, and pull at >  what you find there!"
+|\02:  Where are we...?    >  \0C...it's the Steamship!>  I had sunk to the bottom of the >  sea...>  ...then, what the heck is that ship>  over there?
+|\02:  Propellers on a >  ship...?>  How strange.
+|\02:  Cid!!  Mid!!>>>>Cid:  Ouch...>Mid:  Where are we...>!!  \02!>Lenna, Faris, Galuf!!
+|\02:  What are you guys >  doing here?>>>Mid:  Well... we took the black >  chocobo back to Crescent Island.  >  But then, a hole suddenly opened >  up and we fell in...>\02:  So we're >  underground...>  Under Crescent Island...?
+|\02:  So that would explain>  the Steamship being here.>Mid:  This... is probably a facility >  built by the ancients.>\02:  What about this ship >  with propellers?>Mid:  I don't know... Grandpa might>  know more about it...>  ... Grandpa!?  Where is he?
+|Cid:  This is amazing!!
+|\02:  Cid!>Cid:  We'll talk later!
+|Cid:  If I do this here...
+|Cid:  It works!!>\02:  What is it!?
+|Cid:  We're off!
+|\02:  What is it?>>>>Cid:  It must be an airship!  I read >  about them in an old book once.  I>  can't believe they really exist!
+|\02:  What's going on!?>>>>Cid:  Something's pulling down on >  the airship.
+|\02:  There's a monster >  down there!!
+|Cid:  Yes!>\02:  We did it!
+|Cid:  It wasn't damaged badly.  We >  were able to fix it using some >  parts from the Steamship.>\02:  Cid...
+|Cid:  ...I'm tired of hearing thanks!>>>>Mid:  We'll try to find out about >  the location of the>Earth Crystal!>>Cid:  The sky is yours!>  Go for it!!
+|Faris:  The evil Dark Mage >  Exdeath...
+|Lenna:  To prevent his revival...
+|Galuf:  We must protect the last >  Crystal... the Crystal of Earth!
+|\02:  Let's go!!
+|Cid:  We're almost done!
+|Mid:  Work, work, work!
+|Mid:  Wow!>  This is awesome!
+|Galuf:  ...>Lenna:  Galuf?
+|Galuf:  I'm alright...>  My memory's gradually coming >  back...>>\02:  HAve you >  remembered anything else?>>>Galuf:  It's about Cara.  She's my >  granddaughter.  She's cute little >  girl...
+|Faris:  A family...>  That must be nice to have...
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Lenna:  You have me, don't you?>Faris:  ...>>>Lenna:  Faris!!
+|Cid:  We're done!>Mid:  It can fly now!
+|Cid:  We'll stay here!>>>>Mid:  There's lots of cool stuff >  here.  Tons of old books!>>>Cid:  And we still don't know the >  location of the Earth Crystal!
+|Cid:  This is a great discovery!
+|Mid:  We've found a bunch of >  different books!
+|\02:  What the...!?>Galuf:  The town...!!
+|\02:  Cid, Mid...>>>>Cid:  (pant)... we know!>Mid:  We saw it through a >  telescope!
+|Mid:  The Earth Crystal is inside the>  flying ruins!
+|Mid:  The city was kept afloat >  using the Crystal...  They knew >  the Crystal was about to shatter,>  so they landed the city...
+|Cid:  We must hurry!>  Somebody has started up the >  machine!
+|Lenna:  Father...?>>>>Faris:  It couldn't be!
+|\02:  How can we get that >  high up in the sky?
+|Cid:  With this!>  If we had some of this...>>>Mid:  It's called Adamantium...>  If we could use it to strengthen >  the airship, it'd be able to fly >  higher!
+|Galuf:  I know where we can get >  some!!!
+|Galuf:  Remember that meteor >  that I came here in?  I think I >  remember seeing some inside of >  the meteor!>\02:  Really!?>>>>Galuf:  You doubt me!?>\02:  But your memory >  hasn't recovered completely yet, >  has it?>Galuf:  Well, I'm somehow sure >  about the Adamantium!
+|Faris:  It's worth the try.
+|Cid:  We'll get everything ready >  here!>Mid:  Come back with Adamantium >  as soon as you can!!
+|Galuf:  I'm sure it was somewhere >  around here...
+|Galuf:  It's in here!
+|\02:  Something's wrong!>  Look out!!
+|Galuf:  This is it!
+|Galuf:  Remarkable memory, eh?>\02:  That's not something >  a person with amnesia should be >  saying...>Galuf:  Hahaha!
+|>Obtained \ABAdamantium"!
+|Cid:  You got the Adamantium!>Mid:  We'll start right away!>\02, you guys should go >  rest in the bedroom...
+|\02:  ...>  I just had a dream that the >  airship was already finished...
+|Cid:  We're done!!
+|\02:  Wow!>  You guys're fast!!
+|Mid:  Lift off, then press the A >  button and choose to go \AAup'!
+|Lenna:  So we can get to the flying>  city with this?
+|Cid:  Yes, however...>  It's not that simple...  Look here...
+|Cid:  The flying city cannot be >  entered unless all of the cannons>  have been destroyed.>>Mid:  According to the book, that >  the cannons are very powerful...
+|Lenna:  But we must go!>Faris:  Of course!>Galuf:  Cannons, no problem!>>\02:  Thank you, Cid, Mid.>  We've got to hurry to the flying >  ruins before the Crystal shatters!
+|\02:  That was the last >  one, right?>Lenna:  Wait, what's that!?
+|Galuf:  It's huge...!>Faris:  This looks like trouble...
+|\02:  Is that hole the >  entrance...?>Galuf:  It looks like it...>Fairs:  Let's go!!
+|Lenna:  Father!>>>>King Tycoon:  Grrr... That thing's in >  my way!>>>Faris:  Father!
+|King:  Shut up!!
+|King:  That monster is the guard >  of these ruins.>  It changes its weakpoint...>  Quickly, defeat it!!
+|King:  Well done!>...     \0C...     \0C...
+|Lenna:  Father!>Faris:  Father!
+|\02:  The Crystal... is it up >  ahead?
+|Galuf:  It's no use!>  Something's controlling him!
+|Lenna:  \02, stop!>Faris:  Don't!>>>\02:  Move!
+|King:  I'll let all four of you rest in >  peace!
+|Grandpa!
+|Grandpa, you're okay!
+|Galuf:  ...You're... Cara!?
+|       Galuf's memory has been>          restored completely!    µ\04\0F
+|Cara:  Grandpa, I missed you!
+|Cara:  He's fine.  It was only a >  weak \ABBolt"!
+|King:  Unnh... where am I...?    \0C>Lenna...>Sarisa...?>Is that Sarisa!?
+|Lenna:  Sister!
+|King:  You're...>Sarisa!>You're alive!!>>Faris:  Fa... ther...>Father!
+|\02:  No!
+|Galuf:  Exdeath...!
+|Exdeath:  Galuf...>  I've returned!  Fwahahahaha...
+|Crystal!>  Become my power!  Help me >  destroy these fools!!
+|\02:  Shit!
+|\02:  Ugh....>>>>Lenna:  \02!>Are you alright!?
+|Exdeath:  The Crystals have >  shattered!>  And next up, Galuf... is your >  world!!
+|Lenna:  Father!>Faris:  Father!
+|King:  Sarisa, Lenna, ...>  and \02...>Warriors of a different dimension!>>King:  There is still more that you >  must do.>  The world mustn't be allowed to >  fall into Void...
+|King:  Light of Earth....>  Come to me...  Bring back your >  spirit!
+|King:  Don't follow me!
+|Lenna:  Father!>>>>Faris:  Don't die!!>>>>King:  Sarisa...  Forgive me...>  I wasn't able to do anything for >  you...
+|King:  Lenna... Sarisa...>  Unite your power... ....
+|King:  And \02...>  Please... Protect them...
+|Lenna:  Father!!>>>>Faris:  Please don't die!!!
+|>                    Samurai>>>>                    Dragoon>>>>                     Dancer>>>>                    Chemist
+|\02:  What's happening!?>>>>Galuf:  The ruins are falling...!?>\02:  We must escape!>  Hurry, to the airship!
+|Faris:  Lenna!  Let's go!
+|Faris:  Hang on tight!
+|Faris:  Lenna...
+|Lenna:  Father is...    \0C>  really gone..., isn't he...
+|\02:  Galuf...>What's wrong?>>>Galuf:  Cara and I must leave!>\02:  What?
+|Galuf:  My memory has returned!>  At last I remember it all...
+|Galuf:  Exdeath was an evil wizard>  from our world... 3\53 years ago, >  he came to this world in an >  attempt to destroy the Crystals...>Galuf:  I, along with three other >  fighters...>  As the Four Warriors of Dawn...>>Galuf:  ... we borrowed the power >  of the Crystals to seal him.>>>Galuf:  3\53 years passed, and >  nothing had happened...
+|Galuf:  But something went wrong.>  Realizing this, we boarded >  meteors and once again came to >  this world.
+|Galuf:  But, we were too late...>  He has revived, and has returned>  to our world...
+|\02:  Was it because we >  used too much of the Crystals' >  power...?
+|Galuf:  We were the ones who >  sealed Exdeath in this world...>>>Galuf:  One of us insisted that we >  take him back with us... We >  should have done as he said...
+|\02:  Are you going back to>  your own world...?
+|Galuf:  We must seal Exdeath.  >  Luckily Cara's meteor still >  works...>>Galuf:  It has just enough power >  to be used one last time.  >  \02, Lenna, Faris, ...>>Galuf:  ... thanks for all your help!  >  I won't forget you guys!
+|\02:  Hey, wait!>  We'll go with you!!
+|Galuf:  You can't!      \0C>The meteor that Cara came in was>  the last one.>>Galuf:  If you come with us to the >  other world, you won't be able to>  come back!!
+|Galuf:  Farewell!
+|Cara:  Goodbye!
+|\02:  Galuf!  Cara!
+|Lenna:  \02...>>>>Huh?>>>>Faris:  The two of us have been >  talking...
+|Lenna:  In the other world, Galuf >  and the others are battling >  against Exdeath...>>Faris:  We must avenge Father!>>>>Lenna:  Yeah!>  And...>Faris:  Galuf is...
+|\02:  Our friend.>>>>Lenna:  \02!>Faris:  Then...
+|\02:  Let's go!  To the >  other world!!
+|Lenna:  How will we get to Galuf's >  world...?
+|Faris:  There's not enough energy >  left in the meteors...
+|\02:  The meteors...>  Maybe Cid could find a way...!
+|Wark!>>>>\02:  What's the black >  chocobo doing here?>  Is Cid here?
+|\02:  Cid!  Mid!  What in the>  world...>>>Cid:  \02, stay away!>  It's dangerous!
+|Mid:  The Adamantium started >  emitting some strange energy...>>>Cid:  So we thought we'd put it >  back where it came from.  Hold >  on a minute.
+|Cid:  What the...!?>  The ground is sucking energy >  away from the Adamantium!
+|Lenna:  Hey!  I wonder...>  If we used this to restore power >  to the meteor, couldn't we go to >  Galuf's world?
+|\02:  Now, THERE's an idea!>Cid:  What is this?
+|Cid:  I see...>>>>Mid:  This piece of Adamantium is >  too small to restore all the >  power.>>Mid:  But if we used the power of >  the other 3 meteors as well...
+|\02:  We could get to >  Galuf's world!
+|\02:  It's Cid's handwriting!>>>>After remodeling the airship, the >  leftover Adamantium became >  hazardous... We're putting it >  back, where we found it...
+|Lenna:  Has something happened to>  them?>>>\02:  'Where we found >  it'...?
+|Cid:  Wait here!>Mid:  Leave it to us!!
+|Cid:  It's perfect!>Mid:  Yep!
+|Cid:  Alright! To the next.
+|Cid:  Now the 4 meteors are all >  ready!>  Take a look at this map.
+|Mid:  Please hurry here, the place >  where the energy from the four >  meteors is gathering!
+|Cid:  Be careful!!
+|\02:  Thank you, Cid, Mid!!
+|Cid:  Let's go Mid!>Mid:  Let's go!!
+|Cid:  Monsters are in there!
+|Mid:  That was scary...!!
+|Cid:  We owe you one.>  Just leave the rest to us!
+|Cid:  That one's fine...>Mid:  Let's hurry on to the next!
+|>         Obtained Esper \ABTitan"!
+|Cid:  It's finished!>Mid:  Come on, let's hurry!
+|\02:  Cid! Mid! Look out!!
+|Cid:  Are you alright!?>Mid:  Wow, you're strong!!
+|Cid:  Wait here!>Mid:  We'll come right back!
+|Lenna:  This is taking WAY too >  long...>Faris:  Something might be wrong! >  Let's go!
+|Cid:  Help!>Mid:  Help me!!
+|\02:  Let's go!
+|Lenna:  You guys all right?>Mid:  Yeah!>Cid:  That was frightening...!!
+|Cid:  Now, onto the next meteor!>Mid:  Let's go!
+|Lenna:  The light is weakening...>>>>\02:  There's not much of >  the>meteors' energy left!>>Faris:  Only once...>>>>\02:  It's a one\C5way >  ticket...>  We might not be able to come >  back...  You guys understand?>Lenna:  Yes.>Faris:  That's okay!
+|\02:  Let's go, then!!
+|\02:  This is...>Lenna:  Galuf's world?
+|Lenna:  I guess it's goodbye to this >  world...
+|Faris:  Men, stay well!
+|\02:  Boco... I'll be going >  now!
+|Hey, it's you, \02!  Why >  don't you take a rest?  It's on my>  house!
+|Your father did so much for us...  >  I'm going to make it really cheap >  for you!
+|\02!?  You've been on such>  a long journey!  Well, welcome >  back to your home.  Stay as long >  as you like!
+|Huh?  \02?>  Oh my gosh!!>  \02 is back!!
+|\02!!>  You've come home!>>>I...    \0C>  I've been waiting for so long...>>>Would you listen to what I want to>  tell you when your journey is >  over?
+|Hey, \02!!  It's me.>  I wish we could play again.  Like >  back in the old days...
+|...Nine... Ten...>  Ready or not, here I come!
+|\02:  He'll never find me >  here...
+|\02:  Hey...!!    \0C>  Somebody...    \0C Help!!
+|I remember... that's how you >  became so afraid of heights...
+|We were so innocent back then....>  I can't believe that now I'm >  studying to become a scholar.
+|No way...>  \02!?>  You look so much more grown >  up!!
+|A sickness got your father... ?>  I see...>  \02!>  You need to live strong.
+|>           HERE RESTS STELLA...
+|There's a bard living in your house>  now.
+|You were the one who used to live>  here?>  There must be a lot that brings >  back memories for you.>Feel free to have a look around.
+|Dorgan:  Is he asleep?>Stella:  ... Dear, are you going on a >  journey again?    µ\05\0F
+|Dorgan:  No... I'm not leaving.>Stella:  My spasms have started to>  calm a bit, but...    µ\04\0F>>Stella:  I want us to live together >  as a family from now on...    µ\06\0F>>>Dorgan:  I know.  Well, let's get to >  bed now.  You need to get better.>Stella:  Thanks...  Let me do one >  more thing I need to finish...    µ\06\0F
+|\02:  You're going, aren't >  you?>Dorgan:  So you WERE awake...>>\02:  Are you going to >  protect us from the bad guys >  again?    µ\06\0F>>Dorgan:  Well, that's Daddy's job.>\02:  Take me with you.    µ\06\0F>>>Dorgan:  You stay at the house >  with your mother.  And you'll >  keep this a secret from her, >  won't you?>\02:  All right.    µ\06\0F
+|Dorgan:  Well, time for bed...    \0C>  Stella!>  You need to rest too.    µ\04\0F
+|Dorgan:  Stella...?    µ\03\0F
+|Dorgan:  Stella!!!    µ\03\0F
+|That's a pleasant melody.>  It's inspired me of a nice poem.  >  I'll dedicate this song to this >  memory...>>         Learned \ABCharm Song"!
+|>               Not enough Gil.
+|Hey, you found me.  You were able>  to get here by yourself...>>>That must mean that you are >  brave...  But maybe you are just >  a showoff...>>Well,that is something you must >  decide for yourself...>>>If you believe you have courage, >  open the chest on the left...>>>If you believe you are a coward, >  take the chest on the right.>  You can only have one, though...
+|>Obtained \ABBrave Blade"!
+|>Obtained \ABChicken Knife"!
+|Heh heh heh...
+|\02...>  What's wrong?
+|\02:  Faris...
+|\02:  This is my mother.>>>>Faris:  Huh?>>>>\02:  I was born in this >  village.  My mother died when I >  was little... after that, I left on a >  long journey with my father...>\02:  Then three years >  ago, my father became ill and >  passed away, too...
+|\02:  ...
+|>        DORGAN AND HIS BELOVED>          WIFE STELLA REST HERE
+|\02:  Dad asked me to bury>  him with mom...
+|\02:  Dad was a strong >  man...>>>Faris:  A father...>  Is that a nice thing to have, >  \02?>>\02:  Faris...
+|Faris:  Well, let's go back!>  We don't want everyone to >  worry!
+|Faris:  ...>  Lenna...>  There's one thing that's been >  keeping me wondering...>Faris:  Why did you go through >  such danger to save the Hiryuu >  up on the North Mountain?
+|Lenna:  Sister... do you remember >  our mother?>>>Faris:  Mother? ... a little, I guess...>Lenna:  Well, I...>  ...when I see that Hiryuu, it >  reminds me of Mother...>Faris:  What do you mean?
+|\02:  A monster!!
+|\02:  Lenna!  Faris!!
+|\02:  What the...?    \0C>  ...A gas trap!!>>>\02:  ...    \0C>  I... I can't move...
+|Lenna:  I'm getting tired...>  Let's rest in a \ABTent", >  \02...  I want to rest.
+|\02:  Where are we...!?
+|Fwahaha...>  Welcome to my castle!
+|\02:  Exdeath!
+|Monster:  Master Exdeath!>  Galuf and the others are at the >  Big Bridge!
+|I see...>  Prepare the Great Mirror!>Monster:  Yes, sir!
+|At least you cretins are useful for >  SOMETHING!
+|Lenna:  \02 look!  The sky!>>>>\02:  ...!!
+|Cara:  Look, Grandpa!>>>>Galuf:  \02!>  Lenna!>  Faris!
+|Exdeath:  Galuf!  You have a >  decision to make...
+|Galuf:  Shit!!!>  Everyone, retreat!
+|Exdeath:  Gilgamesh!
+|Gilgamesh:  Yes, sir!>>>>Exdeath:  Keep an eye on these >  people!  I'm counting on you.
+|\02:  Exdeath!  Why you...
+|\02:  Damn it...!
+|Galuf:  Cara, I'm borrowing your >  Hiryuu!  I have to rescue them!
+|Galuf:  Release the Hiryuu!>>>>Soldier:  Yes, sir!
+|Galuf:  You go back and stay with >  Cara!
+|Galuf:  ...
+|>     Obtained \02's items.>>>>         Obtained Lenna's items.>>>>         Obtained Faris's items.>>>>      Obtained Pieces of Crystal!
+|Galuf:  \02, Lenna, Faris...>  I'll be there in a sec!
+|Galuf:  Wow!  Gotta watch myself...
+|Gilgamesh:  Who's there!?
+|\02:  Galuf!>>>>Galuf:  Hang on there.>  I'll open this up now.
+|Faris:  Thanks, Galuf.>\02:  Sorry, Galuf.  We...>>>Galuf:  We'll talk later.  Let's get >  out of here!
+|Gilgamesh:  I've been waiting >  behind this door all this time!>>>Gilgamesh:  I was getting anxious >  about what I'd do if you didn't >  show up!>>\02:  Stand guard!!
+|Galuf:  Cara!>>>>Cara:  Grandpa!>  The barrier!!
+|Cara:  Grandpa!!
+|\02:  Galuf...>  I'm sorry.>  Because of us...>>Galuf:  I told you, you didn't have >  to come...
+|Faris:  Where is this...
+|Galuf:  The continent of Grociana...>  A remote land where ferocious >  beasts dwell.  How unfortunate >  that we were thrown here...
+|Galuf:  But,    \0C>  You guys have made my day...
+|Galuf:  It's full of monsters ahead!>  We need to be careful!!
+|How about some of Rugor's >  famous wine!>  This flavor just can't be beat!
+|This flavor just can't be beat!
+|There aren't any dancers in this >  village.  Would you dance for us >  instead?
+|This wine... it's wonderful!!
+|Have you heard of the \ABCorna >  Jar"?>  Once you have it, capturing >  monsters couldn't be easier!
+|If you go on stage you've gotta >  dance!!
+|That's the weapon dealer.
+|That's the armor dealer.
+|So you're the ones fighting against>  Exdeath!>>>This is my treasure... please accept>  it...>>>>Obtained \ABRibbon"!
+|Please treat my \ABRibbon" nicely.
+|My \ABRibbon"...>  Where could it have gone?
+|Oh my goodness, we have some >  guests!  That's unusual.>  Just for tonight, your stay is on >  the house!
+|\02:  Hey...>  Where's Galuf?
+|Galuf:  Aah, this is too good!  The >  legendary wine of Rugor!  >  Nothing like it to soothe one's >  throat!!
+|Galuf:  What's going on, >  \02?>>>\02:  Nothing... I just can't >  fall asleep...>>>Galuf:  I see.>  Well, why don't you sit down?
+|\02:  Galuf...  I'm really >  sorry.>>>If we hadn't come, you would have>  been able to attack Exdeath's >  castle...
+|Galuf:  Even if we had attacked >  the castle, the barrier would >  have blown us all to bits...>>Galuf:  We didn't think that it >  would be complete...>  But thanks to you guys we've >  survived!>\02:  Galuf...
+|Galuf:  By the way, \02...>  Knowing that you wouldn't be >  able to return to your own >  world, why did you come here?>\02:  ...there is no reason.
+|Galuf:  \02...>  You've made my day!!
+|Galuf:  Thank you!!
+|\02:  Galuf!  Stop that!
+|Galuf:  These are...>  The 12 Legendary Sealed >  Weapons!>  So they really did exist.
+|\02:  These are the ones >  used in the battle 1\53\53\53 years >  ago...?>>Lenna:  They've all turned to >  stone...>>>\02:  Well, they're sol old...
+|>                   Excalibur
+|>              Assassin Dagger
+|>              Sasuke's Katana
+|>                  Holy Lance
+|>                   Rune Axe
+|>                  Masamune
+|>                 Yoichi's Bow
+|>                    Firebute
+|>                  Sage Staff
+|>                 Wizard Rod
+|>                Apollo's Harp
+|>                   Earth Bell
+|>        One of the 12 Legendary>             Sealed Weapons...
+|Kupo\C5!
+|Galuf:  A moogle!  Here!?>  What a surprise!>>>\02:  Moogle?
+|Galuf:  Mysterious little creatures >  that live in the forest.  They're >  very shy, and seldom come out >  where they can be seen.
+|Lenna:  Let's help him!
+|Lenna:  Moogle!!
+|Moogle:  Kupo, kupo!!
+|\02:  Let's go!
+|Lenna:  You don't need to be >  afraid...>  It's alright.>  Come over here!>Moogle:  Kupo...
+|Lenna:  You're safe now!>>>>Moogle:  Kupo, kupo!!
+|Moogle:  Kupo, po!!
+|\02:  What's it doing!?>>>>Lenna:  It looks like he's calling us...
+|Lenna:  It's the moogle that we >  just rescued!
+|Moogle:  Kupo! Kupo!>>>>Lenna:  Are you thanking us?
+|Moogle:  Kupo!!>>>>Lenna:  It looks like he's telling us >  we can use this stuff...
+|\02:  It's a moogle....    µ\03>  suit!?
+|>        Put on the Moogle Suit?
+|Moogle:  Kupo!
+|Galuf:  What is it doing?
+|Cara:  What is it, why are you so >  upset...?>>>Moogle:  Kupo!!
+|Soldier:  What's going on?>>>>Cara:  It seems that Grandpa is at >  the Moogle Village!>>>Soldier:  ?>>>>Cara:  Moogles can use telepathy.>  Even when they're separated, >  they can talk in with their >  minds...>Soldier:  The Moogle Village...>  that's far away.>>>Cara:  Yes...>  And the Hiryuu can't fly >  anymore...
+|Hiryuu:  ...
+|Cara:  Hiryuu...>  ...>  ... Thank You.
+|Cara:  He'll fly just this once!>>>>Soldier:  Are you sure that's safe?
+|\02:  What are they doing?>>>>Moogle:  Kupo!!
+|\02:  The nose?
+|Cara:  I wonder where the Moogle >  Forest is?
+|Moogle:  Kupo, po!>>>>Cara:  What?  The \ABnose"...?
+|Moogle:  Kupo!
+|Galuf:  Cara!!
+|Cara:  Grandpa!!
+|Galuf:  How did you find this place?>>>>Cara:  The moogles showed me!
+|Cara:  Grandpa!>  Quick, we've got to return to the >  castle!
+|Cara:  I'm going to go let the >  Hiryuu rest!
+|Soldier:  King Galuf!!
+|Galuf:  You all did great while I >  was away!>Soldier:  King Galuf!!
+|Galuf:  What's going on with >  Exdeath?>>>Soldier:  There have been no >  significant movements since the >  barrier's completion.>Galuf:  I see... and our army?>Soldier:  It was almost entirely >  wiped out in the battles with >  Exdeath's monsters...>Galuf:  ...>Soldier:  I apologize, Sir...
+|\02:  And I thought you >  were just an old man...>  You were a king!?>>Galuf:  ...well, so I am!
+|\02:  Boy, now THIS one's a>  shock...
+|Galuf:  You've done great, >  everyone!>  Take a break now!>Soldiers:  Yes, sir!
+|Galuf:  What is it, \02?>>>>\02:  I'm just so surprised >  that you could be a king!>>>Galuf:  Why, is there a problem >  with that?
+|Galuf:  What!!
+|\02:  I'm just kidding!>  Well then, I have to address you...>  Maybe \AAKing Galuf'...>>Galuf:....
+|Galuf:  More importantly than my >  being the King of Bal, I am your >  friend.  So you just call me...>>\02:  Galuf!>>>>Galuf:  Yes!>Hahaha!!
+|Castle Exdeath is guarded so well >  by that barrier...>>>We can't do anything against the >  castle!
+|Soon after she was born, Princess >  Cara's parents entered the >  Grociana Desert in order to save >  the Hiryuu...>They were never seen again...
+|Moogle:  Kupo!
+|Castle Bal is very old.  It holds >  secrets that even we don't know.
+|Damn that Gilgamesh!!>  Because of him, our army was >  nearly annihilated...
+|The door to the basement won't >  open no matter what you do...
+|I heard that when King Galuf used >  the meteor, some accident >  occurred, and he lost his >  memory...>The weapons and armor he took >  from this castle were lost.
+|If we don't defeat Exdeath, the >  world will be destroyed...
+|Princess Cara can speak with this >  Moogle.  It's a very mysterious >  power.
+|Princess Cara is a very good child. >  And she has the same spirit as >  her grandfather!
+|There are very few soldiers left >  due to being attacked by >  Exdeath.
+|\02:  Welcome!
+|Hey, don't interfere with our >  business!
+|But Here, since you came here, you>  should come here...
+|>Obtained \ABLamia Harp"!
+|Hey, this is supposed to off limits!
+|The monsters released by Exdeath>  are lurking outside the gates.
+|If the gates were opened, >  monsters would come pouring >  into the castle!>  We can't open them...
+|Cara:  ...>>>>Lenna:  Cara?
+|Cara:  The Hiryuu...>  ... is dying...>>>Lenna:  Huh?>>>>Faris:  What happened to him?
+|Cara:  He's overstrained himself...>  He really shouldn't have been >  flying injured...>  But he flew...>Galuf:  To help us...>Faris:  Isn't there any way we can >  save him?>Cara:  ...>Lenna:  Hiryuu Plant...
+|Cara:  Hiryuu Plant?>  If we had that, could we heal the>  Hiryuu?>>Lenna:  Yes.  But is there any in >  this world?>Faris:  Hiryuu Plant grows where >  Hiryuu live, right?>Galuf:  Well...>\02:  There is some!?>>>Galuf:  There's the Valley of the >  Hiryuu...>  But no one who has gone in that >  place has ever come back out...
+|\02:  Let's go!
+|Cara:  \02!
+|Galuf:  The Valley of the Hiryuu is >  north of this castle, beyond the >  werewolf village of Kelb.
+|Cara:  But... there are a ton of >  monsters outside the castle!!>>>Galuf:It'll be alright.>  We'll all be together!>>>\02:  We'll be fine!>Lenna:  We'll be back soon!>Faris:  ... with the Hiryuu Plant, for >  sure!
+|Cara:  Please... get the Hiryuu >  Plant.
+|Hiryuu:  ...
+|Galuf:  Open the gates!>>>>Soldier:  Yes but...>  Outside the gate, the monsters >  let loose by Exdeath are...>>Galuf:  When we're out, >  immediately shut the gates, and >  seal them tight!!>>Soldier:  But Sir Galuf!>  If we do that, you won't be able >  to get back into the castle!  Are >  you sure that's alright!?
+|Galuf:  It's fine!>  Just shut the gates and seal >  them tight!>>Soldier:  Yes, sir...>Soldier:  King Galuf!>  Please be careful!!
+|Galuf:  Here they are!>  Get ready, everyone!!
+|Galuf:  We should be able to go to >  the Valley of the Hiryuu>through the gate at the north end >  of this village...
+|Galuf:  The gate's locked...>  Maybe we could ask Kelgar...
+|Don't move!
+|\02:  Who the!?>>>>Galuf:  \02!>  Hold it!>  They're my friends!!>Faris:  Friends!?
+|Kelgar:  Galuf!?>>>>Galuf:  Kelgar!>>>>Kelgar:  It's been a while.>>>>Galuf:  He's one of the Four >  Warriors of Dawn!>>>\02:  The warriors that >  fought against Exdeath 3\53 years >  ago...?
+|Kelgar:  Who are these people?>Galuf:  They are warriors from >  the world where we sealed >  Exdeath.>Kelgar:  Exdeath's minions!?
+|\02:  What!?>>>>Kelgar:  You shattered the Crystals>  and brought Exdeath back to >  life...
+|Galuf:  No!>  These people are..!>Kelgar:  Galuf!>  Stand away!
+|Kelgar:  \02 or whatever >  your name is!>  It's time for a match!>>\02:  !?>>>>Galuf:  Kelgar...>>>>Kelgar:  Let's find out what's in >  your heart!
+|\02:  En Guarde!
+|Kelgar:  Now see if you can handle>  my Lupine Attack!!
+|\02:  Now!!
+|Galuf:  \02!!>  You...
+|\02:  Kelgar...>>>>Galuf:  Kelgar, your old body can't >  take that much!>>>Kelgar:  ... You evaded my Lupine >  Attack...>  You're pretty good.>>\02:  It's a technique I >  learned from my father.>Kelgar:  What?  What's your >  father's name?!>\02:  Dorgan.
+|\02:  Wh... what's wrong, >  both of you...?>>>Galuf:  The son...>Kelgar:  .. of Dorgan.>>>\02:  You know my father?
+|Galuf:  Yes we know him.  Dorgan, >  along with Kelgar, Zeza, and >  myself, fought together in the >  battles against Exdeath>3\53 years ago.>>>>Kelgar:  He's one of the Four >  Warriors of Dawn!
+|\02:  So my father was a >  person from this world!?>>>Kelgar:  Yes.>>>>\02:  ...>>>>Galuf:  We traveled to your world >  chasing Exdeath 3\53 years ago...
+|Galuf:  Is he invulnerable!?>Dorgan:  This battle has no end!>Kelgar:  We have to seal him here!>>Zeza:  We have no choice, do >  we...?
+|Dorgan:  Here!?>  Are you suggesting we should >  seal a terrible evil from our own >  world in someone else's!?>Dorgan:  I really can't agree to >  that!
+|Zeza:  Have we a choice?>Kelgar:  He's rejuvenating!>Galuf:  Damn it...!
+|Kelgar:  There's nothing we can do>  about it, we have to seal him >  here!
+|Galuf:  Dorgan, to use the power >  of the Crystals that have >  gathered, we must join our >  spirits!>Kelgar:  Dorgan!
+|Kelgar:  Alright!  We've sealed him!>Galuf:  Exdeath will not awaken as >  long as the Crystals have light...
+|Galuf:  So you insist on staying...?
+|Dorgan:  Yeah.>>>>Kelgar:  But Why!?
+|Dorgan:  Farewell!
+|Galuf:  Dorgan...
+|Galuf:  In order to watch over the >  seal on Exdeath, Dorgan stayed >  behind on your world...>>\02:  I see...
+|Kelgar:  By the way, how is >  Dorgan?>>>\02:  3 years ago, he fell >  ill...>>>Kelgar:  I see...>  Son of Dorgan, I'll do anything >  that would be of help.
+|Kelgar:  By the way, how is >  Dorgan?>>>\02:  3 years ago, he fell >  ill...>>>Kelgar:  I see...>  Son of Dorgan, I'll do anything >  that would be of help.
+|Kelgar:  I'll have the townspeople >  open the gate.
+|I'll be praying for your safety.  >  Please, take this song!  It works >  well against undead monsters!
+|>           Learned \ABRequiem"!
+|Kelgar:  \C5cough\C5, \C5cough\C5...>  I should be fighting along with >  you guys but...>  I'm sorry.
+|Kelgar:  I see...>  So Guido's island...>\02:  Was that also >  Exdeath's doing?>Kelgar:  So now he's finally >  started...>\02:  We'll storm his castle!>>Kelgar:  That's impossible.>  With that barrier we can't take a>  step towards the castle...>>Kelgar:  Wait a minute...!  Zeza has>  lead his armada to destroy the >  Barrier Tower...>>Galuf:  Really!>\02:  Zeza?>>>Galuf:  Zeza's one of the Four >  Warriors of Dawn!  His castle's >  north of the Valley of the Hiryuu!
+|Kelgar:  I see...>  Zeza....
+|Kelgar:  Zeza and Galuf both...>  So I'm the last of the Four >  Warriors of Dawn...>>Kelgar:  It's funny.>  That a senile old man like myself >  would....
+|Lenna:  Look!>Faris:  Hiryuu Plant!!
+|Faris:  What the ...?>Lenna:  Aaahhh!
+|\02:  What!?>Lenna:  The Hiryuu Plant attacks >  people!?>Faris:  It's turned into a monster...>Galuf:  Is this why the Hiryuu have >  been dying out?
+|Faris:  The Hiryuu Plant...!
+|Lenna:  Look!!
+|Lenna:  Let's take it back to the >  castle!!
+|>Obtained \ABHiryuu Plant"!
+|Galuf:  We're back!>  Open the gates!!
+|Soldier:  You must be Exdeath's >  minions!>  You can't fool us!!
+|Galuf:  Looks like we have no >  choice...>  Follow me!
+|Galuf:  Well?  What are you guys >  waiting for?
+|Galuf:  Man that was cold!
+|Soldier:  King Galuf!!
+|Soldier:  We're sorry!>  We were just being cautious...>>>Galuf:  That's ok...!
+|Soldier:  We'll confirm that you're >  King Galuf, and we'll open the >  gates right away!
+|Princess Cara went to lie down in >  her room, saying that she had a >  headache...
+|Princess Cara is resting in her >  tower bedroom.
+|Princess Cara...>  She says her head hurts...>  This way!!
+|Galuf:  Cara!>Cara:  Gr...and...pa...>Galuf:  Are you all right?>>Cara:  He's calling us...
+|Galuf:  Don't speak, Cara!>Cara:  He's calling...>  Guido is calling us...>>\02:  Guido?>>>>Cara:  Quickly... go talk to Guido!
+|\02:  Who's this Guido she's>  talking about?>>>Galuf:  He is a sage who has lived >  for 7\53\53 years... he is the one >  who predicted that the Crystals >  of your world would shatter!>\02:  And he's calling us?>Galuf:  He may have found a way >  to defeat Exdeath!
+|Cara:  ...>Galuf:  Cara... get better soon...>  We're going to meet with Guido.>  Hang in there...>Cara:  ...>  But you will need the Hiryuu...>Galuf:  It's alright...>  We've brought the Hiryuu Plant!>Cara:  Really!!>  The Hiryuu's on the top of this >  tower...
+|Galuf:  Will you come with me?>Lenna:  Yes!>Faris:  Of course!>>\02:  Let's go!>  But, where would this Guido be?>>>Galuf:  Northeast of the Hiryuu >  Valley.  It's a small island off of >  the continent!
+|Lenna:  Here you go, have some!
+|\02:  It's because of this >  weed that the Hiryuu are >  becoming extinct...>  He doesn't trust it...
+|Galuf:  But he has to...!>  Hurry, if we don't make him eat >  the Hiryuu Plant he'll die!
+|Lenna:  It's safe.>  See, watch me eat it...>  \C5munch\C5, \C5munch\C5...
+|Faris:  Lenna!  What are you doing!!>>>>\02:  Lenna!  The Hiryuu >  weed is extremely poisonous to >  humans!!
+|Lenna:  Come on... eat it up...!
+|Lenna:  Good boy...!
+|Faris:  Lenna!!
+|Cara:  Lenna!!
+|Cara:  Drink this!
+|Faris:  Lenna!!
+|\02:  Lenna!!>  Are you alright!?
+|Lenna:  Yes...>  Thank you, Cara.>>>Cara:  You're crazy, Lenna!
+|Faris:  Really...!>>>>Lenna:  I'm sorry...
+|Galuf:  Cara!>  Are you alright now?>>>Cara:  I... I'm fine...
+|Galuf:  Cara!!
+|Cara:  I'll... be fine...>>>>\02:  Geez, everyone's >  overdoing it!>>>Cara:  ...
+|Galuf:  Now you take a rest!>>>>Cara:  Yessiree...>>>>Lenna:  Cara!>  Thank you!!
+|Cara:  No...>  It was you who saved the >  Hiryuu...>  Thank YOU!!
+|Galuf:  Stay in bed...!>Cara:  Yes, sir...  You be careful >  too!
+|Galuf:  To Guido's place!>Lenna:  Yes!>Faris:  Guido, here we come!>\02:  Let's go!
+|Princess Cara is on the top floor of>  this tower...>  It seemed like she was crying...
+|Everything'll be just fine until King>  Galuf comes back!
+|King Galuf, please take the \ABExit" >  spell that you forgot to take with>  you...
+|The Big Bridge is completely >  protected by the barrier.>  If the Hiryuu can't fly, there's no >  way to get to Exdeath's castle.
+|We are guided often by Sage >  Guido.  He's very important to us.
+|Exdeath isn't showing any activity.>  I wonder what he could be doing >  shut up in that castle all the >  time?
+|The barrier is created by 4 >  towers.
+|We have received news that King >  Zeza of Surgate Castle is leading >  a fleet of ships towards Exdeath >  Castle.
+|So King Zeza has passed away...
+|Castle Exdeath's barrier has >  vanished!
+|Cara:  Guido is calling...
+|Princess Cara has collapsed!
+|Sage Guido lives in a cave on a >  small island to the northeast of >  the Valley of the Hiryuu.
+|Cara:  Guido is calling...>  From the bottom of the sea...>  Grandpa, go to him quickly....!!
+|Cara:  I'm alright now...>Galuf:  Don't stress yourself.>Cara:  Grandpa...>  Thank you...
+|I can't believe it, King Galuf...>  How could this happen...
+|Damn that Exdeath...
+|I just can't believe the King is...>  How awful...>>>Princess Cara...>  Please don't lose his spirit...
+|Princess Cara...>  King Galuf's spirit is with you...
+|Aaargh...>  How could King Galuf be gone!
+|We've got news that Exdeath has >  returned to his castle!
+|\02:  This...?>Galuf:  Sage Guido's dwelling!>Lenna:  Let's go!>>Faris:  Wait a minute...??
+|\02:  An earthquake!?
+|\02:  The island...!!>>>>Galuf:  To the Hiryuu!!
+|Exdeath:  Mwahaha...>  This is what happens to those >  who oppose me!!
+|Who are you people!
+|This is King Galuf!>  What are you guys doing!>  This is King Galuf of Bal!!
+|Palace guard:  King Zeza is leading >  the Surgate fleet to Exdeath >  Castle.>>Galuf:  Really!>>>>Faris:  This Zeza's one of the Four >  Warriors of Dawn?
+|One of my father's battle >  partners...
+|Palace guard:  This way, please!
+|Palace guard:  Please feel free to >  use the things in the castle as >  you'd like!
+|Galuf:  Thank you!
+|Galuf:  I have bad news.>  ....Zeza has died.>>>Palace guard:  What!!>>>>Galuf:  He fought splendidly as a >  Warrior of Dawn.>>>Palace guard:  ...
+|Palace guard:  ...
+|Palace guard:  King Zeza is now >  gone.  There is no one who this >  castle's weapons could be of use >  to, more than you all...
+|Palace guard:  You are...>Lenna:  Acquaintances of Zeza.>  But unfortunately Zeza is...>>Palace guard:  The King!?    \0C>  ...>  I see...>  And even King Galuf...
+|\02:  Zeza did it to save >  us...
+|Soldier:  Please wait!
+|This is King Zeza's castle, Surgate >  Castle!
+|King Zeza is commanding a fleet >  of ships against Exdeath's castle.
+|Your Hiryuu should be able to land >  on King Zeza's ship.
+|If only we could destroy the >  barrier protecting Exdeath's >  castle...
+|We'll protect this castle until King >  Zeza returns!
+|Exdeath's defense on the Big >  Bridge is very solid, but the >  eastern side of the continent >  seems to be a weak point.
+|Around now, our fleet should be >  arriving on the east coast of the >  continent where Exdeath Castle >  lies.
+|This is the King's room.>  You need permission to enter.
+|A memory of Zeza comes back.  A >  song that we sang so often back >  then...>>>Learned \ABSpeed Song"!
+|I just came home from the lake >  up north...>  You know, the one surrounded by>  mountains...>Well... a huge eyeball suddenly >  appeared... It's a surprise that I'm>  even alive...
+|We've found an ancient book from>  more than 1\53\53\53 years ago...>>>But since we only have a half of it,>  there's no way we can read the >  \ABSealed Book".
+|Everyone's been reading books >  and just leaving them around...>  And to make things worse, the >  bookshelves were shuffled!>Can you please help me reshelve >  the books?
+|It's the periodicals shelf.
+|It's the \ABDEF" bookshelf.
+|It's the \ABABC" bookshelf.
+|It's the \ABGHI" bookshelf.
+|It's the \ABJKL" bookshelf.
+|It's the \ABVWX" bookshelf.
+|It's the \ABMNO" bookshelf.
+|It's the \ABYZ" bookshelf.
+|It's the \ABSTU" bookshelf.
+|It's the \ABPQR" bookshelf.
+|Thank you.>  Now I can go back to my room!
+|>              FORBIDDEN BOOK
+|         MONSTER ENCYCLOPEDIA
+|SECRET OF LONKA
+|Thanks for doing that.>  ...oh yes, by the way...>>>They say there's a mysterious >  magic that floats things in midair,>  somewhere in this castle...
+|\02:  These books are so >  heavy... I can only care them one >  at a time.
+|>Returned the book to the shelf.
+|>Put the book back on the shelf?
+|>Obtained \ABFloat"!
+|\02:  ... \AAM', \AAN', \AAO', \AAP'...>  \AAPl'... \AAPlayb'...    \0C>  ...I guess they don't carry it...>>Lenna:  What are you looking for, >  \02?>\02:  Umm, nothing >  important!
+|We can't find the remaining half >  of that book anywhere.>  But we've looked through every >  single book in the world...
+|This book contains the evil deeds >  of Exdeath from 3\53 years ago...>  We can't allow this nightmare to >  repeat...!
+|\02:  I somehow recall >  seeing a book just like this one >  somewhere...?
+|The assault on the Barrier Tower >  was a success?>  And I just lay here hurting...
+|Owee knee cap!
+|Many of those wounded in the >  battle of Exdeath Castle were >  carried back here...>  They've filled the beds...
+|Zeza:  What's that Hiryuu doing >  here?
+|Zeza:  Wait!>  These aren't enemies!
+|Zeza:  Well if it isn't Galuf!>>>>Galuf:  Zeza!>  Long time no see!
+|Galuf:  This is Dorgan's son...>  \02!>Zeza:  The son of Dorgan!?
+|Galuf:  And these two are of a >  royal family on the other world.>Zeza:  I am Zeza the swordsman.
+|Galuf:  Not King Zeza?>Zeza:  No... I think \ABKing" just >  doesn't suit me well...>>Galuf:  Yeah, really!>  Same here!!
+|Galuf:  Can we get into Exdeath's >  castle?>Zeza:  Sure.  We have everything >  perfectly planned out!
+|Zeza:  For now, let's go inside and >  rest!
+|This fleet is a decoy.  If it can buy >  us a little more time...
+|If we break even just one of the >  four towers, the barrier should >  disappear.
+|When the barrier is gone, we'll be >  able to attack Exdeath's castle.
+|Here I come!
+|We've driven away the monsters!
+|Please use the room on the right.
+|We're digging a tunnel to the >  ocean floor.
+|I feel seasick...>  Ugh...
+|King Zeza awaits in the room on >  the left!!
+|Monsters!>They're attacking us!!
+|Galuf:  Zeza, what's going on!?>Zeza:  Enemies are coming!
+|Galuf:  Crap, we're surrounded!
+|Zeza:  I'll take this one!>Galuf:  Don't blow it!>Zeza:  Same to you!>>Zeza:  Grrrr...
+|Gilgamesh:  Starkle, starkle, little >  twink...>>>Gilgamesh:  Now it's time that you >  guys SINK!!!
+|Gilgamesh:  Grrrr..!>  I'll drag you down with me... into >  the sea!!
+|Gilgamesh:  Hey!>  You filthy slime!>>>You'll pay for this!!!>  \C5gurgle\C5, \C5gag\C5...
+|Galuf:  Ack!!
+|Galuf:  My hands're going numb...>>>>Zeza:  Hold on \AAtil I get there!>>>>Galuf:  I can't hold any longer!
+|Galuf:  Hiryuu!>>>>Zeza:  Come on, now it's our turn >  to strike!>  Follow me!
+|Leave this to us!>  Please go downstairs!!
+|Zeza:  Take the other side of this >  chest!
+|Zeza:  Alright!  Let's go!!
+|Galuf:  What is this?>Zeza:  The boats were simply a >  decoy...>>Zeza:  We're going to sneak into >  the Barrier Tower from the >  bottom of the sea in this >  submarine.>Galuf:  How clever!>Zeza:  We've dug a tunnel to the >  Tower.  Let's get going!
+|Zeza:  Let's go!
+|>Catch a few Z's?
+|Zeza:  Let's return to the ships!
+|Zeza:  Stay back!
+|Galuf:  Is this the Barrier Tower?>Zeza:  Yes.>  If we destroy this, the barrier >  should disappear!>Zeza:  I'll go to the power room >  down below.  There is an >  antenna on the top floor... you go>  there!>Galuf:  And break the antenna?>>>>Zeza:  Right.  While I have the >  power stopped, blow up the >  antenna!
+|Zeza:  Take this with you.
+|>Obtained \ABEcho"!
+|Galuf:  What's this?>Zeza:  We can use it to >  communicate.  Let's go!
+|Zeza:  Go on!
+|Zeza:  What are you doing...?>  Hurry to the antenna!  It's on the >  top floor!
+|Can you... hear me...?
+|\02:  ??>Galuf:  It's Zeza!>>>Zeza:  Can you hear me...?>Galuf:  We hear ya!>Zeza:  I've reached the power >  room...
+|Zeza:  Everything's fine here...    µ\03\0F>>>>Zeza:  ...!!
+|Galuf:  What's going on, Zeza!?>Zeza:  It's nothing.>  Just hurry to the top floor!>Galuf:  Ok!
+|Galuf:  Zeza!  We've reached the >  top floor!>Zeza:  Good!
+|Zeza:  Now!!>  Destroy the antenna!
+|You wish...>  But I'm here to stop you!!
+|\02:  We did it!>Galuf:  Zeza!  Can you hear us!?>  We've destroyed it!
+|Zeza:  Escape is futile...>>>>Zeza:  Galuf!>  It's dangerous here.  Get out >  quickly!  The built\C5up energy will >  swell and explode!
+|Lenna:  Hiryuu!>  Let's ride him.
+|Galuf:  Zeza!  We're coming!>>>>Zeza:  Don't come!>  Wait in the submarine.  I'm fine, >  I'll catch up to you.
+|Galuf:  He won't make it!
+|\02:  Galuf, it's dangerous!>Galuf:  But...!>>>\02:  Lenna, you guys go >  first...
+|Galuf:  Zeza... you knew this would>  happen all along!>  And you sacrificed yourself...>>Zeza:  Wait for me at the sub!  I'll >  come for sure.  I promise.>  Zeza signing off!
+|Galuf:  Zeza!!
+|Zeza:  Of course I knew...  But, >  there was no way I could send >  you... >>Zeza:  Warriors of the Crystal, it's >  up to you guys now...>>>Zeza:  Galuf..., \02,>  Lenna, Faris...>>>Zeza:  Don't worry... I'll come to >  your help again...
+|\02:  I can't help it...
+|Galuf:  Oof...>  \02, go in the submarine.
+|\02:  Galuf...  Zeza had to >  have been...>>>Galuf:  It was my final promise to >  him.>  Please let me keep it...
+|\02:  Galuf...    \0C>  There's no hope...  He couldn't >  have survived that explosion...>>Galuf:  Let me wait a little longer...>  Just a little bit longer....
+|Galuf:  Zeza...>  You showoff...
+|Faris:  We might be able to get to >  Guido's sunken cave with the sub.>>>\02:  You're right.
+|\02:  How was he?>Lenna:  I think he'll be alright if he >  just rests a bit.>>\02:  All right then, let's go!
+|We must avenge King Zeza!
+|We can get up to the third floor, >  but all the rooms are empty...>  What's with this place?
+|How could King Zeza have died...?>  \C5sob\C5, \C5sob\C5...
+|Now that King Zeza will never >  return, it's up to us to protect >  the castle...
+|The King must have been his finest>  at his end.
+|You're our only hope.  Please >  defeat Exdeath...
+|\02:  What's this turtle!?
+|Galuf:  \02!>  Stop that!!
+|\02:  But this is fun!!!
+|Turtle:  Cut that out!!
+|\02:  ...!!>  It... it spoke!?
+|Galuf:  Sage Guido.>  I am so sorry for his >  impoliteness.
+|\02:  Hey wait, you mean >  this turtle is...>>>Lenna:  Sage Guido?
+|Galuf:  Yes, he is!>  How could you be so rude!!
+|Guido:  It's fine, it's fine!
+|\02:  Sorry...>Guido:  It's fine...>  Anyways...  I have something to >  tell you. You must hurry...>\02:  Is it about Exdeath?>Guido:  Yes.  The thing he is after >  is in the Great Forest of Mua.>>\02:  The Great Forest of >  Mua?>>>Guido:  The living forest which >  stretches to the west of Surgate >  Castle...  Exdeath's birthplace...>>\02:  !?>>>>Guido:  About 5\53\53 years ago, an >  evil spirit sealed in the Mua >  Forest turned one of the trees >  into a monster...>Guido:  This tree is Exdeath...>  For 5\53\53 years, I had kept Exdeath>  sealed... but 3\53 years ago, the >  seal was broken...>\02:  The battle of the >  Four Warriors of Dawn 3\53 years >  ago...>>Guido:  Yes.  Dorgan and his >  fellows did very well.  They >  resealed Exdeath with the power>  of the Crystals.>Guido:  But, now he has returned...>\02:  It's our fault...>Guido:  No, it's not.>>Guido:  Anything sealed is destined >  to return...>  He must be DESTROYED this time!!>\02:  Well, where would he>  be!?>Guido:  Probably...>>>Guido:  In the Great Forest of >  Mua...>  He seeks something that lies >  there...>\02:  The Great Forest of >  Mua...>>>Guido:  Please!  Go to the Great >  Forest and protect what rests >  there!!
+|Guido:  Please!  Go to the Great >  Forest and protect what rests >  there!!
+|\02:  To the Great Forest >  of Mua...>Galuf:  For Zeza's vengeance!>Faris:  And to defeat Exdeath!>Lenna:  Let's go!
+|Guido:  The Forest of Mua is alive.>  No matter who they might be, >  anyone who enters the forest >  will be attacked.>\02:  ...>>>>Guido:  Take this with you.
+|>Obtained \ABElder Branch"!
+|\02:  What's this?>>>>Guido:  It's a branch of the oldest >  tree in the forest... a part of the >  protector of the seal.  With this, >  you can enter the forest...
+|Guido:  Please hurry!>  Exdeath is already on his way to >  the Forest of Mua!>\02:  Gotcha!
+|\02:  It's an empty box... >  huh?>  There's a big rock inside...>>>                     Lift it?
+|\02:  Ugh....>  This sure is heavy!!
+|>             Drop the big rock>             inside this chest?
+|\02:  A, a turtle!
+|>           Jump into the pond?
+|Guido:  Exdeath has headed for his >  castle.>  Destroy him before it's too late!
+|Lenna:  ...?  The branch!
+|Faris:  The forest is...>>>>\02:  Accepting us...?
+|>Obtained \ABAegis Shield"!
+|>Obtained \ABFlame Shield"!
+|\02:  What the...?>  Exdeath's setting the forest on >  fire!?
+|Moogle:  Kupo!
+|\02:  Let's wait a while >  until the fire is out.
+|Moogle:  Kupo!>>>>Lenna:  It still looks dangerous >  above...
+|Lenna:  What's that...?
+|Galuf:  The Master Tree...>  The one who guards the seal...?
+|\02:  The branch!?
+|\02:  What are these?>Galuf:  The sealed...!?
+|Galuf:  Stand guard!!
+|Wonderful work, Warriors of the >  Crystal!>  You have broken the seal... >  hahaha...>  I can't thank you enough.
+|Galuf:  Exdeath!!
+|Exdeath:  The seal has been >  dissolved by the power of the >  four warriors!
+|\02:  What!?>Galuf:  Crystals!?
+|Exdeath:  The power of the >  Crystals which has bounded me...>  ... will now become my own!
+|Exdeath:  Kneel down before the >  Crystals!
+|Cara:  My heart is pounding...>  Has something happened to >  Grandpa...?
+|Moogle:  Kupo!>Cara:  Huh?>  In the Great Forest of Mua!?
+|Cara:  Hiryuu!
+|Exdeath:  This is the end!>  Perish!!
+|Cara:  Grandpa!>  \02!  Lenna!>  Faris!!
+|Galuf:  What did you do to >  Exdeath...!?>>>Cara:  He shouldn't be able to move>  for a while...>  Huh!?
+|Exdeath:  Damn you...
+|Cara:  Stop it!!!
+|Exdeath:  Die!!
+|Cara:  G...rand...pa!
+|Galuf:  Ca...ra...!
+|Exdeath:  Isn't this nice,>  Galuf?  Resist my power and the >  Crystals shatter!!
+|Galuf:  Cara!!
+|Cara:  Grand...pa....
+|Galuf:  Exdeath!!
+|\02:  ... ugh...
+|Cara:  ...>  ... Grandpa!
+|Lenna:  Galuf!!
+|Cara:  Grandpa!!>\02:  Galuf!>Lenna:  Galuf!!>Faris:  Get up!!
+|Galuf:  I'm... done for...>...>>>\02:  Galuf!  What're you >  saying!!>Lenna:  Galuf!>Faris:  Stand up!>Cara:  Open your eyes!!>>>>\02...>  Lenna,  Faris...,>  And Cara...>  Defeat....>Galuf:  Defeat... Ex...death....
+|Cara:  Grandpa!>  Please don't die!!
+|\02:  Galuf, don't die!>  \ABCure3"!
+|Lenna:  Please...>  \ABLife"!!
+|Faris:  Wake up!>  \ABPhoenix Down">  \ABElixir"!!
+|>               Galuf has died.
+|Cara:  Grandpa!!>  Noooo!>  Don't die!!
+|Galuf:  Cara...>>>>Cara:  What...>  Grandpa!?
+|Galuf:  Borrowing the power of >  the Master Tree that has >  protected the Crystals for 1\53\53\53 >  years, I give you my strength...
+|Cara:  Grandpa!  Where are you?
+|Galuf:  You aren't alone...>  Remember this..., Cara...
+|Cara inherits all of Galuf's abilities!!
+|Cara:  Grandpa...>  I feel warm...>  I feel...Grandpa...>>Galuf:  I'll still...>  be with you...>  ...forever...
+|Cara:  Grandpa...>  ...>  I understand.>>Cara:  Hmm?>  What about Exdeath...?
+|\02:  Cara!
+|Cara:  \02!>  Lenna, Faris!>  I'm going to fight with you!!>\02:  Cara...>Cara:  Exdeath is trying to destroy >  all of the Crystals.  Grandpa told >  me so.  We have to hurry!  Let's >  go!  To Exdeath Castle!
+|Cara:  Hiryuu!
+|Cara:  Grandpa's calling...!!
+|Cara:  ...
+|This door won't open...>  Darn that Exdeath!
+|Maybe Sage Guido would know >  something about this...
+|Exdeath's up there...>  Crap!!
+|We will avenge Zeza!!
+|Exdeath!>  We won't forgive you!!
+|Exdeath appeared...>  And we were no match...
+|Exdeath went upstairs...
+|Ugh...
+|Please defeat Exdeath for us...
+|He's...>  ... TOO strong...
+|\02:  A dead end...
+|\02:  Cara... what is it?>>>>Cara:  An illusion created by >  Exdeath...>Lenna:  You can tell...!?
+|Cara:  Grandpa, lend us your >  power...!
+|Kelgar:  I see... so Galuf too...>  Dorgan, Zeza, Galuf...>  They're all gone...>  \C5cough\C5, \C5cough\C5...>Kelgar:  And I'm not long for this >  world either...
+|Sir Kelgar!!
+|Kelgar:  It looks like it's time for >  me to rest...
+|Kelgar:  Who is it...?>>>>Kelgar:  ... Galuf?>  Is it Galuf?>>>Kelgar:  Cara is ...?
+|Kelgar:  Galuf...    \0C>  I understand!
+|Kelgar:  Everybody... lend me your >  power!>Sir Kelgar!>Kelgar:  Smash Exdeath's illusion!
+|Kelgar:  The last of my life.>  With everyone's power I'll send it>  to you in Exdeath's castle!!
+|Sir Kelgar!!
+|Cara:  Grandpa...>  And...>  the wolves too!!>\02:  Kelgar!?
+|\02:  What!?
+|Cara:  Everyone's power...!!
+|Carbunkle:  If you are stronger >  than me, I'll join you...>  Come now... let me see how >  powerful you are!
+|Carbunkle:  You are quite strong!>  I'm coming with you!!>>>>     Obtained Esper \ABCarbunkle"!
+|\02:  Gilgamesh!>>>>Gilgamesh:  Hahaha!>  I've taken what was inside this >  box!!
+|Exdeath:  Don't try to stop me!
+|\02:  Exdeath!>  You can't get away with this!
+|Exdeath:  Fwahaha...!>  Do you even know what I'm >  trying to do?>>\02:  What??>>>>Exdeath:  I'm returning the world >  to its original form...
+|\02:  To a world of evil!>>>>No, you don't understand...>>>>...I won't let you interfere!!
+|Lenna:  The Crystals...!>>>>\02:  They're shattering!?
+|Lenna:  What's that!?
+|Faris:  Castle Tycoon...?>Lenna:  Are we back?
+|Princess Lenna!
+|Welcome home!!
+|You've come back!
+|Princess Lenna!>  Princess Sarisa!!
+|Chancellor:  Princess Lenna!>  Princess Sarisa!>  Welcome back!!
+|Lenna:  Father is...
+|Chancellor:  It's so unfortunate >  that the King has passed away...>  But, somehow we must get over >  this...>Chancellor:  And instead, Princess >  Sarisa has returned to us alive, >  so...
+|Faris:  Sarisa...>  So that's my real name...>Chancellor:  That it is.>>Faris:  The name that Father has >  given me...
+|\02:  Hey hey!
+|Chancellor:  Come along now!>  Your friends too!>  The banquet preparations are all >  finished!!
+|Faris:  I hate looking like this!>Chancellor:  Oh, don't say that!>  Princess!>Faris:  Well...
+|Wow!>She's so beautiful!
+|\02:  Really, isn't she...
+|Cara:  \02!>  Why are you blushing?>\02:  Oh shut it...
+|Now Tycoon will return to its >  former glory!
+|Princess Lenna is pretty too, but >  Princess Sarisa is just so >  beautiful isn't she!!
+|So Princess Sarisa has been going >  by the name Faris?
+|Dance, dance!!
+|I never want Princess Lenna and >  Princess Sarisa to leave on a >  journey again.  Why won't they >  just stay at the Castle?
+|This party will go on for three >  days!
+|Ah!  Excuse me.
+|This is wonderful, isn't it?>>>>...    \0C but I keep noticing that the>  sky looks strange.  And moreover>  it's only the sky over Tycoon...
+|Cara:  Grandpa...>>>>\02:  What is it, Cara?>  Something about Galuf...?
+|Cara:  Yeah.>  But I'm not sad...>  My heart is beating fast...>>Cara:  It feels like Grandpa is >  telling us to hurry, somewhere...
+|\02:  I understand.  Let's >  go.>Cara:  Huh?
+|\02:  How were we sent >  back to my world...  We have to >  look into this.>Cara:  Yes!
+|Cara:  What about Lenna and >  Faris?>\02:  There's nothing we >  can do about them...
+|Oh?  You're leaving?
+|Well, it sure is great that Princess >  Lenna and Princess Sarisa have >  returned!  It's such a relief!
+|I bring news that the bridge >  across the river to the west has >  been finished at last...
+|\02:  I wonder if Boco >  could be in the cave to the west...>Cara:  Who's Boco?>>\02:  The chocobo I used to>  ride around on.>Cara:  Really...?>>\02:  What, you don't >  believe me?>>>Cara:  But \02, you couldn't>  ride the Hiryuu well at all.>\02:  What are you talking >  about!
+|Cara:  Now you've done it!>  Take this!!
+|\02:  I'm no match for you,>  Cara...
+|\02:  Boco!>Wark!!
+|Cara:  How do you do!>  I'm Cara!  Nice to meet you!
+|\02:  Cara... you can talk >  with chocobos!?
+|Cara:  Yeah, just a little.>  It looks like he wants to >  introduce us to someone.
+|Cara:  Wow!>  He says that's his wife!>  Her name's... Coco.>\02:  Boco!  So you've...!!
+|\02:  Boco, I need you to do>  something for me...>Boco:  Wark!>>Cara:  He says he knows.>\02:  Huh?>Cara:  You're leaving on a journey >  again.>\02:  Is that okay with you,>  Boco!?
+|\02:  What's he saying...?>Cara:  He's telling her that he loves>  her...>\02:  Oh!>Cara:  And to please take care of >  their children while he's away...>\02:  Children?
+|Cara:  Coco is pregnant!>  Coco says she'll be waiting for >  him to return.
+|\02:  Boco... thank you!>Wark!!
+|Coco:  Wark! Wark!>Cara:  She says to be careful.>  Thanks!
+|The captain was once of the >  princesses of Tycoon!
+|I'm still seasick...
+|My uncle saved a little girl from >  the ocean... since she kept calling >  herself \AAFarifa', we named her >  Faris...
+|If you get to know them, chocobos>  are such cute things!>  I wonder if Coco's babies will be >  born soon...
+|Captain!>  I love you... hic!
+|Hic...
+|That bird, Boco or whatever...>  He's definitely gotten well.>  He's even made kids!>  Hahaha!!
+|\02:  Owee...>>>>Cara:  Well, you've got to admit, >  we were going a bit TOO fast...
+|\02:  Boco!  This is your >  fault!!>Wark!
+|Cara:  Oh, don't take it out on him...
+|Cara:  \02!>  What's that?
+|\02:  Oh great...>Cara:  And we're stuck...>Boco:  Wark...
+|Will you promise never to do such >  a thing again?
+|Admit your error?>  Hehehe...
+|Get up here!
+|\02:  Faris!!
+|Faris:  So whose idea was it to >  leave me behind?
+|Faris:  Just never do that again!
+|\02:  But why'd you...?>Faris:  Hey, look... I'm not fit to be >  a Princess!
+|Cara:  Ouch!
+|\02:  Cara, what's wrong?>Cara:  I think I have a splinter...
+|Boco:  Wark...
+|>                Faris joined!
+|\02:  Guido!?
+|\02:  ...
+|Guido:  Sorry, sorry.>  I got flipped over when the >  worlds merged back into one...>>Guido:  And when I'm flipped over, I>  can't do a thing!>  Fo ho ho!!
+|\02:  Guido...>  The worlds merging into one >  again...?>>Guido:  The legend...>  I hadn't thought that it would be >  true...>  Even I don't believe it, but...
+|Guido:  According to legend...>>>>Guido:  1\53\53\53 years ago,>  \02's world and Cara's >  world... were together as one >  whole world...>\02:  The worlds were >  one...!?>Guido:  That's right.>>\02:  Why was the world >  split into two...?>>>Guido:  To seal off the power of >  the \ABVoid".>\02:  The \ABVoid"...?>Guido:  Yes.
+|Guido:  1\53\53\53 years ago, there was >  a powerful evil called Enuo.  Enuo>  was able to control the power of>  the \ABVoid".>Guido:  The battle raged on for a >  long time...>>>Guido:  Eventually, using the 12 >  Legendary Weapons, the people >  defeated Enuo...>>Guido:  But they were not able to >  get rid of the \ABVoid" that Enuo >  had created.>>Guido:  The people were left with >  no choice but to...>>>Guido:  ...split the Crystals into two.>  When the Crystals that supported>  the world were split, the world >  split into two as well.>Guido:  The space between the two>  worlds, called the \ABCleft of >  Dimension", was where the >  people chose to seal the \ABVoid"...
+|\02:  So what Exdeath said >  was true...>Lenna:  Returning the world to its >  original form...>Faris:  But the Crystals are gone...>>>>\02:  The wind won't come>  back...>>>Lenna:  And neither will the >  blessings of the earth and water,>  nor the power of fire...
+|Cara:  Ouch...!>  The splinter...
+|\02:  Exdeath!>>>>Exdeath:  Mwahaha...>  I had disguised myself as a little >  splinter, waiting for this >  moment...>Exdeath:  My true objective is to >  obtain the power of \ABVoid" >  sealed in the \ABCleft of >  Dimension"...>\02:  What!?>>>>Exdeath:  That is the reason I >  brought the world back to its >  original state...>  Hahahahaha...
+|Guido:  The \ABCleft of Dimension" is >  beginning to appear in this world!>>>Faris:  The \ABVoid"...>>>>Exdeath:  Yes!>  That's what I'm after!  Now it's >  the time to make the power of >  the \ABVoid" mine!!
+|\02:  Exdeath... Never!
+|Cara:  Castle Tycoon!>>>>Faris:  Lenna!!
+|Exdeath:  Splendid!>  Behold!  The power of the \ABVoid"!>   The power that devours all, the >  strongest power there is!>Exdeath:  And soon it shall be MINE!
+|Faris:  Lenna...!!>  Why you!!
+|Exdeath:  Fools...>  Fwahahahaha....
+|Exdeath:  Damned turtle!
+|Exdeath:  You're not too shabby!>>>>Guido:  Haven't been doing nothing >  all 7\53\53 years of my life...>>>Exdeath:  Hahaha!>  You won't be saying that much >  longer...
+|Guido:  If Exdeath gets his hands >  on the power of the \ABVoid"...>  The world will be enveloped in >  darkness...>Guido:  \02!>  Faris!>  Cara!!>  Hurry to the Cleft of Dimension!
+|\02:  I'll go see what's >  happened...
+|\02:  I... can't...>  Let's go...
+|The two worlds have become one?>   I can't believe it...
+|The scholars went to the building >  that appeared to the south.
+|The building that appeared to the >  south... is it true that it's a >  library?
+|What was that big dark >  blackness!?
+|It's the end...>  The world has no hope...
+|If Exdeath gains full control of the >  \ABVoid"...>  The world will be finished...
+|The Ancient Library... Only a few >  of the scholars who were >  outside of the building were >  saved...
+|This is Surgate Castle!>  We'll protect it for sure!!
+|\02:  The Master tree...>Faris:  The Forest of Mua is >  beginning to restore itself...
+|Cara:  Grandpa...>  Grandpa... won't be coming >  back...?
+|Faris:  Lenna..., Dad...
+|\02:  Many lives have >  disappeared...
+|Cara:  Hiryuu!!
+|Faris:  Lenna!
+|\02:  Lenna!>  Wake up!!>>>Lenna:  ...    \0C>  ...     \0C...     \0C>  This body is mine!
+|Faris:  Lenna!!
+|Exdeath:  Go!  Merugene!>  You're finally free from the >  \ABCleft of Dimension" after a >  thousand years!!
+|\02:  Exdeath!!
+|Exdeath:  Fwahaha...>  The monsters of the \ABCleft of >  Dimension" have all become my >  minions!!
+|\02:  Ugh...>Faris:  Lenna... stop...>Cara:  Please....
+|\02:  Exdeath:  How nice, >  being killed at the hands of your >  own!!
+|\02:  Exdeath...!>>>>Exdeath:  Fwa, ha, ha...>  Before you, I think I'm going to >  get rid of that turtle...
+|Exdeath:  Soon, this power will >  completely be mine, and the >  world will be brought to its >  knees!!>Exdeath:  Fwahahahaha...
+|\02:  Le... nna...>  St... op..!
+|>   Hiryuu's attack in desperation!>>>>     Lenna's body was separated>            from the monster!
+|\02:  Now!!
+|\02:  Lenna!!
+|Lenna:  \02...>  I...
+|Faris:  Lenna!!>Lenna:  Sister..., Cara...>  The castle... I was surrounded in >  total darkness...>Faris:  We understand.>  Try not to speak.
+|>                Lenna joined.
+|\02:  The quicksand's >  stopped!
+|Cara:  Since the Earth Crystals >  shattered, the power of earth >  has totally disappeared...>Faris:  The earth is weakened...
+|Cara:  The \ABSealed Book"!
+|\ABOne rests with the souls of the >  past, protected by the earth..."
+|>         Obtained \ABFirst Tablet"!
+|Cara:  There's writing on the >  tablet...>  The Dragon King Bahamut...    \0C>  ...?
+|Cara:  The peninsula's sinking!?
+|Bahamut:  I'll be waiting for you on>  the North Mountain...
+|Faris:  Look!>  The airship's being washed this >  way.
+|\02:  The tablet!?
+|Three seals will be broken...>  Stand before a weapon, and take>  it...>>After three seals are broken, the >  tablet will disintegrate...
+|\02:  Three seals...>  Is it telling us to pick three of the>  twelve weapons...?
+|>               Undo this seal?
+|Choose three weapons...>  The stone tablet will break three >  seals...
+|\02:  The \ABVoid" hasn't >  disappeared...    µ\02\0F>>>Cara:  ... even though we've >  defeated Exdeath...?    µ\02\0F
+|Lenna:  Is it because the Crystals >  are gone?    µ\02\0F>>>Faris:  Is the world going to be >  enveloped by the \ABVoid"...?    µ\02\0F
+|>           Hope gives the Earth>                  blessings...    µ\02\0F
+|>       Courage lights the flame...    µ\02\0F
+|>         Kindness makes water>            the source of life...    µ\02\0F
+|>        And Pursuit lets wisdom>               ride the wind...    µ\02\0F
+|\02:  The world...>  Is being reborn...    µ\03\0F
+|Lenna:  The Crystals too...    µ\02\0F
+|\02:  There was still some >  power left in the Pieces of >  Crystal.    µ\03\0F
+|Cara:  I'm so glad...    µ\02\0F
+|\02:  It's because Lenna... >  and Faris... and Cara...>  It's because you protected the >  Crystals so well...    µ\04\0F
+|Lenna:  \02...>  You too...     µ\02\0F
+|Cara:  And Grandpa...    µ>\0F
+|Lenna:  And now the wind will >  return to Tycoon...    µ\02\0F>>>King Tycoon:  Yes.    µ\02\0F
+|\02:  Father...>>Cara:  Grandpa...    µ\03\0F>>Lenna:  Father...>>Faris:  Father...    µ\03\0F>>\02:  And Kelgar and Zeza >  too...     µ\03\0F
+|King Tycoon:  The world still needs>  you!>Galuf:  It's still too early for you to>  come where we are!    µ\04\0F>Dorgan:  You have done well... >  now, back to your world!    µ\02\0F
+|Hiryuu!    µ>\0F
+|Here, hang on tight!  Don't fall >  asleep!  You won't be able to get >  out!    µ\03\0F
+|\02:  I... I'm so sleepy...    µ\02\0F
+|Lenna:  I'm falling asleep...    µ\02\0F
+|Faris:  My strength's run out...    µ\02\0F
+|Cara:  I'm... so... tired out....    µ\02\0F
+|What's wrong?    µ\02\0F
+|Nothing...>I'm just a bit sleepy...    µ\03\0F
+|That battle just drained my >  energy a bit too much...    µ\04\0F
+|>Grandpa!     µ\02\0F
+|Mid:  A letter's arrived!    µ\03\0F
+|Mid:  ...>  Where've you gone?    µ\03\0F
+|Mid:  ...>  Where've you gone?    µ\03\0F
+|Mid:  ...>  Where've you gone?    µ\03\0F
+|Mid:  ...>  Where've you gone?    µ\03\0F
+|>                 \02    µ\02\0F
+|>                     Lenna    µ\02\0F
+|>                      Faris    µ\02\0F
+|>                      Cara    µ\02\0F
+|Cid:  Were you really swallowed >  into the \ABVoid"?    µ\04\0F
+|Cid:  Cara... you did swell.>  You all did swell...    µ\04\0F
+|Cid:   Did you say something?    µ\02\0F
+|Cid:   I swear I heard something...>  It said... This place isn't for you to>  come yet...    µ\04\0F
+|\ABCid... Mid... how are you doing?>  This is \02.>  Well, it looks like we've been >  saved..."    µ\04\0F
+|\ABCid... Mid... are you doing well?>  It's Lenna.>  It looks like we've been saved..." >    µ\04\0F
+|\ABCid.... Mid.... how are you guys?>  This is Faris.>  It looks like we've been saved."   >  µ\04\0F
+|\ABCid... Mid... how are you?>  It's Cara.>  It looks like we were saved..."    µ\04\0F
+|\ABSomehow, now it feels like that >  battle was all a dream."    µ\04\0F
+|\ABSince then I've traveled around to>  various towns...    µ\04\0F>>>\ABThings have returned to how >  they were before, it's so >  peaceful..."    µ\06\0F
+|\ABThe Chancellor of Tycoon is all in >  a big rush to rebuild the castle."  >   µ\03\0F
+|\ABThe Chancellor of Tycoon is really>  excited, running around going >  \AAPrincess Lenna! Princess >  Lenna!'..."    µ\03\0F
+|\ABThe Chancellor of Tycoon is really>  excited, running around going >  \AAPrincess Sarisa! Princess >  Sarisa!'..."    µ\03\0F
+|\ABThe Chancellor of Tycoon is in >  good spirits..."    µ\03\0F
+|\ABBut Faris seems worried about >  the pirates..."    µ\03\0F
+|\ABI think I've worried the Chancellor>  too much...>  I'm going to spend more time at >  the castle from now on..."    µ\03\0F
+|\ABThe Chancellor was pleased to >  see me back at the castle, but...>  In his heart he was really >  worried about Lenna..."    µ\03\0F
+|\ABI know Lenna and Faris will >  return sometime...."    µ\03\0F
+|\ABBut Lenna... believes that Faris >  will surely return..."    µ\03\0F
+|\ABBut Faris... believes that Lenna >  will surely return..."    µ\03\0F
+|\ABI really believe that Lenna will >  come back, too..."    µ\03\0F
+|\ABMy sister hasn't come back yet, >  but I will wait forever."    µ\03\0F
+|\ABCastle Bal is having problems that>  there's no one to succeed the >  throne..."    µ\03\0F
+|\ABMaybe even... Queen Cara?>  Hahaha..."    µ\03\0F
+|\ABMaybe...>  I'll be queen??    \0C>  That doesn't sound too bad..."    µ\03\0F
+|\ABBoth Hiryuu and the moogle are >  waiting for Cara's return..."    µ\04\0F
+|\ABI'm now in Lix.>  Until I leave on my next journey, >  I think I'll spend some time near >  Mom and Dad..."    µ\03\0F
+|\AB\02 is in his hometown >  village now."    µ\03\0F>>>\ABUntil he leaves on a journey >  again, he'll be with his mother >  and father..."    µ\04\0F
+|\ABThe wind has returned to Tycoon!>  I'm sure, somewhere, Father is >  watching..."    µ\03\0F
+|\ABWhen I'm at the castle...>  Memories of my father >  mysteriously return to me..."    µ\03\0F>>\ABThese will be the only memories >  I'll ever have about my father, >  won't they...?"    µ\03\0F
+|\ABOh, and my very best friend has >  had kids!"    µ\04\0F>>>\ABYou should come see their faces. >  They're so cute."    µ\04\0F
+|\ABOh by the way, Boco and Coco >  have had children!  They're so >  cute, you should come meet >  them!"    µ\04\0F
+|\ABOh yeah, Boco and Coco had kids!  >  The pirates are taking care of >  them.  Come down sometime and>  see the little guys!"    µ\04\0F
+|\ABBut the one Boco wants to show >  his healthy children the most to >  is probably \02...."    µ\04\0F
+|\ABIt's been one year since then..."    µ\02\0F
+|\ABI am planning to go to that place.>  The place where my friends >  sleep..."    µ\04\0F
+|\ABLenna and Faris are busy with >  everything at their castle, and >  \02 has left on another >  journey... so I...."    µ\04\0F>\ABI think I'll go to that place.>  Where Grandpa sleeps...>  To that place...."    µ\04\0F
+|\ABI think I'll go to that place.>  Where Grandpa sleeps...>  To that place...."    µ\04\0F
+|\ABIf... the others come asking you >  guys about me..."    µ\04\0F
+|\ABNo, I'm sure they'll come.>  Please tell them that I wanted to >  see them again..."    µ\04\0F
+|\ABNo, I'm sure they'll come.>  Please tell them that I wanted to >  see them again..."    µ\04\0F
+|If... at that moment...>  If Grandpa had not saved me...'    µ\04\0F
+|If... at that moment...>  If Grandpa had not saved me...'    µ\04\0F
+|If... at that moment...>  If Galuf had not saved me...'    µ\04\0F
+|If... at that moment...>  If Galuf had not saved me...'    µ\04\0F
+|The earth, wind, fire, and water >  are all alive and the world has >  returned to peace...>  But, I'm still a bit sad...    µ\06\0F
+|I'm sure now....    µ\02\0F
+|It's because Grandpa is gone...>  And I've been left all by myself... >    µ\04\0F
+|\02:  You aren't alone.    µ\03\0F
+|Lenna:  We're here, aren't we?>Faris:  Be happy!    µ\03\0F
+|See you, Grandpa...    µ\02\0F
+|It's because \02 isn't here, >  isn't it...    µ\04\0F
+|It's because Lenna isn't here, isn't >  it...    µ\04\0F
+|It's because Faris isn't here, isn't >  it...    µ\04\0F
+|It's because Cara isn't here, isn't >  it...    µ\04\0F
+|It's because \02 and the >  others aren't here, isn't it...    µ\04\0F
+|It's because Lenna and the others >  aren't here, isn't it...    µ\04\0F
+|It's because Faris and the others >  aren't here, isn't it...    µ\04\0F
+|What?>  Grandpa?    \0C>  ...did you say something?    µ\04\0F
+|What?>  Galuf?    \0C>  ...did you say something?    µ\04\0F
+|You're alive!    µ\03\0F
+|Everyone!!  You've come!!    µ\02\0F
+|Didn't I tell you before?    µ\02\0F
+|This place isn't for you yet...    µ\04\0F
+|Galuf!!    µ\02\0F
+|\02:  Of course.>  How could we forget about a >  friend we fought together with? >    µ\05\0F
+|Cara:  Everyone...    µ\03\0F
+|Lenna:  Tears don't suit you.>  Cara, you need to be strong!    µ\04\0F
+|Faris:  Galuf's gonna laugh at you!  >   µ\03\0F
+|Cara:  Sniffle...>  Hehe... you're right...>  Grandpa is laughing at me...    µ\04\0F
+|After the last battle with >  Exdeath...>  I was so exhausted...    µ\04\0F>>I didn't have enough energy to >  escape the \ABVoid"...    µ\04\0F
+|Everyone became smaller and >  smaller...  I started to feel >  relaxed...    µ\06\0F
+|Everyone became smaller and >  smaller...  I started to feel >  relaxed...    µ\06\0F
+|But, then I heard the voices of the >  Warriors of Dawn.    µ\04\0F
+|But, then I heard the voices of the >  Warriors of Dawn.    µ\04\0F
+|But, then I heard the voices of the >  Warriors of Dawn.    µ\04\0F
+|The Crystals have regained their >  power...>  Now we must protect it...    µ\06\0F
+|\02:  Just like Dad and the >  rest had protected them...    µ\04\0F
+|Lenna:  Hey, don't you hear >  something?>Faris:  ...yeah, I hear it!    µ\04\0F
+|Cara:  Grandpa's voice....?    µ\03\0F
+|\02:  No...>  The rustling of the trees?    µ\03\0F
+|Lenna:  The murmur of the >  Water...?    µ\03\0F
+|Faris:  The flaring of Fire...?    µ\03\0F
+|Cara:  The whisper of the Earth?   >  µ\03\0F
+|\02:  I don't know...>  I don't know, but....    µ\05\0F
+|Faris:  I can hear it...    µ\03\0F
+|Lenna:  Yes, something warm...    µ\03\0F
+|Lenna:  Let's go!    µ\03\0F
+|Faris:  Syldra!>  You're alive!!
+|\02:  Faris, what is it...?>Lenna:  Faris, what do you see?
+|Faris:  Huh?>  But... Syldra's right there...
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Cara:  So your name is Syldra...>  You're a good baby aren't you...
+|Faris:  Cara!>  You can see him!?
+|Cara:  Syldra's soul says that he >  wants to help you, Faris...>>>Faris:  What...!?>Cara:  Such a good boy...
+|>        Obtained Esper \ABSyldra"!
+|We are travelers of time living in >  the \ABCleft of Dimension"...
+|This town floats suspended in the >  Cleft of Dimension...>  The Town of Mirage...
+|You can speak to us...>  Could we have returned to the >  real world...?
+|Each shop in this town has two >  salesmen...
+|Inside the Cleft of Dimension time >  in this town stops...
+|A strange bird has wandered >  here...
+|I saw it, 1\53\53\53 years ago...>  The world was split in two... And >  the town was sucked in...
+|The Phoenix Tower that stands in >  the desert... it is said that a >  dragon that dies there will >  return as a Phoenix.
+|I'm sure there was a piano >  somewhere in this town.  But >  there's been no one to play it for>  so long...
+|The evil wizard Enuo who tried to >  make the world his own with the>  power of the \ABVoid"...>>...he himself was sucked into the >  Void and disappeared...
+|The wall of Phoenix Tower conceal>  both monsters and stairs.>  Search the walls!
+|Why has the flow of time started >  to return to this town...?>>>Is the \ABVoid" once again going to >  appear in the world...?
+|A town appears and disappears >  like an illusion...>Travelers who live a thousand >  years...>Hey, isn't that a great poem?
+|Enuo was immortal.>  But in exchange for acquiring the>  power of the \ABVoid", he lost his >  invulnerable body.
+|Lenna:  Hiryuu!
+|Cara:  Is that the Hiryuu that saved>  you, Lenna?
+|Lenna:  What's it doing!?>>>>Cara:  He says it wants to help you,>  Lenna...
+|Lenna:  Hiryuu!  Stop!!
+|Lenna:  Hiryuu!!
+|Cara:  Lenna... Hiryuu knew he did >  not have much longer to live...>>>Lenna:  So when it saved me back >  at>the forest....>>Cara:  It used the last of its life to >  come to this tower so it could be >  of help to Lenna...>Lenna:  Hiryuu....
+|The Hiryuu transformed into >  Phoenix, and entrusted its power>  and its spirit to Lenna...>>>       Obtained Esper \ABPhoenix"!
+|Lenna:  Hiryuu...>  ...>>>Lenna:  Thank you...
+|Cara:  Unless we take the two >  spells at the same time, the >  tower will explode...?
+|Cara:  Unless we take the two >  spells at the same time, the >  tower will explode...?
+|Cara:  Unless we take the two >  spells at the same time, the >  tower will explode...?
+|Cara:  Unless we take the two >  spells at the same time, the >  tower will explode...?
+|Cara:  Unless we take the two >  spells at the same time, the >  tower will explode...?
+|Cara:  Unless we take the two >  spells at the same time, the >  tower will explode...?
+|Cara:  Unless we take the two >  spells at the same time, the >  tower will explode...?
+|Cara:  Unless we take the two >  spells at the same time, the >  tower will explode...?
+|\02:  We'll split into two >  groups...
+|>              Divide the party>              into two groups.>>>In which group will \02 go?
+|    In which group will Lenna go?
+|     In which group will Faris go?
+|     In which group will Cara go?
+|>          Give up on separating>   the group to climb the tower?
+|Cara:  We need two groups...>>>>>That character cannot be in that >  group...
+|We need to take them at the same>  time...
+|Get ready... take the spell at the >  same time we do!
+|Ready!!
+|>          Obtained Black Magic>                    \ABFlare"!
+|>          Obtained White Magic>                     \ABHoly"!
+|Cara:  The tower's...>  disappearing!!
+|Lenna:  Be careful...
+|Faris:  The ultimate white magic...
+|Cara:  We must take the two spells>  at the same time.
+|Get it quickly, before the tower >                    explodes!
+|Cara:  Guido is calling from the >  bottom of the sea!  He says to >  come quickly!  Let's hurry!!
+|Don't you feel like the geography >  seems somehow different >  now...?
+|A strange cave has appeared to >  the west.>  There's a rumor that a turtle >  monster lives there!
+|A ship with propellers is stuck on >  the bird\C5shaped peninsula to the >  south... what do you think it could>  be?
+|So the missing Princess of Tycoon >  has been found?
+|The Crystals are gone now, aren't >  they...?
+|There's a party going on at Tycoon>  Castle?>  I wonder if I should go check it >  out, too.
+|Tycoon Castle has disappeared...>  What in the world was that black>  darkness that swallowed it...?
+|The wind has stopped...>  The sky will gradually stagnate...
+|I'm getting tired...
+|All of a sudden, I was dizzy...>  And when I regained my senses, >  the outside of the village looked >  different...
+|Wow, so the pirates' leader was >  really a princess of Tycoon!
+|I haven't seen the pirates lately.
+|I was so surprised!  The Boss >  Pirate... err... Faris... was really >  Princess Sarisa!>>But either way, I'm really glad that>  they were both able to return to >  the castle.
+|Faris... I mean, Princess Sarisa!!>  Are you leaving on a journey >  again?
+|Princess Lenna!>  Great, you're safe!>>>When Tycoon Castle disappeared >  into the darkness, we wondered >  what would happen...>>We were so worried about you, >  Princess Lenna...
+|\ABOne is in an island shrine, >  protected by the wind..."
+|>       Obtained \ABSecond Tablet"!
+|The door to the Fork Tower in >  which the ultimate Black and >  White Magic Spells rest has been >  opened!
+|Cara:  There's something written >  on>the tablet...>>\ABThe Fork Tower... where the >  ultimate Black and White Magic >  Spells rest...">>\ABIf the two spells are not taken at >  the same time, the Tower will >  cause a large explosion..."
+|\ABOne is in a place deeper than the >  floor of the sea, protected by >  flame...
+|>        Obtained \ABThird Tablet"!
+|\02:  There's something >  written on the tablet...
+|\ABA magic sealed in the river of >  magma...">>>>            Obtained Dimension>              Magic \ABMeteo"!
+|Oink, oink!
+|From Master Exdeath... oink!
+|An order for me to... oink!
+|KILL YOU!... oink!!
+|Oink, oink, oink!!!
+|\ABAnd the last behind a waterfall, >  protected by water...
+|>       Obtained \ABFourth Tablet"!
+|The monster was killed by >  Leviathan!
+|Leviathan:  My power of water...>  The power that flows over all, >  cleanses all...>>Leviathan:I will only give it to >  those with the power to fight >  the \ABVoid"!
+|>     Obtained Esper \ABLeviathan"!
+|That slab...    \0C>  I can't let you have it...
+|When Master Exdeath gains the >  power of the \ABVoid", a world of >  us monsters will be born!>  You can't stand in our way!!
+|Wark!
+|\02:  It's a female >  chocobo...>  We can't ride it.
+|Bahamut:  You who opened the >  seal...>  Defeat me, and my power shall >  be yours!!
+|>      Obtained Esper \ABBahamut"!
+|\02:  Blurp, blurrp!>  I can probably hold my breath... >  about 7 minutes...
+|\02:  Aaah!>  I can stand another 7 minutes of >  this...
+|The power of this Piece of Crystal >  is mine!  And I'm not giving it to >  anyone!  Go home!
+|Tsk, tsk, tsk...
+|>                     Mimic
+|Cid:  I...>  I'm getting dizzy!
+|Mid:  Grandpa!  Are you all right?
+|Cid:  Whew!>  This is no time to act silly...>>>Cid:  I found new technology in a >  book... Now I can make the >  airship go underwater!>>\02:  Really!>Cid:  Nothing is impossible to Cid.
+|Mid:  He's almost done.>Cara:  He's such a hard worker...>>>>Mid:  ...     \0CGrandpa...>  ... He thinks that this is all his >  fault...
+|Cara:  But... he didn't cause the...>>>>Mid:  Yeah.  He knows that.  So this>  time, he wants to make sure his >  skills will be used for peace...
+|Cid:  I'm done!
+|Cid:  Press the A button and select >  the \AAdown' arrow when you want>  to go underwater.
+|Cid:  \02...     \0C>  We can't wield swords...>  The only help we can give is to >  improve your machines.>Cid:  But, I believe we've done all >  that we can.  The rest is up to >  you...
+|\02:  Let's go!
+|Lenna:  So now we can go >  underwater...?
+|Faris:  And another tablet lies at >  the bottom...
+|Cara:  Take care of your Grandpa...
+|Mid:  Be sure to come back >  sometime!
+|The Crystals shatter, and darkness>  covers the world...>  A frightening thought.
+|It sure feels like the world's >  changed somehow...
+|Wow that was a shock!>  The castle just suddenly >  exploded!!
+|It looks like a castle's appeared >  next to the Ancient Library.
+|Dr. Cid's machine shattered the >  Crystal!?
+|I hope the Queen will get better >  soon...
+|The castle's gone...
+|The wall blocking passage to the >  Ancient Library was destroyed >  along with the castle.
+|It seems that they've discovered >  something at the Ancient >  Library...
+|Queen Karnak was found lying >  unconscious in the Steamship...>  She's been taken to the second >  floor of the Inn.
+|It sure has been getting colder...
+|Since we can't use the Crystal's >  power to make weapons and >  armor anymore, the stores have >  had to raise their prices.
+|Have you gotten good at the >  piano?
+|Do you believe in dwarves?
+|I'm sure they exist.
+|Dwarves live underground...>  There's a tale that says they >  forge wonderful weapons and >  armor...
+|I wonder how Dr. Cid's doing?
+|At the store, they're selling >  equipment they found in the cave>  to the north.
+|It's said that 5\53\53 years ago, our >  ancestors had a spectacular >  civilization...
+|Have you heard of Crescent Island >  far in the east?>  It's a really mysteriously shaped >  island.
+|The cave to the north...?>  It's a remnant of a country called>  the Kingdom of Lonka that was >  destroyed 5\53\53 years ago.
+|My daddy's an adventurer!
+|Have you heard of the Istory falls?>  It's supposed to be a large >  waterfall!  I wanna see it...
+|The Ancient Ruins...>  It was supposed to be left alone, >  but young ones today don't >  listen...
+|They say that sometimes you can >  hear strange sounds coming >  from under the ground on >  Crescent Island.
+|Many adventurers seeking to >  strike it rich in the cave to the >  north gather in this pub.
+|There are lots of tricks and >  strange mechanisms in the cave >  north of here, laid by the ancient>  people...
+|The line of the skull switches...>  If you wait patiently, the truth >  will be seen...
+|The treasure chests in the cave to >  the north have almost all been >  opened.>>I don't think you'd find anything >  valuable in them... but perhaps >  the ancients' tricks...
+|If you climb the wall in the >  deepest depths of the north >  cave, you'll come up outside.
+|But, now that a strange castle's >  appeared...
+|Don't do anything dangerous!
+|This is the town of Jacole.>  We're a village descended from >  the blood of the long ago >  destroyed Kingdom of Lonka.
+|A castle suddenly appeared to the >  north!  What in the world is it?
+|Something's sleeping underneath >  Crescent Island...>  My grandpa, he was an >  adventurer, always said that...
+|The southern islands connected, >  and formed one large strip of >  land.
+|Come on, dance!
+|You too!    \0C\0F
+|Hey!  You out there in front of the >  TV!  You too!    \0C\0F
+|One more time!    µ\02\0F
+|Earthquakes often occur on this >  island. And then, whirlpools >  appear...>>So your boat was swallowed by a >  whirlpool?>  Hahaha!>  That was unlucky of you.
+|A town of mirages that appears in>  the forest...>  No... it's only a rumor.
+|Stone\C5like monsters are weak >  against the \AASoft' item.  My >  grandfather told me that.
+|I saw a black chocobo in the >  forest.>  But he was too quick for me!
+|They say a town like an illusion >  appears in the forest...>  Could it be true...?
+|Sometimes, I hear unusual sounds >  coming from underground...  It's >  scary...
+|A strange tower appeared.>  What's going on?
+|Hhh,., eeee,., llll,., pppp,,.>  mmmmeeee,,,
+|I, I'm scared!!
+|Supposedly there are ruins of the >  ancient Lonka civilization on the >  western continent.>>Strangely enough, things >  excavated from the ruins there >  have also been found on this >  island.
+|This old man's so interesting!>  Tell us a story about the ruins >  now!
+|Hey mister!  What about the >  chocobo story?  Why don't you >  tell it to these people too?
+|The black chocobo is a creature >  that is born and raised in the >  forest.>>Once it's flying it can only land in >  the forest.>But now, they're all extinct.
+|This island is marvelous.>>>>Crops grow without us doing a >  thing, and even though it hardly >  ever rains, we're never short on >  water.
+|There's an old poem in this town...>\ABThe right tower's the tower of >  power.>Your magic won't do a thing..."
+|There was a great harvest this >  year, too.  This is thanks to the >  blessings of the soil on this >  island.
+|Now this soil won't grow anything >  anymore.  I guess it's because >  the Crystal shattered...
+|Look at this water.>  Even without much rain at all it >  steadily flows up from under the>  ground...
+|There's an old poem in this town...>\ABThe left tower's the tower of >  magic.>Your strength won't do a thing..."
+|Mid:  A tower suddenly appeared >  on top of Catapult!>  Cid's been trapped underneath!!
+|Is it true that Exdeath is back?
+|The world will be swallowed by >  darkness...>  Eep...>  I'm scared...
+|There are monsters all over >  outside the village!
+|You shouldn't get too close to the >  castle to the south...
+|This is the remote village of Rugor.
+|It looks like Exdeath's revived...>  But I'm sure he'd never attack a >  village this far out in the middle >  of nowhere.
+|The girl in the weapon and armor >  shop was looking for a ribbon...
+|The sealed castle of Kuzar lies to >  the south.  The weapons used in >  the legendary battle 1\53\53\53 years >  ago are sealed there...
+|The wine we make here is >  delicious!
+|Wow, this is unusual!>  How many years has it been >  since we've had people visit this >  town!
+|The town to the east disappeared >  into the darkness....>  Is this village next?>  I'm so frightened I can't sleep....
+|You didn't see a moogle, you're >  lying!!
+|Do you know what, I saw a >  moogle!>  It's the truth!!
+|Baa, baa!
+|No one can enter the Great Forest >  of Mua that stretches to the >  east.
+|The Great Forest of Mua is gone!
+|Trees are alive.>  They listen to peoples' words, >  and sense peoples' spirits.
+|The Great Forest of Mua has >  become...>  A desert...
+|The legends say that 5\53\53 years >  ago, something extremely >  beautiful was sealed somewhere>  in the forest to the east...
+|That was shocking.>  An eerie light rose up from the >  Great Forest of Mua and flew >  off towards Exdeath's castle...
+|Someone's unlocked the small >  shack.  They say there's ghosts in>  there.>  Oh, it's scary!
+|A desert has suddenly appeared.
+|Greed may result in evil.
+|The Crystals were what were >  sealed in the Great Forest of >  Mua?
+|The living forest... the Great Forest>  of Mua is protecting a seal...
+|Exdeath has returned?>  The nightmare of 3\53 years ago >  will happen again...
+|The trees' spirits hide the path >  that leads through the forest.
+|I've been into the desert.>  There was a weird building...  >  What in the world was that?
+|It's said that in the very back of >  the Great Forest of Mua is the >  Master Tree which guards the >  seal.
+|So Guido was alright.  That's good.
+|Even Guido was...
+|Where'd you come from to such a >  far\C5off village?
+|Once when I was lost in the Forest >  of Mua, a funny little creature >  helped me out.>>It was very strange\9C it kept going >  \AAkupo kupo'!
+|Something happened to the world!>  Something must have!
+|The spirits of the trees usually do >  not show themselves.>>>But if you peek through small >  holes in the tree trunks, they >  may speak to you.
+|So the forest will regrow from >  where the Master Tree is? That's>  good...
+|You're going to the Valley of the >  Hiryuu!?  That place is full of >  monsters!!
+|I can't believe it!>  You returned safely from the >  Valley of the Hiryuu!
+|A shrine's appeared in the middle >  of the Big Bridge.
+|I see...>  Fang...
+|Fang went to protect the Fire >  Crystal, ...>  He was my little brother...
+|We were attacked by Exdeath...>   There aren't many left in this >  village who can fight.
+|Are you kidding!?>  How could Exdeath have been >  revived...
+|The reason for the Hiryuu's >  extinction is a mystery even to >  this day.
+|The Hiryuu Plant transformed into >  a monster?  Well that must have >  been the cause of the Hiryuu's >  extinction.
+|Something is happening...>  If only Sir Kelgar were alive...!
+|No one who goes into the Valley of>  the Hiryuu comes back out.
+|Sir Kelgar...>  He was such a valiant warrior...
+|Baa, baa!
+|We're praying for your safety!
+|...
+|Some weird noises are coming >  from the well...
+|F...r....og....>  Fr...og....
+|Won't you bring me a frog?>  I really want one.
+|I'll trade you this jar for that frog>  and 1\53,\53\53\53 Gil. How does that >  sound?
+|Hehehe...>  Finally, I can eat.
+|>Obtained \ABCorna Jar"!
+|Have a seat over there and I'll give>  you a taste of Kelb village's >  specialty!
+|Here you go!
+|We're out of stuff...
+|This is our after\C5meal service...
+|Kelgar has fallen ill...>  And he overworked himself so >  much...
+|Now all of the Four Warriors of >  Dawn are gone...
+|Oh, Princess Lenna!>  You're alright!!>  That book...?>>Would you like me to read it for >  you...?
+|In an island shrine, protected by >  the wind... Could this be>about the Solitary Island Temple to>  the west of Tycoon?
+|I brought some recovery water >  from the Wind Shrine.
+|Is it true that the \ABCleft of >  Dimension" appeared in the sky >  above Tycoon?
+|This castle suddenly appeared in >  the place where Exdeath was >  sealed...
+|Waterfall... behind another...?
+|I was trapped in there.>  Thank you so much for helping >  me!>>You're so great...    \0Csmooch!!
+|You can't run away...
+|You took my Kiss of Death!
+|I'll play with you...    \0C>  I, the King of the Dimensional >  Castle, Halikarnassos will!
+|You've made it this far...    \0C>  But your lives are already up!>>>They were gone the instant you >  flipped the dimensional switch in >  this book!!
+|This is it...    \0C>  Ahead of here lies the space >  where the \ABVoid" is sealed, and I >  won't let you enter!!
+|Take a peaceful rest in the >  forest...    \0C>  FOREVER!!!
+|This light...    \0C>  I won't let you have it!
+|>        Got better at the piano!
+|>           Mastered the Piano!>>>... Well, almost, anyways.
+|>           Mastered the Piano!!
+|You're late!
+|Fwahaha... I finally have it!!>  The ultimate power!>  Power that will rule the world!>>The power of the \ABVoid"!!
+|Fwa, ha, ha...>  Now, why don't you disappear >  into the \ABVoid" too...?
+|\02!>  Stand up!!
+|\02:  Dad!!
+|\02:  Zeza!>  Kelgar!!
+|Cara:  Grandpa!>\02:  Galuf!!
+|Galuf:  Presenting...>  The Four Warriors of Dawn!!
+|Galuf:  \02!>  Lenna!  Faris!  Cara!>  While we hold back the power of>  the Void, defeat him!!>Galuf:  Only you, the Warriors of >  the Crystal, can save the world >  from the power of Darkness!>  Now, go!!
+|Why did the power of the \ABVoid" >  disappear!?>  Aaaaagh!!  Take this!!
+|Lenna:  Father!>Faris:  Father!!
+|Galuf:  Come on!     \0C>Kelgar:  Now is the time!     \0C>Zeza:  Defeat ...     \0C>Dorgan:  ... Exdeath!!>Four Warriors of Dawn:  Go!>  Warriors or the Crystal!!
+|\02:  Exdeath!>  This is it!!!
+|Guido:  Ouch...>\02:  Guido!>  Are you alright!?
+|Guido:  Damn that Exdeath!>  Something MUST be done before >  the power of the \ABVoid" is his!>>Guido:  ...!?
+|Guido:  What's that!?>\02:  The Ancient Library...>>>Guido:  What!>  The Legendary Ancient Library!!>>>Guido:  I see!>  So it was in your world!!
+|Guido:  Let's go!>  A book we need to defeat >  Exdeath lies in the Ancient >  Library!!
+|Scholar:  Mr. Guido!!>Guido:  The scholars of Surgate!>Scholar:  The \ABSealed Book" has >  been put together!>Guido:  Yes!!
+|Guido:  I call a meeting.
+|Guido:  The two worlds have >  rejoined.>>>Guido:  The power of the \ABVoid" >  that was sealed in the \ABCleft of >  Dimension" is about to return!>>\02:  Then let's hurry to >  the \ABCleft of Dimension"!!
+|Guido:  Not so fast!>  Many monsters were sealed in >  the \ABCleft of Dimension" along >  with the \ABVoid" 1\53\53\53 years ago.>Guido:  They are very powerful.  >  You can't defeat them yet...>\02:  Well then, what >  should we do?>Guido:  Break the seals on the >  twelve legendary weapons that >  were used to defeat Enuo 1\53\53\53 >  years ago!>\02:  Twelve weapons?
+|Guido:  Yes.>  And in order to do that...>>>Guido:  You'll need this \ABSealed >  Book" that had been split in two!>>>Guido:  If the legend is correct...>  The book will show you the >  way...
+|\02:  The book!?>>>>Guido:  When the power of the >  \ABVoid" returns, the \ABSealed Book">  will speak to the Light Warriors...>>>      The book begins to speak...
+|\ABThe twelve weapons we used in >  the war against Enuo we seal in >  the castle of Kuzar...>>\ABThe keys to releasing the seals... >  are the four stone tablets.>>>\ABOne rests with the souls of the >  past, protected by the earth...>>>\ABOne is in an island shrine, >  protected by the wind...>>>\ABOne is in a place deeper than the >  floor of the sea, protected by >  flame...>>\ABAnd the last behind a waterfall, >  protected by water...>>>\ABWe also seal our servants...>  The keys to releasing them are >  the four stone tablets.>>\ABWhen the tablets are moved, our >  servants shall also revive...>>>\ABThe ultimate Black and White >  Spells...>  The greatest Dimensional Spell, >  \AAMeteo'...>  The Sea King \AALeviathan'...>>>>\ABAnd the king of dragons, >  \AABahamut'...>>>\ABHold this book up to the door and >  the path to the seal will open..."
+|>Obtained \ABSealed Book"!
+|Guido:  Before Exdeath gets the >  power of the Void, dissolve the >  seals on the twelve legendary >  weapons!
+|Guido:  The first stone tablet...>  Resting with souls of the past >  and protected by the earth...  The>  Quicksand Desert's Pyramid!>Guido:  \02!>  Faris, Cara!!>  The fate of the entire world is in>  your hands!!
+|Guido:  The power of the twelve >  legendary weapons should be >  able to defeat Exdeath!  You >  must protect the world!
+|Guido:  The Sealed Book read...
+|So on this globe we're here at the >  Ancient Library.  So if you lay the>  two worlds on top of each >  other... interesting...!
+|It's written here that there's an >  evil forest and cave with>dreadful monsters sealed in the >  \ABCleft of Dimension".
+|Dr. Cid and Mid went off to >  Crescent Island and haven't come>  back yet.
+|Will the world be plunged into >  darkness?
+|Exdeath's true form is a tree...>  So that must be why he turned >  himself into a splinter...
+|This says there is a town shut up >  in the Cleft of Dimension...>>>There they sell fantastic magic, >  weapons and armor from 1\53\53\53 >  years in the past...>>If the Cleft of Dimension has >  reappeared, that town would >  also be...?
+|The places where the tablets have>  been sealed are always guarded >  by gargoyles.
+|If the two worlds have been put >  on top of each other... then the >  Sealed Castle of Kuzar should be >  to the east of Tule Village.
+|Exdeath may have obtained the >  power of the \ABVoid", but there >  should still be time left.
+|There's no point...>  Even if Exdeath is defeated, the >  Crystals are still gone...
+|Split the Crystals in two, and the >  world also splits in two...>>>It would have been impossible to >  seal the \ABVoid" without doing >  that...
+|I read in a book:>  \ABLight exists not without Void"...>  What could this mean?
+|When I was burning old book, I >  found a song...>>>>         Learned \ABMagic Song"!
+|\ABMagic Song"...>This song gradually increases your>  Magic Power during battle.
+|When the worlds became one, so >  did the \ABSealed Book".
+|You must prevent Exdeath from >  gaining the power of the \ABVoid"!  >  Would you like me to read the >  \ABSealed Book"?
+|My servants, monsters of the >  Cleft of Dimension!
+|The warriors guided by the light >  of the Crystals are searching for >  the ancient stone tablets...>>Go, kill them!!  We can't let them >  have the Twelve Legendary >  Weapons...
+|We'll do it!!>>>>Go!  My minions!>  Meanwhile... I shall gain the >  power of the \ABVoid"!!
+|We monsters who have been >  sealed in the \ABCleft of Dimension">  for a millenium...
+|Exdeath will unleash the power of >  the \ABVoid"... and a world of us >  monsters... a world of darkness >  will be born!
+|We can't let you stand in his way!>  You will die here in the \ABCleft of >  Dimension"... by the hand of our >  dark powers!  Hehehe...
+|You are the warriors that hold the>  pieces of the Crystals?
+|I see...>  Well then, there's nothing for you>  here...
+|I see...
+|Then, you'll die here!!
+|We're the only ones who made it >  back to Surgate Castle.
+|\02:  Let's go!!
+|I was wondering who it might be...>     \0C>  Weaklings!  Hahaha... Stoker will >  take care of you!!
+|Lenna:  The entrance to the \ABCleft >  of Dimension" is where Castle >  Tycoon disappeared...
+|Cara:  Let's hurry!>  We have to get there before  >  Exdeath gains the power of the >  \ABVoid"!!>Faris:  But Guido said we'd never >  win with the strength we've got >  now...
+|\02:  The twelve legendary>  weapons...>  The Sealed Castle of Kuzar...  >  Let's hurry!!
+|Cara:  What's that!?
+|Lenna:  The entrance to the \ABCleft >  of Dimension"!>Faris:  We're being sucked in!>>\02:  We're going in!!
+|We'll protect the castle until >  Princess Cara returns!
+|What in the world could be in the >  basement...?
+|Is it true that Exdeath's come back>  to life?
+|Moogle:  Cara...>  Cheer up, kupo!
+|Princess Cara!>  Please be careful!
+|>Obtained \ABMagic Lamp"!
+|I'm going to destroy you fools!>  First, your friends!!  Watch as >  they're sucked into the Void and >  disappear forever!!
+|\02:  Stop!!!
+|>\ABEpee" was in the water...>>>>Obtained \ABEpee"!
+|Cara:  We must stop Exdeath.>  The people of the world...>  Not just for them...>  But for all life...>Faris:  I can't take it anymore...>  I can't stand seeing any more >  lives lost...>>\02:  Let's go.>  We'll protect them.
+|Exdeath:  The power of the >  \ABVoid"...>  I can't control it...?>  How's this!?>Exdeath:  Power of the Void!>  Show yourself!
+|Exdeath:  Go!>  Destroy the world!>  Show me your power!!
+|Cara:  Towns are being sucked into>  the Void!!
+|\02:  Exdeath!>  Why you!!!
+|Lenna:  How terrible...>Faris:  \02's hometown...>  The village of Lix...>Cara:  I...I can't believe this...
+|\02:  Grrrrrrrrrr!!
+|Faris:  \02!>  Stop!!
+|Aaagh!>\02!>  Help!!    µ\02\0F
+|Kupo!>Cara!  Kupo, kupo!!    µ\02\0F
+|>                 Ride Hiryuu?
+|I have a gift for ya...>  But not for free...>>>I know...    \0C>  Take a trip around the world in a>  chocobo, and then I'll give it to >  you.
+|I didn't really think you'd take a >  trip around the world in a >  chocobo!>>Take this!>>>>>Obtained \ABMirage Vest"!
+|I didn't really think that you would >  do it...>>>By the way, didn't you stop by a >  waterfall during the trip?
+|I'm a psychic.  I even know about >  your journey!  Would you like to >  hear?
+|Are you now an expert?
+|Well... that's ok.>  Keep working at it.
+|Well, then, go to the House of >  Beginners, and tell them so!
+|Really?>  Then, I'll tell you something.>>>A \ABNo Job" can equip everything, >  and \ABMimic" can equip everything>  except ribbons.>>But their \ABStrength" and \ABMagic >  Power" are a bit weak, aren't >  they?>>But once you Master any Job, the >  \ABNo Job" and \ABMimic" will inherit >  any initial status and abilities that>  come with that job.>For example, once you master >  \AAKnight', \AABlack Mage', and \AAThief', >  your \ABNo Job" and \ABMimic" will >  carry...>...the \ABStrength" of the \AAKnight'...>  ... the \ABMagic Power" of the >  \AABlack Mage'...>>As well as the \ABPassage" and >  \ABDash" abilities native to the >  \AAThief'.>>In addition, you can attach two >  abilities to it.>>>Once you master a few jobs, \ABNo >  Job" and \ABMimic" are by far >  much more powerful!
+|I've dug all this way...>  But I hear strange sounds up >  above here, lali!>>Isn't there a forest above here?
+|Have you heard of the \AAMagic >  Lamp'?>>>If you return it to its original >  place, the lamp's power will >  revive, lali!
+|Lalibo is digging a tunnel, lali!>  He says he'll go all the way >  around the world...
+|We only have five people, but this >  is still a splendid Dwarf Kingdom, >  lali!!
+|>                    Lali, ho!!
+|A book written by a wizard:>\ABGiving a wizard \AADragon Sword'...>  That is the secret to my >  power..."
+|A book written by a wizard:>\ABThe secret of Giga Flare...>  This magic leaves a moment of >  vulnerability during preparation!"
+|A book from 1\53\53\53 years ago:>\ABThey appeared from the sky, the >  one without a heart... \AAOmega'...>>\ABAnd the one who followed it... >  \AAShinryuu'...not even the heroes >  who hold the twelve weapons >  are a match for them...>\ABIt's best to let them rest quietly >  in the \AACleft of Dimension'...>  Never try to speak to them!"
+|Elementalists use nature to their >  advantage.  They aren't hurt by >  damage tiles, and they can evade>  trap doors!
+|Dwarves make excellent weapons >  and armor!>  They aren't just a legend, I'm >  sure they exist somewhere!
+|Please, tell us more about the >  Elementalists!
+|Please, tell us more about the >  Dwarves!
+|>       The spirits of heroes that>     rest in the Pieces of Crystal
+|\02:  What's that...?
+|>Space bends...>And time flows backward...
+|>Huh?
+| bends...>And time flows backward...
+|>Huh?
+| without a heart... \AAOmega'...>>\ABAnd the one who followed it... >  \AAShinryuu'...not even the heroes >  who hold the twelve weapons >  are a match for them...>\ABIt's best to let them rest quietly >  in the \AACleft of Dimension'...>  Never try to speak to them!"
+|\AAElementalists use nature to their >  advantage.  They aren't hurt by >  damage tiles, and they can evade>  trap doors!
+|\AADwarves make excellent weapons>  and armor!>  They aren't just a legend, I'm >  sure they exist somewhere!
+|\AAPlease, tell us more about the >  Elementalists!
+|\AAPlease, tell us more about the >  Dwarves!
+|>       The spirits of heroes that>     rest in the Pieces of Crystal
+|\02:  What's that...?
+|>Space bends...>And time flows backward...
+|>\AAHuh?
