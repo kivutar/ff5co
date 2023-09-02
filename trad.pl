@@ -92,6 +92,12 @@ my %b2c = (
 my %c2b = reverse %b2c;
 
 my %sentences = (
+    ">            Nothing happened." =>
+    ">           Nunda he accadutu.",
+
+    ">          Please select a name." =>
+    ">              Scegli un nome.  ",
+
     "Lenna:  Father! " => 
     "Lenna:  O Babbu!",
 
@@ -123,13 +129,10 @@ my %sentences = (
     "Re Tycoon:  Ohime !?",
 
     "Boco, let's go!" =>
-    "Boco, andemu!  ",
+    "O Boco, andemu!",
 
     "Boco, wait here." =>
-    "Boco, aspetta.  ",
-
-    "Boco, let's go!" =>
-    "Boco, andemu!  ",
+    "0 Boco, aspetta.",
 
     "Are you okay?>Lenna:  Y..., yes..." =>
     "Va be?>Lenna:  I..., Ie...        ",,
@@ -142,7 +145,7 @@ my %sentences = (
 
     # FIXME this corrupts the display
     "Lenna:  This thing suddenly came >  falling from the sky...>  the blast sent me flying, and I fell>  unconscious...>\x02:  Is it a meteor?>Lenna:  A meteor...?>  Might it have something to do >  with the wind stopping?" =>
-    "Lenna:  Sta cosa ha caduta di >  colpu...>  u scoppu mi ha mandatu in aria, >  e mi so svenuta...>\x02:  Sara un meteoru ?>Lenna:  Un meteoru... ?>  Puderebbe esse legatu a u >  firmamentu di u ventu ?                 ",
+    "Lenna:  Sta cosa ha caduta di >  colpu...>  u scoppu mi ha mandatu in aria, >  e mi so svenuta...>\x02:  Sara un meteoru ?>Lenna:  Un meteoru... ?>  Puderebbe esse legatu a u ventu ?                                    ",
 
     "Lenna:  Thank you so much.  I wish>  I could repay you, but I must >  hurry..." =>
     "Lenna:  Ti ringraziu tantu.  Mi >  piacerebbe ripagarti ma aghju >  da anda...",
@@ -196,10 +199,10 @@ my %sentences = (
     "Lenna:  Aaaah!>Galuf:  Aaaah!",
 
     "\x02:  Boco, let's hurry!!>Wark!!" =>
-    "\x02:  Boco, aio !!>Wark !!      ",
+    "\x02:  O Boco, aio !!>Wark !!    ",
 
     "\x02:  Hey!>Lenna:  \x02!!" =>
-    "\x02:  Eh !>Lenna:  \x02!!",
+    "\x02:  Mi !>Lenna:  \x02!!",
 
     "Lenna:  Thank you so very much...>\x02:  Aw, stop that." =>
     "Lenna:  Ti ringraziu tantu...>\x02:  Oh, basta.        ",
@@ -241,7 +244,7 @@ my %sentences = (
     "He una Sorgente di Vita.>>>>HP/MP ripristinati !>Stato ripristinato !>Ripristinato da 'Ferito' !  ",
 
     "\x02:  That button...?" =>
-    "\x02:  Sta leva...?   ",
+    "\x02:  Una leva...?   ",
 
     "\x02:  That ship...?>  How does it sail without wind...?" =>
     "\x02:  Sta nave... ?>  Comu fa a naviga senza ventu... ?",
@@ -253,13 +256,13 @@ my %sentences = (
     "Lenna:  Forse piglianu passageri ?           ",
 
     "\x02:  Uhh... these are >  PIRATES we're talking about >  here..." =>
-    "\x02:  Ehh... i pirati... ??                                     ",
+    "\x02:  Quale... ? i pirati... ??                                 ",
 
     "Galuf:  Well, then we haven't but >  to sneak the ship ourselves!" =>
     "Galuf:  Tuttu cio chi avemu da fa he arruba a stu nave !         ",
 
     "\x02:  Hey old man, you're >  more daring than I thought!" =>
-    "\x02:  O vecchiettu ! Si piu bravu di cio chi pensava !  ",
+    "\x02:  O vecchiettu ! Si piu bravu>  di cio chi pensava !",
 
     "\x02:  He's sleeping..." =>
     "\x02:  Dorme...        ",
@@ -302,6 +305,9 @@ my %sentences = (
 
     "Faris:  That pendant..." =>
     "Faris:  Stu pendente...",
+
+    "\x02:  What's that...?" =>
+    "\x02:  Chi he...?     ",
 );
 
 sub encode {
