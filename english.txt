@@ -1,9 +1,9 @@
 1	$21001F	31	 >            Nothing happened.|
 2	$210041	34	 >     Can't carry any more items!|
-3	$210050	15	 >Obtained «\11"!|
+3	$210050	15	 >Obtained \AB\11"!|
 4	$210061	17	 >Obtained \10 Gil!|
-5	$210070	15	 >Obtained «\12"!|
-6	$21008F	31	 >           MonsterÅinÅaÅbox!!|
+5	$210070	15	 >Obtained \AB\12"!|
+6	$21008F	31	 >           Monster\C5in\C5a\C5box!!|
 7	$2100AF	32	 >                 It's empty...|
 8	$2100D0	33	 >          Please select a name.|
 9	$2100EF	31	 >                 Opened lock.|
@@ -14,11 +14,11 @@
 14	$210315	110	 Welcome to the Traveler's Inn!>  Room and board is \10 Gil >  for the night.  Would you like a >  room tonight?|
 15	$210329	20	 Please rest well...|
 16	$21033C	19	 Please come again!|
-17	$2103B0	116	 A sacred power protects this >  spot...>>>You can rest using a «Tent" or >  «Cabin".>  You may also save your game.|
+17	$2103B0	116	 A sacred power protects this >  spot...>>>You can rest using a \ABTent" or >  \ABCabin".>  You may also save your game.|
 18	$2103D2	34	 Pretty Good!>>>>Received 1\53\53 Gil!|
 19	$2103F3	33	 >        Locked from the inside.|
 20	$210413	32	 >                  It's locked.|
-21	$210426	19	 >Obtained «Cabin"!|
+21	$210426	19	 >Obtained \ABCabin"!|
 22	$21043D	23	 Lenna:  Father!    \0F|
 23	$2104CC	143	 Lenna:  Do you really have to go?  >   \0F>>>King:  Lenna, you need to protect >  the castle.  You mustn't follow >  me.>Lenna:  But...    \04\0F|
 24	$210539	109	 King:  Something about the wind >  bothers me...>  I must go check the crystal of >  the Wind Shrine.    \04\0F|
@@ -29,11 +29,11 @@
 29	$210663	28	 King Tycoon:  What!?    \0F|
 30	$210785	290	 I'll teach you about the Rings...>>>>The Fire Ring...>  absorbs flame,>  and protects against cold,>  but is weak against water.>The Coral Ring...>  absorbs water,>  and protects against flame,>  but is weak against thunder.>The Angel Ring...>  prevents the effects of Zombie >  and Aging.|
 31	$21079B	22	 Moogle:  Kupo!    >\0F|
-32	$210874	217	 Equip/Optimum selects equipment >  based on attack and defense >  power, so it may remove things >  like «Elf Cape" and «Gold Hairpin".>But keep in mind that you may >  want to wear these for their >  special powers.|
-33	$210885	17	 «Boco, let's go!|
-34	$210897	18	 «Boco, wait here.|
-35	$2108BB	36	 «Are you okay?>Lenna:  Y..., yes...|
-36	$21090C	81	 Lenna:  Thank you very much for >  helping me.  I'm Lenna.>  And you...?>«I'm...|
+32	$210874	217	 Equip/Optimum selects equipment >  based on attack and defense >  power, so it may remove things >  like \ABElf Cape" and \ABGold Hairpin".>But keep in mind that you may >  want to wear these for their >  special powers.|
+33	$210885	17	 \ABBoco, let's go!|
+34	$210897	18	 \ABBoco, wait here.|
+35	$2108BB	36	 \ABAre you okay?>Lenna:  Y..., yes...|
+36	$21090C	81	 Lenna:  Thank you very much for >  helping me.  I'm Lenna.>  And you...?>\ABI'm...|
 37	$210962	86	 :  I'm .  >  Journeying with a chocobo to >  nowhere in particular...>>Lenna:  ...|
 38	$210A3A	216	 Lenna:  This thing suddenly came >  falling from the sky...>  the blast sent me flying, and I fell>  unconscious...>:  Is it a meteor?>Lenna:  A meteor...?>  Might it have something to do >  with the wind stopping?|
 39	$210A89	79	 Lenna:  Thank you so much.  I wish>  I could repay you, but I must >  hurry...|
@@ -103,7 +103,7 @@
 103	$211C75	88	 Pirates:  Captain, what should we >  do with these people?>>>Faris:  Untie their ropes!|
 104	$211C88	19	 Faris:  Hurry up!!|
 105	$211D5B	211	 Lenna:  Why...?>>>>Faris:  I'm saying that I'm going to >  lend you my help.>  Isn't that good enough?>>Faris:  We're off!>  To the Wind Shrine!>>>Pirates:  ...>>>>Faris:  Are you guys going to listen >  to me?|
-106	$211D8C	49	 Faris:  Answer me!>>>>Pirates:  A... ayÅay, sir!|
+106	$211D8C	49	 Faris:  Answer me!>>>>Pirates:  A... ay\C5ay, sir!|
 107	$211D9F	19	 Faris:  We're off!|
 108	$211E04	101	 Lenna:  But, with the wind >  stopped... how will the ship >  move?>>Faris:  You really wanna know!?|
 109	$211E37	51	 Faris:  Syldra!>  Why don't you introduce youself?|
@@ -175,7 +175,7 @@
 175	$212D10	95	   How to use the Pieces of Crystal>Would you like an explanation of >  the Job/Ability System?|
 176	$212DD8	200	 >               Final Fantasy V>            Job/Ability System>>The warriors chosen by the >  Crystals gain the powers of the >  ancient heroes that rest within >  them.>Thus they are granted \AAJobs'.|
 177	$212E48	112	 By using a Job, each of the four >  warriors can gain special skills of>  that Job.  These we call \AAAbilities'.|
-178	$212EF8	176	 When you select a Job or any >  Abilities, your equipment will, for >  a moment, be removed.>>Don't worry... It will automatically >  be reÅequipped with optimal >  equipment.|
+178	$212EF8	176	 When you select a Job or any >  Abilities, your equipment will, for >  a moment, be removed.>>Don't worry... It will automatically >  be re\C5equipped with optimal >  equipment.|
 179	$213027	303	 By combining Jobs and Abilities >  skillfully, you can create new >  types of characters.>>You might make a \AABlack Mage >  that can Jump', or a \AAKnight that >  uses White Magic'.>>As an example, let's create a >  \AAKnight that uses White Magic'.>>>First, select the \AAWhite Mage' for a>  character's Job.|
 180	$213159	306	 Then, as you gain Ability Points >  (ABP) in battle, you will eventually>  earn the White Mage's Ability >  \AAWhite'.>Next, change the character's Job >  to \AAKnight', then select \AAWhite' >  from the Ability menu.  Select >  equipment for your knight...>And now you have a \AAKnight that >  uses white magic'!|
 181	$21315F	6	 Wark!|
@@ -267,7 +267,7 @@
 267	$214A95	30	 Faris:  I'm sorry, you can't.|
 268	$214AAC	23	 Pirate:  But Captain!!|
 269	$214B67	187	 Faris:  It looks like it's going to be >  a long journey...>  Be sure to protect the hideout >  while I'm gone.  Okay, guys?>Pirate:  Captain!...>>>>Faris:  Please...>Pirate:  Captain...|
-270	$214B81	26	 Pirate:  A... ayÅay, sir!|
+270	$214B81	26	 Pirate:  A... ay\C5ay, sir!|
 271	$214BB2	49	 Pirate:  Take good care of >  yourself, Captain!|
 272	$214BCE	28	 :  Lenna, what's >  wrong?|
 273	$214BF1	35	 \AAThe Wind Crystal has shattered...|
@@ -326,7 +326,7 @@
 326	$215C02	44	  awakened!>Lenna awakened!>Faris awakened!|
 327	$215C41	63	 :  Galuf!>  You saved our lives!!>>>Galuf:  Don't sweat it...|
 328	$215C72	49	 :  Don't be >  embarrassed!>>>Galuf:  I'm not!!|
-329	$215C89	23	 >Obtained «World Map"!|
+329	$215C89	23	 >Obtained \ABWorld Map"!|
 330	$215CC0	55	 Since the wind's weakened, we >  can't send out ships.|
 331	$215CF2	50	 The sea is getting so still...>  Isn't it sad?...|
 332	$215D46	84	 This town's harbor is the best in >  the world!  But now our boats >  won't sail...|
@@ -353,7 +353,7 @@
 353	$216326	69	 It's true!!>  A big dragon was flying towards >  the North Mountain!|
 354	$21636F	73	 The purple flowers that bloom on >  the North Mountain are >  poisonous.|
 355	$21640F	160	 My husband says he saw a dragon>  flying towards the North >  Mountain.>>But since nobody believes him, he's>  hiding out up on the second floor >  of the Pub.|
-356	$21644D	62	 Those lizardÅlike hibernating >  things can't stand the cold.|
+356	$21644D	62	 Those lizard\C5like hibernating >  things can't stand the cold.|
 357	$2164AE	97	 Do you have a World Map?>  Then you can see the whole >  world just by pressing the Y >  button!|
 358	$2164E4	54	 Knights can hold things in both >  hands!    >  Hic!|
 359	$216556	114	 I heard that there is some Hiryuu >  Plant on the North Mountain.>  But it's surrounded by poisonous >  plants...|
@@ -366,7 +366,7 @@
 366	$2167F5	77	 I really saw it...>  I saw a dragon go flying towards>  the North Mountain!!|
 367	$216844	79	 Lenna:  What kind of dragon!?>It almost looked like it was >  wearing armor...|
 368	$21687F	59	 Lenna:  My father's Hiryuu is on >  the North Mountain?...|
-369	$216953	212	 Faris:  What's wrong, Lenna?>>>>Lenna:  There is a plant growing >  on the North Mountain, called the>  «Hiryuu Plant".>>Nothing other than it can heal a >  Hiryuu's wounds...>  Perhaps the Hiryuu is injured...?|
+369	$216953	212	 Faris:  What's wrong, Lenna?>>>>Lenna:  There is a plant growing >  on the North Mountain, called the>  \ABHiryuu Plant".>>Nothing other than it can heal a >  Hiryuu's wounds...>  Perhaps the Hiryuu is injured...?|
 370	$216A13	192	 Galuf:  And if we can't go by sea...>>>>:  ...    >  ...    >  ...>  We'll go by air!!>Lenna:  We could get to Worus if >  we had the Hiryuu.>Galuf:  Nice plan.  To the North >  Mountain!!|
 371	$216A2C	25	 Lenna:  Father's helmet!|
 372	$216A4C	32	 >           Lenna was poisoned!|
@@ -383,7 +383,7 @@
 383	$216CC1	52	 Faris:  Lenna!  What do you think >  you're doing!?|
 384	$216D13	82	 Lenna:  I'm alright.>  Stay back!>  If I can treat it with the Hiryuu >  Plant...|
 385	$216D41	46	 Lenna:  Hurry...>  Give this to the Hiryuu...|
-386	$216D5D	28	 Lenna:  Get better, HirÅ...|
+386	$216D5D	28	 Lenna:  Get better, Hir\C5...|
 387	$216D8D	48	 Galuf:  That was a truly rash thing >  to do...|
 388	$216DFB	110	 >    Lenna's status was restored!>>>Lenna:  Hiryuu...thank you!>Galuf:  It's alright!  Come on, let's >  go!!|
 389	$216E29	46	 :  I.. I'm...>  kind of afraid of heights...|
@@ -422,13 +422,13 @@
 422	$21766F	69	 The king is very nice, but he still >  doesn't forgive bad things...|
 423	$2176C0	81	 ...(sigh)...>  How can I continue research on >  Crystals with only these books?|
 424	$217732	114	 I'd be able to make some progress>  if only I could see the books at >  the Ancient Library far to the >  west...|
-425	$21778E	92	 According to this book...>«Esper Shiva... was sealed in water>  purified by the Crystal..."|
+425	$21778E	92	 According to this book...>\ABEsper Shiva... was sealed in water>  purified by the Crystal..."|
 426	$2177E8	90	 The water purified by the Crystal >  flows from the tower to the >  north of this castle.|
 427	$217805	29	 This is the Castle of Worus!|
 428	$21782B	38	 The King has headed to the >  meteor.|
 429	$21788A	95	 The people down in the dungeon >  are trash.  Don't listen to their >  pleas, whatever you do!|
 430	$2178D8	78	 I am the ice Esper Shiva...>  Are you fit to be my masters?>  Let's find out!|
-431	$2178FA	34	 >         Obtained Esper «Shiva"!|
+431	$2178FA	34	 >         Obtained Esper \ABShiva"!|
 432	$21795A	96	 King Worus:  Why, if it isn't >  Princess Lenna!>>>Lenna:  King Worus!>  It's been a long time.|
 433	$217A3B	225	 Lenna:  Please!>  Please stop amplifying the power>  of the Water Crystal >  immediately!>King:  (chuckle)... You must be >  kidding... We can't do that!  >  Thanks to the Crystal, we can all >  live in wealth and abundance!|
 434	$217AB4	121	 Lenna:  But if you continue, the >  Crystal will shatter!>>>King:  Hmm...    >  I've heard about the Wind >  Crystal...|
@@ -468,9 +468,9 @@
 468	$2182B1	64	 The King was attacked by Galura... >  He is resting in is room.|
 469	$21832D	124	 That soldier came out of a hole in >  the meteor up north.>>>He keeps muttering about... how >  he was warped or something.|
 470	$218386	89	 We brought in a wounded soldier >  from Karnak.  He's sleeping in >  the soldiers' room.|
-471	$21844C	198	 King:  So you were correct... >  ÅcoughÅ...>>>Lenna:  King Worus!>  Are you alright?>>>King:  Please hurry to Karnak.  >  There they are also using a >  machine to amplify the Crystal's >  power...|
-472	$2184BD	113	 King:  It appears a meteor has also>  fallen near Karnak...>  There's no time to waste...>...ÅcoughÅ, ÅcoughÅ...|
-473	$2184D4	23	 ...ÅcoughÅ, ÅcoughÅ...|
+471	$21844C	198	 King:  So you were correct... >  \C5cough\C5...>>>Lenna:  King Worus!>  Are you alright?>>>King:  Please hurry to Karnak.  >  There they are also using a >  machine to amplify the Crystal's >  power...|
+472	$2184BD	113	 King:  It appears a meteor has also>  fallen near Karnak...>  There's no time to waste...>...\C5cough\C5, \C5cough\C5...|
+473	$2184D4	23	 ...\C5cough\C5, \C5cough\C5...|
 474	$218548	116	 Princess Lenna...>  If you have the Hiryuu, why don't>  you return to Tycoon?  Surely, >  they must all be worried.|
 475	$218568	32	 Please hear the King's request.|
 476	$21858A	34	 Lenna:  !>Galuf:  Was he warped?|
@@ -495,7 +495,7 @@
 495	$218B21	78	 Faris:  Me, a pirate leader, really a>  princess...?>  That's not even funny!|
 496	$218B42	33	 Lenna:  But...>  Your pendant...|
 497	$218B5F	29	 ...>  !>>>:  ...>...HUHN!|
-498	$218BB2	83	 Lenna:  ÅgiggleÅ...>Galuf:  What are you doing!?>Faris:  Hahaha, you're so weird!!|
+498	$218BB2	83	 Lenna:  \C5giggle\C5...>Galuf:  What are you doing!?>Faris:  Hahaha, you're so weird!!|
 499	$218BD0	30	 Faris:  Lenna, are you awake?|
 500	$218C7C	172	 Lenna:  Yes.>Faris:  When I was little, the shock >  from falling into the sea made >  me forget... but...>Lenna:  Sister...>Faris:  Seeing this room now, I >  remember...|
 501	$218CD6	90	 Sarisa:  Umm... let's see...>         Cure...>           Cure 2...>             Cure 3...|
@@ -511,11 +511,11 @@
 511	$219156	81	 Lenna:  Father is... gone...>  But there is still someone who >  needs our help.|
 512	$21919C	70	 Lenna:  I will return.  Until then, I >  need everyone's cooperation.|
 513	$2191EA	78	 Lenna:  Sister...>  Do you remember Father?>Faris:  It's been... 15 years...?|
-514	$219214	42	 Sarisa:  No!>  NoooooooÅÅ!!>  I'm scared!|
+514	$219214	42	 Sarisa:  No!>  Nooooooo\C5\C5!!>  I'm scared!|
 515	$21926A	86	 King Tycoon:  But I thought you >  were looking forward to going >  flying.  Come on!|
 516	$2192EA	128	 King:  I'm going to search for the >  best doctor in the world again >  today.  For Mother.  Behave >  yourself while I'm away.|
 517	$21930B	33	 Sarisa:  Waaah!>I'm going, too!!|
-518	$2193B6	171	 >          King Tycoon's Journal>>>«... day of ... month>  Today I was supposed to take >  Sarisa for a ride on the Hiryuu...>>«She made such a nuisance of >  herself..."|
+518	$2193B6	171	 >          King Tycoon's Journal>>>\AB... day of ... month>  Today I was supposed to take >  Sarisa for a ride on the Hiryuu...>>\ABShe made such a nuisance of >  herself..."|
 519	$2193EE	56	 Lenna:  You mean there isn't any >  way to help Mother?|
 520	$219470	130	 King Tycoon:  The doctors have >  done all they can.  They say the >  disease can only be cured with >  the tongue of a Hiryuu...|
 521	$2194CD	93	 King:  Lenna!>What in the world are you doing >  with that knife!?>...     you would never!|
@@ -551,7 +551,7 @@
 551	$219E19	221	 People from the Ancient Library >  started telling us to not use the >  Crystal's power.>>They were so persistent, that the >  Queen had a wall built to stop >  anyone from going to or coming >  from the Ancient Library.|
 552	$219E66	77	 The Ancient Library lies south of >  here.  That's where Dr. Cid is >  from!|
 553	$219ED6	112	 A man named Cid is the one who >  created the machines to amplify >  the Crystals' power!>  Isn't he wonderful?|
-554	$219F6B	149	 Have you heard of a monster >  called «Crew Dust"?>>>Well, when there's only one of >  them left, they'll hit you with a >  «Flash".  They're tough!|
+554	$219F6B	149	 Have you heard of a monster >  called \ABCrew Dust"?>>>Well, when there's only one of >  them left, they'll hit you with a >  \ABFlash".  They're tough!|
 555	$219FBD	82	 A frightening monster called Dohlm>  Chimera lives in the desert to the>  west...|
 556	$21A01F	98	 It's them!>:  ???>>>You must be here with the >  monsters!  I saw you come out of>  the meteor!!|
 557	$21A044	37	 Galuf:  Now what do we do...?>:  !?|
@@ -666,8 +666,8 @@
 666	$21C125	121	 A monster that appeared 3\53 years>  ago near the Wind Shrine is >  sealed in the basement here.>  Its name is \AAByblos'...|
 667	$21C19F	122	 I wish I could burn the books >  possessed by monsters... but I >  don't know which they are!>  It sure is frustrating...|
 668	$21C1F5	86	 A long time ago, Ifrit would burn >  books that were possessed by >  monsters, but...|
-669	$21C24F	90	    A book written by a Blue Mage>«Finally I've learned them... Aero... >  Level 5 Doom...|
-670	$21C2B7	104	    A journal written by a traveler>«I guess I'll give this mysterious>staff to the people of Tycoon..."|
+669	$21C24F	90	    A book written by a Blue Mage>\ABFinally I've learned them... Aero... >  Level 5 Doom...|
+670	$21C2B7	104	    A journal written by a traveler>\ABI guess I'll give this mysterious>staff to the people of Tycoon..."|
 671	$21C2D7	32	 It's great that Mid is alright!|
 672	$21C320	73	 Mid left the Ancient Library.  He >  said he was going to see Dr. Cid...|
 673	$21C340	32	 Mid hastily rushed out of here!|
@@ -677,7 +677,7 @@
 677	$21C3C7	36	 Bookshelf:  I... Ifrit...!>  Help!!|
 678	$21C415	78	 I am Ifrit...>>>>Ifrit:  I have been sealed in this >  book for many years...|
 679	$21C45B	70	 Only those whose bodies can >  withstand my flames may >  summon me!!|
-680	$21C47E	35	 >          Obtained Esper «Ifrit"!|
+680	$21C47E	35	 >          Obtained Esper \ABIfrit"!|
 681	$21C4D6	88	 :  Who's that?>Lenna:  Mid?>>>Galuf:  Be careful!  I have a bad >  feeling about this!|
 682	$21C4E6	16	 Scholar:  Mid!!|
 683	$21C598	178	 Mid:  Hey!>  Don't bother me while I'm >  reading!>>:  You've been reading >  that book this whole time!?>>>Mid:  What?>  Were you the ones making all >  that noise back there?|
@@ -703,7 +703,7 @@
 703	$21CB47	16	 Mid:  Grandpa!!|
 704	$21CBFD	182	 Cid:  The Earth Crystal is still alive.>>>>:  But where is it?>>>>Cid:  I have no idea.  But we must >  find it and protect it!  And in >  order to do that...>>Mid:  The Steamship!|
 705	$21CC86	137	 Cid:  We must get the Steamship to>  move.  But we don't have the >  Fire Crystal's power anymore...>Mid:  Grandpa, take a look at this!|
-706	$21CCED	103	 Cid:  This book...!?>  hmm...    \03 ...    >  AhÅha!>>Cid:  Now, THAT's an idea!  Great >  work, Mid!|
+706	$21CCED	103	 Cid:  This book...!?>  hmm...    \03 ...    >  Ah\C5ha!>>Cid:  Now, THAT's an idea!  Great >  work, Mid!|
 707	$21CD1C	47	 Cid:  Let's get to it right away!>Mid:  Yeah!!|
 708	$21CD57	59	 Mid:  Hey, you guys stay out of the>  way for a while, ok?|
 709	$21CDC8	113	 Cid:  Sorry, sorry, Mid's just >  excited.  Why don't you take a >  rest until we're done with the >  Steamship?|
@@ -740,17 +740,17 @@
 740	$21D5B0	21	 Dr. Cid's come back!|
 741	$21D5F7	71	 Cid and Mid.>  There's no such thing as a >  problem they can't solve!|
 742	$21D611	26	 I am Dr. Cid's assistant.|
-743	$21D67A	105	 I've been asked by Mid to find >  books that have information >  about some crescentÅshaped >  island...|
+743	$21D67A	105	 I've been asked by Mid to find >  books that have information >  about some crescent\C5shaped >  island...|
 744	$21D68A	16	 :  It's empty!|
-745	$21D6D9	79	 >         There's a card inside...>>>«The great thief Lone Wolf was >  here!!"|
-746	$21D6F3	26	 >Obtained «Thunder Whip"!|
+745	$21D6D9	79	 >         There's a card inside...>>>\ABThe great thief Lone Wolf was >  here!!"|
+746	$21D6F3	26	 >Obtained \ABThunder Whip"!|
 747	$21D71B	40	 There's a button in the chest.>Push it?|
 748	$21D743	40	 There's a button in the chest.>Push it?|
 749	$21D7C4	129	 Did you come to defeat me?>  ... well I don't have time to keep >  you company.  I'll give you just >  one minute.>Is that okay?|
 750	$21D81D	89	 Hmph...>  I won't spare you any mercy >  after one minute.  Do you still >  want to try?|
 751	$21D850	51	 Hmph...>  Don't come begging for mercy >  later...|
 752	$21D878	40	 Time's up.>  Come back some other time!|
-753	$21D899	33	 >         Obtained Esper «Odin"!|
+753	$21D899	33	 >         Obtained Esper \ABOdin"!|
 754	$21D8AB	18	 >Obtained 1\53 Gil!|
 755	$21D8BD	18	 >Obtained 2\53 Gil!|
 756	$21D8CF	18	 >Obtained 4\53 Gil!|
@@ -772,14 +772,14 @@
 772	$21DB4D	109	 A monster that looks like an odd >  old man wanders in the forest to>  the east.>  He hits you with thunder!|
 773	$21DBA5	88	 You shouldn't talk to that sheep >  over in the left corner!  She kicks>  people often.|
 774	$21DBB8	19	 :  What attitude!|
-775	$21DBF1	57	 Wow!  You scared me!>  I was playing «Monster Trainer"!!|
+775	$21DBF1	57	 Wow!  You scared me!>  I was playing \ABMonster Trainer"!!|
 776	$21DBFC	11	 Baa, baa..|
 777	$21DC0C	16	 Ribbit, ribbit!|
-778	$21DC41	53	 The frog left something behind!>>>>>Obtained «Toad"!|
+778	$21DC41	53	 The frog left something behind!>>>>>Obtained \ABToad"!|
 779	$21DC82	65	 Are you the ones who are on a >  journey to protect the Crystal?|
 780	$21DCA6	36	 Then please, take use of this song!|
-781	$21DCC6	32	 >          Learned «Love Song"!|
-782	$21DD19	83	 The «Love Song" is a song about >  tender feelings...>  It calms monsters' hearts.|
+781	$21DCC6	32	 >          Learned \ABLove Song"!|
+782	$21DD19	83	 The \ABLove Song" is a song about >  tender feelings...>  It calms monsters' hearts.|
 783	$21DD49	48	 I must have been thinking of >  someone else...|
 784	$21DDB1	104	 I live quietly in this village making >  songs...>  I will until the pain of losing... >  her... heals.|
 785	$21DE20	111	 There's probably something hidden>  behind the waterfall...>>>That's what my great, great >  grandmother said.|
@@ -787,18 +787,18 @@
 787	$21DE63	23	 :  What!?  The ship!!|
 788	$21DE7C	25	 :  The ship's sinking!!|
 789	$21DEC2	70	 You look like you're tired from >  traveling.  I'll teach you a song.|
-790	$21DF22	96	 >           Learned «Life Song"!>>>This song gradually increases your>  vitality during battle.|
+790	$21DF22	96	 >           Learned \ABLife Song"!>>>This song gradually increases your>  vitality during battle.|
 791	$21DF6E	76	 Please play some tunes.  It might >  remind me of a song to teach >  you...|
 792	$21DF90	34	 You're still going to get better.|
 793	$21DFC9	57	 That's a nice tune.>  Here, I'll teach you another song!|
-794	$21E028	95	 >         Learned «Power Song"!>>>This song gradually increases your>  strength during battle.|
-795	$21E085	93	           Learned «Hero Song"!>>>>This song gradually increases your>  levels during battle.|
+794	$21E028	95	 >         Learned \ABPower Song"!>>>This song gradually increases your>  strength during battle.|
+795	$21E085	93	           Learned \ABHero Song"!>>>>This song gradually increases your>  levels during battle.|
 796	$21E0A1	28	 You're now master of piano.|
 797	$21E10B	106	 Galuf:  What is that?>>>>Lenna:  A chocobo?>>>>Faris:  But it's a bit different...>>>>:  I'll catch it!!|
 798	$21E112	7	 Wark!!|
 799	$21E18C	122	 :  Hey this one's a black>  chocobo!>>>Lenna:  So they weren't extinct!>>>>:  Well, let's see if you >  can fly!>  Go!!|
-800	$21E1BA	46	 WarkÅ!>>>>Galuf:  ...>Faris:  Huh?>  Look...!|
-801	$21E1DE	36	 Wa... ...>  ÅhackÅ, Åhack!Å>  Wark!|
+800	$21E1BA	46	 Wark\C5!>>>>Galuf:  ...>Faris:  Huh?>  Look...!|
+801	$21E1DE	36	 Wa... ...>  \C5hack\C5, \C5hack!\C5>  Wark!|
 802	$21E258	122	 Lenna:  Pieces of Crystal...?>>>>Faris:  These must be the ones >  that were sent flying in the >  explosion at Karnak...|
 803	$21E27E	38	 :  So that's why he >  couldn't fly!|
 804	$21E2B6	56	 >                      Bard>                     Hunter|
@@ -857,12 +857,12 @@
 857	$21F2A5	39	 :  It's looks dangerous >  past here.|
 858	$21F2C0	27	 There is a lever.>Push it?|
 859	$21F2DB	27	 There is a lever.>Pull it?|
-860	$21F35C	129	 :  Unnnnnggh!>    It's no use....>>>:  Huh?    >I see some writing on the wall.>«Look at the flowers in the center >  room."|
-861	$21F3A5	73	 There is a note.>«Look at the stationery in the >  room to the right..."|
-862	$21F3BC	23	 «Monkeys always look!"|
-863	$21F418	92	 :  ... ... ...>Lenna:  Calm down, ...>Faris:  There's a second sheet...>>«Check the pot."|
-864	$21F452	58	 «Go 8 down, 4 right, and pull at >  what you find there!"|
-865	$21F48C	58	 «Go 6 down, 4 right, and pull at >  what you find there!"|
+860	$21F35C	129	 :  Unnnnnggh!>    It's no use....>>>:  Huh?    >I see some writing on the wall.>\ABLook at the flowers in the center >  room."|
+861	$21F3A5	73	 There is a note.>\ABLook at the stationery in the >  room to the right..."|
+862	$21F3BC	23	 \ABMonkeys always look!"|
+863	$21F418	92	 :  ... ... ...>Lenna:  Calm down, ...>Faris:  There's a second sheet...>>\ABCheck the pot."|
+864	$21F452	58	 \ABGo 8 down, 4 right, and pull at >  what you find there!"|
+865	$21F48C	58	 \ABGo 6 down, 4 right, and pull at >  what you find there!"|
 866	$21F51F	147	 :  Where are we...?    >  ...it's the Steamship!>  I had sunk to the bottom of the >  sea...>  ...then, what the heck is that ship>  over there?|
 867	$21F54E	47	 :  Propellers on a >  ship...?>  How strange.|
 868	$21F5A3	85	 :  Cid!!  Mid!!>>>>Cid:  Ouch...>Mid:  Where are we...>!!  !>Lenna, Faris, Galuf!!|
@@ -911,7 +911,7 @@
 911	$2205F3	36	 :  Something's wrong!>  Look out!!|
 912	$220607	20	 Galuf:  This is it!|
 913	$22067F	120	 Galuf:  Remarkable memory, eh?>:  That's not something >  a person with amnesia should be >  saying...>Galuf:  Hahaha!|
-914	$220697	24	 >Obtained «Adamantium"!|
+914	$220697	24	 >Obtained \ABAdamantium"!|
 915	$220703	108	 Cid:  You got the Adamantium!>Mid:  We'll start right away!>, you guys should go >  rest in the bedroom...|
 916	$22074C	73	 :  ...>  I just had a dream that the >  airship was already finished...|
 917	$22075F	19	 Cid:  We're done!!|
@@ -938,7 +938,7 @@
 938	$220C5A	28	 Galuf:  ...You're... Cara!?|
 939	$220C9F	69	        Galuf's memory has been>          restored completely!    \04\0F|
 940	$220CBD	30	 Cara:  Grandpa, I missed you!|
-941	$220CEE	49	 Cara:  He's fine.  It was only a >  weak «Bolt"!|
+941	$220CEE	49	 Cara:  He's fine.  It was only a >  weak \ABBolt"!|
 942	$220D36	72	 King:  Unnh... where am I...?    >Lenna...>Sarisa...?>Is that Sarisa!?|
 943	$220D46	16	 Lenna:  Sister!|
 944	$220D8D	71	 King:  You're...>Sarisa!>You're alive!!>>Faris:  Fa... ther...>Father!|
@@ -1006,7 +1006,7 @@
 1006	$221F13	26	 Mid:  That was scary...!!|
 1007	$221F46	51	 Cid:  We owe you one.>  Just leave the rest to us!|
 1008	$221F81	59	 Cid:  That one's fine...>Mid:  Let's hurry on to the next!|
-1009	$221FA3	34	 >         Obtained Esper «Titan"!|
+1009	$221FA3	34	 >         Obtained Esper \ABTitan"!|
 1010	$221FD4	49	 Cid:  It's finished!>Mid:  Come on, let's hurry!|
 1011	$221FED	25	 :  Cid! Mid! Look out!!|
 1012	$222020	51	 Cid:  Are you alright!?>Mid:  Wow, you're strong!!|
@@ -1016,7 +1016,7 @@
 1016	$2220D1	14	 :  Let's go!|
 1017	$222119	72	 Lenna:  You guys all right?>Mid:  Yeah!>Cid:  That was frightening...!!|
 1018	$22214A	49	 Cid:  Now, onto the next meteor!>Mid:  Let's go!|
-1019	$22223F	245	 Lenna:  The light is weakening...>>>>:  There's not much of >  the>meteors' energy left!>>Faris:  Only once...>>>>:  It's a oneÅway >  ticket...>  We might not be able to come >  back...  You guys understand?>Lenna:  Yes.>Faris:  That's okay!|
+1019	$22223F	245	 Lenna:  The light is weakening...>>>>:  There's not much of >  the>meteors' energy left!>>Faris:  Only once...>>>>:  It's a one\C5way >  ticket...>  We might not be able to come >  back...  You guys understand?>Lenna:  Yes.>Faris:  That's okay!|
 1020	$222254	21	 :  Let's go, then!!|
 1021	$22227A	38	 :  This is...>Lenna:  Galuf's world?|
 1022	$2222AB	49	 Lenna:  I guess it's goodbye to this >  world...|
@@ -1044,11 +1044,11 @@
 1044	$222A9D	77	 Dorgan:  Well, time for bed...    >  Stella!>  You need to rest too.    \04\0F|
 1045	$222AB8	27	 Dorgan:  Stella...?    \03\0F|
 1046	$222AD2	26	 Dorgan:  Stella!!!    \03\0F|
-1047	$222B60	142	 That's a pleasant melody.>  It's inspired me of a nice poem.  >  I'll dedicate this song to this >  memory...>>         Learned «Charm Song"!|
+1047	$222B60	142	 That's a pleasant melody.>  It's inspired me of a nice poem.  >  I'll dedicate this song to this >  memory...>>         Learned \ABCharm Song"!|
 1048	$222B80	32	 >               Not enough Gil.|
 1049	$222CF6	374	 Hey, you found me.  You were able>  to get here by yourself...>>>That must mean that you are >  brave...  But maybe you are just >  a showoff...>>Well,that is something you must >  decide for yourself...>>>If you believe you have courage, >  open the chest on the left...>>>If you believe you are a coward, >  take the chest on the right.>  You can only have one, though...|
-1050	$222D0F	25	 >Obtained «Brave Blade"!|
-1051	$222D2A	27	 >Obtained «Chicken Knife"!|
+1050	$222D0F	25	 >Obtained \ABBrave Blade"!|
+1051	$222D2A	27	 >Obtained \ABChicken Knife"!|
 1052	$222D39	15	 Heh heh heh...|
 1053	$222D4E	21	 ...>  What's wrong?|
 1054	$222D5B	13	 :  Faris...|
@@ -1063,7 +1063,7 @@
 1063	$2230FA	16	 :  A monster!!|
 1064	$22310E	20	 :  Lenna!  Faris!!|
 1065	$22315C	78	 :  What the...?    >  ...A gas trap!!>>>:  ...    >  I... I can't move...|
-1066	$2231AC	80	 Lenna:  I'm getting tired...>  Let's rest in a «Tent", >  ...  I want to rest.|
+1066	$2231AC	80	 Lenna:  I'm getting tired...>  Let's rest in a \ABTent", >  ...  I want to rest.|
 1067	$2231C2	22	 :  Where are we...!?|
 1068	$2231E5	35	 Fwahaha...>  Welcome to my castle!|
 1069	$2231F2	13	 :  Exdeath!|
@@ -1100,13 +1100,13 @@
 1100	$223906	32	 This flavor just can't be beat!|
 1101	$223957	81	 There aren't any dancers in this >  village.  Would you dance for us >  instead?|
 1102	$223975	30	 This wine... it's wonderful!!|
-1103	$2239D9	100	 Have you heard of the «Corna >  Jar"?>  Once you have it, capturing >  monsters couldn't be easier!|
+1103	$2239D9	100	 Have you heard of the \ABCorna >  Jar"?>  Once you have it, capturing >  monsters couldn't be easier!|
 1104	$223A04	43	 If you go on stage you've gotta >  dance!!|
 1105	$223A1E	26	 That's the weapon dealer.|
 1106	$223A37	25	 That's the armor dealer.|
-1107	$223AAB	116	 So you're the ones fighting against>  Exdeath!>>>This is my treasure... please accept>  it...>>>>Obtained «Ribbon"!|
-1108	$223ACC	33	 Please treat my «Ribbon" nicely.|
-1109	$223AF7	43	 My «Ribbon"...>  Where could it have gone?|
+1107	$223AAB	116	 So you're the ones fighting against>  Exdeath!>>>This is my treasure... please accept>  it...>>>>Obtained \ABRibbon"!|
+1108	$223ACC	33	 Please treat my \ABRibbon" nicely.|
+1109	$223AF7	43	 My \ABRibbon"...>  Where could it have gone?|
 1110	$223B62	107	 Oh my goodness, we have some >  guests!  That's unusual.>  Just for tonight, your stay is on >  the house!|
 1111	$223B7E	28	 :  Hey...>  Where's Galuf?|
 1112	$223BEE	112	 Galuf:  Aah, this is too good!  The >  legendary wine of Rugor!  >  Nothing like it to soothe one's >  throat!!|
@@ -1132,7 +1132,7 @@
 1132	$2240C4	31	 >                Apollo's Harp|
 1133	$2240E3	31	 >                   Earth Bell|
 1134	$224123	64	 >        One of the 12 Legendary>             Sealed Weapons...|
-1135	$22412A	7	 KupoÅ!|
+1135	$22412A	7	 Kupo\C5!|
 1136	$224165	59	 Galuf:  A moogle!  Here!?>  What a surprise!>>>:  Moogle?|
 1137	$2241EA	133	 Galuf:  Mysterious little creatures >  that live in the forest.  They're >  very shy, and seldom come out >  where they can be seen.|
 1138	$224202	24	 Lenna:  Let's help him!|
@@ -1158,7 +1158,7 @@
 1158	$224671	44	 :  What are they doing?>>>>Moogle:  Kupo!!|
 1159	$22467F	14	 :  The nose?|
 1160	$2246AE	47	 Cara:  I wonder where the Moogle >  Forest is?|
-1161	$2246E1	51	 Moogle:  Kupo, po!>>>>Cara:  What?  The «nose"...?|
+1161	$2246E1	51	 Moogle:  Kupo, po!>>>>Cara:  What?  The \ABnose"...?|
 1162	$2246F0	15	 Moogle:  Kupo!|
 1163	$2246FF	15	 Galuf:  Cara!!|
 1164	$224710	17	 Cara:  Grandpa!!|
@@ -1189,7 +1189,7 @@
 1189	$224F5B	13	 :  Welcome!|
 1190	$224F86	43	 Hey, don't interfere with our >  business!|
 1191	$224FBF	57	 But Here, since you came here, you>  should come here...|
-1192	$224FD7	24	 >Obtained «Lamia Harp"!|
+1192	$224FD7	24	 >Obtained \ABLamia Harp"!|
 1193	$224FFC	37	 Hey, this is supposed to off limits!|
 1194	$22503E	66	 The monsters released by Exdeath>  are lurking outside the gates.|
 1195	$2250A3	101	 If the gates were opened, >  monsters would come pouring >  into the castle!>  We can't open them...|
@@ -1238,8 +1238,8 @@
 1238	$22620D	156	 Kelgar:  By the way, how is >  Dorgan?>>>:  3 years ago, he fell >  ill...>>>Kelgar:  I see...>  Son of Dorgan, I'll do anything >  that would be of help.|
 1239	$226242	53	 Kelgar:  I'll have the townspeople >  open the gate.|
 1240	$2262AA	104	 I'll be praying for your safety.  >  Please, take this song!  It works >  well against undead monsters!|
-1241	$2262C9	31	 >           Learned «Requiem"!|
-1242	$226328	95	 Kelgar:  ÅcoughÅ, ÅcoughÅ...>  I should be fighting along with >  you guys but...>  I'm sorry.|
+1241	$2262C9	31	 >           Learned \ABRequiem"!|
+1242	$226328	95	 Kelgar:  \C5cough\C5, \C5cough\C5...>  I should be fighting along with >  you guys but...>  I'm sorry.|
 1243	$2264FC	468	 Kelgar:  I see...>  So Guido's island...>:  Was that also >  Exdeath's doing?>Kelgar:  So now he's finally >  started...>:  We'll storm his castle!>>Kelgar:  That's impossible.>  With that barrier we can't take a>  step towards the castle...>>Kelgar:  Wait a minute...!  Zeza has>  lead his armada to destroy the >  Barrier Tower...>>Galuf:  Really!>:  Zeza?>>>Galuf:  Zeza's one of the Four >  Warriors of Dawn!  His castle's >  north of the Valley of the Hiryuu!|
 1244	$226519	29	 Kelgar:  I see...>  Zeza....|
 1245	$2265B5	156	 Kelgar:  Zeza and Galuf both...>  So I'm the last of the Four >  Warriors of Dawn...>>Kelgar:  It's funny.>  That a senile old man like myself >  would....|
@@ -1249,7 +1249,7 @@
 1249	$2266B2	29	 Faris:  The Hiryuu Plant...!|
 1250	$2266C1	15	 Lenna:  Look!!|
 1251	$2266EF	46	 Lenna:  Let's take it back to the >  castle!!|
-1252	$226709	26	 >Obtained «Hiryuu Plant"!|
+1252	$226709	26	 >Obtained \ABHiryuu Plant"!|
 1253	$226730	39	 Galuf:  We're back!>  Open the gates!!|
 1254	$226772	66	 Soldier:  You must be Exdeath's >  minions!>  You can't fool us!!|
 1255	$2267AA	56	 Galuf:  Looks like we have no >  choice...>  Follow me!|
@@ -1269,7 +1269,7 @@
 1269	$226D4B	32	 Lenna:  Here you go, have some!|
 1270	$226DB0	101	 :  It's because of this >  weed that the Hiryuu are >  becoming extinct...>  He doesn't trust it...|
 1271	$226E0B	91	 Galuf:  But he has to...!>  Hurry, if we don't make him eat >  the Hiryuu Plant he'll die!|
-1272	$226E4E	67	 Lenna:  It's safe.>  See, watch me eat it...>  ÅmunchÅ, ÅmunchÅ...|
+1272	$226E4E	67	 Lenna:  It's safe.>  See, watch me eat it...>  \C5munch\C5, \C5munch\C5...|
 1273	$226EBB	109	 Faris:  Lenna!  What are you doing!!>>>>:  Lenna!  The Hiryuu >  weed is extremely poisonous to >  humans!!|
 1274	$226EDC	33	 Lenna:  Come on... eat it up...!|
 1275	$226EF1	21	 Lenna:  Good boy...!|
@@ -1289,7 +1289,7 @@
 1289	$227186	82	 Galuf:  To Guido's place!>Lenna:  Yes!>Faris:  Guido, here we come!>:  Let's go!|
 1290	$2271DE	88	 Princess Cara is on the top floor of>  this tower...>  It seemed like she was crying...|
 1291	$227218	58	 Everything'll be just fine until King>  Galuf comes back!|
-1292	$22726A	82	 King Galuf, please take the «Exit" >  spell that you forgot to take with>  you...|
+1292	$22726A	82	 King Galuf, please take the \ABExit" >  spell that you forgot to take with>  you...|
 1293	$2272ED	131	 The Big Bridge is completely >  protected by the barrier.>  If the Hiryuu can't fly, there's no >  way to get to Exdeath's castle.|
 1294	$22732F	66	 We are guided often by Sage >  Guido.  He's very important to us.|
 1295	$2273A0	113	 Exdeath isn't showing any activity.>  I wonder what he could be doing >  shut up in that castle all the >  time?|
@@ -1333,20 +1333,20 @@
 1333	$227D6F	124	 Exdeath's defense on the Big >  Bridge is very solid, but the >  eastern side of the continent >  seems to be a weak point.|
 1334	$227DDF	112	 Around now, our fleet should be >  arriving on the east coast of the >  continent where Exdeath Castle >  lies.|
 1335	$227E18	57	 This is the King's room.>  You need permission to enter.|
-1336	$227E7E	102	 A memory of Zeza comes back.  A >  song that we sang so often back >  then...>>>Learned «Speed Song"!|
+1336	$227E7E	102	 A memory of Zeza comes back.  A >  song that we sang so often back >  then...>>>Learned \ABSpeed Song"!|
 1337	$227F35	183	 I just came home from the lake >  up north...>  You know, the one surrounded by>  mountains...>Well... a huge eyeball suddenly >  appeared... It's a surprise that I'm>  even alive...|
-1338	$227FCE	153	 We've found an ancient book from>  more than 1\53\53\53 years ago...>>>But since we only have a half of it,>  there's no way we can read the >  «Sealed Book".|
+1338	$227FCE	153	 We've found an ancient book from>  more than 1\53\53\53 years ago...>>>But since we only have a half of it,>  there's no way we can read the >  \ABSealed Book".|
 1339	$22807B	173	 Everyone's been reading books >  and just leaving them around...>  And to make things worse, the >  bookshelves were shuffled!>Can you please help me reshelve >  the books?|
 1340	$228097	28	 It's the periodicals shelf.|
-1341	$2280B1	26	 It's the «DEF" bookshelf.|
-1342	$2280CB	26	 It's the «ABC" bookshelf.|
-1343	$2280E5	26	 It's the «GHI" bookshelf.|
-1344	$2280FF	26	 It's the «JKL" bookshelf.|
-1345	$228119	26	 It's the «VWX" bookshelf.|
-1346	$228133	26	 It's the «MNO" bookshelf.|
-1347	$22814C	25	 It's the «YZ" bookshelf.|
-1348	$228166	26	 It's the «STU" bookshelf.|
-1349	$228180	26	 It's the «PQR" bookshelf.|
+1341	$2280B1	26	 It's the \ABDEF" bookshelf.|
+1342	$2280CB	26	 It's the \ABABC" bookshelf.|
+1343	$2280E5	26	 It's the \ABGHI" bookshelf.|
+1344	$2280FF	26	 It's the \ABJKL" bookshelf.|
+1345	$228119	26	 It's the \ABVWX" bookshelf.|
+1346	$228133	26	 It's the \ABMNO" bookshelf.|
+1347	$22814C	25	 It's the \ABYZ" bookshelf.|
+1348	$228166	26	 It's the \ABSTU" bookshelf.|
+1349	$228180	26	 It's the \ABPQR" bookshelf.|
 1350	$2281AB	43	 Thank you.>  Now I can go back to my room!|
 1351	$2281C9	30	 >              FORBIDDEN BOOK|
 1352	$2281E7	30	          MONSTER ENCYCLOPEDIA|
@@ -1355,7 +1355,7 @@
 1355	$2282D8	74	 :  These books are so >  heavy... I can only care them one >  at a time.|
 1356	$2282F9	33	 >Returned the book to the shelf.|
 1357	$22831A	33	 >Put the book back on the shelf?|
-1358	$22832D	19	 >Obtained «Float"!|
+1358	$22832D	19	 >Obtained \ABFloat"!|
 1359	$2283D1	164	 :  ... \AAM', \AAN', \AAO', \AAP'...>  \AAPl'... \AAPlayb'...    >  ...I guess they don't carry it...>>Lenna:  What are you looking for, >  ?>:  Umm, nothing >  important!|
 1360	$22844C	123	 We can't find the remaining half >  of that book anywhere.>  But we've looked through every >  single book in the world...|
 1361	$2284C2	118	 This book contains the evil deeds >  of Exdeath from 3\53 years ago...>  We can't allow this nightmare to >  repeat...!|
@@ -1368,7 +1368,7 @@
 1368	$228674	68	 Zeza:  Well if it isn't Galuf!>>>>Galuf:  Zeza!>  Long time no see!|
 1369	$2286B4	64	 Galuf:  This is Dorgan's son...>  !>Zeza:  The son of Dorgan!?|
 1370	$228717	99	 Galuf:  And these two are of a >  royal family on the other world.>Zeza:  I am Zeza the swordsman.|
-1371	$22878F	120	 Galuf:  Not King Zeza?>Zeza:  No... I think «King" just >  doesn't suit me well...>>Galuf:  Yeah, really!>  Same here!!|
+1371	$22878F	120	 Galuf:  Not King Zeza?>Zeza:  No... I think \ABKing" just >  doesn't suit me well...>>Galuf:  Yeah, really!>  Same here!!|
 1372	$2287F7	104	 Galuf:  Can we get into Exdeath's >  castle?>Zeza:  Sure.  We have everything >  perfectly planned out!|
 1373	$228824	45	 Zeza:  For now, let's go inside and >  rest!|
 1374	$228866	66	 This fleet is a decoy.  If it can buy >  us a little more time...|
@@ -1386,7 +1386,7 @@
 1386	$228A98	87	 Zeza:  I'll take this one!>Galuf:  Don't blow it!>Zeza:  Same to you!>>Zeza:  Grrrr...|
 1387	$228AFE	102	 Gilgamesh:  Starkle, starkle, little >  twink...>>>Gilgamesh:  Now it's time that you >  guys SINK!!!|
 1388	$228B45	71	 Gilgamesh:  Grrrr..!>  I'll drag you down with me... into >  the sea!!|
-1389	$228B98	83	 Gilgamesh:  Hey!>  You filthy slime!>>>You'll pay for this!!!>  ÅgurgleÅ, ÅgagÅ...|
+1389	$228B98	83	 Gilgamesh:  Hey!>  You filthy slime!>>>You'll pay for this!!!>  \C5gurgle\C5, \C5gag\C5...|
 1390	$228BA6	14	 Galuf:  Ack!!|
 1391	$228C10	106	 Galuf:  My hands're going numb...>>>>Zeza:  Hold on \AAtil I get there!>>>>Galuf:  I can't hold any longer!|
 1392	$228C60	80	 Galuf:  Hiryuu!>>>>Zeza:  Come on, now it's our turn >  to strike!>  Follow me!|
@@ -1400,7 +1400,7 @@
 1400	$228E28	18	 Zeza:  Stay back!|
 1401	$228F66	318	 Galuf:  Is this the Barrier Tower?>Zeza:  Yes.>  If we destroy this, the barrier >  should disappear!>Zeza:  I'll go to the power room >  down below.  There is an >  antenna on the top floor... you go>  there!>Galuf:  And break the antenna?>>>>Zeza:  Right.  While I have the >  power stopped, blow up the >  antenna!|
 1402	$228F81	27	 Zeza:  Take this with you.|
-1403	$228F93	18	 >Obtained «Echo"!|
+1403	$228F93	18	 >Obtained \ABEcho"!|
 1404	$228FDB	72	 Galuf:  What's this?>Zeza:  We can use it to >  communicate.  Let's go!|
 1405	$228FE9	14	 Zeza:  Go on!|
 1406	$22903A	81	 Zeza:  What are you doing...?>  Hurry to the antenna!  It's on the >  top floor!|
@@ -1412,7 +1412,7 @@
 1412	$2291BD	36	 Zeza:  Now!!>  Destroy the antenna!|
 1413	$2291E6	41	 You wish...>  But I'm here to stop you!!|
 1414	$22922C	70	 :  We did it!>Galuf:  Zeza!  Can you hear us!?>  We've destroyed it!|
-1415	$2292B4	136	 Zeza:  Escape is futile...>>>>Zeza:  Galuf!>  It's dangerous here.  Get out >  quickly!  The builtÅup energy will >  swell and explode!|
+1415	$2292B4	136	 Zeza:  Escape is futile...>>>>Zeza:  Galuf!>  It's dangerous here.  Get out >  quickly!  The built\C5up energy will >  swell and explode!|
 1416	$2292D6	34	 Lenna:  Hiryuu!>  Let's ride him.|
 1417	$229346	112	 Galuf:  Zeza!  We're coming!>>>>Zeza:  Don't come!>  Wait in the submarine.  I'm fine, >  I'll catch up to you.|
 1418	$229360	26	 Galuf:  He won't make it!|
@@ -1429,7 +1429,7 @@
 1429	$229797	107	 :  How was he?>Lenna:  I think he'll be alright if he >  just rests a bit.>>:  All right then, let's go!|
 1430	$2297B1	26	 We must avenge King Zeza!|
 1431	$22980F	94	 We can get up to the third floor, >  but all the rooms are empty...>  What's with this place?|
-1432	$229843	52	 How could King Zeza have died...?>  ÅsobÅ, ÅsobÅ...|
+1432	$229843	52	 How could King Zeza have died...?>  \C5sob\C5, \C5sob\C5...|
 1433	$229896	83	 Now that King Zeza will never >  return, it's up to us to protect >  the castle...|
 1434	$2298C7	49	 The King must have been his finest>  at his end.|
 1435	$2298FA	51	 You're our only hope.  Please >  defeat Exdeath...|
@@ -1446,7 +1446,7 @@
 1446	$229F3A	77	 Guido:  Please!  Go to the Great >  Forest and protect what rests >  there!!|
 1447	$229FAE	116	 :  To the Great Forest >  of Mua...>Galuf:  For Zeza's vengeance!>Faris:  And to defeat Exdeath!>Lenna:  Let's go!|
 1448	$22A04D	159	 Guido:  The Forest of Mua is alive.>  No matter who they might be, >  anyone who enters the forest >  will be attacked.>:  ...>>>>Guido:  Take this with you.|
-1449	$22A067	26	 >Obtained «Elder Branch"!|
+1449	$22A067	26	 >Obtained \ABElder Branch"!|
 1450	$22A10B	164	 :  What's this?>>>>Guido:  It's a branch of the oldest >  tree in the forest... a part of the >  protector of the seal.  With this, >  you can enter the forest...|
 1451	$22A166	91	 Guido:  Please hurry!>  Exdeath is already on his way to >  the Forest of Mua!>:  Gotcha!|
 1452	$22A1C6	96	 :  It's an empty box... >  huh?>  There's a big rock inside...>>>                     Lift it?|
@@ -1457,8 +1457,8 @@
 1457	$22A2AC	82	 Guido:  Exdeath has headed for his >  castle.>  Destroy him before it's too late!|
 1458	$22A2C6	26	 Lenna:  ...?  The branch!|
 1459	$22A2F7	49	 Faris:  The forest is...>>>>:  Accepting us...?|
-1460	$22A311	26	 >Obtained «Aegis Shield"!|
-1461	$22A32B	26	 >Obtained «Flame Shield"!|
+1460	$22A311	26	 >Obtained \ABAegis Shield"!|
+1461	$22A32B	26	 >Obtained \ABFlame Shield"!|
 1462	$22A368	61	 :  What the...?>  Exdeath's setting the forest on >  fire!?|
 1463	$22A377	15	 Moogle:  Kupo!|
 1464	$22A3A8	49	 :  Let's wait a while >  until the fire is out.|
@@ -1495,9 +1495,9 @@
 1495	$22A8B7	61	 Cara:  Grandpa!!>:  Galuf!>Lenna:  Galuf!!>Faris:  Get up!!|
 1496	$22A98D	214	 Galuf:  I'm... done for...>...>>>:  Galuf!  What're you >  saying!!>Lenna:  Galuf!>Faris:  Stand up!>Cara:  Open your eyes!!>>>>...>  Lenna,  Faris...,>  And Cara...>  Defeat....>Galuf:  Defeat... Ex...death....|
 1497	$22A9B2	37	 Cara:  Grandpa!>  Please don't die!!|
-1498	$22A9D3	33	 :  Galuf, don't die!>  «Cure3"!|
-1499	$22A9F0	29	 Lenna:  Please...>  «Life"!!|
-1500	$22AA1F	47	 Faris:  Wake up!>  «Phoenix Down">  «Elixir"!!|
+1498	$22A9D3	33	 :  Galuf, don't die!>  \ABCure3"!|
+1499	$22A9F0	29	 Lenna:  Please...>  \ABLife"!!|
+1500	$22AA1F	47	 Faris:  Wake up!>  \ABPhoenix Down">  \ABElixir"!!|
 1501	$22AA3F	32	 >               Galuf has died.|
 1502	$22AA67	40	 Cara:  Grandpa!!>  Noooo!>  Don't die!!|
 1503	$22AA95	46	 Galuf:  Cara...>>>>Cara:  What...>  Grandpa!?|
@@ -1525,7 +1525,7 @@
 1525	$22AEBF	18	 :  A dead end...|
 1526	$22AF20	97	 :  Cara... what is it?>>>>Cara:  An illusion created by >  Exdeath...>Lenna:  You can tell...!?|
 1527	$22AF4A	42	 Cara:  Grandpa, lend us your >  power...!|
-1528	$22AFE7	157	 Kelgar:  I see... so Galuf too...>  Dorgan, Zeza, Galuf...>  They're all gone...>  ÅcoughÅ, ÅcoughÅ...>Kelgar:  And I'm not long for this >  world either...|
+1528	$22AFE7	157	 Kelgar:  I see... so Galuf too...>  Dorgan, Zeza, Galuf...>  They're all gone...>  \C5cough\C5, \C5cough\C5...>Kelgar:  And I'm not long for this >  world either...|
 1529	$22AFF4	13	 Sir Kelgar!!|
 1530	$22B02A	54	 Kelgar:  It looks like it's time for >  me to rest...|
 1531	$22B07F	85	 Kelgar:  Who is it...?>>>>Kelgar:  ... Galuf?>  Is it Galuf?>>>Kelgar:  Cara is ...?|
@@ -1537,7 +1537,7 @@
 1537	$22B1B7	11	 :  What!?|
 1538	$22B1D4	29	 Cara:  Everyone's power...!!|
 1539	$22B243	111	 Carbunkle:  If you are stronger >  than me, I'll join you...>  Come now... let me see how >  powerful you are!|
-1540	$22B2A1	94	 Carbunkle:  You are quite strong!>  I'm coming with you!!>>>>     Obtained Esper «Carbunkle"!|
+1540	$22B2A1	94	 Carbunkle:  You are quite strong!>  I'm coming with you!!>>>>     Obtained Esper \ABCarbunkle"!|
 1541	$22B2F2	81	 :  Gilgamesh!>>>>Gilgamesh:  Hahaha!>  I've taken what was inside this >  box!!|
 1542	$22B312	32	 Exdeath:  Don't try to stop me!|
 1543	$22B33F	45	 :  Exdeath!>  You can't get away with this!|
@@ -1616,20 +1616,20 @@
 1616	$22C506	8	 :  ...|
 1617	$22C5A3	157	 Guido:  Sorry, sorry.>  I got flipped over when the >  worlds merged back into one...>>Guido:  And when I'm flipped over, I>  can't do a thing!>  Fo ho ho!!|
 1618	$22C643	160	 :  Guido...>  The worlds merging into one >  again...?>>Guido:  The legend...>  I hadn't thought that it would be >  true...>  Even I don't believe it, but...|
-1619	$22C77C	313	 Guido:  According to legend...>>>>Guido:  1\53\53\53 years ago,>  's world and Cara's >  world... were together as one >  whole world...>:  The worlds were >  one...!?>Guido:  That's right.>>:  Why was the world >  split into two...?>>>Guido:  To seal off the power of >  the «Void".>:  The «Void"...?>Guido:  Yes.|
-1620	$22CA1D	673	 Guido:  1\53\53\53 years ago, there was >  a powerful evil called Enuo.  Enuo>  was able to control the power of>  the «Void".>Guido:  The battle raged on for a >  long time...>>>Guido:  Eventually, using the 12 >  Legendary Weapons, the people >  defeated Enuo...>>Guido:  But they were not able to >  get rid of the «Void" that Enuo >  had created.>>Guido:  The people were left with >  no choice but to...>>>Guido:  ...split the Crystals into two.>  When the Crystals that supported>  the world were split, the world >  split into two as well.>Guido:  The space between the two>  worlds, called the «Cleft of >  Dimension", was where the >  people chose to seal the «Void"...|
+1619	$22C77C	313	 Guido:  According to legend...>>>>Guido:  1\53\53\53 years ago,>  's world and Cara's >  world... were together as one >  whole world...>:  The worlds were >  one...!?>Guido:  That's right.>>:  Why was the world >  split into two...?>>>Guido:  To seal off the power of >  the \ABVoid".>:  The \ABVoid"...?>Guido:  Yes.|
+1620	$22CA1D	673	 Guido:  1\53\53\53 years ago, there was >  a powerful evil called Enuo.  Enuo>  was able to control the power of>  the \ABVoid".>Guido:  The battle raged on for a >  long time...>>>Guido:  Eventually, using the 12 >  Legendary Weapons, the people >  defeated Enuo...>>Guido:  But they were not able to >  get rid of the \ABVoid" that Enuo >  had created.>>Guido:  The people were left with >  no choice but to...>>>Guido:  ...split the Crystals into two.>  When the Crystals that supported>  the world were split, the world >  split into two as well.>Guido:  The space between the two>  worlds, called the \ABCleft of >  Dimension", was where the >  people chose to seal the \ABVoid"...|
 1621	$22CB25	264	 :  So what Exdeath said >  was true...>Lenna:  Returning the world to its >  original form...>Faris:  But the Crystals are gone...>>>>:  The wind won't come>  back...>>>Lenna:  And neither will the >  blessings of the earth and water,>  nor the power of fire...|
 1622	$22CB47	34	 Cara:  Ouch...!>  The splinter...|
-1623	$22CC9B	340	 :  Exdeath!>>>>Exdeath:  Mwahaha...>  I had disguised myself as a little >  splinter, waiting for this >  moment...>Exdeath:  My true objective is to >  obtain the power of «Void" >  sealed in the «Cleft of >  Dimension"...>:  What!?>>>>Exdeath:  That is the reason I >  brought the world back to its >  original state...>  Hahahahaha...|
-1624	$22CD68	205	 Guido:  The «Cleft of Dimension" is >  beginning to appear in this world!>>>Faris:  The «Void"...>>>>Exdeath:  Yes!>  That's what I'm after!  Now it's >  the time to make the power of >  the «Void" mine!!|
+1623	$22CC9B	340	 :  Exdeath!>>>>Exdeath:  Mwahaha...>  I had disguised myself as a little >  splinter, waiting for this >  moment...>Exdeath:  My true objective is to >  obtain the power of \ABVoid" >  sealed in the \ABCleft of >  Dimension"...>:  What!?>>>>Exdeath:  That is the reason I >  brought the world back to its >  original state...>  Hahahahaha...|
+1624	$22CD68	205	 Guido:  The \ABCleft of Dimension" is >  beginning to appear in this world!>>>Faris:  The \ABVoid"...>>>>Exdeath:  Yes!>  That's what I'm after!  Now it's >  the time to make the power of >  the \ABVoid" mine!!|
 1625	$22CD7E	22	 :  Exdeath... Never!|
 1626	$22CDA7	41	 Cara:  Castle Tycoon!>>>>Faris:  Lenna!!|
-1627	$22CE44	157	 Exdeath:  Splendid!>  Behold!  The power of the «Void"!>   The power that devours all, the >  strongest power there is!>Exdeath:  And soon it shall be MINE!|
+1627	$22CE44	157	 Exdeath:  Splendid!>  Behold!  The power of the \ABVoid"!>   The power that devours all, the >  strongest power there is!>Exdeath:  And soon it shall be MINE!|
 1628	$22CE63	31	 Faris:  Lenna...!!>  Why you!!|
 1629	$22CE88	37	 Exdeath:  Fools...>  Fwahahahaha....|
 1630	$22CEA1	25	 Exdeath:  Damned turtle!|
 1631	$22CF48	167	 Exdeath:  You're not too shabby!>>>>Guido:  Haven't been doing nothing >  all 7\53\53 years of my life...>>>Exdeath:  Hahaha!>  You won't be saying that much >  longer...|
-1632	$22CFFB	179	 Guido:  If Exdeath gets his hands >  on the power of the «Void"...>  The world will be enveloped in >  darkness...>Guido:  !>  Faris!>  Cara!!>  Hurry to the Cleft of Dimension!|
+1632	$22CFFB	179	 Guido:  If Exdeath gets his hands >  on the power of the \ABVoid"...>  The world will be enveloped in >  darkness...>Guido:  !>  Faris!>  Cara!!>  Hurry to the Cleft of Dimension!|
 1633	$22D021	38	 :  I'll go see what's >  happened...|
 1634	$22D041	32	 :  I... can't...>  Let's go...|
 1635	$22D07A	57	 The two worlds have become one?>   I can't believe it...|
@@ -1637,7 +1637,7 @@
 1637	$22D10C	81	 The building that appeared to the >  south... is it true that it's a >  library?|
 1638	$22D132	38	 What was that big dark >  blackness!?|
 1639	$22D15D	43	 It's the end...>  The world has no hope...|
-1640	$22D1AF	82	 If Exdeath gains full control of the >  «Void"...>  The world will be finished...|
+1640	$22D1AF	82	 If Exdeath gains full control of the >  \ABVoid"...>  The world will be finished...|
 1641	$22D219	106	 The Ancient Library... Only a few >  of the scholars who were >  outside of the building were >  saved...|
 1642	$22D24F	54	 This is Surgate Castle!>  We'll protect it for sure!!|
 1643	$22D2A5	86	 :  The Master tree...>Faris:  The Forest of Mua is >  beginning to restore itself...|
@@ -1648,9 +1648,9 @@
 1648	$22D33E	15	 Faris:  Lenna!|
 1649	$22D392	84	 :  Lenna!>  Wake up!!>>>Lenna:  ...    >  ...     ...     >  This body is mine!|
 1650	$22D3A2	16	 Faris:  Lenna!!|
-1651	$22D40E	108	 Exdeath:  Go!  Merugene!>  You're finally free from the >  «Cleft of Dimension" after a >  thousand years!!|
+1651	$22D40E	108	 Exdeath:  Go!  Merugene!>  You're finally free from the >  \ABCleft of Dimension" after a >  thousand years!!|
 1652	$22D41C	14	 :  Exdeath!!|
-1653	$22D47F	99	 Exdeath:  Fwahaha...>  The monsters of the «Cleft of >  Dimension" have all become my >  minions!!|
+1653	$22D47F	99	 Exdeath:  Fwahaha...>  The monsters of the \ABCleft of >  Dimension" have all become my >  minions!!|
 1654	$22D4B5	54	 :  Ugh...>Faris:  Lenna... stop...>Cara:  Please....|
 1655	$22D4FB	70	 :  Exdeath:  How nice, >  being killed at the hands of your >  own!!|
 1656	$22D567	108	 :  Exdeath...!>>>>Exdeath:  Fwa, ha, ha...>  Before you, I think I'm going to >  get rid of that turtle...|
@@ -1664,9 +1664,9 @@
 1664	$22D746	31	 >                Lenna joined.|
 1665	$22D766	32	 :  The quicksand's >  stopped!|
 1666	$22D7E6	128	 Cara:  Since the Earth Crystals >  shattered, the power of earth >  has totally disappeared...>Faris:  The earth is weakened...|
-1667	$22D800	26	 Cara:  The «Sealed Book"!|
-1668	$22D845	69	 «One rests with the souls of the >  past, protected by the earth..."|
-1669	$22D868	35	 >         Obtained «First Tablet"!|
+1667	$22D800	26	 Cara:  The \ABSealed Book"!|
+1668	$22D845	69	 \ABOne rests with the souls of the >  past, protected by the earth..."|
+1669	$22D868	35	 >         Obtained \ABFirst Tablet"!|
 1670	$22D8BC	84	 Cara:  There's writing on the >  tablet...>  The Dragon King Bahamut...    >  ...?|
 1671	$22D8DD	33	 Cara:  The peninsula's sinking!?|
 1672	$22D91A	61	 Bahamut:  I'll be waiting for you on>  the North Mountain...|
@@ -1676,8 +1676,8 @@
 1676	$22DA3D	80	 :  Three seals...>  Is it telling us to pick three of the>  twelve weapons...?|
 1677	$22DA5D	32	 >               Undo this seal?|
 1678	$22DAA5	72	 Choose three weapons...>  The stone tablet will break three >  seals...|
-1679	$22DB12	109	 :  The «Void" hasn't >  disappeared...    \0F>>>Cara:  ... even though we've >  defeated Exdeath...?    \0F|
-1680	$22DB92	128	 Lenna:  Is it because the Crystals >  are gone?    \0F>>>Faris:  Is the world going to be >  enveloped by the «Void"...?    \0F|
+1679	$22DB12	109	 :  The \ABVoid" hasn't >  disappeared...    \0F>>>Cara:  ... even though we've >  defeated Exdeath...?    \0F|
+1680	$22DB92	128	 Lenna:  Is it because the Crystals >  are gone?    \0F>>>Faris:  Is the world going to be >  enveloped by the \ABVoid"...?    \0F|
 1681	$22DBD9	71	 >           Hope gives the Earth>                  blessings...    \0F|
 1682	$22DC04	43	 >       Courage lights the flame...    \0F|
 1683	$22DC4C	72	 >         Kindness makes water>            the source of life...    \0F|
@@ -1711,47 +1711,47 @@
 1711	$22E20C	35	 >                     Lenna    \0F|
 1712	$22E230	36	 >                      Faris    \0F|
 1713	$22E253	35	 >                      Cara    \0F|
-1714	$22E28E	59	 Cid:  Were you really swallowed >  into the «Void"?    \04\0F|
+1714	$22E28E	59	 Cid:  Were you really swallowed >  into the \ABVoid"?    \04\0F|
 1715	$22E2C9	59	 Cid:  Cara... you did swell.>  You all did swell...    \04\0F|
 1716	$22E2EE	37	 Cid:   Did you say something?    \0F|
 1717	$22E350	98	 Cid:   I swear I heard something...>  It said... This place isn't for you to>  come yet...    \04\0F|
-1718	$22E3B4	100	 «Cid... Mid... how are you doing?>  This is .>  Well, it looks like we've been >  saved..."    \04\0F|
-1719	$22E413	95	 «Cid... Mid... are you doing well?>  It's Lenna.>  It looks like we've been saved..." >    \04\0F|
-1720	$22E473	96	 «Cid.... Mid.... how are you guys?>  This is Faris.>  It looks like we've been saved."   >  \04\0F|
-1721	$22E4C5	82	 «Cid... Mid... how are you?>  It's Cara.>  It looks like we were saved..."    \04\0F|
-1722	$22E509	68	 «Somehow, now it feels like that >  battle was all a dream."    \04\0F|
-1723	$22E59A	145	 «Since then I've traveled around to>  various towns...    \04\0F>>>«Things have returned to how >  they were before, it's so >  peaceful..."    \06\0F|
-1724	$22E5ED	83	 «The Chancellor of Tycoon is all in >  a big rush to rebuild the castle."  >   \03\0F|
-1725	$22E664	119	 «The Chancellor of Tycoon is really>  excited, running around going >  \AAPrincess Lenna! Princess >  Lenna!'..."    \03\0F|
-1726	$22E6DD	121	 «The Chancellor of Tycoon is really>  excited, running around going >  \AAPrincess Sarisa! Princess >  Sarisa!'..."    \03\0F|
-1727	$22E718	59	 «The Chancellor of Tycoon is in >  good spirits..."    \03\0F|
-1728	$22E751	57	 «But Faris seems worried about >  the pirates..."    \03\0F|
-1729	$22E7CB	122	 «I think I've worried the Chancellor>  too much...>  I'm going to spend more time at >  the castle from now on..."    \03\0F|
-1730	$22E84E	131	 «The Chancellor was pleased to >  see me back at the castle, but...>  In his heart he was really >  worried about Lenna..."    \03\0F|
-1731	$22E88A	60	 «I know Lenna and Faris will >  return sometime...."    \03\0F|
-1732	$22E8CD	67	 «But Lenna... believes that Faris >  will surely return..."    \03\0F|
-1733	$22E910	67	 «But Faris... believes that Lenna >  will surely return..."    \03\0F|
-1734	$22E94F	63	 «I really believe that Lenna will >  come back, too..."    \03\0F|
-1735	$22E994	69	 «My sister hasn't come back yet, >  but I will wait forever."    \03\0F|
-1736	$22E9ED	89	 «Castle Bal is having problems that>  there's no one to succeed the >  throne..."    \03\0F|
-1737	$22EA1C	47	 «Maybe even... Queen Cara?>  Hahaha..."    \03\0F|
-1738	$22EA65	73	 «Maybe...>  I'll be queen??    >  That doesn't sound too bad..."    \03\0F|
-1739	$22EAAD	72	 «Both Hiryuu and the moogle are >  waiting for Cara's return..."    \04\0F|
-1740	$22EB21	116	 «I'm now in Lix.>  Until I leave on my next journey, >  I think I'll spend some time near >  Mom and Dad..."    \03\0F|
-1741	$22EBAB	138	 « is in his hometown >  village now."    \03\0F>>>«Until he leaves on a journey >  again, he'll be with his mother >  and father..."    \04\0F|
-1742	$22EC05	90	 «The wind has returned to Tycoon!>  I'm sure, somewhere, Father is >  watching..."    \03\0F|
-1743	$22ECBF	186	 «When I'm at the castle...>  Memories of my father >  mysteriously return to me..."    \03\0F>>«These will be the only memories >  I'll ever have about my father, >  won't they...?"    \03\0F|
-1744	$22ED35	118	 «Oh, and my very best friend has >  had kids!"    \04\0F>>>«You should come see their faces. >  They're so cute."    \04\0F|
-1745	$22EDA4	111	 «Oh by the way, Boco and Coco >  have had children!  They're so >  cute, you should come meet >  them!"    \04\0F|
-1746	$22EE29	133	 «Oh yeah, Boco and Coco had kids!  >  The pirates are taking care of >  them.  Come down sometime and>  see the little guys!"    \04\0F|
-1747	$22EE8A	97	 «But the one Boco wants to show >  his healthy children the most to >  is probably ...."    \04\0F|
-1748	$22EEB4	42	 «It's been one year since then..."    \0F|
-1749	$22EF09	85	 «I am planning to go to that place.>  The place where my friends >  sleep..."    \04\0F|
-1750	$22EFD9	208	 «Lenna and Faris are busy with >  everything at their castle, and >   has left on another >  journey... so I...."    \04\0F>«I think I'll go to that place.>  Where Grandpa sleeps...>  To that place...."    \04\0F|
-1751	$22F02F	86	 «I think I'll go to that place.>  Where Grandpa sleeps...>  To that place...."    \04\0F|
-1752	$22F06D	62	 «If... the others come asking you >  guys about me..."    \04\0F|
-1753	$22F0CA	93	 «No, I'm sure they'll come.>  Please tell them that I wanted to >  see them again..."    \04\0F|
-1754	$22F127	93	 «No, I'm sure they'll come.>  Please tell them that I wanted to >  see them again..."    \04\0F|
+1718	$22E3B4	100	 \ABCid... Mid... how are you doing?>  This is .>  Well, it looks like we've been >  saved..."    \04\0F|
+1719	$22E413	95	 \ABCid... Mid... are you doing well?>  It's Lenna.>  It looks like we've been saved..." >    \04\0F|
+1720	$22E473	96	 \ABCid.... Mid.... how are you guys?>  This is Faris.>  It looks like we've been saved."   >  \04\0F|
+1721	$22E4C5	82	 \ABCid... Mid... how are you?>  It's Cara.>  It looks like we were saved..."    \04\0F|
+1722	$22E509	68	 \ABSomehow, now it feels like that >  battle was all a dream."    \04\0F|
+1723	$22E59A	145	 \ABSince then I've traveled around to>  various towns...    \04\0F>>>\ABThings have returned to how >  they were before, it's so >  peaceful..."    \06\0F|
+1724	$22E5ED	83	 \ABThe Chancellor of Tycoon is all in >  a big rush to rebuild the castle."  >   \03\0F|
+1725	$22E664	119	 \ABThe Chancellor of Tycoon is really>  excited, running around going >  \AAPrincess Lenna! Princess >  Lenna!'..."    \03\0F|
+1726	$22E6DD	121	 \ABThe Chancellor of Tycoon is really>  excited, running around going >  \AAPrincess Sarisa! Princess >  Sarisa!'..."    \03\0F|
+1727	$22E718	59	 \ABThe Chancellor of Tycoon is in >  good spirits..."    \03\0F|
+1728	$22E751	57	 \ABBut Faris seems worried about >  the pirates..."    \03\0F|
+1729	$22E7CB	122	 \ABI think I've worried the Chancellor>  too much...>  I'm going to spend more time at >  the castle from now on..."    \03\0F|
+1730	$22E84E	131	 \ABThe Chancellor was pleased to >  see me back at the castle, but...>  In his heart he was really >  worried about Lenna..."    \03\0F|
+1731	$22E88A	60	 \ABI know Lenna and Faris will >  return sometime...."    \03\0F|
+1732	$22E8CD	67	 \ABBut Lenna... believes that Faris >  will surely return..."    \03\0F|
+1733	$22E910	67	 \ABBut Faris... believes that Lenna >  will surely return..."    \03\0F|
+1734	$22E94F	63	 \ABI really believe that Lenna will >  come back, too..."    \03\0F|
+1735	$22E994	69	 \ABMy sister hasn't come back yet, >  but I will wait forever."    \03\0F|
+1736	$22E9ED	89	 \ABCastle Bal is having problems that>  there's no one to succeed the >  throne..."    \03\0F|
+1737	$22EA1C	47	 \ABMaybe even... Queen Cara?>  Hahaha..."    \03\0F|
+1738	$22EA65	73	 \ABMaybe...>  I'll be queen??    >  That doesn't sound too bad..."    \03\0F|
+1739	$22EAAD	72	 \ABBoth Hiryuu and the moogle are >  waiting for Cara's return..."    \04\0F|
+1740	$22EB21	116	 \ABI'm now in Lix.>  Until I leave on my next journey, >  I think I'll spend some time near >  Mom and Dad..."    \03\0F|
+1741	$22EBAB	138	 \AB is in his hometown >  village now."    \03\0F>>>\ABUntil he leaves on a journey >  again, he'll be with his mother >  and father..."    \04\0F|
+1742	$22EC05	90	 \ABThe wind has returned to Tycoon!>  I'm sure, somewhere, Father is >  watching..."    \03\0F|
+1743	$22ECBF	186	 \ABWhen I'm at the castle...>  Memories of my father >  mysteriously return to me..."    \03\0F>>\ABThese will be the only memories >  I'll ever have about my father, >  won't they...?"    \03\0F|
+1744	$22ED35	118	 \ABOh, and my very best friend has >  had kids!"    \04\0F>>>\ABYou should come see their faces. >  They're so cute."    \04\0F|
+1745	$22EDA4	111	 \ABOh by the way, Boco and Coco >  have had children!  They're so >  cute, you should come meet >  them!"    \04\0F|
+1746	$22EE29	133	 \ABOh yeah, Boco and Coco had kids!  >  The pirates are taking care of >  them.  Come down sometime and>  see the little guys!"    \04\0F|
+1747	$22EE8A	97	 \ABBut the one Boco wants to show >  his healthy children the most to >  is probably ...."    \04\0F|
+1748	$22EEB4	42	 \ABIt's been one year since then..."    \0F|
+1749	$22EF09	85	 \ABI am planning to go to that place.>  The place where my friends >  sleep..."    \04\0F|
+1750	$22EFD9	208	 \ABLenna and Faris are busy with >  everything at their castle, and >   has left on another >  journey... so I...."    \04\0F>\ABI think I'll go to that place.>  Where Grandpa sleeps...>  To that place...."    \04\0F|
+1751	$22F02F	86	 \ABI think I'll go to that place.>  Where Grandpa sleeps...>  To that place...."    \04\0F|
+1752	$22F06D	62	 \ABIf... the others come asking you >  guys about me..."    \04\0F|
+1753	$22F0CA	93	 \ABNo, I'm sure they'll come.>  Please tell them that I wanted to >  see them again..."    \04\0F|
+1754	$22F127	93	 \ABNo, I'm sure they'll come.>  Please tell them that I wanted to >  see them again..."    \04\0F|
 1755	$22F168	65	 If... at that moment...>  If Grandpa had not saved me...'    \04\0F|
 1756	$22F1A9	65	 If... at that moment...>  If Grandpa had not saved me...'    \04\0F|
 1757	$22F1E8	63	 If... at that moment...>  If Galuf had not saved me...'    \04\0F|
@@ -1781,7 +1781,7 @@
 1781	$22F6CD	68	 Lenna:  Tears don't suit you.>  Cara, you need to be strong!    \04\0F|
 1782	$22F6FA	45	 Faris:  Galuf's gonna laugh at you!  >   \03\0F|
 1783	$22F74C	82	 Cara:  Sniffle...>  Hehe... you're right...>  Grandpa is laughing at me...    \04\0F|
-1784	$22F7D3	135	 After the last battle with >  Exdeath...>  I was so exhausted...    \04\0F>>I didn't have enough energy to >  escape the «Void"...    \04\0F|
+1784	$22F7D3	135	 After the last battle with >  Exdeath...>  I was so exhausted...    \04\0F>>I didn't have enough energy to >  escape the \ABVoid"...    \04\0F|
 1785	$22F825	82	 Everyone became smaller and >  smaller...  I started to feel >  relaxed...    \06\0F|
 1786	$22F877	82	 Everyone became smaller and >  smaller...  I started to feel >  relaxed...    \06\0F|
 1787	$22F8B7	64	 But, then I heard the voices of the >  Warriors of Dawn.    \04\0F|
@@ -1805,8 +1805,8 @@
 1805	$230044	68	 Cara:  So your name is Syldra...>  You're a good baby aren't you...|
 1806	$230066	34	 Faris:  Cara!>  You can see him!?|
 1807	$2300D5	111	 Cara:  Syldra's soul says that he >  wants to help you, Faris...>>>Faris:  What...!?>Cara:  Such a good boy...|
-1808	$2300F7	34	 >        Obtained Esper «Syldra"!|
-1809	$230139	66	 We are travelers of time living in >  the «Cleft of Dimension"...|
+1808	$2300F7	34	 >        Obtained Esper \ABSyldra"!|
+1809	$230139	66	 We are travelers of time living in >  the \ABCleft of Dimension"...|
 1810	$23018C	83	 This town floats suspended in the >  Cleft of Dimension...>  The Town of Mirage...|
 1811	$2301D5	73	 You can speak to us...>  Could we have returned to the >  real world...?|
 1812	$230203	46	 Each shop in this town has two >  salesmen...|
@@ -1815,18 +1815,18 @@
 1815	$2302C3	93	 I saw it, 1\53\53\53 years ago...>  The world was split in two... And >  the town was sucked in...|
 1816	$23033E	123	 The Phoenix Tower that stands in >  the desert... it is said that a >  dragon that dies there will >  return as a Phoenix.|
 1817	$2303AC	110	 I'm sure there was a piano >  somewhere in this town.  But >  there's been no one to play it for>  so long...|
-1818	$230448	156	 The evil wizard Enuo who tried to >  make the world his own with the>  power of the «Void"...>>...he himself was sucked into the >  Void and disappeared...|
+1818	$230448	156	 The evil wizard Enuo who tried to >  make the world his own with the>  power of the \ABVoid"...>>...he himself was sucked into the >  Void and disappeared...|
 1819	$23049A	82	 The wall of Phoenix Tower conceal>  both monsters and stairs.>  Search the walls!|
-1820	$230518	126	 Why has the flow of time started >  to return to this town...?>>>Is the «Void" once again going to >  appear in the world...?|
+1820	$230518	126	 Why has the flow of time started >  to return to this town...?>>>Is the \ABVoid" once again going to >  appear in the world...?|
 1821	$230595	125	 A town appears and disappears >  like an illusion...>Travelers who live a thousand >  years...>Hey, isn't that a great poem?|
-1822	$230605	112	 Enuo was immortal.>  But in exchange for acquiring the>  power of the «Void", he lost his >  invulnerable body.|
+1822	$230605	112	 Enuo was immortal.>  But in exchange for acquiring the>  power of the \ABVoid", he lost his >  invulnerable body.|
 1823	$230615	16	 Lenna:  Hiryuu!|
 1824	$230648	51	 Cara:  Is that the Hiryuu that saved>  you, Lenna?|
 1825	$230695	77	 Lenna:  What's it doing!?>>>>Cara:  He says it wants to help you,>  Lenna...|
 1826	$2306AD	24	 Lenna:  Hiryuu!  Stop!!|
 1827	$2306BE	17	 Lenna:  Hiryuu!!|
 1828	$2307B3	245	 Cara:  Lenna... Hiryuu knew he did >  not have much longer to live...>>>Lenna:  So when it saved me back >  at>the forest....>>Cara:  It used the last of its life to >  come to this tower so it could be >  of help to Lenna...>Lenna:  Hiryuu....|
-1829	$230833	128	 The Hiryuu transformed into >  Phoenix, and entrusted its power>  and its spirit to Lenna...>>>       Obtained Esper «Phoenix"!|
+1829	$230833	128	 The Hiryuu transformed into >  Phoenix, and entrusted its power>  and its spirit to Lenna...>>>       Obtained Esper \ABPhoenix"!|
 1830	$230862	47	 Lenna:  Hiryuu...>  ...>>>Lenna:  Thank you...|
 1831	$2308BA	88	 Cara:  Unless we take the two >  spells at the same time, the >  tower will explode...?|
 1832	$230912	88	 Cara:  Unless we take the two >  spells at the same time, the >  tower will explode...?|
@@ -1846,8 +1846,8 @@
 1846	$230CC5	43	 We need to take them at the same>  time...|
 1847	$230CFC	55	 Get ready... take the spell at the >  same time we do!|
 1848	$230D04	8	 Ready!!|
-1849	$230D41	61	 >          Obtained Black Magic>                    «Flare"!|
-1850	$230D7E	61	 >          Obtained White Magic>                     «Holy"!|
+1849	$230D41	61	 >          Obtained Black Magic>                    \ABFlare"!|
+1850	$230D7E	61	 >          Obtained White Magic>                     \ABHoly"!|
 1851	$230DA5	39	 Cara:  The tower's...>  disappearing!!|
 1852	$230DBB	22	 Lenna:  Be careful...|
 1853	$230DDF	36	 Faris:  The ultimate white magic...|
@@ -1856,7 +1856,7 @@
 1856	$230EB9	99	 Cara:  Guido is calling from the >  bottom of the sea!  He says to >  come quickly!  Let's hurry!!|
 1857	$230F01	72	 Don't you feel like the geography >  seems somehow different >  now...?|
 1858	$230F65	100	 A strange cave has appeared to >  the west.>  There's a rumor that a turtle >  monster lives there!|
-1859	$230FD9	116	 A ship with propellers is stuck on >  the birdÅshaped peninsula to the >  south... what do you think it could>  be?|
+1859	$230FD9	116	 A ship with propellers is stuck on >  the bird\C5shaped peninsula to the >  south... what do you think it could>  be?|
 1860	$23100E	53	 So the missing Princess of Tycoon >  has been found?|
 1861	$23103C	46	 The Crystals are gone now, aren't >  they...?|
 1862	$231099	93	 There's a party going on at Tycoon>  Castle?>  I wonder if I should go check it >  out, too.|
@@ -1869,30 +1869,30 @@
 1869	$2312DB	178	 I was so surprised!  The Boss >  Pirate... err... Faris... was really >  Princess Sarisa!>>But either way, I'm really glad that>  they were both able to return to >  the castle.|
 1870	$231327	76	 Faris... I mean, Princess Sarisa!!>  Are you leaving on a journey >  again?|
 1871	$2313DC	181	 Princess Lenna!>  Great, you're safe!>>>When Tycoon Castle disappeared >  into the darkness, we wondered >  what would happen...>>We were so worried about you, >  Princess Lenna...|
-1872	$231416	58	 «One is in an island shrine, >  protected by the wind..."|
-1873	$231438	34	 >       Obtained «Second Tablet"!|
+1872	$231416	58	 \ABOne is in an island shrine, >  protected by the wind..."|
+1873	$231438	34	 >       Obtained \ABSecond Tablet"!|
 1874	$2314A5	109	 The door to the Fork Tower in >  which the ultimate Black and >  White Magic Spells rest has been >  opened!|
-1875	$231592	237	 Cara:  There's something written >  on>the tablet...>>«The Fork Tower... where the >  ultimate Black and White Magic >  Spells rest...">>«If the two spells are not taken at >  the same time, the Tower will >  cause a large explosion..."|
-1876	$2315E3	81	 «One is in a place deeper than the >  floor of the sea, protected by >  flame...|
-1877	$231605	34	 >        Obtained «Third Tablet"!|
+1875	$231592	237	 Cara:  There's something written >  on>the tablet...>>\ABThe Fork Tower... where the >  ultimate Black and White Magic >  Spells rest...">>\ABIf the two spells are not taken at >  the same time, the Tower will >  cause a large explosion..."|
+1876	$2315E3	81	 \ABOne is in a place deeper than the >  floor of the sea, protected by >  flame...|
+1877	$231605	34	 >        Obtained \ABThird Tablet"!|
 1878	$231637	50	 :  There's something >  written on the tablet...|
-1879	$2316A3	108	 «A magic sealed in the river of >  magma...">>>>            Obtained Dimension>              Magic «Meteo"!|
+1879	$2316A3	108	 \ABA magic sealed in the river of >  magma...">>>>            Obtained Dimension>              Magic \ABMeteo"!|
 1880	$2316AF	12	 Oink, oink!|
 1881	$2316CC	29	 From Master Exdeath... oink!|
 1882	$2316E8	28	 An order for me to... oink!|
 1883	$2316FC	20	 KILL YOU!... oink!!|
 1884	$231710	20	 Oink, oink, oink!!!|
-1885	$23174B	59	 «And the last behind a waterfall, >  protected by water...|
-1886	$23176D	34	 >       Obtained «Fourth Tablet"!|
+1885	$23174B	59	 \ABAnd the last behind a waterfall, >  protected by water...|
+1886	$23176D	34	 >       Obtained \ABFourth Tablet"!|
 1887	$231795	40	 The monster was killed by >  Leviathan!|
-1888	$23183C	167	 Leviathan:  My power of water...>  The power that flows over all, >  cleanses all...>>Leviathan:I will only give it to >  those with the power to fight >  the «Void"!|
-1889	$23185E	34	 >     Obtained Esper «Leviathan"!|
+1888	$23183C	167	 Leviathan:  My power of water...>  The power that flows over all, >  cleanses all...>>Leviathan:I will only give it to >  those with the power to fight >  the \ABVoid"!|
+1889	$23185E	34	 >     Obtained Esper \ABLeviathan"!|
 1890	$23188D	47	 That slab...    >  I can't let you have it...|
-1891	$23190A	125	 When Master Exdeath gains the >  power of the «Void", a world of >  us monsters will be born!>  You can't stand in our way!!|
+1891	$23190A	125	 When Master Exdeath gains the >  power of the \ABVoid", a world of >  us monsters will be born!>  You can't stand in our way!!|
 1892	$231910	6	 Wark!|
 1893	$231944	52	 :  It's a female >  chocobo...>  We can't ride it.|
 1894	$23199A	86	 Bahamut:  You who opened the >  seal...>  Defeat me, and my power shall >  be yours!!|
-1895	$2319BB	33	 >      Obtained Esper «Bahamut"!|
+1895	$2319BB	33	 >      Obtained Esper \ABBahamut"!|
 1896	$231A07	76	 :  Blurp, blurrp!>  I can probably hold my breath... >  about 7 minutes...|
 1897	$231A3F	56	 :  Aaah!>  I can stand another 7 minutes of >  this...|
 1898	$231A9D	94	 The power of this Piece of Crystal >  is mine!  And I'm not giving it to >  anyone!  Go home!|
@@ -1953,7 +1953,7 @@
 1953	$232A0F	22	 One more time!    \0F|
 1954	$232AB0	161	 Earthquakes often occur on this >  island. And then, whirlpools >  appear...>>So your boat was swallowed by a >  whirlpool?>  Hahaha!>  That was unlucky of you.|
 1955	$232AFD	77	 A town of mirages that appears in>  the forest...>  No... it's only a rumor.|
-1956	$232B57	90	 StoneÅlike monsters are weak >  against the \AASoft' item.  My >  grandfather told me that.|
+1956	$232B57	90	 Stone\C5like monsters are weak >  against the \AASoft' item.  My >  grandfather told me that.|
 1957	$232B9E	71	 I saw a black chocobo in the >  forest.>  But he was too quick for me!|
 1958	$232BF2	84	 They say a town like an illusion >  appears in the forest...>  Could it be true...?|
 1959	$232C43	81	 Sometimes, I hear unusual sounds >  coming from underground...  It's >  scary...|
@@ -1965,11 +1965,11 @@
 1965	$232E17	93	 Hey mister!  What about the >  chocobo story?  Why don't you >  tell it to these people too?|
 1966	$232EB7	160	 The black chocobo is a creature >  that is born and raised in the >  forest.>>Once it's flying it can only land in >  the forest.>But now, they're all extinct.|
 1967	$232F44	141	 This island is marvelous.>>>>Crops grow without us doing a >  thing, and even though it hardly >  ever rains, we're never short on >  water.|
-1968	$232FB2	110	 There's an old poem in this town...>«The right tower's the tower of >  power.>Your magic won't do a thing..."|
+1968	$232FB2	110	 There's an old poem in this town...>\ABThe right tower's the tower of >  power.>Your magic won't do a thing..."|
 1969	$233022	112	 There was a great harvest this >  year, too.  This is thanks to the >  blessings of the soil on this >  island.|
 1970	$233082	96	 Now this soil won't grow anything >  anymore.  I guess it's because >  the Crystal shattered...|
 1971	$2330E9	103	 Look at this water.>  Even without much rain at all it >  steadily flows up from under the>  ground...|
-1972	$233159	112	 There's an old poem in this town...>«The left tower's the tower of >  magic.>Your strength won't do a thing..."|
+1972	$233159	112	 There's an old poem in this town...>\ABThe left tower's the tower of >  magic.>Your strength won't do a thing..."|
 1973	$2331B2	89	 Mid:  A tower suddenly appeared >  on top of Catapult!>  Cid's been trapped underneath!!|
 1974	$2331D3	33	 Is it true that Exdeath is back?|
 1975	$23321A	71	 The world will be swallowed by >  darkness...>  Eep...>  I'm scared...|
@@ -2002,7 +2002,7 @@
 2002	$2339C7	110	 It's said that in the very back of >  the Great Forest of Mua is the >  Master Tree which guards the >  seal.|
 2003	$2339EB	36	 So Guido was alright.  That's good.|
 2004	$2339FD	18	 Even Guido was...|
-2005	$233A31	52	 Where'd you come from to such a >  farÅoff village?|
+2005	$233A31	52	 Where'd you come from to such a >  far\C5off village?|
 2006	$233ABD	140	 Once when I was lost in the Forest >  of Mua, a funny little creature >  helped me out.>>It was very strange\9C it kept going >  \AAkupo kupo'!|
 2007	$233AF5	56	 Something happened to the world!>  Something must have!|
 2008	$233B88	147	 The spirits of the trees usually do >  not show themselves.>>>But if you peek through small >  holes in the tree trunks, they >  may speak to you.|
@@ -2027,17 +2027,17 @@
 2027	$233FC1	48	 Won't you bring me a frog?>  I really want one.|
 2028	$234011	80	 I'll trade you this jar for that frog>  and 1\53,\53\53\53 Gil. How does that >  sound?|
 2029	$234031	32	 Hehehe...>  Finally, I can eat.|
-2030	$234048	23	 >Obtained «Corna Jar"!|
+2030	$234048	23	 >Obtained \ABCorna Jar"!|
 2031	$23409B	83	 Have a seat over there and I'll give>  you a taste of Kelb village's >  specialty!|
 2032	$2340A8	13	 Here you go!|
 2033	$2340BE	22	 We're out of stuff...|
-2034	$2340E0	34	 This is our afterÅmeal service...|
+2034	$2340E0	34	 This is our after\C5meal service...|
 2035	$234123	67	 Kelgar has fallen ill...>  And he overworked himself so >  much...|
 2036	$234157	52	 Now all of the Four Warriors of >  Dawn are gone...|
 2037	$2341BB	100	 Oh, Princess Lenna!>  You're alright!!>  That book...?>>Would you like me to read it for >  you...?|
 2038	$234234	121	 In an island shrine, protected by >  the wind... Could this be>about the Solitary Island Temple to>  the west of Tycoon?|
 2039	$23426B	55	 I brought some recovery water >  from the Wind Shrine.|
-2040	$2342BC	81	 Is it true that the «Cleft of >  Dimension" appeared in the sky >  above Tycoon?|
+2040	$2342BC	81	 Is it true that the \ABCleft of >  Dimension" appeared in the sky >  above Tycoon?|
 2041	$234309	77	 This castle suddenly appeared in >  the place where Exdeath was >  sealed...|
 2042	$234329	32	 Waterfall... behind another...?|
 2043	$234389	96	 I was trapped in there.>  Thank you so much for helping >  me!>>You're so great...    smooch!!|
@@ -2045,63 +2045,63 @@
 2045	$2343BA	27	 You took my Kiss of Death!|
 2046	$234415	91	 I'll play with you...    >  I, the King of the Dimensional >  Castle, Halikarnassos will!|
 2047	$2344AB	150	 You've made it this far...    >  But your lives are already up!>>>They were gone the instant you >  flipped the dimensional switch in >  this book!!|
-2048	$23451B	112	 This is it...    >  Ahead of here lies the space >  where the «Void" is sealed, and I >  won't let you enter!!|
+2048	$23451B	112	 This is it...    >  Ahead of here lies the space >  where the \ABVoid" is sealed, and I >  won't let you enter!!|
 2049	$234556	59	 Take a peaceful rest in the >  forest...    >  FOREVER!!!|
 2050	$234584	46	 This light...    >  I won't let you have it!|
 2051	$2345A6	34	 >        Got better at the piano!|
 2052	$2345E3	61	 >           Mastered the Piano!>>>... Well, almost, anyways.|
 2053	$234604	33	 >           Mastered the Piano!!|
 2054	$234611	13	 You're late!|
-2055	$234683	114	 Fwahaha... I finally have it!!>  The ultimate power!>  Power that will rule the world!>>The power of the «Void"!!|
-2056	$2346CC	73	 Fwa, ha, ha...>  Now, why don't you disappear >  into the «Void" too...?|
+2055	$234683	114	 Fwahaha... I finally have it!!>  The ultimate power!>  Power that will rule the world!>>The power of the \ABVoid"!!|
+2056	$2346CC	73	 Fwa, ha, ha...>  Now, why don't you disappear >  into the \ABVoid" too...?|
 2057	$2346DC	16	 !>  Stand up!!|
 2058	$2346E6	10	 :  Dad!!|
 2059	$2346FB	21	 :  Zeza!>  Kelgar!!|
 2060	$234717	28	 Cara:  Grandpa!>:  Galuf!!|
 2061	$23474B	52	 Galuf:  Presenting...>  The Four Warriors of Dawn!!|
 2062	$234819	206	 Galuf:  !>  Lenna!  Faris!  Cara!>  While we hold back the power of>  the Void, defeat him!!>Galuf:  Only you, the Warriors of >  the Crystal, can save the world >  from the power of Darkness!>  Now, go!!|
-2063	$234861	72	 Why did the power of the «Void" >  disappear!?>  Aaaaagh!!  Take this!!|
+2063	$234861	72	 Why did the power of the \ABVoid" >  disappear!?>  Aaaaagh!!  Take this!!|
 2064	$234882	33	 Lenna:  Father!>Faris:  Father!!|
 2065	$234920	158	 Galuf:  Come on!     >Kelgar:  Now is the time!     >Zeza:  Defeat ...     >Dorgan:  ... Exdeath!!>Four Warriors of Dawn:  Go!>  Warriors or the Crystal!!|
 2066	$23493D	29	 :  Exdeath!>  This is it!!!|
 2067	$23496C	47	 Guido:  Ouch...>:  Guido!>  Are you alright!?|
-2068	$2349D9	109	 Guido:  Damn that Exdeath!>  Something MUST be done before >  the power of the «Void" is his!>>Guido:  ...!?|
+2068	$2349D9	109	 Guido:  Damn that Exdeath!>  Something MUST be done before >  the power of the \ABVoid" is his!>>Guido:  ...!?|
 2069	$234A69	144	 Guido:  What's that!?>:  The Ancient Library...>>>Guido:  What!>  The Legendary Ancient Library!!>>>Guido:  I see!>  So it was in your world!!|
 2070	$234AC2	89	 Guido:  Let's go!>  A book we need to defeat >  Exdeath lies in the Ancient >  Library!!|
-2071	$234B3D	123	 Scholar:  Mr. Guido!!>Guido:  The scholars of Surgate!>Scholar:  The «Sealed Book" has >  been put together!>Guido:  Yes!!|
+2071	$234B3D	123	 Scholar:  Mr. Guido!!>Guido:  The scholars of Surgate!>Scholar:  The \ABSealed Book" has >  been put together!>Guido:  Yes!!|
 2072	$234B57	26	 Guido:  I call a meeting.|
-2073	$234C1F	200	 Guido:  The two worlds have >  rejoined.>>>Guido:  The power of the «Void" >  that was sealed in the «Cleft of >  Dimension" is about to return!>>:  Then let's hurry to >  the «Cleft of Dimension"!!|
-2074	$234D81	354	 Guido:  Not so fast!>  Many monsters were sealed in >  the «Cleft of Dimension" along >  with the «Void" 1\53\53\53 years ago.>Guido:  They are very powerful.  >  You can't defeat them yet...>:  Well then, what >  should we do?>Guido:  Break the seals on the >  twelve legendary weapons that >  were used to defeat Enuo 1\53\53\53 >  years ago!>:  Twelve weapons?|
-2075	$234E40	191	 Guido:  Yes.>  And in order to do that...>>>Guido:  You'll need this «Sealed >  Book" that had been split in two!>>>Guido:  If the legend is correct...>  The book will show you the >  way...|
-2076	$234EDF	159	 :  The book!?>>>>Guido:  When the power of the >  «Void" returns, the «Sealed Book">  will speak to the Light Warriors...>>>      The book begins to speak...|
-2077	$235221	834	 «The twelve weapons we used in >  the war against Enuo we seal in >  the castle of Kuzar...>>«The keys to releasing the seals... >  are the four stone tablets.>>>«One rests with the souls of the >  past, protected by the earth...>>>«One is in an island shrine, >  protected by the wind...>>>«One is in a place deeper than the >  floor of the sea, protected by >  flame...>>«And the last behind a waterfall, >  protected by water...>>>«We also seal our servants...>  The keys to releasing them are >  the four stone tablets.>>«When the tablets are moved, our >  servants shall also revive...>>>«The ultimate Black and White >  Spells...>  The greatest Dimensional Spell, >  \AAMeteo'...>  The Sea King \AALeviathan'...>>>>«And the king of dragons, >  \AABahamut'...>>>«Hold this book up to the door and >  the path to the seal will open..."|
-2078	$23523A	25	 >Obtained «Sealed Book"!|
+2073	$234C1F	200	 Guido:  The two worlds have >  rejoined.>>>Guido:  The power of the \ABVoid" >  that was sealed in the \ABCleft of >  Dimension" is about to return!>>:  Then let's hurry to >  the \ABCleft of Dimension"!!|
+2074	$234D81	354	 Guido:  Not so fast!>  Many monsters were sealed in >  the \ABCleft of Dimension" along >  with the \ABVoid" 1\53\53\53 years ago.>Guido:  They are very powerful.  >  You can't defeat them yet...>:  Well then, what >  should we do?>Guido:  Break the seals on the >  twelve legendary weapons that >  were used to defeat Enuo 1\53\53\53 >  years ago!>:  Twelve weapons?|
+2075	$234E40	191	 Guido:  Yes.>  And in order to do that...>>>Guido:  You'll need this \ABSealed >  Book" that had been split in two!>>>Guido:  If the legend is correct...>  The book will show you the >  way...|
+2076	$234EDF	159	 :  The book!?>>>>Guido:  When the power of the >  \ABVoid" returns, the \ABSealed Book">  will speak to the Light Warriors...>>>      The book begins to speak...|
+2077	$235221	834	 \ABThe twelve weapons we used in >  the war against Enuo we seal in >  the castle of Kuzar...>>\ABThe keys to releasing the seals... >  are the four stone tablets.>>>\ABOne rests with the souls of the >  past, protected by the earth...>>>\ABOne is in an island shrine, >  protected by the wind...>>>\ABOne is in a place deeper than the >  floor of the sea, protected by >  flame...>>\ABAnd the last behind a waterfall, >  protected by water...>>>\ABWe also seal our servants...>  The keys to releasing them are >  the four stone tablets.>>\ABWhen the tablets are moved, our >  servants shall also revive...>>>\ABThe ultimate Black and White >  Spells...>  The greatest Dimensional Spell, >  \AAMeteo'...>  The Sea King \AALeviathan'...>>>>\ABAnd the king of dragons, >  \AABahamut'...>>>\ABHold this book up to the door and >  the path to the seal will open..."|
+2078	$23523A	25	 >Obtained \ABSealed Book"!|
 2079	$2352AA	112	 Guido:  Before Exdeath gets the >  power of the Void, dissolve the >  seals on the twelve legendary >  weapons!|
 2080	$235380	214	 Guido:  The first stone tablet...>  Resting with souls of the past >  and protected by the earth...  The>  Quicksand Desert's Pyramid!>Guido:  !>  Faris, Cara!!>  The fate of the entire world is in>  your hands!!|
 2081	$2353FA	122	 Guido:  The power of the twelve >  legendary weapons should be >  able to defeat Exdeath!  You >  must protect the world!|
 2082	$23541A	32	 Guido:  The Sealed Book read...|
 2083	$23549C	130	 So on this globe we're here at the >  Ancient Library.  So if you lay the>  two worlds on top of each >  other... interesting...!|
-2084	$235514	120	 It's written here that there's an >  evil forest and cave with>dreadful monsters sealed in the >  «Cleft of Dimension".|
+2084	$235514	120	 It's written here that there's an >  evil forest and cave with>dreadful monsters sealed in the >  \ABCleft of Dimension".|
 2085	$235560	76	 Dr. Cid and Mid went off to >  Crescent Island and haven't come>  back yet.|
 2086	$23558C	44	 Will the world be plunged into >  darkness?|
 2087	$2355EB	95	 Exdeath's true form is a tree...>  So that must be why he turned >  himself into a splinter...|
 2088	$2356D4	233	 This says there is a town shut up >  in the Cleft of Dimension...>>>There they sell fantastic magic, >  weapons and armor from 1\53\53\53 >  years in the past...>>If the Cleft of Dimension has >  reappeared, that town would >  also be...?|
 2089	$235728	84	 The places where the tablets have>  been sealed are always guarded >  by gargoyles.|
 2090	$2357B0	136	 If the two worlds have been put >  on top of each other... then the >  Sealed Castle of Kuzar should be >  to the east of Tule Village.|
-2091	$23580E	94	 Exdeath may have obtained the >  power of the «Void", but there >  should still be time left.|
+2091	$23580E	94	 Exdeath may have obtained the >  power of the \ABVoid", but there >  should still be time left.|
 2092	$235863	85	 There's no point...>  Even if Exdeath is defeated, the >  Crystals are still gone...|
-2093	$2358F4	145	 Split the Crystals in two, and the >  world also splits in two...>>>It would have been impossible to >  seal the «Void" without doing >  that...|
-2094	$235943	79	 I read in a book:>  «Light exists not without Void"...>  What could this mean?|
-2095	$235997	84	 When I was burning old book, I >  found a song...>>>>         Learned «Magic Song"!|
-2096	$2359E7	80	 «Magic Song"...>This song gradually increases your>  Magic Power during battle.|
-2097	$235A20	57	 When the worlds became one, so >  did the «Sealed Book".|
-2098	$235A96	118	 You must prevent Exdeath from >  gaining the power of the «Void"!  >  Would you like me to read the >  «Sealed Book"?|
+2093	$2358F4	145	 Split the Crystals in two, and the >  world also splits in two...>>>It would have been impossible to >  seal the \ABVoid" without doing >  that...|
+2094	$235943	79	 I read in a book:>  \ABLight exists not without Void"...>  What could this mean?|
+2095	$235997	84	 When I was burning old book, I >  found a song...>>>>         Learned \ABMagic Song"!|
+2096	$2359E7	80	 \ABMagic Song"...>This song gradually increases your>  Magic Power during battle.|
+2097	$235A20	57	 When the worlds became one, so >  did the \ABSealed Book".|
+2098	$235A96	118	 You must prevent Exdeath from >  gaining the power of the \ABVoid"!  >  Would you like me to read the >  \ABSealed Book"?|
 2099	$235ACA	52	 My servants, monsters of the >  Cleft of Dimension!|
 2100	$235B7F	181	 The warriors guided by the light >  of the Crystals are searching for >  the ancient stone tablets...>>Go, kill them!!  We can't let them >  have the Twelve Legendary >  Weapons...|
-2101	$235BDA	91	 We'll do it!!>>>>Go!  My minions!>  Meanwhile... I shall gain the >  power of the «Void"!!|
-2102	$235C2F	85	 We monsters who have been >  sealed in the «Cleft of Dimension">  for a millenium...|
-2103	$235CA8	121	 Exdeath will unleash the power of >  the «Void"... and a world of us >  monsters... a world of darkness >  will be born!|
-2104	$235D2F	135	 We can't let you stand in his way!>  You will die here in the «Cleft of >  Dimension"... by the hand of our >  dark powers!  Hehehe...|
+2101	$235BDA	91	 We'll do it!!>>>>Go!  My minions!>  Meanwhile... I shall gain the >  power of the \ABVoid"!!|
+2102	$235C2F	85	 We monsters who have been >  sealed in the \ABCleft of Dimension">  for a millenium...|
+2103	$235CA8	121	 Exdeath will unleash the power of >  the \ABVoid"... and a world of us >  monsters... a world of darkness >  will be born!|
+2104	$235D2F	135	 We can't let you stand in his way!>  You will die here in the \ABCleft of >  Dimension"... by the hand of our >  dark powers!  Hehehe...|
 2105	$235D6C	61	 You are the warriors that hold the>  pieces of the Crystals?|
 2106	$235DA4	56	 I see...>  Well then, there's nothing for you>  here...|
 2107	$235DAD	9	 I see...|
@@ -2109,22 +2109,22 @@
 2109	$235E00	59	 We're the only ones who made it >  back to Surgate Castle.|
 2110	$235E0F	15	 :  Let's go!!|
 2111	$235E73	100	 I was wondering who it might be...>     >  Weaklings!  Hahaha... Stoker will >  take care of you!!|
-2112	$235ED0	93	 Lenna:  The entrance to the «Cleft >  of Dimension" is where Castle >  Tycoon disappeared...|
-2113	$235F80	176	 Cara:  Let's hurry!>  We have to get there before  >  Exdeath gains the power of the >  «Void"!!>Faris:  But Guido said we'd never >  win with the strength we've got >  now...|
+2112	$235ED0	93	 Lenna:  The entrance to the \ABCleft >  of Dimension" is where Castle >  Tycoon disappeared...|
+2113	$235F80	176	 Cara:  Let's hurry!>  We have to get there before  >  Exdeath gains the power of the >  \ABVoid"!!>Faris:  But Guido said we'd never >  win with the strength we've got >  now...|
 2114	$235FD8	88	 :  The twelve legendary>  weapons...>  The Sealed Castle of Kuzar...  >  Let's hurry!!|
 2115	$235FED	21	 Cara:  What's that!?|
-2116	$236057	106	 Lenna:  The entrance to the «Cleft >  of Dimension"!>Faris:  We're being sucked in!>>:  We're going in!!|
+2116	$236057	106	 Lenna:  The entrance to the \ABCleft >  of Dimension"!>Faris:  We're being sucked in!>>:  We're going in!!|
 2117	$236090	57	 We'll protect the castle until >  Princess Cara returns!|
 2118	$2360C2	50	 What in the world could be in the >  basement...?|
 2119	$2360F1	47	 Is it true that Exdeath's come back>  to life?|
 2120	$236114	35	 Moogle:  Cara...>  Cheer up, kupo!|
 2121	$236138	36	 Princess Cara!>  Please be careful!|
-2122	$236150	24	 >Obtained «Magic Lamp"!|
+2122	$236150	24	 >Obtained \ABMagic Lamp"!|
 2123	$2361CD	125	 I'm going to destroy you fools!>  First, your friends!!  Watch as >  they're sucked into the Void and >  disappear forever!!|
 2124	$2361D9	12	 :  Stop!!!|
-2125	$236209	48	 >«Epee" was in the water...>>>>Obtained «Epee"!|
+2125	$236209	48	 >\ABEpee" was in the water...>>>>Obtained \ABEpee"!|
 2126	$2362E9	224	 Cara:  We must stop Exdeath.>  The people of the world...>  Not just for them...>  But for all life...>Faris:  I can't take it anymore...>  I can't stand seeing any more >  lives lost...>>:  Let's go.>  We'll protect them.|
-2127	$236367	126	 Exdeath:  The power of the >  «Void"...>  I can't control it...?>  How's this!?>Exdeath:  Power of the Void!>  Show yourself!|
+2127	$236367	126	 Exdeath:  The power of the >  \ABVoid"...>  I can't control it...?>  How's this!?>Exdeath:  Power of the Void!>  Show yourself!|
 2128	$2363A1	58	 Exdeath:  Go!>  Destroy the world!>  Show me your power!!|
 2129	$2363D1	48	 Cara:  Towns are being sucked into>  the Void!!|
 2130	$2363EB	26	 :  Exdeath!>  Why you!!!|
@@ -2135,21 +2135,21 @@
 2135	$2364B7	33	 Kupo!>Cara!  Kupo, kupo!!    \0F|
 2136	$2364D6	31	 >                 Ride Hiryuu?|
 2137	$236565	143	 I have a gift for ya...>  But not for free...>>>I know...    >  Take a trip around the world in a>  chocobo, and then I'll give it to >  you.|
-2138	$2365DA	117	 I didn't really think you'd take a >  trip around the world in a >  chocobo!>>Take this!>>>>>Obtained «Mirage Vest"!|
+2138	$2365DA	117	 I didn't really think you'd take a >  trip around the world in a >  chocobo!>>Take this!>>>>>Obtained \ABMirage Vest"!|
 2139	$23664C	114	 I didn't really think that you would >  do it...>>>By the way, didn't you stop by a >  waterfall during the trip?|
 2140	$23669B	79	 I'm a psychic.  I even know about >  your journey!  Would you like to >  hear?|
 2141	$2366B2	23	 Are you now an expert?|
 2142	$2366DB	41	 Well... that's ok.>  Keep working at it.|
 2143	$23671A	63	 Well, then, go to the House of >  Beginners, and tell them so!|
-2144	$236A10	758	 Really?>  Then, I'll tell you something.>>>A «No Job" can equip everything, >  and «Mimic" can equip everything>  except ribbons.>>But their «Strength" and «Magic >  Power" are a bit weak, aren't >  they?>>But once you Master any Job, the >  «No Job" and «Mimic" will inherit >  any initial status and abilities that>  come with that job.>For example, once you master >  \AAKnight', \AABlack Mage', and \AAThief', >  your «No Job" and «Mimic" will >  carry...>...the «Strength" of the \AAKnight'...>  ... the «Magic Power" of the >  \AABlack Mage'...>>As well as the «Passage" and >  «Dash" abilities native to the >  \AAThief'.>>In addition, you can attach two >  abilities to it.>>>Once you master a few jobs, «No >  Job" and «Mimic" are by far >  much more powerful!|
+2144	$236A10	758	 Really?>  Then, I'll tell you something.>>>A \ABNo Job" can equip everything, >  and \ABMimic" can equip everything>  except ribbons.>>But their \ABStrength" and \ABMagic >  Power" are a bit weak, aren't >  they?>>But once you Master any Job, the >  \ABNo Job" and \ABMimic" will inherit >  any initial status and abilities that>  come with that job.>For example, once you master >  \AAKnight', \AABlack Mage', and \AAThief', >  your \ABNo Job" and \ABMimic" will >  carry...>...the \ABStrength" of the \AAKnight'...>  ... the \ABMagic Power" of the >  \AABlack Mage'...>>As well as the \ABPassage" and >  \ABDash" abilities native to the >  \AAThief'.>>In addition, you can attach two >  abilities to it.>>>Once you master a few jobs, \ABNo >  Job" and \ABMimic" are by far >  much more powerful!|
 2145	$236A7F	111	 I've dug all this way...>  But I hear strange sounds up >  above here, lali!>>Isn't there a forest above here?|
 2146	$236AFA	123	 Have you heard of the \AAMagic >  Lamp'?>>>If you return it to its original >  place, the lamp's power will >  revive, lali!|
 2147	$236B52	88	 Lalibo is digging a tunnel, lali!>  He says he'll go all the way >  around the world...|
 2148	$236BA5	83	 We only have five people, but this >  is still a splendid Dwarf Kingdom, >  lali!!|
 2149	$236BC5	32	 >                    Lali, ho!!|
-2150	$236C2C	103	 A book written by a wizard:>«Giving a wizard \AADragon Sword'...>  That is the secret to my >  power..."|
-2151	$236CAB	127	 A book written by a wizard:>«The secret of Giga Flare...>  This magic leaves a moment of >  vulnerability during preparation!"|
-2152	$236DF1	326	 A book from 1\53\53\53 years ago:>«They appeared from the sky, the >  one without a heart... \AAOmega'...>>«And the one who followed it... >  \AAShinryuu'...not even the heroes >  who hold the twelve weapons >  are a match for them...>«It's best to let them rest quietly >  in the \AACleft of Dimension'...>  Never try to speak to them!"|
+2150	$236C2C	103	 A book written by a wizard:>\ABGiving a wizard \AADragon Sword'...>  That is the secret to my >  power..."|
+2151	$236CAB	127	 A book written by a wizard:>\ABThe secret of Giga Flare...>  This magic leaves a moment of >  vulnerability during preparation!"|
+2152	$236DF1	326	 A book from 1\53\53\53 years ago:>\ABThey appeared from the sky, the >  one without a heart... \AAOmega'...>>\ABAnd the one who followed it... >  \AAShinryuu'...not even the heroes >  who hold the twelve weapons >  are a match for them...>\ABIt's best to let them rest quietly >  in the \AACleft of Dimension'...>  Never try to speak to them!"|
 2153	$236E68	119	 Elementalists use nature to their >  advantage.  They aren't hurt by >  damage tiles, and they can evade>  trap doors!|
 2154	$236ED4	108	 Dwarves make excellent weapons >  and armor!>  They aren't just a legend, I'm >  sure they exist somewhere!|
 2155	$236F05	49	 Please, tell us more about the >  Elementalists!|
