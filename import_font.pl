@@ -4,7 +4,7 @@ use File::Slurper qw(read_binary write_binary);
 
 
 my $rom = $ARGV[0] || "ff5co.sfc";
-my $pbm = $ARGV[1] || "french_font.pbm";
+my $pbm = $ARGV[1] || "corsican_font.pbm";
 my $offset = defined $ARGV[2] ? hex($ARGV[2]) : 0x03EF80;
 my $length = defined $ARGV[3] ? hex($ARGV[3]) : 0x1080;
 my $columns = defined $ARGV[4] ? $ARGV[4] : 16;
