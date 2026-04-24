@@ -33,7 +33,7 @@
 33	$210978	22	 ??? : Andemu, Boko !|
 34	$210995	29	 ??? : Aspettami quì, Boko.|
 35	$2109CF	58	 ??? : Va bè ? ùn ti sei fatta male ?>Lenna : Credu chì anderà…|
-36	$210A16	71	 Lenna : Mille grazie. Mi chjamu>Lenna. Quale sì ?>??? : Mi chjamu…|
+36	$210A16	71	 Lenna : À ringrazià vi assai. Mi>chjamu Lenna. Quale sì ?>??? : Mi chjamu…|
 37	$210A68	82	 [Bartz] : Mi chjamu [Bartz].>Viaghju cù u mo chocobo induve>u ventu mi porta…>Lenna : [Bartz]…|
 38	$210B21	185	 Lenna : Un scogliu hè>cascatu di colpu da u celu…>Devu avè persu cuscenza.>[Bartz] : Pare un meteoritu.>Lenna : Un meteoritu… Puderia>avè qualcosa à chì vede>cù u ventu ?|
 39	$210B8E	109	 Lenna : Grazie torna. Mi piacerebbe>offre ti qualcosa per>ringraziatti ma devu parte…|
