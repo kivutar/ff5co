@@ -15,89 +15,89 @@
 15	$21029C	13	 Bona notte !|
 16	$2102B1	21	 A prestu, spergu.|
 17	$210326	117	 Stu locu hè sacru. Pudete>aduprà una tenda o un>padiglione quì. Pudete dinù>salvà a vostra partita.|
-18	$210361	59	 Oste - Mica male !>>>>Avete ottenutu 100 gils !|
+18	$210361	59	 Oste : Mica male !>>>>Avete ottenutu 100 gils !|
 19	$210392	49	 >\52\52\52A porta hè chjosa da>\52\52\52l'internu.|
 20	$2103B5	35	 >\52\52\52ùn riescite à aprella.|
 21	$2103C9	20	 >Pigliatu - Padiglione !|
-22	$2103DC	19	 Lenna - Babbu !>[P2][AutoClose]|
-23	$21049F	195	 Lenna - Duvete andà ci>veramente ?[P2][AutoClose]>>>Rè di Tycoon - Lenna, pruteggi u>castellu in a mo assenza. Qualunque>sia ciò ch'accadi, prumettimi chì>ùn circherai micca di seguitammi.[P4][AutoClose]>Lenna - Ma…\52\52\52[P4][AutoClose]|
-24	$210521	130	 Rè di Tycoon - U ventu mughja>stranamente… Devu andà à u>tempiu di u ventu è assicurammi>ch'ùn sia accadutu nunda à u cristallu.[P4][AutoClose]|
-25	$210599	120	 Lenna - Iè, a sentu anch'eiu. Ma>ùn hè micca prudente d'andà ci>solu…>Rè di Tycoon - ùn t'inchietà.>Andarà tuttu bè.[P4][AutoClose]|
-26	$2105BA	33	 Faris - U ventu s'hè piantatu…[P2][AutoClose]|
-27	$2105E0	38	 Vechju omu - Mi devu>spiccià ![P2][AutoClose]|
-28	$210614	52	 Lenna - U ventu… S'hè piantatu ![FixedPause]>Innò ! Babbu ![P2][AutoClose]|
-29	$210637	35	 Rè di Tycoon - Chì succede…>[P2][AutoClose]|
+22	$2103DC	19	 Lenna : Babbu !>[P2][AutoClose]|
+23	$21049F	195	 Lenna : Duvete andà ci>veramente ?[P2][AutoClose]>>>Rè di Tycoon : Lenna, pruteggi u>castellu in a mo assenza. Qualunque>sia ciò ch'accadi, prumettimi chì>ùn circherai micca di seguitammi.[P4][AutoClose]>Lenna : Ma…\52\52\52[P4][AutoClose]|
+24	$210521	130	 Rè di Tycoon : U ventu mughja>stranamente… Devu andà à u>tempiu di u ventu è assicurammi>ch'ùn sia accadutu nunda à u cristallu.[P4][AutoClose]|
+25	$210599	120	 Lenna : Iè, a sentu anch'eiu. Ma>ùn hè micca prudente d'andà ci>solu…>Rè di Tycoon : ùn t'inchietà.>Andarà tuttu bè.[P4][AutoClose]|
+26	$2105BA	33	 Faris : U ventu s'hè piantatu…[P2][AutoClose]|
+27	$2105E0	38	 Vechju omu : Mi devu>spiccià ![P2][AutoClose]|
+28	$210614	52	 Lenna : U ventu… S'hè piantatu ![FixedPause]>Innò ! Babbu ![P2][AutoClose]|
+29	$210637	35	 Rè di Tycoon : Chì succede…>[P2][AutoClose]|
 30	$210817	480	 Lasciami spiegatti cumu>funziunanu l'anelli.>>L'anellu rossu assorbe u>focu è prutegge contr'à u ghjacciu.>Tuttavia hà un puntu debule - l'acqua.>L'anellu di curallu assorbe>l'acqua è prutegge contr'à u focu.>Tuttavia hà un puntu debule - u tronu.>L'anellu d'ànghjulu prutegge>contr'à i stati>Invechjamentu è Zombiu.>>È u nastru ! Prutegge contr'à>a maiò parte di l'alterazioni di statu.|
-31	$210827	16	 Mog - Kupo ![P1][AutoClose]|
+31	$210827	16	 Mog : Kupo ![P1][AutoClose]|
 32	$210962	315	 Sceglite l'opzione «Optimal» per>equipà vi cù i migliori pezzi>d'equipagiu di u vostru inventariu.>>Ma fate casu ! Solu a forza è>a difesa sò pigliate in>cunsiderazione. Pudete avè bisognu>d'equipà à a manu accessori>cù qualità spiciale, cum'è>a cappa è a spinguletta.|
-33	$210978	22	 ??? - Andemu, Boko !|
-34	$210995	29	 ??? - Aspettami quì, Boko.|
-35	$2109CF	58	 ??? - Va bè ? ùn ti sei fatta male ?>Lenna - Credu chì anderà…|
-36	$210A16	71	 Lenna - Mille grazie. Mi chjamu>Lenna. Quale sì ?>??? - Mi chjamu…|
-37	$210A68	82	 [Bartz] - Mi chjamu [Bartz].>Viaghju cù u mo chocobo induve>u ventu mi porta…>Lenna - [Bartz]…|
-38	$210B21	185	 Lenna - Un scogliu hè>cascatu di colpu da u celu…>Devu avè persu cuscenza.>[Bartz] - Pare un meteoritu.>Lenna - Un meteoritu… Puderia>avè qualcosa à chì vede>cù u ventu ?|
-39	$210B8E	109	 Lenna - Grazie torna. Mi piacerebbe>offre ti qualcosa per>ringraziatti ma devu parte…|
-40	$210B9C	14	 [Bartz] - Aspetta !|
-41	$210BDA	62	 Lenna - [Bartz]… Senti>qualcosa ?>[Bartz] - Eiu ?>>??? - Oooh…|
-42	$210BF4	26	 ??? - Aaah… [FixedPause]Aiutu…|
-43	$210C01	13	 [Bartz] - Quallà !|
-44	$210C4B	74	 Lenna - Site feritu ?>Vechju omu - Induve sò ?>Oh… A mio capu !|
-45	$210CD6	139	 Vechju\52omu - Mille diavuli…>Chì hè accadutu ? ùn mi>ramentu di nunda !>>[Bartz] - T'hè battuta a testa…>Ai forse persu a memoria.|
-46	$210D72	156	 Vechju omu - Oh ! Mi ricordu>qualcosa… Mi chjamu>Galuf !>Lenna - Oh ! È dopu ?>Galuf - … Innò, basta cusì ! ùn mi>ramentu di nunda d'altru…|
-47	$210DFB	137	 Lenna - Mi dispiace veramente…>ùn possu piantammi più>longu.>[Bartz] - Induve vai ?>Lenna - Devu andà à u>tempiu di u ventu…|
-48	$210E78	125	 Galuf - U tempiu di u ventu ! Mi>dirigia ghjustu versu>issu locu ! Allora hè decisu.>Vengu cun tè !>Lenna - Ma…|
-49	$210F28	176	 Galuf - ùn possu lascià mai>una giovana senza difesa andà>ci tutta sola.>>È dopu, devu andà à u>tempiu… Ne sò sicuru.>Lasciami vene cun tè !|
-50	$210F79	81	 Lenna - È tù, [Bartz] ?>[Bartz] - … Aghju da cuntinuà à>viaghjà. Bona furtuna !|
-51	$210FC5	76	 Lenna - Ti ringraziu d'avè ci>aiutatu, [Bartz]… Addiu !>Galuf - Bona strada !|
-52	$211010	75	 [Bartz] - Aiò ! Boko ! Cattivu chocobo !>Perchè t'ai piantatu cusì>di colpu ?|
-53	$21104F	63	 [Bartz] - … ùn mi fighjulà>cusì.>>>Boko - Kwoa ! Kwoa, kwoa !|
-54	$2110D3	132	 [Bartz] - … A sò, una giovana>è un vechju omu, soli cusì…>È ci sò pieni di Goblin>quallà… Va bè, va bè, aghju capitu !|
-55	$2110EE	27	 Lenna - Aah !>Galuf - Oh !|
-56	$211111	35	 [Bartz] - Andemu, Boko !>>>>Boko - Kwoa !|
-57	$211120	15	 Lenna - Oooh…[FixedPause]|
-58	$211137	23	 [Bartz] - Oi.>Lenna - [Bartz] !|
-59	$211180	73	 Lenna - Ti sò torna in>debitu…>[Bartz] - ùn hè nunda.|
-60	$211225	165	 [Bartz] - L'onda di scossa di>u meteoritu hà causatu>sfrane…>A strada hè cuparta di sfundame.>ùn puderete passà di quì>per andà in Tule.|
-61	$211271	76	 Lenna - Devu andà à u>tempiu di u ventu subitu !>>>Galuf - Oooh…|
-62	$2112CC	91	 Galuf - U tempiu di u ventu… Prestu…>[Bartz] - Pare vulè andà ci>u più prestu pussibule, ellu dinù…|
-63	$2113E1	277	 [Bartz] - D'accordu. Vi>accumpagneraghju sin'à u tempiu !>Lenna - Veramente ?>[Bartz] - Iè ! Aghju prumessu à u>mo babbu, nanzu ch'ellu morga, di>viaghjà à traversu u mondu. È>in più… Pare chì u ventu>mi chjami.>Galuf - Oh, ch'ellu hè caru ! Avà,>ricunnosci lu, sta zitella ti piace.|
-64	$211439	88	 [Bartz] - Chì… Ti sei svegliatu ?>Galuf - ùn ti stupisce tantu.>Sò sempre prontu à tuttu !|
-65	$2114A5	108	 Galuf - Ma s'ella hè bluccata>a strada, e cose si facenu più>difficule…>[Bartz] - Hè vera…>Lenna - …|
-66	$211532	141	 Lenna - ùn possu micca>rinuncià. Ci deve esse un>altru modu d'ghjunghje à u tempiu>di u ventu !>Galuf - U truveremu !>[Bartz] - Andemu !|
-67	$2115AB	121	 Lenna - ùn c'era nisuna grotta>quì, ne sò sicura…>[Bartz] - Hè stata forse creata dopu>à tutti issi franamenti.|
-68	$2115FC	81	 [Bartz] - Boko, pò esse>periculosu dentru.>Aspettaci quì, va bè ?|
-69	$21160A	14	 Boko - Kwoa !|
-70	$21161E	20	 [Bartz] - Andemu, Boko !|
-71	$211632	20	 Boko - Kwoa, kwoa !|
-72	$211643	17	 [Bartz] - Una surgente ?|
+33	$210978	22	 ??? : Andemu, Boko !|
+34	$210995	29	 ??? : Aspettami quì, Boko.|
+35	$2109CF	58	 ??? : Va bè ? ùn ti sei fatta male ?>Lenna : Credu chì anderà…|
+36	$210A16	71	 Lenna : Mille grazie. Mi chjamu>Lenna. Quale sì ?>??? : Mi chjamu…|
+37	$210A68	82	 [Bartz] : Mi chjamu [Bartz].>Viaghju cù u mo chocobo induve>u ventu mi porta…>Lenna : [Bartz]…|
+38	$210B21	185	 Lenna : Un scogliu hè>cascatu di colpu da u celu…>Devu avè persu cuscenza.>[Bartz] : Pare un meteoritu.>Lenna : Un meteoritu… Puderia>avè qualcosa à chì vede>cù u ventu ?|
+39	$210B8E	109	 Lenna : Grazie torna. Mi piacerebbe>offre ti qualcosa per>ringraziatti ma devu parte…|
+40	$210B9C	14	 [Bartz] : Aspetta !|
+41	$210BDA	62	 Lenna : [Bartz]… Senti>qualcosa ?>[Bartz] : Eiu ?>>??? : Oooh…|
+42	$210BF4	26	 ??? : Aaah… [FixedPause]Aiutu…|
+43	$210C01	13	 [Bartz] : Quallà !|
+44	$210C4B	74	 Lenna : Site feritu ?>Vechju omu : Induve sò ?>Oh… A mio capu !|
+45	$210CD6	139	 Vechju\52omu : Mille diavuli…>Chì hè accadutu ? ùn mi>ramentu di nunda !>>[Bartz] : T'hè battuta a testa…>Ai forse persu a memoria.|
+46	$210D72	156	 Vechju omu : Oh ! Mi ricordu>qualcosa… Mi chjamu>Galuf !>Lenna : Oh ! È dopu ?>Galuf : … Innò, basta cusì ! ùn mi>ramentu di nunda d'altru…|
+47	$210DFB	137	 Lenna : Mi dispiace veramente…>ùn possu piantammi più>longu.>[Bartz] : Induve vai ?>Lenna : Devu andà à u>tempiu di u ventu…|
+48	$210E78	125	 Galuf : U tempiu di u ventu ! Mi>dirigia ghjustu versu>issu locu ! Allora hè decisu.>Vengu cun tè !>Lenna : Ma…|
+49	$210F28	176	 Galuf : ùn possu lascià mai>una giovana senza difesa andà>ci tutta sola.>>È dopu, devu andà à u>tempiu… Ne sò sicuru.>Lasciami vene cun tè !|
+50	$210F79	81	 Lenna : È tù, [Bartz] ?>[Bartz] : … Aghju da cuntinuà à>viaghjà. Bona furtuna !|
+51	$210FC5	76	 Lenna : Ti ringraziu d'avè ci>aiutatu, [Bartz]… Addiu !>Galuf : Bona strada !|
+52	$211010	75	 [Bartz] : Aiò ! Boko ! Cattivu chocobo !>Perchè t'ai piantatu cusì>di colpu ?|
+53	$21104F	63	 [Bartz] : … ùn mi fighjulà>cusì.>>>Boko : Kwoa ! Kwoa, kwoa !|
+54	$2110D3	132	 [Bartz] : … A sò, una giovana>è un vechju omu, soli cusì…>È ci sò pieni di Goblin>quallà… Va bè, va bè, aghju capitu !|
+55	$2110EE	27	 Lenna : Aah !>Galuf : Oh !|
+56	$211111	35	 [Bartz] : Andemu, Boko !>>>>Boko : Kwoa !|
+57	$211120	15	 Lenna : Oooh…[FixedPause]|
+58	$211137	23	 [Bartz] : Oi.>Lenna : [Bartz] !|
+59	$211180	73	 Lenna : Ti sò torna in>debitu…>[Bartz] : ùn hè nunda.|
+60	$211225	165	 [Bartz] : L'onda di scossa di>u meteoritu hà causatu>sfrane…>A strada hè cuparta di sfundame.>ùn puderete passà di quì>per andà in Tule.|
+61	$211271	76	 Lenna : Devu andà à u>tempiu di u ventu subitu !>>>Galuf : Oooh…|
+62	$2112CC	91	 Galuf : U tempiu di u ventu… Prestu…>[Bartz] : Pare vulè andà ci>u più prestu pussibule, ellu dinù…|
+63	$2113E1	277	 [Bartz] : D'accordu. Vi>accumpagneraghju sin'à u tempiu !>Lenna : Veramente ?>[Bartz] : Iè ! Aghju prumessu à u>mo babbu, nanzu ch'ellu morga, di>viaghjà à traversu u mondu. È>in più… Pare chì u ventu>mi chjami.>Galuf : Oh, ch'ellu hè caru ! Avà,>ricunnosci lu, sta zitella ti piace.|
+64	$211439	88	 [Bartz] : Chì… Ti sei svegliatu ?>Galuf : ùn ti stupisce tantu.>Sò sempre prontu à tuttu !|
+65	$2114A5	108	 Galuf : Ma s'ella hè bluccata>a strada, e cose si facenu più>difficule…>[Bartz] : Hè vera…>Lenna : …|
+66	$211532	141	 Lenna : ùn possu micca>rinuncià. Ci deve esse un>altru modu d'ghjunghje à u tempiu>di u ventu !>Galuf : U truveremu !>[Bartz] : Andemu !|
+67	$2115AB	121	 Lenna : ùn c'era nisuna grotta>quì, ne sò sicura…>[Bartz] : Hè stata forse creata dopu>à tutti issi franamenti.|
+68	$2115FC	81	 [Bartz] : Boko, pò esse>periculosu dentru.>Aspettaci quì, va bè ?|
+69	$21160A	14	 Boko : Kwoa !|
+70	$21161E	20	 [Bartz] : Andemu, Boko !|
+71	$211632	20	 Boko : Kwoa, kwoa !|
+72	$211643	17	 [Bartz] : Una surgente ?|
 73	$2116C7	132	 >\52 Hè una surgente rigeneratrice.>>>Rigenerazione di l'HP è di i MP !>Guarigione di l'alterazioni di statu !>Risurrezzione di l'alleati K-O !|
 74	$211726	95	 Rigenerazione di l'HP è di i MP !>Guarigione di l'alterazioni di statu !>Risurrezzione di l'alleati K-O !|
-75	$211758	50	 [Bartz] - Ah ! Allora hè cusì>ch'omu pò passà !|
-76	$2117A4	76	 [Bartz] - Stu battellu… Cumu>pudia navigà mentre chì u>ventu hè cusì debule ?|
-77	$2117E9	69	 [Bartz] - Un rifugiu di pirati !>Allora issu battellu… era un battellu>piratu !|
-78	$211823	58	 Lenna - Ci puderianu forse>prestà u so battellu.|
-79	$211853	48	 [Bartz] - Euh, eiu ùn ci cuntaria>micca, à a to piazza…|
-80	$211882	47	 Galuf - In fatti… Ci tocca>dunque à rubà lu !|
-81	$2118BB	57	 [Bartz] - Ouh là ! Per un vechju>rimbambitu, ne hai curagiu !|
-82	$2118CC	17	 [Bartz] - Oh… ellu\52dorme.|
-83	$2118E6	26	 Piratu - Hein ? Euh… Zzz…|
-84	$2118FF	25	 [Bartz] - Ohé, ohé ! Andemu !|
-85	$211960	97	 Piratu - Zzz… U capitanu… riparatu>u timone… … basta à piglià>u manubriu… … Syldra hà da… Zzz…|
-86	$2119DA	122	 Galuf - … Allora ? Chì aspetti,>zitellu ?>>>[Bartz] - Ci provu, ma nunda si>move ! Cumu si move, stu cosu ?|
+75	$211758	50	 [Bartz] : Ah ! Allora hè cusì>ch'omu pò passà !|
+76	$2117A4	76	 [Bartz] : Stu battellu… Cumu>pudia navigà mentre chì u>ventu hè cusì debule ?|
+77	$2117E9	69	 [Bartz] : Un rifugiu di pirati !>Allora issu battellu… era un battellu>piratu !|
+78	$211823	58	 Lenna : Ci puderianu forse>prestà u so battellu.|
+79	$211853	48	 [Bartz] : Euh, eiu ùn ci cuntaria>micca, à a to piazza…|
+80	$211882	47	 Galuf : In fatti… Ci tocca>dunque à rubà lu !|
+81	$2118BB	57	 [Bartz] : Ouh là ! Per un vechju>rimbambitu, ne hai curagiu !|
+82	$2118CC	17	 [Bartz] : Oh… ellu\52dorme.|
+83	$2118E6	26	 Piratu : Hein ? Euh… Zzz…|
+84	$2118FF	25	 [Bartz] : Ohé, ohé ! Andemu !|
+85	$211960	97	 Piratu : Zzz… U capitanu… riparatu>u timone… … basta à piglià>u manubriu… … Syldra hà da… Zzz…|
+86	$2119DA	122	 Galuf : … Allora ? Chì aspetti,>zitellu ?>>>[Bartz] : Ci provu, ma nunda si>move ! Cumu si move, stu cosu ?|
 87	$2119E6	12	 Quale hè quallà ?|
-88	$211A3F	89	 Faris - Oh ? Vulete arrubà u mo>battellu ? Chì sfacciatezza !>… o piuttostu chì scimità !|
-89	$211AD1	146	 Lenna - Aspettate ! Sò Lenna, a>principessa di Tycoon.>>>Accettate e mo umile>scuse per avè pruvatu à>ricquisisce u vostru battellu.|
-90	$211B00	47	 [Bartz] - Chì ? A principessa…>Galuf - … di Tycoon ?|
-91	$211CD2	466	 [Bartz] - ùn ci possu crede>ch'è tù sia a principessa di Tycoon,>Lenna !>>Lenna - Mi dispiace… ùn vulia>piattà lu, eiu…>>>[Bartz] - ùn hè micca grave.>Ma s'è tù sì una principessa,>perchè andavi à u tempiu di>u ventu tutta sola ?>Lenna - U mo babbu era in u>tempiu quand'è u ventu s'hè guasgi>piantatu… Aghju un bruttu>presentimentu… Li hè accadutu>qualcosa ! Sò esciuta>discretamente da u castellu ma>u meteoritu s'hè lampatu… Cunnosci>a seguita.|
-92	$211D79	167	 Lenna - Capitanu, in nome di u>regnu di Tycoon, vi ne pregu.>Lasciate ci imprestà u vostru>navigliu. Devu andà à>u tempiu di u ventu ! U mo babbu hè>in periculu !|
-93	$211DF3	122	 Faris - Ho, ho ! A\52principessa di>Tycoon ! Avemu da diventà ricchi !>[Bartz] - Eiu ! Lasciala corre,>pirata avaru !|
-94	$211E0E	27	 Lenna - Vi ne pregu…|
-95	$211E25	23	 Faris - Issu pendente !|
-96	$211E65	64	 Faris - … Chjuditeli in a>stiva !>Pirati - À i vostri ordini !|
-97	$211EC3	94	 Galuf - Simu propiu in una bella>situazione. Quale hè l'imbicille chì hà vulsutu>arrubà un battellu piratu ?|
-98	$211ED2	15	 [Bartz] - Euh… tù ?|
-99	$211F40	110	 Galuf - … Oh, a mio testa !>ùn mi ramentu di nunda !>[Bartz] - … Un'altra crisa>d'amnesia, hè cusì ? Pfft !|
-100	$211F8C	76	 Faris - Perchè a principessa di>Tycoon hà u listessu pendente>ch'eiu ?|
+88	$211A3F	89	 Faris : Oh ? Vulete arrubà u mo>battellu ? Chì sfacciatezza !>… o piuttostu chì scimità !|
+89	$211AD1	146	 Lenna : Aspettate ! Sò Lenna, a>principessa di Tycoon.>>>Accettate e mo umile>scuse per avè pruvatu à>ricquisisce u vostru battellu.|
+90	$211B00	47	 [Bartz] : Chì ? A principessa…>Galuf : … di Tycoon ?|
+91	$211CD2	466	 [Bartz] : ùn ci possu crede>ch'è tù sia a principessa di Tycoon,>Lenna !>>Lenna : Mi dispiace… ùn vulia>piattà lu, eiu…>>>[Bartz] : ùn hè micca grave.>Ma s'è tù sì una principessa,>perchè andavi à u tempiu di>u ventu tutta sola ?>Lenna : U mo babbu era in u>tempiu quand'è u ventu s'hè guasgi>piantatu… Aghju un bruttu>presentimentu… Li hè accadutu>qualcosa ! Sò esciuta>discretamente da u castellu ma>u meteoritu s'hè lampatu… Cunnosci>a seguita.|
+92	$211D79	167	 Lenna : Capitanu, in nome di u>regnu di Tycoon, vi ne pregu.>Lasciate ci imprestà u vostru>navigliu. Devu andà à>u tempiu di u ventu ! U mo babbu hè>in periculu !|
+93	$211DF3	122	 Faris : Ho, ho ! A\52principessa di>Tycoon ! Avemu da diventà ricchi !>[Bartz] : Eiu ! Lasciala corre,>pirata avaru !|
+94	$211E0E	27	 Lenna : Vi ne pregu…|
+95	$211E25	23	 Faris : Issu pendente !|
+96	$211E65	64	 Faris : … Chjuditeli in a>stiva !>Pirati : À i vostri ordini !|
+97	$211EC3	94	 Galuf : Simu propiu in una bella>situazione. Quale hè l'imbicille chì hà vulsutu>arrubà un battellu piratu ?|
+98	$211ED2	15	 [Bartz] : Euh… tù ?|
+99	$211F40	110	 Galuf : … Oh, a mio testa !>ùn mi ramentu di nunda !>[Bartz] : … Un'altra crisa>d'amnesia, hè cusì ? Pfft !|
+100	$211F8C	76	 Faris : Perchè a principessa di>Tycoon hà u listessu pendente>ch'eiu ?|
 101	$211FC2	54	 Faris - Elle a dit que son père est>au temple du vent…|
 102	$212005	67	 Faris - Préparez-vous à lever>l’ancre. Cap sur le temple du vent !|
 103	$212045	64	 Pirate - Mais capitaine, les>prisonniers…>Faris - Détachez-les.|
