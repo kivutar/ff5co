@@ -4,9 +4,16 @@ use File::Slurper qw(read_binary write_binary);
 my %b2c = (
     "00" => "|",
     "01" => ">",
-    "02" => "\x02", # hero's name
-    "0C" => "\x0C",
-    "17" => "\x17", # wait
+    "02" => "[Bartz]",
+    "08" => "[TAB1]",
+    "09" => "[TAB2]",
+    "0A" => "[TAB3]",
+    "0C" => "[FixedPause]",
+    "0F" => "[AutoClose]",
+    "10" => "[DialogueGil]",
+    "11" => "[DialogueItem]",
+    "12" => "[DialogueAbility]",
+    "17" => "[Wait]",
     "AB" => "\xAB",
     "C5" => "\xC5",
 
@@ -92,6 +99,14 @@ my %b2c = (
 );
 
 my %c2b = reverse %b2c;
+my %token2b = (
+    "[P1]" => "1701",
+    "[P2]" => "1702",
+    "[P3]" => "1703",
+    "[P4]" => "1704",
+    "[P5]" => "1705",
+    "[P6]" => "1706",
+);
 
 my $pointer_offset = 0x2013F0;
 my $pointer_count = 2160;
@@ -110,6 +125,25 @@ sub encode {
                 $hex .= uc($escaped);
                 $i += 2;
                 next;
+            }
+        }
+
+        if ($c eq "[") {
+            my $end = index($string, "]", $i);
+            if ($end != -1) {
+                my $token = substr($string, $i, $end - $i + 1);
+
+                if (exists $token2b{$token}) {
+                    $hex .= $token2b{$token};
+                    $i = $end;
+                    next;
+                }
+
+                if (exists $c2b{$token}) {
+                    $hex .= $c2b{$token};
+                    $i = $end;
+                    next;
+                }
             }
         }
 
