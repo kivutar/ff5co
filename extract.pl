@@ -1,3 +1,5 @@
+use utf8;
+use open qw(:std :encoding(UTF-8));
 use File::Slurper qw(read_binary write_binary);
 use Tie::IxHash;
 
@@ -94,7 +96,51 @@ my %b2c = (
 
 my %c2b = reverse %b2c;
 
-my $bytes = read_binary("ff5en.sfc");
+my %b2c_fr = (
+    "94" => "Ç",
+    "95" => "ç",
+    "97" => "â",
+    "98" => "à",
+    "99" => "é",
+    "9A" => "è",
+    "9C" => "ê",
+    "9D" => "ù",
+    "9E" => "ô",
+    "9F" => "û",
+    "A5" => ".",
+    "A8" => "…",
+    "A9" => "œ",
+    "AB" => "-",
+    "AD" => ",",
+    "B0" => "il",
+    "B2" => "li",
+    "B3" => "ll",
+    "B6" => "î",
+    "BA" => "ïe",
+    "C9" => "’",
+    "C5" => "-",
+    "D0" => "«",
+    "D1" => "»",
+);
+
+my $mode = "en";
+my $rom = "ff5en.sfc";
+
+if (defined $ARGV[0]) {
+    if ($ARGV[0] eq "fr" || $ARGV[0] eq "en") {
+        $mode = $ARGV[0];
+        $rom = $ARGV[1] if defined $ARGV[1];
+    } else {
+        $rom = $ARGV[0];
+    }
+}
+
+my %decode_table = %b2c;
+if ($mode eq "fr") {
+    %decode_table = (%decode_table, %b2c_fr);
+}
+
+my $bytes = read_binary($rom);
 
 my $offset = 0x2013F0;
 
@@ -104,7 +150,7 @@ sub printx {
 
 #decode using b2c (case insensitive on the hex addresses)
 sub decode {
-    join("", map { $b2c{uc($_)} || "\\".uc($_) } unpack("H*", shift) =~ /../g);
+    join("", map { $decode_table{uc($_)} || "\\".uc($_) } unpack("H*", shift) =~ /../g);
 };
 
 my $prev = -1;
