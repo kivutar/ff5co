@@ -98,7 +98,34 @@ my %b2c = (
     "FF" => " ",
 );
 
-my %c2b = reverse %b2c;
+my %b2c_co = (
+    "94" => "Ç",
+    "95" => "ç",
+    "97" => "â",
+    "98" => "à",
+    "99" => "é",
+    "9A" => "è",
+    "9B" => "!",
+    "9C" => "ê",
+    "9D" => "ù",
+    "9E" => "ò",
+    "9F" => "û",
+    "A5" => ".",
+    "A8" => "ì",
+    "A9" => "œ",
+    "AB" => "-",
+    "AD" => ",",
+    "B0" => "il",
+    "B2" => "li",
+    "B3" => "ll",
+    "B6" => "î",
+    "BA" => "ïe",
+    "C5" => "-",
+    "C9" => "'",
+    "D0" => "«",
+    "D1" => "»",
+);
+
 my %token2b = (
     "[P1]" => "1701",
     "[P2]" => "1702",
@@ -110,7 +137,31 @@ my %token2b = (
 
 my $pointer_offset = 0x2013F0;
 my $pointer_count = 2160;
-my $script_file = $ARGV[0] || "english.txt";
+my $mode = "en";
+my $script_file = "english.txt";
+my $base_rom = "ff5en.sfc";
+my $output_rom = "ff5co.sfc";
+
+if (defined $ARGV[0]) {
+    if ($ARGV[0] eq "co" || $ARGV[0] eq "en") {
+        $mode = $ARGV[0];
+        $script_file = $ARGV[1] if defined $ARGV[1];
+    } else {
+        $script_file = $ARGV[0];
+    }
+}
+
+if ($mode eq "co") {
+    $script_file = "corsu.txt" if !defined $ARGV[1] && defined $ARGV[0] && $ARGV[0] eq "co";
+    $base_rom = "ff5co.sfc";
+}
+
+my %encode_table = %b2c;
+if ($mode eq "co") {
+    %encode_table = (%encode_table, %b2c_co);
+}
+
+my %c2b = reverse %encode_table;
 
 sub encode {
     my $string = shift;
@@ -147,7 +198,7 @@ sub encode {
             }
         }
 
-        die "Unknown character in script: " . unpack("H*", $c) . "\n"
+        die "Unknown character in script ($mode): " . unpack("H*", $c) . "\n"
             unless exists $c2b{$c};
 
         $hex .= $c2b{$c};
@@ -165,7 +216,7 @@ sub pointer {
     chr(($index >> 16) & 0xFF);
 };
 
-my $bytes = read_binary("ff5en.sfc");
+my $bytes = read_binary($base_rom);
 my $script = read_binary($script_file);
 
 my @lines = split(/\n/, $script);
@@ -203,6 +254,6 @@ foreach my $romindex (@pointers) {
 substr($bytes, $pointer_offset, 3 * $pointer_count) = $pointer_bytes;
 $bytes .= $text_bytes;
 
-write_binary("ff5co.sfc", $bytes);
+write_binary($output_rom, $bytes);
 
-printf("Inserted %d strings from %s at \$%06X\n", scalar(@strings), $script_file, $text_offset);
+printf("Inserted %d strings from %s into %s at \$%06X\n", scalar(@strings), $script_file, $output_rom, $text_offset);

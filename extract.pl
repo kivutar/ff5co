@@ -138,6 +138,12 @@ my %b2c_fr = (
     "D1" => "»",
 );
 
+my %b2c_co = (
+    %b2c_fr,
+    "9E" => "ò",
+    "A8" => "ì",
+);
+
 my %b2c_jp = (
     "00" => "|",
     "01" => ">",
@@ -837,9 +843,10 @@ my $mode = "en";
 my $rom = "ff5en.sfc";
 
 if (defined $ARGV[0]) {
-    if ($ARGV[0] eq "fr" || $ARGV[0] eq "en" || $ARGV[0] eq "jp") {
+    if ($ARGV[0] eq "fr" || $ARGV[0] eq "co" || $ARGV[0] eq "en" || $ARGV[0] eq "jp") {
         $mode = $ARGV[0];
         $rom = "ff5jp.sfc" if $mode eq "jp";
+        $rom = "ff5co.sfc" if $mode eq "co";
         $rom = $ARGV[1] if defined $ARGV[1];
     } else {
         $rom = $ARGV[0];
@@ -849,6 +856,8 @@ if (defined $ARGV[0]) {
 my %decode_table = %b2c;
 if ($mode eq "fr") {
     %decode_table = (%decode_table, %b2c_fr);
+} elsif ($mode eq "co") {
+    %decode_table = (%decode_table, %b2c_co);
 }
 
 my $bytes = read_binary($rom);
