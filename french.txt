@@ -60,7 +60,7 @@
 60	$211225	165	 [Bartz] : L’onde de choc de>l’aérolithe a provoqué des>glissements de terrain…>La route est recouverte de débris.>Vous ne pourrez pas passer par là>pour vous rendre à Tule.|
 61	$211271	76	 Lenna : Je dois me rendre au>temple du vent immédiatement !>>>Galuf : Oooh…|
 62	$2112CC	91	 Galuf : Le temple du vent… Vite…>[Bartz] : Il semble vouloir s’y>rendre au plus vite, lui aussi…|
-63	$2113E1	277	 [Bartz] : D’accord. Je vais vous>accompagner jusqu’au temple !>Lenna : Vraiment ?>[Bartz] : Oui ! J’ai promis à mon>père avant qu’il ne meure que je>voyagerais à travers le monde. Et>puis… On dirait que le vent>m’appelle.>Galuf : Oh, c’est gentil ! Avoue>plutôt qu’elle te plaî, cette petite.|
+63	$2113E1	277	 [Bartz] : D’accord. Je vais vous>accompagner jusqu’au temple !>Lenna : Vraiment ?>[Bartz] : Oui ! J’ai promis à mon>père avant qu’il ne meure que je>voyagerais à travers le monde. Et>puis… On dirait que le vent>m’appelle.>Galuf : Oh, c’est gentil ! Avoue>plutôt qu’elle te plaît, cette petite.|
 64	$211439	88	 [Bartz] : Que… Tu es réveillé ?>Galuf : Ne sois pas si surpris.>Je suis toujours prêt à tout !|
 65	$2114A5	108	 Galuf : Par contre, si la route est>bloquée, cela rend les choses plus>difficiles…>[Bartz] : C’est vrai…>Lenna : …|
 66	$211532	141	 Lenna : Je ne peux pas>abandonner. Il doit y avoir un>autre moyen d’atteindre le temple>du vent !>Galuf : Nous le trouverons !>[Bartz] : Allons-y !|
@@ -157,7 +157,7 @@
 157	$212D67	45	 >\52\52\52\52 La bravoure, essence des>\52\52\52\52 flammes…|
 158	$212D91	42	 >\52\52\52 Le dévouement, essence de>\52\52\52 l’eau…|
 159	$212DBC	43	 >\52\52\52 L’espérance, essence de la>\52\52\52 terre…|
-160	$212DE7	43	 >  La soif de connaîre, essence du>  vent…|
+160	$212DE7	43	 >  La soif de connaître, essence du>  vent…|
 161	$212E52	107	 [Bartz] : Que…>Faris : Que se passe-t-il ?>Galuf : Une brise tiède…>>Lenna : Ce sont les essences…>des cristaux ?|
 162	$212E6B	25	 Roi de Tycoon : Le… nna…|
 163	$212E85	26	 Lenna : Père !>Faris : !?|
@@ -344,7 +344,7 @@
 344	$216B2B	135	 Le royaume de Wolse est situé au>sud d’ici, au-delà de l’océan. Wolse>utilise une machine pour amplifier>le pouvoir du cristal de l’eau.|
 345	$216B3F	20	 Je suis jolie, dis ?|
 346	$216B4C	13	 Hi, hi, hi !|
-347	$216BDD	145	 Tu as cru que j’étais une femme ?>Je suis passé maîre dans l’art de>l’imitation ! Et\52pourtant…[FixedPause]>… Je dois trouver un moyen de>parfaire mon art !|
+347	$216BDD	145	 Tu as cru que j’étais une femme ?>Je suis passé maître dans l’art de>l’imitation ! Et\52pourtant…[FixedPause]>… Je dois trouver un moyen de>parfaire mon art !|
 348	$216C00	35	 Tu vois ? Je te l’avais bien dit !|
 349	$216C3D	61	 Je ne me suis pas disputé avec ma>femme depuis des lustres !|
 350	$216C89	76	 Ma femme raconte des histoires>incroyables… Elle dit qu’elle a vu un>dragon !|
@@ -521,7 +521,7 @@
 521	$21A1AC	68	 Roi de Tycoon : Lenna ! Où vas-tu>avec ce couteau ? [FixedPause]… Non ! Tu ne…|
 522	$21A1C5	25	 Roi de Tycoon : Arrête !|
 523	$21A1E7	34	 Jénica : Je vais aller lui parler.|
-524	$21A297	176	 Jénica : Votre Altesse ! Si vous>coupez sa langue, le dernier>dragon disparaîra à tout jamais…>La reine aime beaucoup Hiryû…>Pouvez-vous vraiment couper la>langue de son ami ?|
+524	$21A297	176	 Jénica : Votre Altesse ! Si vous>coupez sa langue, le dernier>dragon disparaîtra à tout jamais…>La reine aime beaucoup Hiryû…>Pouvez-vous vraiment couper la>langue de son ami ?|
 525	$21A30F	120	 Jénica : Votre Altesse… Le roi>venait ici chaque jour, incapable de>prendre une décision. Peut-être>est-ce mieux ainsi…|
 526	$21A328	25	 Roi de Tycoon : Idiote !|
 527	$21A344	28	 Lenna : Snif ! Snif ! Mère…|
@@ -644,7 +644,7 @@
 644	$21C897	58	 Le professeur est à l’étage. Il a>l’air vraiment déprimé…|
 645	$21C8E9	82	 Le professeur est sorti d’ici tout>heureux… Je me demande ce qu’il>lui est arrivé…|
 646	$21C947	94	 [Bartz] : Cid !>Cid : Laissez-moi tranquille ! Si>seulement je n’avais jamais>inventé cette machine…|
-647	$21C99C	85	 Lenna : Professeur, ce n’est pas>votre faute…>Cid : S’il vous plaî… Laissez-moi>seul…|
+647	$21C99C	85	 Lenna : Professeur, ce n’est pas>votre faute…>Cid : S’il vous plaît… Laissez-moi>seul…|
 648	$21C9A4	8	 Cid : …|
 649	$21C9F6	82	 Vous avez entendu ? Ils ont>enfermé le professeur Cid dans le>donjon du château !|
 650	$21CA30	58	 Rien de mieux qu’un bon feu de>foyer pour se réchauffer !|
@@ -1046,7 +1046,7 @@
 1046	$223AEF	23	 Dorgan : STELLA !!![P3][AutoClose]|
 1047	$223B5A	107	 Quelle jolie mélodie… Je vais écrire>une chanson… Voilà, je vous la>dédie !>>>\52\52\52\52\52Appris : Aria séduisante !|
 1048	$223B7B	33	 Vous n’avez pas assez d’argent !|
-1049	$223C54	217	 Qu’avons-nous là ? Est-ce votre>courage ou votre chance qui vous>a mené jusqu’ici ? A vous de>décider. Si vous êtes courageux,>choisissez la boîe de gauche. Si>vous êtes poltron, choisissez la>boîe de droite. Alors ?|
+1049	$223C54	217	 Qu’avons-nous là ? Est-ce votre>courage ou votre chance qui vous>a mené jusqu’ici ? A vous de>décider. Si vous êtes courageux,>choisissez la boîte de gauche. Si>vous êtes poltron, choisissez la>boîte de droite. Alors ?|
 1050	$223C70	28	 >Obtenu : Lame des braves !|
 1051	$223C84	20	 >Obtenu : Cisaille !|
 1052	$223C9B	23	 Ouh ! On se dégonfle !|
@@ -1075,7 +1075,7 @@
 1075	$22428A	66	 Exdeath : Assez, Galuf ! Si tu fais un>pas de plus, ils périront !|
 1076	$2242B1	39	 Galuf : Mille tonnerres !>Repliez-vous !|
 1077	$2242C5	20	 Exdeath : Gilgamesh.|
-1078	$224316	81	 Gilgamesh : Maîre !>Exdeath : Surveille-les. Ne les laisse>surtout pas s’échapper.|
+1078	$224316	81	 Gilgamesh : Maître !>Exdeath : Surveille-les. Ne les laisse>surtout pas s’échapper.|
 1079	$22432E	24	 [Bartz] : Exdeath, espèce de…|
 1080	$224336	8	 [Bartz] : Ah…|
 1081	$224382	76	 Galuf : Krile, laisse-moi emprunter>ton dragon. Ils ont besoin de mon>aide !|
@@ -1391,7 +1391,7 @@
 1391	$229BFC	118	 Galuf : Ah… Mes mains sont>engourdies…>Xezat : J’arrive, tiens bon !>>Galuf : Je ne pourrai pas tenir plus>longtemps…|
 1392	$229C3A	62	 Galuf : Le dragon !>Xezat : Parfait ! Passons à>l’offensive !|
 1393	$229C6E	52	 Tout est sous contrôle !>Rendez-vous dans la cale !|
-1394	$229CAE	64	 Xezat : Quand vous serez prêts,>prenez l’autre côté de la boîe.|
+1394	$229CAE	64	 Xezat : Quand vous serez prêts,>prenez l’autre côté de la boîte.|
 1395	$229CC0	18	 Xezat : Allons-y !|
 1396	$229DC8	264	 Galuf : Que comptes-tu faire ?>Xezat : La flotte n’est qu’un leurre.>Nous essayons d’atteindre la tour>protectrice en sous-marin !>Galuf : Hum, pas mal, comme plan !>Xezat : Cela va sans dire ! Le tunnel>menant à la tour vient tout juste>d’être terminé. Allons-y !|
 1397	$229DDD	21	 Xezat : Suivez-moi !|
@@ -1526,13 +1526,13 @@
 1526	$22C213	140	 [Bartz] : Krile, où vas-tu ? Il n’y a>rien là-bas.>Krile : Tu te trompes… Ce n’est>qu’une illusion créée par Exdeath.>Lenna : Quoi ? Tu en es sûre ?|
 1527	$22C234	33	 Krile : Papi, donne-moi ta force…|
 1528	$22C2B5	129	 Kelgar : Je vois… Galuf a péri lui>aussi… Dorgann, Xezat et Galuf ne>sont plus de ce monde…[FixedPause] Oh… Je>n’en ai plus pour longtemps…|
-1529	$22C2C4	15	 Maîre Kelgar !|
+1529	$22C2C4	15	 Maître Kelgar !|
 1530	$22C302	62	 Kelgar : Je ne tarderai pas à>sombrer dans le sommeil éternel…|
 1531	$22C343	65	 Kelgar : Qui va là ? … Galuf ? Galuf,>c’est bien toi ? Krile est…|
 1532	$22C35D	26	 Kelgar : Galuf…[FixedPause] Entendu.|
-1533	$22C3DE	129	 Kelgar : Laissez-moi emprunter>votre force !>>>Maîre Kelgar !>>>>Kelgar : Ensemble, nous pourrons>dissiper l’illusion d’Exdeath !|
+1533	$22C3DE	129	 Kelgar : Laissez-moi emprunter>votre force !>>>Maître Kelgar !>>>>Kelgar : Ensemble, nous pourrons>dissiper l’illusion d’Exdeath !|
 1534	$22C437	89	 Kelgar : Accédez à mon ultime>requête… Dirigez votre énergie>vers le château d’Exdeath !|
-1535	$22C454	29	 A vos ordres, Maîre Kelgar !|
+1535	$22C454	29	 A vos ordres, Maître Kelgar !|
 1536	$22C497	67	 Krile : Je vois papi… et… un>loup-garou !>[Bartz] : Ce doit être Kelgar !|
 1537	$22C49A	3	 25|
 1538	$22C4AF	21	 Krile : Leur énergie…|
@@ -1541,7 +1541,7 @@
 1541	$22C5CA	105	 [Bartz] : Pas encore lui !>Gilgamesh : Ha, ha ! Vous cherchez>quelque chose ? Trop tard ! Le>trésor est à moi !|
 1542	$22C606	60	 Exdeath : Ne vous mêlez pas de ce>qui ne vous regarde pas !|
 1543	$22C636	48	 [Bartz] : Exdeath ! Nous ne te>laisserons pas faire !|
-1544	$22C71A	228	 Exdeath : Mouah ha, ha, ha, ha…>Savez-vous au moins ce que>j’essaie d’accomplir ?>[Bartz] : Euh… Non, mais…>Exdeath : Vous vous battez si>vaillamment sans connaîre la>vérité… Imbéciles !>>Je vais redonner au monde son>apparence d’antan.|
+1544	$22C71A	228	 Exdeath : Mouah ha, ha, ha, ha…>Savez-vous au moins ce que>j’essaie d’accomplir ?>[Bartz] : Euh… Non, mais…>Exdeath : Vous vous battez si>vaillamment sans connaître la>vérité… Imbéciles !>>Je vais redonner au monde son>apparence d’antan.|
 1545	$22C7E9	207	 [Bartz] : Dis plutôt que tu le>transformeras en un monde de>ténèbres !>Exdeath : Peu importe ce que vous>croyez. Vous ne pourriez jamais>comprendre mes intentions. Je ne>vous permettrai pas de me faire>obstacle !|
 1546	$22C827	62	 Lenna : Oh non ! Les cristaux !>[Bartz] : Ils… Ils vont se briser !|
 1547	$22C836	15	 Lenna : C’est…|
@@ -1681,8 +1681,8 @@
 1681	$22EEB5	39	 >\52\52\52L’espérance exalte la terre…>\52>[P2][AutoClose]|
 1682	$22EEDC	39	 >\52La bravoure avive les flammes…>\52>[P2][AutoClose]|
 1683	$22EF0D	49	 > Le dévouement insuffle la vie aux> océans…>[P2][AutoClose]|
-1684	$22EF4F	66	 >\52La soif de connaîre dissémine la>\52sagesse à tous les vents…>[P2][AutoClose]|
-1685	$22EF68	25	 [Bartz] : Le monde… renaî ?[P3][AutoClose]|
+1684	$22EF4F	66	 >\52La soif de connaître dissémine la>\52sagesse à tous les vents…>[P2][AutoClose]|
+1685	$22EF68	25	 [Bartz] : Le monde… renaît ?[P3][AutoClose]|
 1686	$22EF8C	36	 Lenna : Et les cristaux aussi…>\52[P2][AutoClose]|
 1687	$22EFDE	82	 [Bartz] : Il restait toujours un peu>du pouvoir des cristaux dans leurs>fragments.>\52[P3][AutoClose]|
 1688	$22EFFB	29	 Krile : Le ciel soit loué…[P2][AutoClose]|
@@ -1818,7 +1818,7 @@
 1818	$230E93	119	 Enuo le sorcier maléfique essaya>d’utiliser la puissance du néant>pour conquérir le monde mais…>Le néant l’a englouti !|
 1819	$230EF2	95	 On raconte qu’il existe des>escaliers et des monstres cachés>dans les murs de la tour du Phénix.|
 1820	$230F4E	92	 Le temps s’écoule de nouveau dans>notre village. Cela veut dire que le>néant est de retour ?|
-1821	$230FEC	158	 Un village qui apparaî et disparaî>comme un mirage dans le désert…>Où 100 ans s’écoulent en une seule>journée…>Je devrais en faire les paroles>d’une chanson !|
+1821	$230FEC	158	 Un village qui apparaît et disparaît>comme un mirage dans le désert…>Où 100 ans s’écoulent en une seule>journée…>Je devrais en faire les paroles>d’une chanson !|
 1822	$231050	100	 Enuo le sorcier était immortel mais>il a sacrifié son immortalité pour>obtenir la puissance du néant.|
 1823	$231060	16	 Lenna : Hiryû !|
 1824	$23108F	47	 Krile : Est-ce le dragon qui t’a>sauvé la vie ?|
@@ -1831,7 +1831,7 @@
 1831	$231275	30	 J’ai aperçu un dragon, kupo !|
 1832	$2312AA	53	 Le dragon se dirigeait vers la tour>du Phénix, kupo.|
 1833	$231301	87	 Les dragons qui périssent à la tour>du Phénix peuvent se transformer>en Phénix, kupo !|
-1834	$23139A	153	 Examinez les murs de la tour du>Phénix, kupo. Parfois, un escalier>apparaîra, kupo !>>Cependant, parfois un monstre>apparaî, kupo, kupo.>Soyez prudents !|
+1834	$23139A	153	 Examinez les murs de la tour du>Phénix, kupo. Parfois, un escalier>apparaîtra, kupo !>>Cependant, parfois un monstre>apparaît, kupo, kupo.>Soyez prudents !|
 1835	$2313D9	63	 Bahamut, le roi des dragons, est né>sur le mont du nord, kupo.|
 1836	$231413	58	 Krile : Je peux parfois comprendre>ce que les mogs disent.|
 1837	$231471	94	 Krile : Si les sorts ne sont pas>retirés en même temps dans les>deux tours, tout va exploser ?|
@@ -1848,7 +1848,7 @@
 1848	$231640	10	 Entendu !|
 1849	$23165C	28	 >\52\52\52\52\52\52\52\52\52\52Appris : Eclat !|
 1850	$231679	29	 >\52\52\52\52\52\52\52\52\52Appris : Sidéral !|
-1851	$23169D	36	 Krile : La tour… Elle va disparaîre !|
+1851	$23169D	36	 Krile : La tour… Elle va disparaître !|
 1852	$2316BE	33	 Lenna : Il faut faire attention…|
 1853	$231707	73	 Faris : Les sorts les plus puissants>de magie noire et de magie>blanche…|
 1854	$231735	46	 Krile : Nous devons les prendre en>même temps.|
@@ -1888,14 +1888,14 @@
 1888	$232077	149	 Léviathan : Mes eaux peuvent laver>tous les péchés et purifier toute>chose… >>Seuls ceux qui peuvent combattre>le néant pourront faire appel à>moi !|
 1889	$232095	30	 >\52\52\52\52\52\52\52\52Appris : Léviathan !|
 1890	$2320B9	36	 Cette tablette…[FixedPause] Elle m’appartient !|
-1891	$23213E	133	 Lorsqu’il aura pris le contrôle de la>puissance du néant, notre maîre>créera un monde pour nous ! Vous>ne pourrez pas l’en empêcher !|
+1891	$23213E	133	 Lorsqu’il aura pris le contrôle de la>puissance du néant, notre maître>créera un monde pour nous ! Vous>ne pourrez pas l’en empêcher !|
 1892	$23214F	17	 Chocobo : Kwoa !|
 1893	$232187	56	 [Bartz] : C’est une femelle. Elle ne>peut pas nous transporter.|
 1894	$2321EE	103	 Bahamut : Vous qui avez brisé le>sceau… Si vous arrivez à me>vaincre, vous pourrez faire appel à>moi !|
 1895	$23220A	28	 >\52\52\52\52\52\52\52\52Appris : Bahamut !|
 1896	$232274	106	 [Bartz] : Gloup, gloup ! Ah ! Je peux>retenir mon souffle… Gloup, gloup !>Mais seulement pendant sept>minutes !|
 1897	$2322A9	53	 [Bartz] : Ouf ! Aaah… Ha…>C’est bon ! Encore sept minutes.|
-1898	$23233E	149	 Après deux actes, j’ai finalement>réussi à maîriser parfaitement ce>fragment de cristal !>>Je ne vous laisserai pas l’avoir !>Partez immédiatement !|
+1898	$23233E	149	 Après deux actes, j’ai finalement>réussi à maîtriser parfaitement ce>fragment de cristal !>>Je ne vous laisserai pas l’avoir !>Partez immédiatement !|
 1899	$23235A	28	 Tss, tss… Levez le rideau !|
 1900	$23236F	21	 >\52\52\52\52\52\52\52\52\52\52\52\52\52\52 Mime|
 1901	$232391	34	 Cid : Ooh ! Je suis tout étourdi…|
@@ -1941,7 +1941,7 @@
 1941	$23309E	111	 Attendez patiemment près de la>rangée de boutons en forme de>crânes pour savoir sur lequel vous>devez appuyer.|
 1942	$23315F	193	 Des aventuriers ont déjà récupéré>la plupart des trésors de la>grotte…>>Vous pouvez tout de même aller y>jeter un coup d’œil, si ça vous dit.>Les anciens ont peut-être installé>un dispositif qui…|
 1943	$2331AD	78	 Au fond de la grotte, vous pourrez>atteindre la surface en escaladant>le mur…|
-1944	$2331D3	38	 Un château étrange vient>d’apparaîre…|
+1944	$2331D3	38	 Un château étrange vient>d’apparaître…|
 1945	$23320C	57	 Hum ! Les jeunes d’aujourd’hui et>leur soif d’aventure !|
 1946	$23327F	115	 Bienvenue à Jacole. Les habitants>de notre village sont les>descendants des ronkiens…>N’est-ce pas extraordinaire ?|
 1947	$2332BE	63	 Un château est apparu au nord>d’ici ! Qu’est-ce qui se passe ?|
@@ -2016,15 +2016,15 @@
 2016	$2347F5	34	 Comment ? Exdeath s’est>échappé ?|
 2017	$234828	51	 Personne ne sait pourquoi les>dragons ont disparu…|
 2018	$234891	105	 L’herbe aux dragons était>possédée par un monstre ? C’est>pour cette raison que les dragons>ont disparu…|
-2019	$2348DB	74	 Le monde est en danger…>Si seulement maîre Kelgar était>toujours vivant !|
+2019	$2348DB	74	 Le monde est en danger…>Si seulement maître Kelgar était>toujours vivant !|
 2020	$234913	56	 Personne n’est jamais revenu>vivant du val des dragons.|
-2021	$234950	61	 Maîre Kelgar… Il était le plus>brave de tous les guerriers !|
+2021	$234950	61	 Maître Kelgar… Il était le plus>brave de tous les guerriers !|
 2022	$234961	17	 Mouton : Bêêêê !|
 2023	$234994	51	 Nous prions pour que vous>reveniez sains et saufs.|
 2024	$2349B4	32	 Ou-ho ! Hé-ho ! Ou-ho ! Hé-ho !|
 2025	$2349E6	50	 Près du puits, on peut entendre>une voix étrange…|
 2026	$234A23	61	 Une grenouiiiiiiiiiiille… Je veux une>grenouiiiiiiiiiiiiiille…|
-2027	$234A6B	72	 S’il vous plaî, apportez-moi une>grenouille ! Allons ! Je vous en>supplie !|
+2027	$234A6B	72	 S’il vous plaît, apportez-moi une>grenouille ! Allons ! Je vous en>supplie !|
 2028	$234AE2	119	 Ooh ! Si vous me donnez 10 000 Gils>et cette grenouille, je vous donne>cette gourde en échange ! Alors ?>Marché conclu ?|
 2029	$234B05	35	 Super ! Miam ! Un morceau de roi !|
 2030	$234B18	19	 >Obtenu : Gourde !|
@@ -2032,7 +2032,7 @@
 2032	$234B63	14	 Bon appétit !|
 2033	$234B87	36	 Je suis désolé… Je n’ai plus rien !|
 2034	$234BA3	28	 Et maintenant, le dessert !|
-2035	$234BDC	57	 Maîre Kelgar est malade…>Il n’aurait pas dû se surmener.|
+2035	$234BDC	57	 Maître Kelgar est malade…>Il n’aurait pas dû se surmener.|
 2036	$234C1B	63	 Une minute de silence… Les quatre>guerriers de l’aube ont péri…|
 2037	$234C89	110	 Votre Altesse ! Vous êtes saine et>sauve ! Le ciel soit loué ! Oh ? Ce>livre… Voulez-vous que je vous le>lise ?|
 2038	$234CEB	98	 Un temple sur une \B8e protégée par>le vent… Est-ce le temple sur l’\B8e>située à l’ouest de Tycoon ?|
@@ -2050,7 +2050,7 @@
 2050	$2350D5	67	 Nécrophobe : Cette lumière…[FixedPause]>Je ne vous laisserai jamais l’avoir !|
 2051	$2350FA	37	 >Votre talent de pianiste s’améliore.|
 2052	$235133	57	 >\52 Vous êtes un virtuose du piano ![FixedPause]>\52 … Enfin, presque.|
-2053	$23517F	76	 Votre technique est étourdissante !>Vous avez finalement maîrisé le>piano !|
+2053	$23517F	76	 Votre technique est étourdissante !>Vous avez finalement maîtrisé le>piano !|
 2054	$2351BE	63	 Exdeath : Vous en avez mis du>temps ! Vous arrivez trop tard !|
 2055	$235246	136	 Exdeath : Mouah, ha, ha… Il est>enfin à ma portée !>>>Le pouvoir qui me permettra de>contrôler l’univers entier !>Le pouvoir du néant !|
 2056	$23529B	85	 Exdeath : Mouah ha, ha, ha… Et>maintenant ! Vous allez périr à>l’intérieur du néant !|
@@ -2060,13 +2060,13 @@
 2060	$2352E9	27	 Krile : Papi !>>[Bartz] : Galuf !|
 2061	$235317	46	 Galuf : Nous sommes les guerriers>de l’aube !|
 2062	$2353E9	210	 Galuf : [Bartz] ! Lenna ! Faris !>Krile ! Nous repousserons le néant !>Occupez-vous d’Exdeath !>>Seuls les guerriers de la lumière>peuvent empêcher le monde d’être>englouti par les ténèbres !>Nous comptons sur vous !|
-2063	$235439	80	 Exdeath : Comment ? Pourquoi le>pouvoir du néant disparaî-il ?>Oh, peu importe !|
+2063	$235439	80	 Exdeath : Comment ? Pourquoi le>pouvoir du néant disparaît-il ?>Oh, peu importe !|
 2064	$235458	31	 Lenna : Père !>>Faris : Papa !|
 2065	$235507	175	 Dorgann : Allons ![FixedPause]>>Galuf : C’est maintenant ou>jamais ![FixedPause]>Xezat : Voilà votre chance… [FixedPause]>>Kelgar : Eliminez Exdeath !>>Roi de Tycoon : A vous de jouer,>guerriers de la lumière !|
 2066	$235536	47	 [Bartz] : Exdeath ! Tu ne perds rien>pour attendre !|
 2067	$23556F	57	 Ghido : Ooh, ma pauvre tête…>>[Bartz] : Ghido ! Tu n’as rien ?|
 2068	$2355ED	126	 Ghido : Hum ! Exdeath, ce malotru !>Hum ! Vous devez l’arrêter avant>qu’il n’obtienne complètement le>pouvoir du néant…[FixedPause] Hum ?|
-2069	$235702	277	 Ghido : Hum ! Qu’est-ce que c’est ?>[Bartz] : Ce n’est que la>bibliothèque des anciens…>>Ghido : HUM ! La légendaire>bibliothèque des anciens ? Peux-tu>au moins reconnaîre son>importance ?>Hum ! Bien sûr que non… Et dire>que la bibliothèque des anciens>était ici pendant tout ce temps…|
+2069	$235702	277	 Ghido : Hum ! Qu’est-ce que c’est ?>[Bartz] : Ce n’est que la>bibliothèque des anciens…>>Ghido : HUM ! La légendaire>bibliothèque des anciens ? Peux-tu>au moins reconnaître son>importance ?>Hum ! Bien sûr que non… Et dire>que la bibliothèque des anciens>était ici pendant tout ce temps…|
 2070	$23577E	124	 Ghido : Hum ! Suivez-moi les>enfants ! Hum ! Cette bibliothèque>contient le livre qui nous montrera>comment éliminer Exdeath !|
 2071	$23581C	158	 Chercheur : Sage Ghido !>>Ghido : Hum ! Des chercheurs de>Surgate.>Chercheur : Nous avons trouvé>l’autre moitié du manuscrit scellé !>Ghido : Hum ! Excellent !|
 2072	$235849	45	 Ghido : Hum ! Etablissons un plan>d’attaque !|
@@ -2098,9 +2098,9 @@
 2098	$236A19	170	 Je vous en supplie ! Arrêtez>Exdeath ! Il ne doit pas obtenir le>pouvoir du néant !>>Je peux peut-être vous aider…>Voulez- vous que je lise un>passage du manuscrit scellé ?|
 2099	$236A6E	85	 Exdeath : Créatures prisonnières>de la fissure interdimensionnelle !>Mes serviteurs !|
 2100	$236B32	196	 Exdeath : Des guerriers guidés par>la lumière des cristaux veulent>s’emparer des tablettes…>Eliminez-les !>Ils ne doivent pas pouvoir>récupérer les armes légendaires>qui ont détruit le grand Enuo…|
-2101	$236BDE	172	 Nous nous en chargerons, maîre !>>>>Exdeath : Excellent ! Partez>immédiatement !>>>Débarrassez-vous d’eux alors que>je m’empare du pouvoir du néant !>Mouah ha, ha, ha, ha !|
+2101	$236BDE	172	 Nous nous en chargerons, maître !>>>>Exdeath : Excellent ! Partez>immédiatement !>>>Débarrassez-vous d’eux alors que>je m’empare du pouvoir du néant !>Mouah ha, ha, ha, ha !|
 2102	$236C19	59	 Nous avons été prisonniers de la>fissure pendant 1000 ans…|
-2103	$236C85	108	 Lorsqu’il obtiendra le pouvoir du>néant, notre maîre Exdeath>créera un nouveau monde de>ténèbres pour nous !|
+2103	$236C85	108	 Lorsqu’il obtiendra le pouvoir du>néant, notre maître Exdeath>créera un nouveau monde de>ténèbres pour nous !|
 2104	$236CDC	87	 Nous ne vous laisserons pas faire !>Le néant sera votre tombeau !>Ha, ha, ha, ha, ha !|
 2105	$236D27	75	 Halte ! Etes-vous les guerriers qui>possèdent les fragments des>cristaux ?|
 2106	$236D58	49	 Je vois… Partez ! Vous n’avez rien>à faire ici !|
@@ -2141,7 +2141,7 @@
 2141	$23771A	38	 Vous pensez être des pros, c’est>ça ?|
 2142	$237735	27	 Oh ! Mais rien ne presse !|
 2143	$237771	60	 Pourquoi ne pas aller le répéter au>club des novices, hein ?|
-2144	$237AF3	898	 Eh bien… Je vais vous apprendre>quelque chose d’intéressant !>>>Les guerriers libres peuvent>s’équiper de n’importe quelle pièce>d’équipement. Les mimes peuvent>s’équiper de tout sauf d’un ruban.>Cependant, ces classes ne sont pas>particulièrement puissantes si on>les compare aux autres…>>Toutefois, si vous avez maîrisé>une ou plusieurs classes, c’est une>autre histoire. Les caractéristiques>améliorées et les talents innés des>classes maîrisées sont ajoutées>automatiquement aux classes Libre>et Mime ! Par exemple, si vous>avez maîrisé les classes Paladin,>Mage noir et Voleur, les classes>Libre et Mime posséderont la force>d’un paladin, la magie d’un mage>noir ainsi que les talents innés>d’un voleur, c’est-à-dire « \B5il de>lynx » et « Sprint ». Vous pourrez>aussi choisir deux talents de>combat ! Après avoir maîrisé>plusieurs classes, Libre et Mime>deviennent les classes les plus>puissantes !|
+2144	$237AF3	898	 Eh bien… Je vais vous apprendre>quelque chose d’intéressant !>>>Les guerriers libres peuvent>s’équiper de n’importe quelle pièce>d’équipement. Les mimes peuvent>s’équiper de tout sauf d’un ruban.>Cependant, ces classes ne sont pas>particulièrement puissantes si on>les compare aux autres…>>Toutefois, si vous avez maîtrisé>une ou plusieurs classes, c’est une>autre histoire. Les caractéristiques>améliorées et les talents innés des>classes maîtrisées sont ajoutées>automatiquement aux classes Libre>et Mime ! Par exemple, si vous>avez maîtrisé les classes Paladin,>Mage noir et Voleur, les classes>Libre et Mime posséderont la force>d’un paladin, la magie d’un mage>noir ainsi que les talents innés>d’un voleur, c’est-à-dire « \B5il de>lynx » et « Sprint ». Vous pourrez>aussi choisir deux talents de>combat ! Après avoir maîtrisé>plusieurs classes, Libre et Mime>deviennent les classes les plus>puissantes !|
 2145	$237B95	162	 La-li-ho ! Je ne m’en étais jamais>préoccupé avant, mais… On dirait>que quelque chose se passe à la>surface…>Je suis certain qu’il y a une forêt>au-dessus de nous…|
 2146	$237C1E	137	 La-li-ho ! Vous avez entendu>parler de la lampe magique ?>>>Si vous la placez à l’endroit où elle>a été créée, elle se remplira de>nouveau !|
 2147	$237C7F	97	 La-li-ho ! Ralibeau est en train de>creuser un tunnel… Il dit qu’il>pourra faire le tour du monde !|
