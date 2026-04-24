@@ -97,12 +97,12 @@
 97	$211EC3	94	 Galuf : Simu propiu in una bella>situazione. Quale hè l'imbicille chì hà vulsutu>arrubà un battellu piratu ?|
 98	$211ED2	15	 [Bartz] : Euh… tù ?|
 99	$211F40	110	 Galuf : … Oh, a mio testa !>ùn mi ramentu di nunda !>[Bartz] : … Un'altra crisa>d'amnesia, hè cusì ? Pfft !|
-100	$211F8C	76	 Faris : Perchè a principessa di>Tycoon hà u listessu pendente>ch'eiu ?|
+100	$211F8C	76	 Faris : Perchè a principessa di>Tycoon hà u listessu pendente>ch’è eiu ?|
 101	$211FC2	54	 Faris : Hà dettu chì u so babbu hè>à u tempiu di u ventu…|
 102	$212005	67	 Faris : Alzate l'ancura ! Si và>versu u tempiu di u ventu !|
 103	$212045	64	 Pirata : Ma capitanu, sti>prigiuneri…>Faris : Slegateli.|
 104	$212060	27	 Faris : Più in furia chè cusì !|
-105	$212170	272	 Lenna : Ma… Perchè ?>Faris : Ti dicu ch'eiu ti daraghju una>manu. Ùn ti basta micca cusì ?>>Faris : Alzate l'ancura ! U tempiu di>u ventu ci aspetta !>>>Pirati : …>>>>Faris : Oh ! Site sordi o cosa ? Vi>tocca à sente ciò ch'eiu dicu, nò ?|
+105	$212170	272	 Lenna : Ma… Perchè ?>Faris : Ti dicu chì ti daraghju una>manu. Ùn ti basta micca cusì ?>>Faris : Alzate l'ancura ! U tempiu di>u ventu ci aspetta !>>>Pirati : …>>>>Faris : Oh ! Site sordi o cosa ? Vi>tocca à sente ciò ch'eiu dicu, nò ?|
 106	$2121BD	77	 Faris : Chì aspettate ?>Pirati : A… À i vostri ordini,>capitanu !|
 107	$2121CF	18	 Faris : Andemu !|
 108	$212234	101	 Lenna : Ma, senza ventu…>Cumu farà u battellu à>navigà ?>>Faris : A vulete sapè, eh ?|
@@ -121,7 +121,7 @@
 121	$212526	58	 Pirata : Ùn vi ne fate ! Noi>prutegeremu u rifugiu !|
 122	$2125AA	132	 Pirata : L'avemu curatu u megliu>ch'omu pudia. Si duveria>rimette di e so ferite.>>Ùn facia chè dì «Kwoa,>kwoa !».|
 123	$2125F1	71	 [Bartz] : Tracce di chocobo !>Boko ! Deve avè pruvatu à>seguitacci…|
-124	$21264E	93	 Ùn vi ne fate ! Hà solu bisognu>di riposu. Si rimetterà prestu prestu !|
+124	$21264E	93	 Ùn vi ne fate ! Hà solu bisognu>di riposu. Si rimetterà prestu !|
 125	$212659	11	 [Bartz] : Boko !|
 126	$212686	45	 Boko : Kwoa…>>>>Lenna : Oh ! Hè feritu !|
 127	$212713	141	 L'aghju trovu in a grotta, stancu>è feritu, tandu l'aghju purtatu quì.>Ùn vi ne fate, hè fora di periculu.>Ne aghju da piglià cura.|
@@ -136,7 +136,7 @@
 136	$212848	29	 Lenna : È u mo babbu ? Hè…|
 137	$212888	64	 U rè hè cullatu à u pianu di>sopra… Ùn hè ancu vultatu.|
 138	$2128B0	40	 Li deve esse accadutu>qualcosa !|
-139	$212909	89	 Faris : U cristallu hè à u pianu>di sopra ? Perchè ùn ci andemu>micca à fighjà ?|
+139	$212909	89	 Faris : U cristallu hè à u pianu>di sopra ? Allora andemu ci !|
 140	$212936	45	 Lenna : Oh, Faris…[FixedPause] Ai ragiò !>Andemu !|
 141	$2129AB	117	 Ci simu rifugiati in sta>stanza quand'è i mostri anu>invaditu u tempiu. Ùn pudemu>più sorte !|
 142	$2129FA	79	 U rè di Tycoon hè andatu à>vede u statu di u cristallu à>u pianu di sopra…|
@@ -146,18 +146,18 @@
 146	$212B0C	34	 Beite st'acqua rigeneratrice…|
 147	$212B1D	17	 State attente !|
 148	$212B50	51	 Altezza… U ventu s'indebulisce>di più in più…|
-149	$212B92	66	 Stamaremu quì à pregà per a>ristaurazione di u cristallu.|
+149	$212B92	66	 Staremu quì à pregà per a>ristaurazione di u cristallu.|
 150	$212BE6	84	 U ventu s'indebulisce, ancu in>u tempiu. S'ellu si piantessi>cumpletamente, noi…|
-151	$212C52	108	 A machina hà forse troppu>caricatu u cristallu, è hè per>quessa ch'ellu s'hè rottu…>Chì ne pensate ?|
+151	$212C52	108	 A machina hà forse>suvraccaricatu u cristallu, è hè>per quessa ch'ellu s'hè rottu…>Chì ne pensate ?|
 152	$212CB2	96	 I cristalli di Wolse è Karnak>sò anch'elli liati à e>machine chì ne amplificanu>u putere…|
-153	$212CF2	64	 Chì accaderebbe sì l'altri>cristalli si ruttenessinu, anch'elli…|
+153	$212CF2	64	 Chì accaderebbe sì l'altri>cristalli si ruttessinu, anch'elli…|
 154	$212D02	16	 [Bartz] : Attenti !|
 155	$212D2F	45	 Lenna : U cristallu !>[Bartz] : Hè andatu in pezzi !|
 156	$212D3A	11	 [Bartz] : Cosa ?|
 157	$212D67	45	 >\52\52\52\52 U curagiu, essenza di e>\52\52\52\52 fiamme…|
 158	$212D91	42	 >\52\52\52 A devozione, essenza di>\52\52\52 l'acqua…|
 159	$212DBC	43	 >\52\52\52 A sperenza, essenza di a>\52\52\52 terra…|
-160	$212DE7	43	 >  A sete di cunnosce, essenza di u>  ventu…|
+160	$212DE7	43	 >  A sete di sapè, essenza di u>  ventu…|
 161	$212E52	107	 [Bartz] : Chì…>Faris : Chì succede ?>Galuf : Un soffiu tepidu…>>Lenna : Sò l'essenze…>di i cristalli ?|
 162	$212E6B	25	 Rè di Tycoon : Le… nna…|
 163	$212E85	26	 Lenna : Babbu !>Faris : !?|
@@ -174,18 +174,18 @@
 174	$213252	78	 Lenna : … Ci duveria esse un>dispusitivu di teletrasportu daretu>à l'altare.|
 175	$2132B3	97	 Vulete più dittagli nant'à i>frammenti di cristallu è u sistema>di classi è talenti ?|
 176	$213383	208	 >\52\52\52\52\52\52-- FINAL FANTASY V -->\52\52\52\52\52 - SISTEMA DI CLASSI ->>I frammenti di cristallu>rinchiudenu u putere di>guerrieri legindarii.>>Danu à i quattru eletti di i>cristalli u dirittu di sceglie una>classe.|
-177	$2133DC	89	 Scegliendu una classe, l'eletti>ponu amparà i talenti>particulari di quella.|
-178	$2134E6	266	 L'equipaggiu chì pudete>mette vi varierà secondu a>classe è i talenti chì avete>sceltu.>Ùn vi ne fate !>In modu «Optimal», i migliori>pezzi d'equipaggiu dispunibuli>vi saranu attribuiti>automaticamente secondu a>vostra scelta.|
+177	$2133DC	89	 Scegliendu una classe, l'eletti>ponu amparà i talenti>propii di quella.|
+178	$2134E6	266	 L'equipaggiu ch'è vo>pudete mette varierà secondu a>classe è i talenti ch'è vo avete>sceltu.>Ùn vi ne fate !>In modu «Optimal», i migliori>pezzi d'equipaggiu dispunibuli>vi saranu attribuiti>automaticamente secondu a>vostra scelta.|
 179	$2135FA	276	 Pudete creà guerrieri unichi>cumbinendu ogni classe cù>diversi talenti.>>Per esempiu, puderiate avè>un mago neru chì pò «Saltà» o>un paladinu chì pò aduprà a>magia bianca.>Pruvemu l'ultimu esempiu.>>>>Sceglemu prima a classe>«M.Biancu».|
-180	$213761	359	 À a fine di i cumbatti,>riceverete punti di talentu \AEPT\AF.>>>S'è vo ne accumulate abbastanza,>amparerete u talentu «Bianca».>>Avà sceglemu a classe>paladinu è u talentu «Bianca».>>>U vostru equipaggiu serà mudificatu>secondu a vostra scelta.>>>Felicitazione ! Avete creatu>un paladinu chì pò lancià>sorti di magia bianca !|
+180	$213761	359	 À a fine di i cumbatti,>riceverete punti di talentu \AEPT\AF.>>>S'è vo ne accumulate abbastanza,>amparerete u talentu «Bianca».>>Avà sceglemu a classe>paladinu è u talentu «Bianca».>>>U vostru equipaggiu serà mudificatu>secondu a vostra scelta.>>>Felicitazioni ! Avete creatu>un paladinu chì pò lancià>sorti di magia bianca !|
 181	$213768	7	 Kwoa\52!|
 182	$21376F	7	 Kwoa\52!|
 183	$21378D	30	 Pirati : Da beie ! Da beie !|
-184	$2137C1	52	 Faris : Iè, un bichjerucciu ùn mi>dispiacerebbe micca.|
+184	$2137C1	52	 Faris : Eiu dinù, vengu.|
 185	$2137C3	2	 1|
 186	$2137F7	52	 Faris : O o ? Pruveriate à>parte senza mè ?|
 187	$21385C	101	 Pirata : S'è no vi demu una manu,>hè perchè u capitanu ci hà datu>l'ordine. Basta cusì !|
-188	$21387E	34	 Pirata : U capitanu… … stupenda…|
+188	$21387E	34	 Pirata : Capitanu… Eiu… Vi amu…|
 189	$2138A3	37	 Pirata : U capitanu hè à u pianu>di sopra.|
 190	$2138EA	71	 Pirata : A sai, Lenna, s'è no ti>fighjulemu bè, sì abbastanza bella !|
 191	$21390C	34	 Pirata : Aiò ! Beite è manghjate !|
