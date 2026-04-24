@@ -19,7 +19,7 @@
 19	$210392	49	 >\52\52\52A porta hè chjosa da>\52\52\52l'internu.|
 20	$2103B5	35	 >\52\52\52ùn riescite à aprella.|
 21	$2103C9	20	 >Pigliatu - Padiglione !|
-22	$2103DC	19	 Lenna : Babbu !>[P2][AutoClose]|
+22	$2103DC	19	 Lenna : O Babbu !>[P2][AutoClose]|
 23	$21049F	195	 Lenna : Duvete andà ci>veramente ?[P2][AutoClose]>>>Rè di Tycoon : Lenna, pruteggi u>castellu in a mo assenza. Qualunque>sia ciò ch'accadi, prumettimi chì>ùn circherai micca di seguitammi.[P4][AutoClose]>Lenna : Ma…\52\52\52[P4][AutoClose]|
 24	$210521	130	 Rè di Tycoon : U ventu mughja>stranamente…>Devu andà à u tempiu di u ventu>è assicurammi ch'ùn sia accadutu>nunda à u cristallu.[P4][AutoClose]|
 25	$210599	120	 Lenna : Iè, a sentu anch'eiu. Ma>ùn hè micca prudente d'andà ci>solu…>Rè di Tycoon : ùn t'inchietà.>Andarà tuttu bè.[P4][AutoClose]|
@@ -98,106 +98,106 @@
 98	$211ED2	15	 [Bartz] : Euh… tù ?|
 99	$211F40	110	 Galuf : … Oh, a mio testa !>ùn mi ramentu di nunda !>[Bartz] : … Un'altra crisa>d'amnesia, hè cusì ? Pfft !|
 100	$211F8C	76	 Faris : Perchè a principessa di>Tycoon hà u listessu pendente>ch'eiu ?|
-101	$211FC2	54	 Faris : Elle a dit que son père est>au temple du vent…|
-102	$212005	67	 Faris : Préparez-vous à lever>l’ancre. Cap sur le temple du vent !|
-103	$212045	64	 Pirate : Mais capitaine, les>prisonniers…>Faris : Détachez-les.|
-104	$212060	27	 Faris : Plus vite que ça !|
-105	$212170	272	 Lenna : Mais… Pourquoi ?>Faris : J’ai reconsidéré ta requête.>Tu peux retourner dans la soute, si>tu le préfères.>Faris : Levez l’ancre ! Le temple du>vent nous attend !>>>Pirates : …>>>>Faris : Hé ! Vous êtes sourds, ou>quoi ? Je ne vais pas le répéter>encore une fois !|
-106	$2121BD	77	 Faris : Qu’est-ce que vous>attendez ?>Pirates : A… A vos ordres,>capitaine !|
-107	$2121CF	18	 Faris : Allons-y !|
-108	$212234	101	 Lenna : Il n’y a plus de vent…>Comment le bateau pourra-t-il>naviguer ?>Faris : Curieuse, ma petite ?|
-109	$212268	52	 Faris : Syldra ! Viens dire bonjour à>son Altesse !|
-110	$2122CC	100	 Faris : Une vraie beauté, n’est-ce>pas ? Nous avons grandi ensemble.>Je la considère comme ma sœur.|
-111	$21231D	81	 Pirate : Vous voulez que je prenne>la barre jusqu’au temple du vent,>capitaine ?|
-112	$21235E	65	 Pirate : J’ai beau être un pirate,[FixedPause]>j’ai toujours le mal de mer…|
-113	$2123A2	68	 Pirate : Capitaine ! Vous en aurez>besoin !>>>>Obtenu : 8 Potions !|
-114	$2123B8	22	 >Obtenu : 8 potions !|
-115	$2123CF	23	 Pirate : Bon courage !|
-116	$2123F0	33	 Pirate : Capitaine… Je… Je vous…|
-117	$21244A	90	 Pirate : On dirait que les>éboulements ont créé un nouveau>passage menant à notre refuge.|
-118	$212481	55	 Pirate : On protégera le refuge>pour vous, capitaine !|
-119	$2124B5	52	 Pirate : On est des pirates ! On n’a>peur de rien !|
-120	$2124EC	55	 Pirate : On a trouvé un oiseau>bizarre dans la grotte…|
-121	$212526	58	 Pirate : Ne vous inquiétez pas ! On>protégera le refuge !|
-122	$2125AA	132	 Pirate : On l’a soigné du mieux>qu’on pouvait. Il devrait se>remettre de ses blessures.>>Il n’arrêtait pas de faire «Kwoa,>kwoa !».|
-123	$2125F1	71	 [Bartz] : Des empreintes de>chocobo !>Boko ! Il a dû essayer de nous>suivre…|
-124	$21264E	93	 Ne vous en faites pas ! Il a>seulement besoin de repos. Il sera>rétabli en un rien de temps !|
+101	$211FC2	54	 Faris : Hà dettu chì u so babbu hè>à u tempiu di u ventu…|
+102	$212005	67	 Faris : Alzate l'ancura ! Si và>versu u tempiu di u ventu !|
+103	$212045	64	 Pirata : Ma capitanu, sti>prigiuneri…>Faris : Slegateli.|
+104	$212060	27	 Faris : Più in furia chè cusì !|
+105	$212170	272	 Lenna : Ma… Perchè ?>Faris : Ti dicu ch'eiu ti daraghju una>manu. Ùn ti basta micca cusì ?>>Faris : Alzate l'ancura ! U tempiu di>u ventu ci aspetta !>>>Pirati : …>>>>Faris : Oh ! Site sordi o cosa ? Vi>tocca à sente ciò ch'eiu dicu, nò ?|
+106	$2121BD	77	 Faris : Chì aspettate ?>Pirati : A… À i vostri ordini,>capitanu !|
+107	$2121CF	18	 Faris : Andemu !|
+108	$212234	101	 Lenna : Ma, senza ventu…>Cumu farà u battellu à>navigà ?>>Faris : A vulete sapè, eh ?|
+109	$212268	52	 Faris : Syldra ! Vieni à salutà>sta Altezza !|
+110	$2122CC	100	 Faris : Allora ? Bellu, nò ?>Semu crisciute inseme. Hè guasgi>cum'è a mo surella.|
+111	$21231D	81	 Pirata : Vulete ch'eiu tenga a>barra sin'à u tempiu di u ventu,>capitanu ?|
+112	$21235E	65	 Pirata : Eiu, ancu sì sò un pirata,[FixedPause]>aghju sempre u mal di mare…|
+113	$2123A2	68	 Pirata : Capitanu ! Ne averete>bisognu !>>>>Pigliatu : 8 Pozioni !|
+114	$2123B8	22	 >Pigliatu : 8 pozioni !|
+115	$2123CF	23	 Pirata : Bona furtuna !|
+116	$2123F0	33	 Pirata : Capitanu… Eiu… Vi…|
+117	$21244A	90	 Pirata : Pare chì e sfrane anu>apertu un novu passaghju versu>u nostru rifugiu.|
+118	$212481	55	 Pirata : Prutegeremu u rifugiu>per voi, capitanu !|
+119	$2124B5	52	 Pirata : Semu pirati ! Ùn avemu>paura di nunda !|
+120	$2124EC	55	 Pirata : Avemu trovu un acellu>stranu in a grotta…|
+121	$212526	58	 Pirata : Ùn vi ne fate ! Noi>prutegeremu u rifugiu !|
+122	$2125AA	132	 Pirata : L'avemu curatu u megliu>ch'omu pudia. Si duveria>rimette di e so ferite.>>Ùn facia chè dì «Kwoa,>kwoa !».|
+123	$2125F1	71	 [Bartz] : Tracce di chocobo !>Boko ! Deve avè pruvatu à>seguitacci…|
+124	$21264E	93	 Ùn vi ne fate ! Hà solu bisognu>di riposu. Si rimetterà prestu prestu !|
 125	$212659	11	 [Bartz] : Boko !|
-126	$212686	45	 Boko : Kwoa…>>>>Lenna : Oh ! Il est blessé !|
-127	$212713	141	 Je l’ai trouvé dans la grotte, épuisé>et blessé, alors je l’ai ramené ici.>Ne vous inquiétez pas, il est hors>de danger. Je veillerai sur lui.|
-128	$21273B	40	 [Bartz] : Merci docteur ! Prenez>soin de lui…|
-129	$21274C	17	 Je m’en charge !|
-130	$212777	43	 Boko : Kwoaaa…>[Bartz] : Boko… Remets-toi vite !|
-131	$212787	16	 Votre Altesse !|
-132	$2127B0	41	 Lenna : Qu’y a-t-il ? Que s’est-il>passé ?|
-133	$2127C0	16	 Votre Altesse !|
-134	$2127E9	41	 Lenna : Qu’y a-t-il ? Que s’est-il>passé ?|
-135	$21282B	66	 Le vent s’est arrêté et des>monstres ont pénétré dans le>temple !|
-136	$212848	29	 Lenna : Et mon père ? Est-il…|
-137	$212888	64	 Le roi est allé à l’étage supérieur…>Il n’est pas encore revenu.|
-138	$2128B0	40	 Il doit lui être arrivé quelque>chose !|
-139	$212909	89	 Faris : Le cristal est à l’étage>supérieur ? Pourquoi ne pas aller y>jeter un coup d’œil ?|
-140	$212936	45	 Lenna : Oh, Faris…[FixedPause] Tu as raison !>Allons-y !|
-141	$2129AB	117	 Nous nous sommes réfugiés dans>cette pièce quand les monstres ont>envahi le temple. Nous ne pouvons>plus en sortir !|
-142	$2129FA	79	 Le roi de Tycoon est allé vérifier>l’état du cristal situé à l’étage>supérieur…|
-143	$212A67	109	 Nous pouvions contrôler le cristal>situé à l’étage supérieur grâce à>une machine qui amplifiait ses>pouvoirs.|
-144	$212AAC	69	 La machine qui amplifiait les>pouvoirs du cristal ne fonctionne>plus.|
-145	$212AEA	62	 Vous en aurez besoin, votre>Altesse !>>>>Obtenu : 5 potions !|
-146	$212B0C	34	 Buvez de cette eau régénératrice…|
-147	$212B1D	17	 Soyez prudents !|
-148	$212B50	51	 Votre Altesse… Le vent s’affaiblit>de plus en plus…|
-149	$212B92	66	 Nous resterons ici afin de prier>pour la restauration du cristal.|
-150	$212BE6	84	 Le vent s’affaiblit, même dans le>temple. S’il venait à s’arrêter>complètement, nous…|
-151	$212C52	108	 La machine a peut-être surchargé>le cristal et c’est pour cette raison>qu’il s’est brisé…>Qu’en dites-vous ?|
-152	$212CB2	96	 Les cristaux de Wolse et Karnak>sont aussi connectés à des>machines qui amplifient leur>pouvoir…|
-153	$212CF2	64	 Qu’arriverait-il si les autres>cristaux se brisaient, eux aussi…|
-154	$212D02	16	 [Bartz] : Attention !|
-155	$212D2F	45	 Lenna : Le cristal !>[Bartz] : Il est en miettes !|
-156	$212D3A	11	 [Bartz] : Quoi ?|
-157	$212D67	45	 >\52\52\52\52 La bravoure, essence des>\52\52\52\52 flammes…|
-158	$212D91	42	 >\52\52\52 Le dévouement, essence de>\52\52\52 l’eau…|
-159	$212DBC	43	 >\52\52\52 L’espérance, essence de la>\52\52\52 terre…|
-160	$212DE7	43	 >  La soif de connaître, essence du>  vent…|
-161	$212E52	107	 [Bartz] : Que…>Faris : Que se passe-t-il ?>Galuf : Une brise tiède…>>Lenna : Ce sont les essences…>des cristaux ?|
-162	$212E6B	25	 Roi de Tycoon : Le… nna…|
-163	$212E85	26	 Lenna : Père !>Faris : !?|
-164	$212F2F	170	 Roi de Tycoon : Ecoutez-moi…>Vous êtes les quatre élus,>les Guerriers de la Lumière.>>Les porteurs des essences des>cristaux…>Lenna : Père… Que voulez-vous>dire par là ?|
-165	$213009	218	 Roi de Tycoon : Le cristal du vent>s’est brisé. Les trois autres>cristaux sont en danger. Vous>devez à tout prix les protéger !>Une présence néfaste s’éveille…>Elle désire engloutir le monde dans>des ténèbres profondes…|
-166	$213018	15	 Lenna : Père !|
-167	$21305F	71	 Roi de Tycoon : Partez, Guerriers>de la Lumière ! Sauvez les>cristaux…|
-168	$21307F	32	 Lenna : Attendez ! Non ! Père !|
-169	$2130C6	71	 Lenna : … Qu’est-ce que c’est ?>[Bartz] : On dirait des morceaux du>cristal…|
-170	$2131A4	222	 Des fragments de cristal… Le>pouvoir de guerriers légendaires>sommeille à l’intérieur…>>>\52\52\52\52\52\52\52\52\52\52\52\52 Paladin>\52\52\52\52\52\52\52\52\52\52\52\52  Moine>>>\52\52\52\52\52\52\52\52\52\52\52 Mage bleu>\52\52\52\52\52\52\52\52\52\52\52\52  Voleur>>>\52\52\52\52\52\52\52\52\52\52   Mage noir>\52\52\52\52\52\52\52\52\52\52  Mage blanc|
-171	$2131CF	43	 [Bartz] : Le cristal… Il nous donne>son pouvoir…|
-172	$2131F5	38	 Galuf : … Nous devrions sortir d’ici.|
+126	$212686	45	 Boko : Kwoa…>>>>Lenna : Oh ! Hè feritu !|
+127	$212713	141	 L'aghju trovu in a grotta, stancu>è feritu, tandu l'aghju purtatu quì.>Ùn vi ne fate, hè fora di periculu.>Ne aghju da piglià cura.|
+128	$21273B	40	 [Bartz] : Grazie, duttore ! Pigliate>ne bè cura…|
+129	$21274C	17	 Lasciate fà à mè !|
+130	$212777	43	 Boko : Kwoaaa…>[Bartz] : Boko… Rimettiti prestu !|
+131	$212787	16	 Altezza !|
+132	$2127B0	41	 Lenna : Chì ci hè ? Chì hè>accadutu ?|
+133	$2127C0	16	 Altezza !|
+134	$2127E9	41	 Lenna : Chì ci hè ? Chì hè>accadutu ?|
+135	$21282B	66	 U ventu s'hè piantatu è i>mostri sò intruti in u>tempiu !|
+136	$212848	29	 Lenna : È u mo babbu ? Hè…|
+137	$212888	64	 U rè hè cullatu à u pianu di>sopra… Ùn hè ancu vultatu.|
+138	$2128B0	40	 Li deve esse accadutu>qualcosa !|
+139	$212909	89	 Faris : U cristallu hè à u pianu>di sopra ? Perchè ùn ci andemu>micca à fighjà ?|
+140	$212936	45	 Lenna : Oh, Faris…[FixedPause] Ai ragiò !>Andemu !|
+141	$2129AB	117	 Ci simu rifugiati in sta>stanza quand'è i mostri anu>invaditu u tempiu. Ùn pudemu>più sorte !|
+142	$2129FA	79	 U rè di Tycoon hè andatu à>vede u statu di u cristallu à>u pianu di sopra…|
+143	$212A67	109	 Pudiamu cuntrullà u cristallu>di u pianu di sopra cù una>machina chì ne amplificava>u putere.|
+144	$212AAC	69	 A machina chì amplificava u>putere di u cristallu ùn>funziona più.|
+145	$212AEA	62	 Ne averete bisognu, Altezza !>>>>Pigliatu : 5 pozioni !|
+146	$212B0C	34	 Beite st'acqua rigeneratrice…|
+147	$212B1D	17	 State attente !|
+148	$212B50	51	 Altezza… U ventu s'indebulisce>di più in più…|
+149	$212B92	66	 Stamaremu quì à pregà per a>ristaurazione di u cristallu.|
+150	$212BE6	84	 U ventu s'indebulisce, ancu in>u tempiu. S'ellu si piantessi>cumpletamente, noi…|
+151	$212C52	108	 A machina hà forse troppu>caricatu u cristallu, è hè per>quessa ch'ellu s'hè rottu…>Chì ne pensate ?|
+152	$212CB2	96	 I cristalli di Wolse è Karnak>sò anch'elli liati à e>machine chì ne amplificanu>u putere…|
+153	$212CF2	64	 Chì accaderebbe sì l'altri>cristalli si ruttenessinu, anch'elli…|
+154	$212D02	16	 [Bartz] : Attenti !|
+155	$212D2F	45	 Lenna : U cristallu !>[Bartz] : Hè andatu in pezzi !|
+156	$212D3A	11	 [Bartz] : Cosa ?|
+157	$212D67	45	 >\52\52\52\52 U curagiu, essenza di e>\52\52\52\52 fiamme…|
+158	$212D91	42	 >\52\52\52 A devozione, essenza di>\52\52\52 l'acqua…|
+159	$212DBC	43	 >\52\52\52 A sperenza, essenza di a>\52\52\52 terra…|
+160	$212DE7	43	 >  A sete di cunnosce, essenza di u>  ventu…|
+161	$212E52	107	 [Bartz] : Chì…>Faris : Chì succede ?>Galuf : Un soffiu tepidu…>>Lenna : Sò l'essenze…>di i cristalli ?|
+162	$212E6B	25	 Rè di Tycoon : Le… nna…|
+163	$212E85	26	 Lenna : Babbu !>Faris : !?|
+164	$212F2F	170	 Rè di Tycoon : Ascoltatemi…>Site i quattru eletti,>i Guerrieri di a Luce.>>I purtatori di l'essenze di i>cristalli…>Lenna : Babbu… Chì vulete>dì cun què ?|
+165	$213009	218	 Rè di Tycoon : U cristallu di u>ventu s'hè rottu. L'altri trè>cristalli sò in periculu. Duvete>prutegeli à ogni costu ! Una>prisenza maligna si sveglia…>Vole ingutuppà u mondu in>tenebre prufonde…|
+166	$213018	15	 Lenna : Babbu !|
+167	$21305F	71	 Rè di Tycoon : Andate, Guerrieri>di a Luce ! Salvate i>cristalli…|
+168	$21307F	32	 Lenna : Aspettate ! Innò ! Babbu !|
+169	$2130C6	71	 Lenna : … Chì ghjè ?>[Bartz] : Parenu pezzi di>cristallu…|
+170	$2131A4	222	 Frammenti di cristallu… U>putere di guerrieri legindarii>riposa dentru…>>>\52\52\52\52\52\52\52\52\52\52\52\52 Paladinu>\52\52\52\52\52\52\52\52\52\52\52\52  Monaco>>>\52\52\52\52\52\52\52\52\52\52\52 Mago turchinu>\52\52\52\52\52\52\52\52\52\52  Latru>>>\52\52\52\52\52\52\52\52\52\52   Mago neru>\52\52\52\52\52\52\52\52\52\52  Mago biancu|
+171	$2131CF	43	 [Bartz] : U cristallu… Ci dà>u so putere…|
+172	$2131F5	38	 Galuf : … Duvemu sorte di quì.|
 173	$213204	15	 Faris : Lenna…|
-174	$213252	78	 Lenna : … Il devrait y avoir un>dispositif de téléportation derrière>l’autel.|
-175	$2132B3	97	 Voulez-vous plus de détails sur les>fragments de cristal et le système>de classes et de talents ?|
-176	$213383	208	 >\52\52\52\52\52\52-- FINAL FANTASY V -->\52\52\52\52\52 - SYSTEME DE CLASSES ->>Les fragments de cristal>renferment le pouvoir de>guerriers légendaires.>>Ils accordent aux quatre élus des>cristaux le droit de choisir une>classe.|
-177	$2133DC	89	 En choisissant une classe, les élus>peuvent apprendre les talents>spécifiques à celle-ci.|
-178	$2134E6	266	 L’équipement dont vous pouvez>vous équiper variera selon la>classe et les talents que vous avez>choisies.>Ne vous en faites pas !>En mode «Optimal», les meilleures>pièces d’équipement disponibles>vous seront automatiquement>attribuées en fonction de votre>sélection.|
-179	$2135FA	276	 Vous pouvez créer des guerriers>uniques en associant chaque classe>à des talents variés.>>Par exemple, vous pourriez avoir>un mage noir qui peut «Sauter» ou>un paladin qui peut utiliser la>magie blanche.>Essayons le dernier exemple.>>>>Choisissons d’abord la classe>«M.Blanc».|
-180	$213761	359	 A la fin des combats, vous>recevrez des points de talent \AEPT\AF.>>>Si vous accumulez un certain>nombre de PT, vous apprendrez le>talent «Blanche».>>Choisissons maintenant la classe>paladin et le talent «Blanche».>>>Votre équipement sera modifié en>fonction de votre choix.>>>Félicitations ! Vous avez créé un>paladin qui peut lancer des sorts>de magie blanche !|
+174	$213252	78	 Lenna : … Ci duveria esse un>dispusitivu di teletrasportu daretu>à l'altare.|
+175	$2132B3	97	 Vulete più dittagli nant'à i>frammenti di cristallu è u sistema>di classi è talenti ?|
+176	$213383	208	 >\52\52\52\52\52\52-- FINAL FANTASY V -->\52\52\52\52\52 - SISTEMA DI CLASSI ->>I frammenti di cristallu>rinchiudenu u putere di>guerrieri legindarii.>>Danu à i quattru eletti di i>cristalli u dirittu di sceglie una>classe.|
+177	$2133DC	89	 Scegliendu una classe, l'eletti>ponu amparà i talenti>particulari di quella.|
+178	$2134E6	266	 L'equipaggiu chì pudete>mette vi varierà secondu a>classe è i talenti chì avete>sceltu.>Ùn vi ne fate !>In modu «Optimal», i migliori>pezzi d'equipaggiu dispunibuli>vi saranu attribuiti>automaticamente secondu a>vostra scelta.|
+179	$2135FA	276	 Pudete creà guerrieri unichi>cumbinendu ogni classe cù>diversi talenti.>>Per esempiu, puderiate avè>un mago neru chì pò «Saltà» o>un paladinu chì pò aduprà a>magia bianca.>Pruvemu l'ultimu esempiu.>>>>Sceglemu prima a classe>«M.Biancu».|
+180	$213761	359	 À a fine di i cumbatti,>riceverete punti di talentu \AEPT\AF.>>>S'è vo ne accumulate abbastanza,>amparerete u talentu «Bianca».>>Avà sceglemu a classe>paladinu è u talentu «Bianca».>>>U vostru equipaggiu serà mudificatu>secondu a vostra scelta.>>>Felicitazione ! Avete creatu>un paladinu chì pò lancià>sorti di magia bianca !|
 181	$213768	7	 Kwoa\52!|
 182	$21376F	7	 Kwoa\52!|
-183	$21378D	30	 Pirates : A boire ! A boire !|
-184	$2137C1	52	 Faris : Oui, un petit verre ne serait>pas de refus.|
+183	$21378D	30	 Pirati : Da beie ! Da beie !|
+184	$2137C1	52	 Faris : Iè, un bichjerucciu ùn mi>dispiacerebbe micca.|
 185	$2137C3	2	 1|
-186	$2137F7	52	 Faris : Ho, ho ? On essaierait de>partir sans moi ?|
-187	$21385C	101	 Pirate : Si on vous file un coup de>main, c’est parce que le capitaine>nous l’a ordonné. C’est tout !|
-188	$21387E	34	 Pirate : Le capitaine… … superbe…|
-189	$2138A3	37	 Pirate : Le capitaine est à l’étage.|
-190	$2138EA	71	 Pirate : Tu sais, Lenna, si on te>regarde de près, tu es plutôt jolie !|
-191	$21390C	34	 Pirate : Allez ! Buvez et mangez !|
-192	$213934	40	 Le capitaine des pirates est à>l’étage.|
-193	$213960	44	 On te réserve quelque chose de>spécial ![P2][AutoClose]|
-194	$213967	7	 Ouah !|
-195	$2139A6	63	 Malheureusement, les pirates ont>déjà bu toutes nos réserves !|
-196	$2139D2	44	 No-non ! Je ne regardais pas !>C’est vrai !|
-197	$213A15	67	 Viens t’asseoir avec moi…>Regarde-moi dans les yeux !>Hi, hi, hi !|
-198	$213A43	46	 [Bartz] : Attendez, je vais aller>vérifier s’il dort.|
-199	$213AE3	160	 Galuf : [Bartz], pourquoi fais-tu>une tête pareille ?>[Bartz] : Euh… Ce n’est rien…>J’ai dû m’imaginer des trucs…>Galuf : Mais qu’est-ce que tu>racontes ? Fais voir un peu…|
-200	$213B33	80	 Galuf : Mille tonnerres ! Quelle>exquise beauté… C’est à vous>couper le souffle !|
+186	$2137F7	52	 Faris : O o ? Pruveriate à>parte senza mè ?|
+187	$21385C	101	 Pirata : S'è no vi demu una manu,>hè perchè u capitanu ci hà datu>l'ordine. Basta cusì !|
+188	$21387E	34	 Pirata : U capitanu… … stupenda…|
+189	$2138A3	37	 Pirata : U capitanu hè à u pianu>di sopra.|
+190	$2138EA	71	 Pirata : A sai, Lenna, s'è no ti>fighjulemu bè, sì abbastanza bella !|
+191	$21390C	34	 Pirata : Aiò ! Beite è manghjate !|
+192	$213934	40	 U capitanu di i pirati hè à>u pianu di sopra.|
+193	$213960	44	 Avemu qualcosa di>spiciale per tè ![P2][AutoClose]|
+194	$213967	7	 Ouh !|
+195	$2139A6	63	 Sfurtunatamente, i pirati anu>digià betu tutte e nostre>riserve !|
+196	$2139D2	44	 No… nò ! Ùn stava micca>fighjendu ! Veru !|
+197	$213A15	67	 Vieni à pusà ti cun mè…>Fighjulemi in l'ochji !>Hi, hi, hi !|
+198	$213A43	46	 [Bartz] : Aspettate, andaraghju>à vede s'ellu dorme.|
+199	$213AE3	160	 Galuf : [Bartz], perchè fai>ssa faccia ?>[Bartz] : Euh… Ùn hè nunda…>M'averaghju imaginatu>qualcosa…>Galuf : Ma chì raconti ?>Fà mi vede un pocu…|
+200	$213B33	80	 Galuf : Mille fulmini ! Chì>bellezza squisita… Vi taglia>u fiatu !|
 201	$213B64	49	 Lenna : Que se passe-t-il ? Vous>êtes écarlates !|
 202	$213B8D	41	 Faris : Ooh… J’ai dormi à poings>fermés…|
 203	$213BCF	66	 Faris : Qu’est-ce qui vous prend,>vous deux ? Ressaisissez-vous !|
