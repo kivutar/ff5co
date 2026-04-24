@@ -3,4 +3,4 @@ set -eu
 cp ff5fr.sfc ff5co.sfc
 magick french_font.bmp pbm:/tmp/ff5co-font.pbm
 perl import_font.pl ff5co.sfc /tmp/ff5co-font.pbm 03EF80 1080 16
-perl insert.pl co "${1:-corsu.txt}"
+perl patch_co_font.pl ff5fr.sfc ff5co.sfc

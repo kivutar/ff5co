@@ -1,103 +1,103 @@
-1	$21001E	30	 >\52\52\52\52\52\52\52\52Il ne se passe rien.|
-2	$210040	34	 >\52\52\52\52 Votre inventaire est plein.|
-3	$21004E	14	 >Obtenu - [DialogueItem] !|
-4	$210064	22	 >Vous obtenez [DialogueGil] Gils !|
-5	$21007B	23	 >\52\52\52\52\52\52\52\52\52Appris - [DialogueAbility] !|
-6	$210097	28	 >\52\52\52\52\52\52\52\52\52 C’est un piège !|
-7	$2100BB	36	 >\52\52\52\52  Il n’y a rien à l’intérieur.|
-8	$2100D7	28	 >\52\52\52\52\52\52\52\52Choisissez un nom.|
-9	$2100F5	30	 >\52\52\52\52\52\52La porte est ouverte !|
-10	$210147	82	 Bienvenue ! Voulez-vous vous>reposer ici ? Cela vous coûtera>[DialogueGil] Gils pour une nuit.|
-11	$210199	82	 Bienvenue ! Voulez-vous vous>reposer ici ? Cela vous coûtera>[DialogueGil] Gils pour une nuit.|
-12	$2101EB	82	 Bienvenue ! Voulez-vous vous>reposer ici ? Cela vous coûtera>[DialogueGil] Gils pour une nuit.|
-13	$21023D	82	 Bienvenue ! Voulez-vous vous>reposer ici ? Cela vous coûtera>[DialogueGil] Gils pour une nuit.|
-14	$21028F	82	 Bienvenue ! Voulez-vous vous>reposer ici ? Cela vous coûtera>[DialogueGil] Gils pour une nuit.|
-15	$21029C	13	 Bonne nuit !|
-16	$2102B1	21	 A bientôt, j’espère.|
-17	$210326	117	 Cet endroit est consacré. Vous>pouvez y utiliser une tente ou un>pavillon. Vous pouvez aussi>sauvegarder votre partie.|
-18	$210361	59	 Propriétaire - Pas mal du tout !>>>>Vous obtenez 100 Gils !|
-19	$210392	49	 >\52\52\52La porte est fermée à clé de>\52\52\52l’intérieur.|
-20	$2103B5	35	 >\52\52\52Vous n’arrivez pas à l’ouvrir.|
-21	$2103C9	20	 >Obtenu - Pavillon !|
-22	$2103DC	19	 Lenna - Père !>[P2][AutoClose]|
-23	$21049F	195	 Lenna - Devez-vous vraiment aller>là-bas ?[P2][AutoClose]>>>Roi de Tycoon - Lenna, protège le>château en mon absence. Quoi qu’il>arrive, promets-moi que tu>n’essaieras pas de me suivre.[P4][AutoClose]>Lenna - Mais…\52\52\52[P4][AutoClose]|
-24	$210521	130	 Roi de Tycoon - Le vent gémit>étrangement… Je dois me rendre>au temple du vent et m’assurer>qu’il n’est rien arrivé au cristal.[P4][AutoClose]|
-25	$210599	120	 Lenna - Oui, je comprends. Mais il>n’est pas prudent d’y aller seul…>Roi de Tycoon - Ne t’inquiète pas.>Tout ira bien.[P4][AutoClose]|
-26	$2105BA	33	 Faris - Le vent s’est arrêté…[P2][AutoClose]|
-27	$2105E0	38	 Vieil homme - Je dois me>dépêcher ![P2][AutoClose]|
-28	$210614	52	 Lenna - Le vent… Il s’est arrêté ![FixedPause]>Non ! Père ![P2][AutoClose]|
-29	$210637	35	 Roi de Tycoon - Qu’est-ce qui…>[P2][AutoClose]|
-30	$210817	480	 Laisse-moi t’expliquer comment>les bagues et les anneaux>fonctionnent.>>Les bagues rouges absorbent le>feu et protègent contre la glace.>Cependant, elles ont un point>faible - l’eau.>Les anneaux de corail absorbent>l’eau et protègent contre le feu.>Cependant, ils ont un point>faible - le tonnerre.>Les anneaux d’ange protègent>contre les altérations d’état>Vieillissement et Zombie.>>Et que dire de l’accessoire>ultime - le ruban ! Il protège contre>la plupart des altérations d’état.|
+1	$21001E	30	 >\52\52\52\52\52\52\52\52ùn accade nunda.|
+2	$210040	34	 >\52\52\52\52 U vostru inventariu hè pienu.|
+3	$21004E	14	 >Pigliatu - [DialogueItem] !|
+4	$210064	22	 >Avete ottenutu [DialogueGil] gils !|
+5	$21007B	23	 >\52\52\52\52\52\52\52\52\52Amparatu - [DialogueAbility] !|
+6	$210097	28	 >\52\52\52\52\52\52\52\52\52 Hè una trappula !|
+7	$2100BB	36	 >\52\52\52\52  ùn ci hè nunda dentru.|
+8	$2100D7	28	 >\52\52\52\52\52\52\52\52Sceglite un nome.|
+9	$2100F5	30	 >\52\52\52\52\52\52A porta hè aperta !|
+10	$210147	82	 Benvenuti ! Vulete ripusavvi>quì ? Vi costerà>[DialogueGil] gils per una notte.|
+11	$210199	82	 Benvenuti ! Vulete ripusavvi>quì ? Vi costerà>[DialogueGil] gils per una notte.|
+12	$2101EB	82	 Benvenuti ! Vulete ripusavvi>quì ? Vi costerà>[DialogueGil] gils per una notte.|
+13	$21023D	82	 Benvenuti ! Vulete ripusavvi>quì ? Vi costerà>[DialogueGil] gils per una notte.|
+14	$21028F	82	 Benvenuti ! Vulete ripusavvi>quì ? Vi costerà>[DialogueGil] gils per una notte.|
+15	$21029C	13	 Bona notte !|
+16	$2102B1	21	 A prestu, spergu.|
+17	$210326	117	 Stu locu hè sacru. Pudete>aduprà una tenda o un>padiglione quì. Pudete dinù>salvà a vostra partita.|
+18	$210361	59	 Oste - Mica male !>>>>Avete ottenutu 100 gils !|
+19	$210392	49	 >\52\52\52A porta hè chjosa da>\52\52\52l'internu.|
+20	$2103B5	35	 >\52\52\52ùn riescite à aprella.|
+21	$2103C9	20	 >Pigliatu - Padiglione !|
+22	$2103DC	19	 Lenna - Babbu !>[P2][AutoClose]|
+23	$21049F	195	 Lenna - Duvete andà ci>veramente ?[P2][AutoClose]>>>Rè di Tycoon - Lenna, pruteggi u>castellu in a mo assenza. Qualunque>sia ciò ch'accadi, prumettimi chì>ùn circherai micca di seguitammi.[P4][AutoClose]>Lenna - Ma…\52\52\52[P4][AutoClose]|
+24	$210521	130	 Rè di Tycoon - U ventu mughja>stranamente… Devu andà à u>tempiu di u ventu è assicurammi>ch'ùn sia accadutu nunda à u cristallu.[P4][AutoClose]|
+25	$210599	120	 Lenna - Iè, a sentu anch'eiu. Ma>ùn hè micca prudente d'andà ci>solu…>Rè di Tycoon - ùn t'inchietà.>Andarà tuttu bè.[P4][AutoClose]|
+26	$2105BA	33	 Faris - U ventu s'hè piantatu…[P2][AutoClose]|
+27	$2105E0	38	 Vechju omu - Mi devu>spiccià ![P2][AutoClose]|
+28	$210614	52	 Lenna - U ventu… S'hè piantatu ![FixedPause]>Innò ! Babbu ![P2][AutoClose]|
+29	$210637	35	 Rè di Tycoon - Chì succede…>[P2][AutoClose]|
+30	$210817	480	 Lasciami spiegatti cumu>funziunanu l'anelli.>>L'anellu rossu assorbe u>focu è prutegge contr'à u ghjacciu.>Tuttavia hà un puntu debule - l'acqua.>L'anellu di curallu assorbe>l'acqua è prutegge contr'à u focu.>Tuttavia hà un puntu debule - u tronu.>L'anellu d'ànghjulu prutegge>contr'à i stati>Invechjamentu è Zombiu.>>È u nastru ! Prutegge contr'à>a maiò parte di l'alterazioni di statu.|
 31	$210827	16	 Mog - Kupo ![P1][AutoClose]|
-32	$210962	315	 Choisissez l’option «Optimal» pour>vous équiper des meilleures pièces>d’équipement de votre inventaire.>>Mais attention ! Seules la force et>la défense sont prises en>considération. Il est possible que>vous deviez vous équiper>manuellement des accessoires>possédant des qualités spéciales,>comme la cape et l’épingle.|
-33	$210978	22	 ??? - Allons-y, Boko !|
-34	$210995	29	 ??? - Attends-moi ici, Boko.|
-35	$2109CF	58	 ??? - Ça va ? Tu n’as rien ?>Lenna - Je crois que ça ira…|
-36	$210A16	71	 Lenna - Mille mercis. Je m’appelle>Lenna. Qui es-tu ?>??? - Je m’appelle…|
-37	$210A68	82	 [Bartz] - Je m’appelle [Bartz].>Je voyage avec mon chocobo là où>le vent m’emporte…>Lenna - [Bartz]…|
-38	$210B21	185	 Lenna - Un rocher est>soudainement tombé du ciel…>J’ai dû perdre connaissance.>[Bartz] - On dirait un aérolithe.>Lenna - Un aérolithe… Cela>pourrait-il avoir quelque chose à>voir avec le vent ?|
-39	$210B8E	109	 Lenna - Encore merci. J’aimerais>bien t’offrir quelque chose pour>exprimer ma gratitude mais je>dois partir…|
-40	$210B9C	14	 [Bartz] - Attends !|
-41	$210BDA	62	 Lenna - [Bartz]… Entends-tu>quelque chose ?>[Bartz] - Hein ?>>??? - Oooh…|
-42	$210BF4	26	 ??? - Aaah… [FixedPause]Au… secours…|
-43	$210C01	13	 [Bartz] - Là-bas !|
-44	$210C4B	74	 Lenna - Vous êtes blessé ?>Vieil homme - Où suis-je ?>Oh… Ma pauvre tête !|
-45	$210CD6	139	 Vieil\52homme - Mille tonnerres…>Que s’est-il passé ? Je ne me>souviens de rien !>>[Bartz] - Tu t’es cogné la tête…>Tu as peut-être perdu la mémoire.|
-46	$210D72	156	 Vieil homme - Oh ! Je me rappelle>quelque chose… Je m’appelle>Galuf !>Lenna - Oh ! Et ensuite ?>Galuf - … Non, c’est tout ! Je ne me>souviens de rien d’autre…|
-47	$210DFB	137	 Lenna - Je suis vraiment désolée…>Je ne peux pas m’attarder plus>longtemps.>[Bartz] - Où vas-tu ?>Lenna - Je dois me rendre au>temple du vent…|
-48	$210E78	125	 Galuf - Le temple du vent ! Je me>dirigeais justement vers cet>endroit ! Alors c’est décidé.>Je t’accompagne !>Lenna - Mais…|
-49	$210F28	176	 Galuf - Je ne pourrais jamais>laisser une jeune fille sans>défense y aller toute seule.>>Et de toute façon, je dois aller au>temple… J’en suis certain.>Laisse-moi t’accompagner !|
-50	$210F79	81	 Lenna - Et toi, [Bartz] ?>[Bartz] - … Je vais continuer à>parcourir le monde. Bonne chance !|
-51	$210FC5	76	 Lenna - Je te remercie de nous>avoir aidés, [Bartz]… Adieu !>Galuf - Bon voyage !|
-52	$211010	75	 [Bartz] - Aïe ! Boko ! Vilain chocobo !>Pourquoi t’es-tu arrêté aussi>subitement ?|
-53	$21104F	63	 [Bartz] - … Ne me regarde pas>comme ça.>>>Boko - Kwoa ! Kwoa, kwoa !|
-54	$2110D3	132	 [Bartz] - … Je sais, une jeune fille>et un vieil homme, seuls comme>ça… Et c’est tout plein de Gobelins>là-bas… Ça va, ça va, j’ai compris !|
+32	$210962	315	 Sceglite l'opzione «Optimal» per>equipà vi cù i migliori pezzi>d'equipagiu di u vostru inventariu.>>Ma fate casu ! Solu a forza è>a difesa sò pigliate in>cunsiderazione. Pudete avè bisognu>d'equipà à a manu accessori>cù qualità spiciale, cum'è>a cappa è a spinguletta.|
+33	$210978	22	 ??? - Andemu, Boko !|
+34	$210995	29	 ??? - Aspettami quì, Boko.|
+35	$2109CF	58	 ??? - Va bè ? ùn ti sei fatta male ?>Lenna - Credu chì anderà…|
+36	$210A16	71	 Lenna - Mille grazie. Mi chjamu>Lenna. Quale sì ?>??? - Mi chjamu…|
+37	$210A68	82	 [Bartz] - Mi chjamu [Bartz].>Viaghju cù u mo chocobo induve>u ventu mi porta…>Lenna - [Bartz]…|
+38	$210B21	185	 Lenna - Un scogliu hè>cascatu di colpu da u celu…>Devu avè persu cuscenza.>[Bartz] - Pare un meteoritu.>Lenna - Un meteoritu… Puderia>avè qualcosa à chì vede>cù u ventu ?|
+39	$210B8E	109	 Lenna - Grazie torna. Mi piacerebbe>offre ti qualcosa per>ringraziatti ma devu parte…|
+40	$210B9C	14	 [Bartz] - Aspetta !|
+41	$210BDA	62	 Lenna - [Bartz]… Senti>qualcosa ?>[Bartz] - Eiu ?>>??? - Oooh…|
+42	$210BF4	26	 ??? - Aaah… [FixedPause]Aiutu…|
+43	$210C01	13	 [Bartz] - Quallà !|
+44	$210C4B	74	 Lenna - Site feritu ?>Vechju omu - Induve sò ?>Oh… A mio capu !|
+45	$210CD6	139	 Vechju\52omu - Mille diavuli…>Chì hè accadutu ? ùn mi>ramentu di nunda !>>[Bartz] - T'hè battuta a testa…>Ai forse persu a memoria.|
+46	$210D72	156	 Vechju omu - Oh ! Mi ricordu>qualcosa… Mi chjamu>Galuf !>Lenna - Oh ! È dopu ?>Galuf - … Innò, basta cusì ! ùn mi>ramentu di nunda d'altru…|
+47	$210DFB	137	 Lenna - Mi dispiace veramente…>ùn possu piantammi più>longu.>[Bartz] - Induve vai ?>Lenna - Devu andà à u>tempiu di u ventu…|
+48	$210E78	125	 Galuf - U tempiu di u ventu ! Mi>dirigia ghjustu versu>issu locu ! Allora hè decisu.>Vengu cun tè !>Lenna - Ma…|
+49	$210F28	176	 Galuf - ùn possu lascià mai>una giovana senza difesa andà>ci tutta sola.>>È dopu, devu andà à u>tempiu… Ne sò sicuru.>Lasciami vene cun tè !|
+50	$210F79	81	 Lenna - È tù, [Bartz] ?>[Bartz] - … Aghju da cuntinuà à>viaghjà. Bona furtuna !|
+51	$210FC5	76	 Lenna - Ti ringraziu d'avè ci>aiutatu, [Bartz]… Addiu !>Galuf - Bona strada !|
+52	$211010	75	 [Bartz] - Aiò ! Boko ! Cattivu chocobo !>Perchè t'ai piantatu cusì>di colpu ?|
+53	$21104F	63	 [Bartz] - … ùn mi fighjulà>cusì.>>>Boko - Kwoa ! Kwoa, kwoa !|
+54	$2110D3	132	 [Bartz] - … A sò, una giovana>è un vechju omu, soli cusì…>È ci sò pieni di Goblin>quallà… Va bè, va bè, aghju capitu !|
 55	$2110EE	27	 Lenna - Aah !>Galuf - Oh !|
-56	$211111	35	 [Bartz] - Allons, Boko !>>>>Boko - Kwoa !|
+56	$211111	35	 [Bartz] - Andemu, Boko !>>>>Boko - Kwoa !|
 57	$211120	15	 Lenna - Oooh…[FixedPause]|
-58	$211137	23	 [Bartz] - Salut.>Lenna - [Bartz] !|
-59	$211180	73	 Lenna - Je te suis redevable une>fois de plus…>[Bartz] - Il n’y a pas de quoi.|
-60	$211225	165	 [Bartz] - L’onde de choc de>l’aérolithe a provoqué des>glissements de terrain…>La route est recouverte de débris.>Vous ne pourrez pas passer par là>pour vous rendre à Tule.|
-61	$211271	76	 Lenna - Je dois me rendre au>temple du vent immédiatement !>>>Galuf - Oooh…|
-62	$2112CC	91	 Galuf - Le temple du vent… Vite…>[Bartz] - Il semble vouloir s’y>rendre au plus vite, lui aussi…|
-63	$2113E1	277	 [Bartz] - D’accord. Je vais vous>accompagner jusqu’au temple !>Lenna - Vraiment ?>[Bartz] - Oui ! J’ai promis à mon>père avant qu’il ne meure que je>voyagerais à travers le monde. Et>puis… On dirait que le vent>m’appelle.>Galuf - Oh, c’est gentil ! Avoue>plutôt qu’elle te plaî, cette petite.|
-64	$211439	88	 [Bartz] - Que… Tu es réveillé ?>Galuf - Ne sois pas si surpris.>Je suis toujours prêt à tout !|
-65	$2114A5	108	 Galuf - Par contre, si la route est>bloquée, cela rend les choses plus>difficiles…>[Bartz] - C’est vrai…>Lenna - …|
-66	$211532	141	 Lenna - Je ne peux pas>abandonner. Il doit y avoir un>autre moyen d’atteindre le temple>du vent !>Galuf - Nous le trouverons !>[Bartz] - Allons-y !|
-67	$2115AB	121	 Lenna - Il n’y avait pas de grotte>ici, j’en suis certaine…>[Bartz] - Elle a probablement été>créée après tous ces éboulements.|
-68	$2115FC	81	 [Bartz] - Boko, ça pourrait être>dangereux à l’intérieur.>Attends-nous ici, d’accord ?|
+58	$211137	23	 [Bartz] - Oi.>Lenna - [Bartz] !|
+59	$211180	73	 Lenna - Ti sò torna in>debitu…>[Bartz] - ùn hè nunda.|
+60	$211225	165	 [Bartz] - L'onda di scossa di>u meteoritu hà causatu>sfrane…>A strada hè cuparta di sfundame.>ùn puderete passà di quì>per andà in Tule.|
+61	$211271	76	 Lenna - Devu andà à u>tempiu di u ventu subitu !>>>Galuf - Oooh…|
+62	$2112CC	91	 Galuf - U tempiu di u ventu… Prestu…>[Bartz] - Pare vulè andà ci>u più prestu pussibule, ellu dinù…|
+63	$2113E1	277	 [Bartz] - D'accordu. Vi>accumpagneraghju sin'à u tempiu !>Lenna - Veramente ?>[Bartz] - Iè ! Aghju prumessu à u>mo babbu, nanzu ch'ellu morga, di>viaghjà à traversu u mondu. È>in più… Pare chì u ventu>mi chjami.>Galuf - Oh, ch'ellu hè caru ! Avà,>ricunnosci lu, sta zitella ti piace.|
+64	$211439	88	 [Bartz] - Chì… Ti sei svegliatu ?>Galuf - ùn ti stupisce tantu.>Sò sempre prontu à tuttu !|
+65	$2114A5	108	 Galuf - Ma s'ella hè bluccata>a strada, e cose si facenu più>difficule…>[Bartz] - Hè vera…>Lenna - …|
+66	$211532	141	 Lenna - ùn possu micca>rinuncià. Ci deve esse un>altru modu d'ghjunghje à u tempiu>di u ventu !>Galuf - U truveremu !>[Bartz] - Andemu !|
+67	$2115AB	121	 Lenna - ùn c'era nisuna grotta>quì, ne sò sicura…>[Bartz] - Hè stata forse creata dopu>à tutti issi franamenti.|
+68	$2115FC	81	 [Bartz] - Boko, pò esse>periculosu dentru.>Aspettaci quì, va bè ?|
 69	$21160A	14	 Boko - Kwoa !|
-70	$21161E	20	 [Bartz] - Allons-y, Boko !|
+70	$21161E	20	 [Bartz] - Andemu, Boko !|
 71	$211632	20	 Boko - Kwoa, kwoa !|
-72	$211643	17	 [Bartz] - Une source ?|
-73	$2116C7	132	 >\52 C’est une source régénératrice.>>>Régénération des HP et des MP !>Guérison des altérations d’état !>Résurrection des alliés K-O !|
-74	$211726	95	 Régénération des HP et des MP !>Guérison des altérations d’état !>Résurrection des alliés K-O !|
-75	$211758	50	 [Bartz] - Ah ! Alors c’est comme ça>qu’on peut passer !|
-76	$2117A4	76	 [Bartz] - Ce bateau… Comment>pouvait-il naviguer alors que le>vent est si faible ?|
-77	$2117E9	69	 [Bartz] - Un refuge de pirates !>Alors ce bateau… était un bateau>pirate !|
-78	$211823	58	 Lenna - Ils pourraient peut-être>nous prêter leur bateau.|
-79	$211853	48	 [Bartz] - Euh, je n’y compterais>pas, si j’étais toi…|
-80	$211882	47	 Galuf - En effet… Nous devrons>donc le voler !|
-81	$2118BB	57	 [Bartz] - Ouh là ! Pour une vieille>baderne, tu as du courage !|
-82	$2118CC	17	 [Bartz] - Oh… Il\52dort.|
-83	$2118E6	26	 Pirate - Hein ? Euh… Zzz…|
-84	$2118FF	25	 [Bartz] - Ohé, ohé ! Allons-y !|
-85	$211960	97	 Pirate - Zzz… Le capitaine… réparé>le gouvernail… … suffit de prendre>la barre… … Syldra va… Zzz…|
-86	$2119DA	122	 Galuf - … Alors ? Qu’est-ce que tu>attends, petit ?>>>[Bartz] - J’essaie, mais rien ne>bouge ! Ça fonctionne comment, ce>truc ?|
-87	$2119E6	12	 Qui va là ?|
-88	$211A3F	89	 Faris - Oh ? Vous voulez voler mon>bateau ? Quelle audace !>… ou plutôt quelle stupidité !|
-89	$211AD1	146	 Lenna - Attendez ! Je suis Lenna, la>princesse de Tycoon.>>>Veuillez accepter mes humbles>excuses pour avoir tenté de>réquisitionner votre bateau.|
-90	$211B00	47	 [Bartz] - Quoi ? La princesse…>Galuf - … de Tycoon ?|
-91	$211CD2	466	 [Bartz] - Je n’arrive pas à croire>que tu sois la princesse de Tycoon,>Lenna !>>Lenna - Je suis désolée… Je ne>voulais pas le cacher, je…>>>[Bartz] - Ce n’est pas grave.>Mais si tu es une princesse,>pourquoi allais-tu au temple du>vent toute seule ?>Lenna - Mon père était dans le>temple quand le vent s’est presque>arrêté… J’ai un mauvais>pressentiment… Il lui est arrivé>quelque chose ! Je suis sortie>discrètement du château mais>l’aérolithe s’est écrasé… Tu connais>la suite.|
-92	$211D79	167	 Lenna - Capitaine, au nom du>royaume de Tycoon, je vous en>supplie. Laissez-nous emprunter>votre navire. Je dois me rendre>au temple du vent ! Mon père est>en danger !|
-93	$211DF3	122	 Faris - Ho, ho ! La\52princesse de>Tycoon ! Nous allons être riches !>[Bartz] - Hé ! Laisse-la tranquille,>espèce de pirate radin !|
-94	$211E0E	27	 Lenna - Je vous en supplie…|
-95	$211E25	23	 Faris - Ce pendentif !|
-96	$211E65	64	 Faris - … Enfermez-les dans la>soute !>Pirates - A vos ordres !|
-97	$211EC3	94	 Galuf - Nous voilà dans de beaux>draps. Qui est l’imbécile qui a voulu>voler un bateau pirate ?|
-98	$211ED2	15	 [Bartz] - Euh… toi ?|
-99	$211F40	110	 Galuf - … Oh, ma pauvre tête !>Je ne me souviens de rien !>[Bartz] - … Une autre crise>d’amnésie, c’est ça ? Pfft !|
-100	$211F8C	76	 Faris - Pourquoi la princesse de>Tycoon a-t-elle le même pendentif>que moi ?|
+72	$211643	17	 [Bartz] - Una surgente ?|
+73	$2116C7	132	 >\52 Hè una surgente rigeneratrice.>>>Rigenerazione di l'HP è di i MP !>Guarigione di l'alterazioni di statu !>Risurrezzione di l'alleati K-O !|
+74	$211726	95	 Rigenerazione di l'HP è di i MP !>Guarigione di l'alterazioni di statu !>Risurrezzione di l'alleati K-O !|
+75	$211758	50	 [Bartz] - Ah ! Allora hè cusì>ch'omu pò passà !|
+76	$2117A4	76	 [Bartz] - Stu battellu… Cumu>pudia navigà mentre chì u>ventu hè cusì debule ?|
+77	$2117E9	69	 [Bartz] - Un rifugiu di pirati !>Allora issu battellu… era un battellu>piratu !|
+78	$211823	58	 Lenna - Ci puderianu forse>prestà u so battellu.|
+79	$211853	48	 [Bartz] - Euh, eiu ùn ci cuntaria>micca, à a to piazza…|
+80	$211882	47	 Galuf - In fatti… Ci tocca>dunque à rubà lu !|
+81	$2118BB	57	 [Bartz] - Ouh là ! Per un vechju>rimbambitu, ne hai curagiu !|
+82	$2118CC	17	 [Bartz] - Oh… ellu\52dorme.|
+83	$2118E6	26	 Piratu - Hein ? Euh… Zzz…|
+84	$2118FF	25	 [Bartz] - Ohé, ohé ! Andemu !|
+85	$211960	97	 Piratu - Zzz… U capitanu… riparatu>u timone… … basta à piglià>u manubriu… … Syldra hà da… Zzz…|
+86	$2119DA	122	 Galuf - … Allora ? Chì aspetti,>zitellu ?>>>[Bartz] - Ci provu, ma nunda si>move ! Cumu si move, stu cosu ?|
+87	$2119E6	12	 Quale hè quallà ?|
+88	$211A3F	89	 Faris - Oh ? Vulete arrubà u mo>battellu ? Chì sfacciatezza !>… o piuttostu chì scimità !|
+89	$211AD1	146	 Lenna - Aspettate ! Sò Lenna, a>principessa di Tycoon.>>>Accettate e mo umile>scuse per avè pruvatu à>ricquisisce u vostru battellu.|
+90	$211B00	47	 [Bartz] - Chì ? A principessa…>Galuf - … di Tycoon ?|
+91	$211CD2	466	 [Bartz] - ùn ci possu crede>ch'è tù sia a principessa di Tycoon,>Lenna !>>Lenna - Mi dispiace… ùn vulia>piattà lu, eiu…>>>[Bartz] - ùn hè micca grave.>Ma s'è tù sì una principessa,>perchè andavi à u tempiu di>u ventu tutta sola ?>Lenna - U mo babbu era in u>tempiu quand'è u ventu s'hè guasgi>piantatu… Aghju un bruttu>presentimentu… Li hè accadutu>qualcosa ! Sò esciuta>discretamente da u castellu ma>u meteoritu s'hè lampatu… Cunnosci>a seguita.|
+92	$211D79	167	 Lenna - Capitanu, in nome di u>regnu di Tycoon, vi ne pregu.>Lasciate ci imprestà u vostru>navigliu. Devu andà à>u tempiu di u ventu ! U mo babbu hè>in periculu !|
+93	$211DF3	122	 Faris - Ho, ho ! A\52principessa di>Tycoon ! Avemu da diventà ricchi !>[Bartz] - Eiu ! Lasciala corre,>pirata avaru !|
+94	$211E0E	27	 Lenna - Vi ne pregu…|
+95	$211E25	23	 Faris - Issu pendente !|
+96	$211E65	64	 Faris - … Chjuditeli in a>stiva !>Pirati - À i vostri ordini !|
+97	$211EC3	94	 Galuf - Simu propiu in una bella>situazione. Quale hè l'imbicille chì hà vulsutu>arrubà un battellu piratu ?|
+98	$211ED2	15	 [Bartz] - Euh… tù ?|
+99	$211F40	110	 Galuf - … Oh, a mio testa !>ùn mi ramentu di nunda !>[Bartz] - … Un'altra crisa>d'amnesia, hè cusì ? Pfft !|
+100	$211F8C	76	 Faris - Perchè a principessa di>Tycoon hà u listessu pendente>ch'eiu ?|
 101	$211FC2	54	 Faris - Elle a dit que son père est>au temple du vent…|
 102	$212005	67	 Faris - Préparez-vous à lever>l’ancre. Cap sur le temple du vent !|
 103	$212045	64	 Pirate - Mais capitaine, les>prisonniers…>Faris - Détachez-les.|
