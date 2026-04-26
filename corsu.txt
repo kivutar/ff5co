@@ -1398,106 +1398,106 @@
 1398	$229DF8	27	 Vulete ripusà vi ?|
 1399	$229E1D	37	 Xezat : Ritiremu ci per>u mumentu.|
 1400	$229E31	20	 Xezat : Attenti !|
-1401	$229F69	312	 Galuf : Nous sommes dans la tour>protectrice ?>Xezat : C’est exact. Si nous>arrivons à la détruire, le bouclier>se dissipera ! Je vais m’occuper de>la génératrice située au sous-sol.>Allez détruire l’antenne au>sommet !>Galuf : Entendu !>Xezat : Je vous donnerai le signal>dès que j’aurai détruit la>génératrice !|
-1402	$229F8A	33	 Xezat : Tenez ! C’est pour vous.|
-1403	$229FA9	31	 >Obtenu : Herbe aux murmures !|
-1404	$229FFD	84	 Galuf : Qu’est-ce que c’est ?>Xezat : Elle nous permettra de>communiquer à distance.|
-1405	$22A01A	29	 Xezat : Je compte sur vous !|
-1406	$22A052	56	 Xezat : Que faites-vous ici ? Allez>détruire l’antenne !|
-1407	$22A074	34	 … Galuf, m’entends-tu ? Terminé !|
-1408	$22A13F	203	 [Bartz] : Oh ! C’est l’herbe aux>murmures !>Galuf : Xezat !>>Xezat : … Je répète, Galuf,>m’entends-tu ? Terminé !>Galuf : Je t’entends parfaitement !>>Xezat : … Excellent. J’ai atteint la>génératrice, terminé.|
-1409	$22A172	51	 Xezat : Rien à signaler de mon>côté, terminé… Oh !|
-1410	$22A205	147	 Galuf : Xezat ! Tu n’as rien ?>Xezat : … Ne t’inquiète pas. Ce>n’était rien. Trouvez l’antenne le>plus vite possible ! Terminé !>Galuf : Entendu !|
-1411	$22A246	65	 Galuf : Xezat ! Nous avons atteint>l’antenne !>Xezat : Compris !|
-1412	$22A270	42	 Xezat : C’est bon ! Détruisez>l’antenne !|
-1413	$22A2B9	73	 Oh ! Vous pensez pouvoir faire ce>que vous voulez ? Vous me le>paierez !|
-1414	$22A307	78	 [Bartz] : Du gâteau !>Galuf : Xezat ! Tu m’entends ? Nous>avons détruit l’antenne !|
-1415	$22A398	145	 Xezat : Aucune issue… Galuf ! Les>choses se corsent de mon côté !>Partez sans moi ! Le système>d’alimentation est en surchauffe…>Il va exploser !|
-1416	$22A3CF	55	 Lenna : Le dragon pourra nous>transporter en lieu sûr !|
-1417	$22A464	149	 Galuf : Xezat ! Tiens bon ! Nous>venons te chercher !>Xezat : Non ! Ce n’est pas la peine !>Attendez-moi dans le sous-marin !>Je vous y rejoindrai !|
-1418	$22A49D	57	 Galuf : Espèce d’imbécile ! Je ne>vais pas t’abandonner !|
-1419	$22A4F4	87	 [Bartz] : Galuf ! C’est trop>dangereux !>Galuf : Je m’en moque !>[Bartz] : … Lenna, va avec Faris.|
-1420	$22A5A4	176	 Galuf : Xezat… Tu savais depuis le>début ce qui allait arriver, pas>vrai ? Tu le savais et pourtant…>Xezat : Galuf, va m’attendre dans>le sous-marin ! Promets-le-moi,>terminé !|
+1401	$229F69	312	 Galuf : Semu in a torre>prutrittrice ?>Xezat : Hè cusì. S'è no>riuscimu à distrughje la, u scudu>si dissiperà ! Eiu m'occuperaghju di>a generatrice in u sottuterra.>Andate à distrughje l'antenna in>cima !>Galuf : Capitu !>Xezat : Vi daraghju u signale>appena averaghju distruttu a>generatrice !|
+1402	$229F8A	33	 Xezat : Teni ! Hè per voi.|
+1403	$229FA9	31	 >Pigliatu : Erba di i susuri !|
+1404	$229FFD	84	 Galuf : Chì ghjè ?>Xezat : Ci permetterà di>cumunicà da luntanu.|
+1405	$22A01A	29	 Xezat : Contu nantu à voi !|
+1406	$22A052	56	 Xezat : Chì fate quì ? Andate>à distrughje l'antenna !|
+1407	$22A074	34	 … Galuf, mi senti ? Passu !|
+1408	$22A13F	203	 [Bartz] : Oh ! Hè l'erba di i>susuri !>Galuf : Xezat !>>Xezat : … Ripetu, Galuf,>mi senti ? Passu !>Galuf : Ti sentu benissimu !>>Xezat : … Perfettu. Sò ghjuntu à a>generatrice, passu.|
+1409	$22A172	51	 Xezat : Nunda à signalà da a mo>banda, passu… Oh !|
+1410	$22A205	147	 Galuf : Xezat ! Va tuttu bè ?>Xezat : … Ùn ti ne fà. Ùn era>nunda. Truvate l'antenna u>più prestu pussibule ! Passu !>Galuf : Capitu !|
+1411	$22A246	65	 Galuf : Xezat ! Simu ghjunti>à l'antenna !>Xezat : Ricevutu !|
+1412	$22A270	42	 Xezat : Va bè ! Distrughjite>l'antenna !|
+1413	$22A2B9	73	 Oh ! Cridite di pudè fà ciò>chì vulete ? A pagherete !|
+1414	$22A307	78	 [Bartz] : Era facile !>Galuf : Xezat ! Mi senti ? Avemu>distruttu l'antenna !|
+1415	$22A398	145	 Xezat : Nisuna surtita… Galuf ! E>cose si guastanu da a mo banda !>Partite senza mè ! U sistema>d'alimentazione hè in surriscaldu…>Hà da schjattà !|
+1416	$22A3CF	55	 Lenna : U dragone ci puderà>trasportà in locu sicuru !|
+1417	$22A464	149	 Galuf : Xezat ! Teni bonu ! Simu>à vene à circà ti !>Xezat : Innò ! Ùn ci vole !>Aspettate mi in u sottumarinu !>Vi ci ghjunghjeraghju !|
+1418	$22A49D	57	 Galuf : Scemu chì tù sì ! Ùn ti>lasceraghju micca quì !|
+1419	$22A4F4	87	 [Bartz] : Galuf ! Hè troppu>periculosu !>Galuf : Ùn m'importa !>[Bartz] : … Lenna, vai cun Faris.|
+1420	$22A5A4	176	 Galuf : Xezat… A sapievi da u>principiu ciò chì avia da accade,>ùn hè vera ? A sapievi, è tuttavia…>Xezat : Galuf, và m'aspittà in>u sottumarinu ! Prumetti lu mi,>passu !|
 1421	$22A5B4	16	 Galuf : Xezat !|
-1422	$22A6C1	269	 Xezat : J’avais tout planifié depuis>le début… Personne d’autre ne>pouvait accomplir cette tâche. Les>cristaux ont choisi quatre>guerriers… Ils doivent combattre>Exdeath ! Galuf… [Bartz], Lenna et>Faris… A vous de jouer ! Ne vous>en faites pas… Je veillerai>toujours sur vous.|
-1423	$22A6DC	27	 [Bartz] : Galuf… Je suis désolé.|
-1424	$22A705	41	 Galuf : Oh… [Bartz]… Retournons au>sous-marin…|
-1425	$22A748	67	 [Bartz] : Galuf, il…>Galuf : Je lui ai promis… Je vais>tenir ma promesse.|
-1426	$22A7B0	104	 [Bartz] : Galuf…[FixedPause] Personne n’aurait>pu survivre à cette explosion…>Galuf : Laisse-moi attendre encore>un peu…|
-1427	$22A7FA	74	 Galuf : Xezat, espèce d’idiot ! Tu as>voulu être un héros jusqu’à la fin…|
-1428	$22A857	93	 Faris : Nous devrions pouvoir>trouver l’antre de Ghido avec le>sous-marin.>[Bartz] : Tu as raison.|
-1429	$22A8C0	105	 [Bartz] : Comment va-t-il ?>Lenna : Il ira mieux après avoir>dormi.>>[Bartz] : D’accord. Nous devons>aller de l’avant.|
-1430	$22A8C3	3	 20|
-1431	$22A8C6	3	 21|
-1432	$22A8E5	31	 Le roi a… péri ? Snif ! Snif !|
-1433	$22A943	94	 Même si le roi ne revient plus, nous>devons protéger le château,>maintenant plus que jamais !|
-1434	$22A97B	56	 Notre roi a terminé sa vie comme>il l’a vécue… en héros.|
-1435	$22A9B9	62	 Nous n’avons plus que vous sur qui>compter… Eliminez Exdeath !|
-1436	$22A9D9	32	 [Bartz] : Oh, regardez ! Une tortue !|
-1437	$22A9EE	21	 Galuf : [Bartz] ! Arrête !|
-1438	$22AA0D	31	 [Bartz] : C’est amusant ! Guili-guili…|
-1439	$22AA24	23	 Tortue : Hum ! Assez !|
-1440	$22AA47	35	 [Bartz] : Bigre ! Une tortue qui>parle !|
-1441	$22AA6A	35	 Galuf : Pardonnez-lui, sage Ghido…|
-1442	$22AAC9	95	 [Bartz] : Une seconde… Cette>tortue…>Lenna : … est le grand sage ?>Faris : Par la barbe de Neptune !|
-1443	$22AB0B	66	 Galuf : Mais bien sûr ! Pourquoi>faites-vous des têtes pareilles ?|
-1444	$22AB3B	48	 Ghido : Hum ! Je n’ai rien… Enfin, je>l’espère.|
-1445	$22B030	1269	 [Bartz] : Oh, je suis vraiment>désolé…>Ghido : Hum ! Qui pourrait prendre>plaisir à torturer une pauvre>tortue sans défense ? Hum ! Nous>avons énormément de choses à>discuter !>[Bartz] : A propos d’Exdeath ?>Ghido : Hum ! C’est exact ! Ce qu’il>cherche est dans la grande forêt>de Mua.>[Bartz] : La forêt de Mua ?>Ghido : Hum ! Elle s’étend à l’ouest>du royaume de Surgate… C’est de>cette forêt sensible qu’est né>Exdeath.>[Bartz] : Quoi ?>Ghido : Hum ! Pendant des lustres,>un des arbres de la forêt avait été>utilisé pour sceller des esprits>maléfiques… Hum ! Il y a 500 ans,>ces esprits se sont unis et ont pris>le contrôle de l’arbre… et Exdeath>est né. Hum ! J’ai emprisonné>Exdeath pendant 500 ans, mais il a>réussi à s’échapper il y a 30 ans.>[Bartz] : Il y a 30 ans… Son combat>avec les guerriers de l’aube…>Ghido : Hum ! C’est exact ! Dorgann>et ses compagnons combattirent>vaillamment et ils réussirent à>emprisonner Exdeath en utilisant>le pouvoir des cristaux. Hum !>Cependant, il s’est échappé…>[Bartz] : C’est notre faute…>Ghido : Hum ! Ce qui est>emprisonné cherchera toujours à>s’échapper. Cette fois, vous devrez>le vaincre !>[Bartz] : Où est-il ?>Ghido : Hum ! Je vous l’ai déjà dit,>dans la forêt de Mua. Hum ! Je ne>sais pas exactement ce qu’il>cherche, mais vous devez>l’arrêter !>[Bartz] : La forêt de Mua…|
-1446	$22B0A4	116	 Ghido : Hum ! Je compte sur vous !>Hum ! Allez dans la forêt de Mua et>empêchez Exdeath de trouver ce>qu’il cherche !|
-1447	$22B10B	103	 [Bartz] : La forêt de Mua…>Galuf : Nous vengerons Xezat !>Faris : Nous vaincrons Exdeath !>Lenna : Allons-y !|
-1448	$22B1AF	164	 Ghido : Hum ! La forêt de Mua n’est>pas une forêt comme les autres.>Elle attaque tous ceux qui osent s’y>aventurer.>[Bartz] : …>Ghido : Hum ! Ceci devrait vous être>utile.|
-1449	$22B1C2	19	 >Obtenu : Rameau !|
-1450	$22B26E	172	 [Bartz] : Qu’est-ce que c’est ?>Ghido : Hum ! C’est une branche de>l’arbre qui protège les sceaux de la>forêt. Hum ! Avec elle, vous>pourrez pénétrer dans la forêt>sans encombre.|
-1451	$22B2BA	76	 Ghido : Hum ! Dépêchez-vous !>Exdeath atteindra bientôt Mua !>[Bartz] : Compris !|
-1452	$22B2F9	63	 [Bartz] : Il est vide… Oh ? Une>grosse pierre…>>>Prendre la pierre ?|
-1453	$22B31A	33	 [Bartz] : Ouf ! Ce qu’elle est lourde !|
-1454	$22B33D	35	 Déposer la pierre dans le coffre ?|
-1455	$22B352	21	 [Bartz] : Oh, une tortue !|
-1456	$22B366	20	 Sauter dans l’eau ?|
-1457	$22B3C5	95	 Ghido : Hum ! Exdeath retourne à>son château ! Hum ! Eliminez-le>avant qu’il ne soit trop tard !|
-1458	$22B3E8	35	 Lenna : Regardez… La branche,>elle…|
-1459	$22B416	46	 Faris : La forêt…>[Bartz] : Elle nous laisse entrer…|
-1460	$22B432	28	 >Obtenu : Bouclier d’Aegis !|
-1461	$22B44D	27	 >Obtenu : Bouclier de feu !|
-1462	$22B479	44	 [Bartz] : Oh non ! Exdeath a mis feu>à la forêt !|
+1422	$22A6C1	269	 Xezat : Aviu previstu tuttu da u>principiu… Nimu altru ùn>pudia compie stu compitu. I>cristalli anu sceltu quattru>guerrieri… Tocca à elli à cumbatte>Exdeath ! Galuf… [Bartz], Lenna è>Faris… Avà tocca à voi ! Ùn vi>ne fate micca… Veglieraghju>sempre nantu à voi.|
+1423	$22A6DC	27	 [Bartz] : Galuf… Mi dispiace.|
+1424	$22A705	41	 Galuf : Oh… [Bartz]… Turnemu à u>sottumarinu…|
+1425	$22A748	67	 [Bartz] : Galuf, ellu…>Galuf : L'aghju prumessu… Aghju da>tene a mo prumessa.|
+1426	$22A7B0	104	 [Bartz] : Galuf…[FixedPause] Nimu ùn averia>pussutu sopravvive à quella splusione…>Galuf : Lascia mi aspettà torna>un pocu…|
+1427	$22A7FA	74	 Galuf : Xezat, vechju scemu ! Ai>vulsutu fà l'eroe sin'à a fine…|
+1428	$22A857	93	 Faris : Duvaremu pudè>truvà a tana di Ghido cù u>sottumarinu.>[Bartz] : Ai ragiò.|
+1429	$22A8C0	105	 [Bartz] : Cumu va ?>Lenna : Anderà megliu dopu avè>durmitu un pocu.>>[Bartz] : D'accordu. Ci tocca>à avanzà.|
+1430	$22A8C3	3	 ...|
+1431	$22A8C6	3	 ...|
+1432	$22A8E5	31	 U rè hè… mortu ? Snif ! Snif !|
+1433	$22A943	94	 Ancu s'è u rè ùn volta più, ci>tocca à prutege u castellu,>avà più chè mai !|
+1434	$22A97B	56	 U nostru rè hà finitu a so vita cum'ellu>l'hà vissuta… da eroe.|
+1435	$22A9B9	62	 Ùn ferma più chè voi in>quale pudemu sperà… Eliminate Exdeath !|
+1436	$22A9D9	32	 [Bartz] : Oh, fighjate ! Una tartaruga !|
+1437	$22A9EE	21	 Galuf : [Bartz] ! Basta !|
+1438	$22AA0D	31	 [Bartz] : Hè divertente ! Guli-guli…|
+1439	$22AA24	23	 Tartaruga : Hum ! Basta cusì !|
+1440	$22AA47	35	 [Bartz] : Oimè ! Una tartaruga chì>parla !|
+1441	$22AA6A	35	 Galuf : Pardunate lu, saviu Ghido…|
+1442	$22AAC9	95	 [Bartz] : Un mumentu… Sta>tartaruga…>Lenna : … hè u grande saviu ?>Faris : Per a barba di Nettunu !|
+1443	$22AB0B	66	 Galuf : Ma benintesa ! Perchè>fate tutte ste facce ?|
+1444	$22AB3B	48	 Ghido : Hum ! Ùn aghju nunda… Almenu,>a spergu.|
+1445	$22B030	1269	 [Bartz] : Oh, mi dispiace>veramente…>Ghido : Hum ! À quale piacerebbe>turmintà una povera>tartaruga senza difesa ? Hum ! Avemu>assai cose da>discute !>[Bartz] : À prò di Exdeath ?>Ghido : Hum ! Hè cusì ! Ciò ch'ellu>cerca si trova in a grande furesta>di Mua.>[Bartz] : A furesta di Mua ?>Ghido : Hum ! Si stende à punente>di u regnu di Surgate… Hè da>quella furesta viva ch'ellu hè natu>Exdeath.>[Bartz] : Chì ?>Ghido : Hum ! Durante seculi,>unu di l'arburi di a furesta era statu>adupratu per sigillà spiriti>malefichi… Hum ! Cinquecentu anni fà,>sti spiriti si sò uniti è anu presu>cuntrollu di l'arburu… è Exdeath>hè natu. Hum ! Aghju imprigiunatu>Exdeath durante 500 anni, ma hè>riisciutu à scappà 30 anni fà.>[Bartz] : Trenta anni fà… U so cumbattu>cù i guerrieri di l'alba…>Ghido : Hum ! Hè cusì ! Dorgann>è i so cumpagni cumbatinu>valentemente è riiscinu à>imprigiunà Exdeath aduprendu>u putere di i cristalli. Hum !>Eppuru, hè scappatu torna…>[Bartz] : Hè colpa nostra…>Ghido : Hum ! Ciò chì hè>sigillatu pruverà sempre à>scappà. Sta volta, duvete>vince lu !>[Bartz] : Induve si trova ?>Ghido : Hum ! Aghju digià dettu vi lu,>in a furesta di Mua. Hum ! Ùn>sò micca esattamente ciò ch'ellu>cerca, ma duvete>arristà lu !>[Bartz] : A furesta di Mua…|
+1446	$22B0A4	116	 Ghido : Hum ! Contu nantu à voi !>Hum ! Andate in a furesta di Mua è>impedite à Exdeath di truvà ciò>ch'ellu cerca !|
+1447	$22B10B	103	 [Bartz] : A furesta di Mua…>Galuf : Vindicheremu Xezat !>Faris : Vinceremu Exdeath !>Lenna : Andemu !|
+1448	$22B1AF	164	 Ghido : Hum ! A furesta di Mua ùn hè>micca una furesta cum'è l'altre.>Attacca tutti quelli chì osanu>avventurà si ci.>[Bartz] : …>Ghido : Hum ! Questu vi puderà esse>utile.|
+1449	$22B1C2	19	 >Pigliatu : Ramu !|
+1450	$22B26E	172	 [Bartz] : Chì ghjè ?>Ghido : Hum ! Hè un ramu di>l'arburu chì prutege i sigilli di a>furesta. Hum ! Cun quessa,>puderete entre in a furesta>senza fastidiu.|
+1451	$22B2BA	76	 Ghido : Hum ! Sbrigate vi !>Exdeath ghjunghjerà prestu à Mua !>[Bartz] : Capitu !|
+1452	$22B2F9	63	 [Bartz] : Hè viotu… Oh ? Una>petra tamanta…>>>Piglià a petra ?|
+1453	$22B31A	33	 [Bartz] : Ouf ! Ch'ella hè pesante !|
+1454	$22B33D	35	 Pone a petra in u cofanu ?|
+1455	$22B352	21	 [Bartz] : Oh, una tartaruga !|
+1456	$22B366	20	 Saltà in l'acqua ?|
+1457	$22B3C5	95	 Ghido : Hum ! Exdeath si ne volta>à u so castellu ! Hum ! Eliminate lu>nanzu ch'ellu sia troppu tardi !|
+1458	$22B3E8	35	 Lenna : Fighjate… U ramu,>ellu…|
+1459	$22B416	46	 Faris : A furesta…>[Bartz] : Ci lascia entre…|
+1460	$22B432	28	 >Pigliatu : Scudu d'Egida !|
+1461	$22B44D	27	 >Pigliatu : Scudu di focu !|
+1462	$22B479	44	 [Bartz] : Oh innò ! Exdeath hà messu focu>à a furesta !|
 1463	$22B486	13	 Mog : Kupo !|
-1464	$22B4BF	57	 [Bartz] : Restons ici jusqu’à ce que>les flammes s’éteignent !|
-1465	$22B500	65	 Mog : Kukupo !>Lenna : C’est encore trop>dangereux à la surface.|
-1466	$22B510	16	 Lenna : Est-ce…|
-1467	$22B548	56	 Galuf : L’arbre gardien… Celui qui>protège les sceaux ?|
-1468	$22B564	28	 [Bartz] : Regardez ! La branche !|
-1469	$22B5AC	72	 [Bartz] : Qu’est-ce que c’est ?>Galuf : L’arbre doit les garder>prisonniers !|
-1470	$22B5C0	20	 Galuf : Attention !|
-1471	$22B669	169	 Toutes mes félicitations ! Vous êtes>vraiment les élus des cristaux.>>>Bien joué ! Vous avez détruit les>sceaux ! Mouah ha, ha, ha, ha ! Je>n’aurais pas pu faire mieux !|
+1464	$22B4BF	57	 [Bartz] : Stemu quì fin'à chì>e fiamme s'appriminu !|
+1465	$22B500	65	 Mog : Kukupo !>Lenna : Hè sempre troppu>periculosu in cima.|
+1466	$22B510	16	 Lenna : Hè forse…|
+1467	$22B548	56	 Galuf : L'arburu guardianu… Quellu>chì prutege i sigilli ?|
+1468	$22B564	28	 [Bartz] : Fighjate ! U ramu !|
+1469	$22B5AC	72	 [Bartz] : Chì ghjè ?>Galuf : L'arburu deve tene li>prigiuneri !|
+1470	$22B5C0	20	 Galuf : Attenti !|
+1471	$22B669	169	 Tutte e mo felicitazioni ! Site>veramente l'eletti di i cristalli.>>>Bravi ! Avete distruttu i>sigilli ! Mouah ha, ha, ha, ha ! Ùn>avaria pussutu fà di megliu !|
 1472	$22B67B	18	 Galuf : Exdeath !|
-1473	$22B6E8	109	 Exdeath : Quelle délicieuse ironie !>Les sceaux ont été détruits par les>guerriers qui devaient les>protéger !|
-1474	$22B70D	37	 [Bartz] : Comment ?>Galuf : Ces cristaux ?|
-1475	$22B774	103	 Exdeath : Ces cristaux m’ont tenu>prisonnier pendant si longtemps…>Désormais, leur pouvoir sera mien !|
-1476	$22B7A2	46	 Exdeath : Admirez mes cristaux,>mon pouvoir !|
-1477	$22B7DC	58	 Krile : Mon cœur bat la chamade !>Qu’est-il arrivé à papi ?|
-1478	$22B81A	62	 Mog : Kupo !>Krile : Comment ? Ils sont dans la>forêt de Mua ?|
-1479	$22B82B	17	 Krile : Allons-y !|
-1480	$22B85A	47	 Exdeath : Et maintenant pour le>coup de grâce…|
-1481	$22B881	39	 Krile : Papi ! Oh ! [Bartz] ! Lenna !>Faris !|
-1482	$22B8D9	88	 Galuf : Krile… Exdeath…>Krile : Ne t’inquiète pas. Il ne>devrait pas pouvoir bouger… Oh !|
-1483	$22B8F5	28	 Exdeath : Quelle impudence !|
-1484	$22B90B	22	 Krile : Qu’est-ce que…|
-1485	$22B921	22	 Exdeath : Disparais !|
-1486	$22B931	16	 Krile : Pa… pi !|
+1473	$22B6E8	109	 Exdeath : Chì deliziosa irunia !>I sigilli sò stati distrutti da i>guerrieri chì duvianu>prutege li !|
+1474	$22B70D	37	 [Bartz] : Cumu ?>Galuf : Issi cristalli ?|
+1475	$22B774	103	 Exdeath : Sti cristalli m'anu tenutu>prigiuneru tantu longu…>Avà, u so putere serà mio !|
+1476	$22B7A2	46	 Exdeath : Ammirate i mo cristalli,>u mo putere !|
+1477	$22B7DC	58	 Krile : U mo core mi batte à furia !>Chì hè accadutu à babbone ?|
+1478	$22B81A	62	 Mog : Kupo !>Krile : Cumu ? Sò in a>furesta di Mua ?|
+1479	$22B82B	17	 Krile : Andemu ci !|
+1480	$22B85A	47	 Exdeath : È avà, u colpu di>grazia…|
+1481	$22B881	39	 Krile : Babbone ! Oh ! [Bartz] ! Lenna !>Faris !|
+1482	$22B8D9	88	 Galuf : Krile… Exdeath…>Krile : Ùn ti ne fà. Ùn>duveria più pudè move si… Oh !|
+1483	$22B8F5	28	 Exdeath : Chì sfacciataghjine !|
+1484	$22B90B	22	 Krile : Chì ghjè chì…|
+1485	$22B921	22	 Exdeath : Sparisci !|
+1486	$22B931	16	 Krile : Bab… bo !|
 1487	$22B944	19	 Galuf : Kr… Krile !|
-1488	$22B9B4	112	 Exdeath : Veux-tu vraiment>continuer, Galuf ? Les cristaux se>briseront si tu essaies de dissiper>mon pouvoir !|
+1488	$22B9B4	112	 Exdeath : Vulete veramente>cuntinuà, Galuf ? I cristalli si>rumperanu s'è tù pruvi à dissipà>u mo putere !|
 1489	$22B9C3	15	 Galuf : Krile !|
-1490	$22B9C6	3	 22|
+1490	$22B9C6	3	 ...|
 1491	$22B9D8	18	 Galuf : Exdeath !|
-1492	$22B9DB	3	 23|
-1493	$22B9EB	16	 Krile : … Papi !|
+1492	$22B9DB	3	 ...|
+1493	$22B9EB	16	 Krile : … Babbone !|
 1494	$22B9FB	16	 Lenna : Galuf !|
-1495	$22BA3E	67	 Krile : Papi !>[Bartz] : Galuf !>Lenna : Galuf !>Faris : Tiens bon, nous…|
-1496	$22BB65	295	 Galuf : … trop tard… Vous ne>pouvez plus rien pour moi…>[Bartz] : Galuf ! Ne dis pas des>choses pareilles !>Lenna : Galuf !>Faris : Relève-toi, espèce de vieille>baderne ! Tu dois te battre !>>Krile : Ouvre les yeux ! Je t’en>supplie !>Galuf : [Bartz], Lenna, Faris… Krile,>ma chérie…>Exdeath… Eliminez… Exdeath…|
-1497	$22BB8E	41	 Krile : Papi ! Non ! Ne m’abandonne>pas !|
-1498	$22BBA2	20	 [Bartz] : Galuf ! Soin3 !|
-1499	$22BBC0	30	 Lenna : Je t’en supplie… Vie !|
-1500	$22BBF6	54	 Faris : Tiens bon ! Queue de Phénix !>Elixir ! Allons !|
+1495	$22BA3E	67	 Krile : Babbone !>[Bartz] : Galuf !>Lenna : Galuf !>Faris : Teni bonu, noi…|
+1496	$22BB65	295	 Galuf : … troppu tardi… Ùn>pudete più fà nunda per mè…>[Bartz] : Galuf ! Ùn dì>cose cusì !>Lenna : Galuf !>Faris : Alzati, o vechju>babbaleu ! Ci vole à luttà !>>Krile : Apri l'ochji ! Ti ne>supplichu !>Galuf : [Bartz], Lenna, Faris… Krile,>o cara…>Exdeath… Eliminate… Exdeath…|
+1497	$22BB8E	41	 Krile : Babbone ! Innò ! Ùn m'abbandunà>micca !|
+1498	$22BBA2	20	 [Bartz] : Galuf ! Cura3 !|
+1499	$22BBC0	30	 Lenna : Ti ne supplichu… Vita !|
+1500	$22BBF6	54	 Faris : Teni bonu ! Coda di Fenice !>Elixir ! Forza !|
 1501	$22BC13	29	 >\52\52\52\52\52\52 Galuf a rendu l’âme…|
 1502	$22BC61	78	 Krile : PAPI ! Non ! Non ! Ne>m’abandonne pas ! Ne me laisse>pas toute seule !|
 1503	$22BC78	23	 Krile …>Krile : … Papi ?|
