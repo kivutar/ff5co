@@ -298,106 +298,106 @@
 298	$215BD8	70	 Lenna : Faris… Syldra hè…>Sò sicura ch'ella hè sempre viva,>in qualchì locu…|
 299	$215C82	170	 [Bartz] : Induve simu ?>Faris : U cimiteriu di i battelli…>>>Lenna : Una tana di morti>viventi, nata da e carcasse di>i battelli à a deriva…>>Galuf : Basta à sorte ne prestu !|
 300	$215D0B	137	 Faris : Vulete veramente>passà di quì ?>Ci bagnaraghjemu tutti…>>>[Bartz] : Chì dici ? Aiò,>andemu !|
-301	$215D6B	96	 [Bartz] : Ooh… Je suis trempé>jusqu’aux os !>Lenna : Cet endroit me semble>sûr… Reposons-nous un peu.|
-302	$215DAB	64	 Lenna : Je vais me changer…>N’essayez surtout pas de>regarder !|
-303	$215DD8	45	 [Bartz] : Essayons de faire sécher>nos vêtements !|
-304	$215E57	127	 Faris : Ne vous en faites pas pour>moi.>>>Galuf : Mais qu’est-ce que tu>racontes, mon garçon ? Tu vas>attraper une pneumonie !|
-305	$215E8F	56	 Faris : Hé, qu’est-ce que vous>faites ? Non ! Arrêtez !|
-306	$215EAD	30	 Lenna : Quel est ce vacarme ?|
-307	$215EF5	72	 [Bartz] : Ouah ! Lenna… Il… C’est…>Galuf : Mille tonnerres ! C’est une>femme !|
-308	$215F6F	122	 Faris : Qu’est-ce que ça change ?>Ça vous pose un problème ?>Lenna : Bien sûr que non…>Mais pourquoi nous l’as-tu caché ?|
-309	$216061	242	 Faris : Des pirates m’ont recueillie>quand j’étais petite et ils m’ont>élevée…>>[Bartz] : C’est censé expliquer>pourquoi tu te fais passer pour un>homme ?>>Faris : Personne ne prendrait une>femme pirate au sérieux !>[Bartz] : … Hum. Tu as sans doute>raison.|
-310	$2160A9	72	 Galuf : Ah ! Je savais bien que tu>étais trop jolie pour être un>homme !|
-311	$21615F	182	 Faris : Pfft ! Si vous vous moquez>de moi parce que je suis une>femme, vous allez le regretter !>[Bartz] : Euh… Entendu.>Faris : J’espère que vous avez>compris ! Bon ! Je vais me>coucher !|
-312	$2161AD	78	 Faris : Ah, j’ai dormi comme une>souche ! Réveillez-vous, bande de>paresseux !|
-313	$216250	163	 Galuf : Tu pourrais ne plus te>déguiser en homme… C’est>dommage de cacher de tels…>>[Bartz] : Bof. Faris peut bien>s’habiller comme elle veut. Elle>restera toujours Faris.|
-314	$216265	21	 Lenna : C’est vrai !|
-315	$2162A4	63	 Faris : Allez, l’ancêtre ! Nous>n’avons pas de temps à perdre !|
-316	$2162CC	40	 [Bartz] : Hum… J’ai un mauvais>pressentiment…|
-317	$2162F1	37	 Stella : [Bartz]… Approche-toi…>[Bartz] : Maman ?|
-318	$216322	49	 Roi de Tycoon : Viens, ma chérie…>Lenna : Père !|
-319	$216339	23	 Faris : Lenna ! [FixedPause]… Ah…|
-320	$216353	26	 Jeune fille : Papi, viens…|
-321	$216380	45	 Galuf : Qui est-ce ? Je ne me>souviens plus…|
-322	$2163AF	47	 Donne-moi ton âme… Nous ne>ferons plus qu’un !|
-323	$2164B3	260	 Galuf : Espèce de démon !>Sirène : Ho, ho ! Je ne pensais pas>que tu pourrais dissiper mon sort…>Je suis Sirène… et les âmes de tes>trois compagnons m’appartiennent.>Je te laisserai la vie sauve si tu>pars maintenant sans te mêler de>ce qui ne te regarde pas…|
-324	$216550	157	 Galuf : Il n’en est pas question !>Je ne les abandonnerai pas !>Sirène : Pourquoi risquerais-tu ta>vie pour eux ?>Galuf : Ils sont mes amis, voilà>pourquoi !|
-325	$216599	73	 Galuf : Ne vous laissez pas séduire>par ces illusions ! Ouvrez les yeux !|
-326	$2165DE	69	 [Bartz] se réveille !>Lenna revient à la raison !>Faris sort de sa transe !|
-327	$216621	67	 [Bartz] : Galuf ! Tu nous as sauvé la>vie…>Galuf : Euh, ce n’était rien…|
-328	$216649	40	 [Bartz] : Oh, il rougit !>Galuf : C’est faux !|
-329	$216664	27	 >Obtenu : Carte du monde !|
-330	$2166A3	63	 Le vent est trop faible… Les>bateaux ne peuvent plus naviguer.|
-331	$2166E7	68	 La mer est stagnante… Bientôt, les>poissons ne pourront plus nager.|
-332	$216744	93	 Nous avons le meilleur port au>monde ! Malheureusement, les>bateaux ne peuvent plus naviguer…|
-333	$216775	49	 Il n’y a plus de poissons…>Qu’allons-nous faire ?|
-334	$2167CC	87	 Quoi ? Vous avez traversé le>cimetière d’épaves ? Vous n’êtes>pas des fantômes, hein ?|
-335	$216814	72	 Un désert est soudainement>apparu à l’ouest d’ici. Comme c’est>étrange…|
-336	$216883	111	 La plupart des dragons ont péri>pendant la guerre il y a 50 ans…>Le dragon de Tycoon est le dernier>de sa race.|
-337	$2168A9	38	 Qu’allons-nous faire sans le>cristal ?|
-338	$2168F2	73	 Avez-vous entendu parler de>l’aérolithe qui s’est écrasé près de>Tycoon ?|
-339	$21695E	108	 La tour de Wolse s’est effondrée ?>Avec un sous-marin, nous>pourrions peut-être aller en visiter>les ruines…|
-340	$2169A8	74	 Impossible de se rendre à Wolse>sans bateau ! Est-ce la fin du>nautisme ?|
-341	$216A04	92	 Une tour est apparue dans le>désert. Quelqu’un devrait>peut-être aller y jeter un coup>d’œil…|
-342	$216A5A	86	 Il n’y a plus de bateaux qui>peuvent naviguer jusqu’à Wolse.>Le vent est trop faible.|
-343	$216AA4	74	 D’abord le vent, maintenant>l’océan… Nos bateaux ne servent>plus à rien !|
-344	$216B2B	135	 Le royaume de Wolse est situé au>sud d’ici, au-delà de l’océan. Wolse>utilise une machine pour amplifier>le pouvoir du cristal de l’eau.|
-345	$216B3F	20	 Je suis jolie, dis ?|
-346	$216B4C	13	 Hi, hi, hi !|
-347	$216BDD	145	 Tu as cru que j’étais une femme ?>Je suis passé maître dans l’art de>l’imitation ! Et\52pourtant…[FixedPause]>… Je dois trouver un moyen de>parfaire mon art !|
-348	$216C00	35	 Tu vois ? Je te l’avais bien dit !|
-349	$216C3D	61	 Je ne me suis pas disputé avec ma>femme depuis des lustres !|
-350	$216C89	76	 Ma femme raconte des histoires>incroyables… Elle dit qu’elle a vu un>dragon !|
-351	$216CBA	49	 Eh bien ! Qui l’eût cru ? Mon mari>disait vrai !|
-352	$216CDA	32	 Je devrais peut-être l’écouter…|
-353	$216D26	76	 C’est vrai ! J’ai vu un immense>dragon voler en direction du mont>du nord !|
-354	$216D6D	71	 Les fleurs violettes qui poussent>sur le mont du nord sont>vénéneuses.|
-355	$216E2A	189	 Mon mari prétend avoir vu un>dragon voler en direction du mont>du nord… Ridicule ! Comment>peut-il débiter de telles inepties ?>Il est allé bouder à la taverne>parce que personne ne le croit.|
-356	$216E79	79	 Les lézards et les animaux qui>hibernent craignent le froid !>Le saviez-vous ?|
-357	$216EE8	111	 Avez-vous trouvé une carte du>monde ? Appuyez sur le bouton Y>quand vous êtes à l’extérieur pour>la consulter.|
-358	$216F1A	50	 Les paladins utilisent leurs deux>mains ! [FixedPause]… Hic !|
-359	$216F9E	132	 Autrefois, on pouvait cueillir de>l’herbe aux dragons sur le mont>du nord…>>Maintenant, les fleurs vénéneuses>l’empêchent de pousser.|
-360	$217026	136	 Le guignol qui imitait tout le monde>est parti pour la tour de Wolse>avant qu’elle ne s’effondre…>>J’espère qu’il ne lui est rien arrivé.|
-361	$217077	81	 Avec un dragon et de l’herbe aux>dragons, vous pourriez vous faire>une fortune !|
-362	$217126	175	 Lenna : Nous devons l’arrêter !>Comment pouvons-nous nous>rendre à Wolse ?>>Avant, vous auriez pu y aller par>bateau, mais sans vent…>Galuf : Et nous avons aussi perdu>Syldra…|
-363	$217148	34	 Galuf : Oh Faris… Je suis désolé.|
-364	$217187	63	 Lenna : As-tu une idée, [Bartz] ?>[Bartz] : Hum, sans vent, pas de>bateau…|
-365	$2171B5	46	 [Bartz] : Si on ne peut pas y aller à>pied non plus…|
-366	$217202	77	 Je l’ai vu ! C’est vrai ! Il survolait le>mont du nord ! C’était un dragon !|
-367	$21728F	141	 Lenna : Quelle sorte de dragon ?>Avait-il l’air apprivoisé ?>>>Euh… Il avait l’air d’un dragon…>avec des ailes…[FixedPause], il portait une sorte>d’armure.|
-368	$2172DD	78	 Lenna : Hiryû ! Le dragon de mon>père se serait réfugié sur le mont>du nord ?|
-369	$217394	183	 Faris : Comment ? Mais pourquoi ?>Lenna : L’herbe aux dragons>pousse au sommet du mont du>nord. C’est la seule façon de>guérir les blessures d’un dragon…>[FixedPause]Non ! Il doit être blessé !|
-370	$217484	240	 Galuf : Un dragon ? …[FixedPause] Dis, [Bartz].>Si on ne peut pas y aller à pied ou>par bateau…>>[Bartz] : … Nous pourrions>peut-être voler !>>>Lenna : Je suis certaine que Hiryû>pourrait nous transporter jusqu’à>Wolse !>>Galuf : Parfait ! Allons retrouver>Hiryû !|
-371	$2174A4	32	 Lenna : Le casque de mon père !|
-372	$2174D7	51	 >\52Lenna est atteinte par une flèche>\52empoisonnée !|
+301	$215D6B	96	 [Bartz] : Ooh… Sò bagnatu>fin'à l'osse !>Lenna : Stu locu pare>sicurizatu… Ripusemu ci un pocu.|
+302	$215DAB	64	 Lenna : Devu fà asciucà i mo>panni… Ùn pruvate micca à>fighjà !|
+303	$215DD8	45	 [Bartz] : Aiò, femu asciucà i>nostri panni !|
+304	$215E57	127	 Faris : Eiu, stò bè… veramente…>>>>Galuf : Ma chì dici ? Ti>pigliarà un fretu !|
+305	$215E8F	56	 Faris : Smettila !>Ohé, ti dicu di smette !!|
+306	$215EAD	30	 Lenna : Chì succede ?|
+307	$215EF5	72	 [Bartz] : Ouh ! Lenna… Fa… Faris hè…>>>>Galuf : Una donna !!|
+308	$215F6F	122	 Faris : Chì ci hè di male ?>Vi face un prublema ?>Lenna : Innò, benintesa…>Ma perchè ce l'ai piattatu ?|
+309	$216061	242	 Faris : Quand'eiu era chjuca, i>pirati m'anu raccolta è m'anu>allevata…>>[Bartz] : È tandu facii finta>d'esse un omu ?>>Faris : Una pirata donna seria>stata risa da tutti !>[Bartz] : … Hmm. Hai forse>ragiò.|
+310	$2160A9	72	 Galuf : Ah ! A sapia chì eri>troppu bella per esse un>omu !|
+311	$21615F	182	 Faris : Pfft ! Ùn pensate micca>ch'esse donna mi renda menu>forte ! Sò valevule quant'è>voi !>[Bartz] : Euh… Va bè.>>>>Faris : Bon, basta cusì. Hè ora>di dorme !|
+312	$2161AD	78	 Faris : Ah, aghju durmitu bè…>Va bè ! Avà andemu !!|
+313	$216250	163	 Galuf : Eppuru, Faris pare sempre>un omu…>>>[Bartz] : È tandu ? Faris hè>Faris !|
+314	$216265	21	 Lenna : Iè !|
+315	$2162A4	63	 Faris : Chì fate ? Andemu !!|
+316	$2162CC	40	 [Bartz] : Ùn a sentu mica bè…|
+317	$2162F1	37	 Stella : [Bartz]…>Veni quì, caru…>>>[Bartz] : Mamma…|
+318	$216322	49	 Rè di Tycoon : Veni quì, cara…>>>>Lenna : Babbu !|
+319	$216339	23	 Faris : Lenna !?....>      [FixedPause]....uhhn...|
+320	$216353	26	 Zitella : Babbone…>Veni quì…|
+321	$216380	45	 Galuf : Quale sì… ?>Ùn mi ne ramentu più…|
+322	$2163AF	47	 Lasciami piglià a vostra anima…>Unite vi à noi !|
+323	$2164B3	260	 Galuf : Quale sì, diavule !>>>>Hrmph...>Perchè u mo sortilegiu ùn>funziona micca nant'à voi...>>Eiu sò Sirena.>Aghju pigliatu l'anime di sti>trè. S'è tù ùn mi intralci,>lasceraghju andà ti.|
+324	$216550	157	 Galuf : Scusa, ma ùn possu>micca !>Sirena : Perchè pruteggi sti>trè ?>>Galuf : Perchè sò...    [FixedPause]>Sò i mo amichi !|
+325	$216599	73	 Galuf : Ùn vi lasciate micca>ingannà da ella ! Aprite>l'ochji !|
+326	$2165DE	69	 [Bartz] si sveglia !>Lenna si sveglia !>Faris si sveglia !|
+327	$216621	67	 [Bartz] : Galuf ! Ci hai>salvatu a vita !!>>>Galuf : Ùn ci pensà...|
+328	$216649	40	 [Bartz] : Ùn fà lu timidu !>>>>Galuf : Ùn sò micca timidu !!|
+329	$216664	27	 >Pigliatu : Carta di u mondu !|
+330	$2166A3	63	 Postu chì u ventu s'hè>indebulitu, ùn si ponu più>mandà i battelli.|
+331	$2166E7	68	 U mare diventa fermu…>Ùn hè micca tristu ?...|
+332	$216744	93	 Stu portu hè u megliu di u>mondu ! Ma avà i battelli>ùn ponu più navigà…|
+333	$216775	49	 Ùn pudemu più piscà !>Chì avemu da fà ?|
+334	$2167CC	87	 Cosa ? Site ghjunti da u>cimiteriu di i battelli ? Ùn>site micca fantasmi, nò ?|
+335	$216814	72	 Un desertu hè apparsu à>punente. Face paura.|
+336	$216883	111	 I dragoni sò stati aduprati>in guerra 50 anni fà, è anu>quasi tutti sparitu…>Quellu di Tycoon hè l'ultimu>ch'ellu campi sempre.|
+337	$2168A9	38	 I cristalli sò rotti… Chì>accaderà avà ?|
+338	$2168F2	73	 Allora hè vera ? Un>meteoritu hè cascatu vicinu>à Tycoon ?|
+339	$21695E	108	 A torra di Wolse hè affundata ?>Cù un sottumarinu, si>puderia forse turnà ci per>vede e ruvine…|
+340	$2169A8	74	 S'ellu ùn si ponu più fà>parte i battelli, ùn si pò andà>à Wolse. Hè a fine di i viaghji>in mare !|
+341	$216A04	92	 Mi dumandu chì ghjè quella>torra alta piantata in u>desertu apparsu à u nordu…|
+342	$216A5A	86	 Ùn ci hè più battellu per>Wolse ! Hè tutta colpa di u>ventu chì s'indebulisce.|
+343	$216AA4	74	 Prima u ventu, avà l'acqua…>Avà sì chì ùn ci hè più nisun>mezu di navigà…|
+344	$216B2B	135	 U regnu di Wolse si trova à>u meziornu di quì, al di là di u>mare. Wolse si serve di a>putenza di u cristallu di>l'acqua…|
+345	$216B3F	20	 Mi trovi bella, nò ?|
+346	$216B4C	13	 Pouf !|
+347	$216BDD	145	 Ùn paria micca una donna ?>Cumu la trovi, a mo>mascherata ?>>È...     [FixedPause]>... se andessi ancu più luntanu...|
+348	$216C00	35	 Cummerciante : Vedi ? Te l'avia>bè detta.|
+349	$216C3D	61	 Ultimamente ùn mi sò più>liticatu cù a mio moglia.|
+350	$216C89	76	 A mio moglia dice cose>strane. Ramenta sempre sta>storia d'un dragone...|
+351	$216CBA	49	 Incredibile, ma pare chì u>mio maritu dica a verità !|
+352	$216CDA	32	 Pare chì duveria stà più>à sente lu…|
+353	$216D26	76	 Hè vera !! Aghju vistu un>grossu dragone vulà versu>u monte nordu !|
+354	$216D6D	71	 I fiori viola chì crescenu nant'à>u monte nordu sò velenosi.|
+355	$216E2A	189	 U mio maritu dice d'avè vistu un>dragone vulà versu u monte>nordu… Ma postu chì nimu ùn>li crede, si hè chjosu à l'osteria,>à u sicondu pianu.|
+356	$216E79	79	 E bestie chì hibernanu, cum'è>e lucertule, ùn ponu pate u>fretu.|
+357	$216EE8	111	 Avete una carta di u mondu ?>Tandu pudete vede tuttu u>mondu premendu u buttone Y !|
+358	$216F1A	50	 I paladini ponu tene e cose>à duie mani !    [FixedPause]>  Hic!|
+359	$216F9E	132	 Aghju intesu dì ch'ellu ci hè>una Erba di Dragone nant'à u>monte nordu. Ma hè circundata>da piante velenose...|
+360	$217026	136	 C'era una volta un tippu>stranu chì imitava a ghjente.>Vulia andà à a torra di>Wolse...>Ma avà ch'ella hè affundata...|
+361	$217077	81	 Un dragone è l'Erba di>Dragone sò tramindui assai>rari. Mi dumandu s'ellu ùn ci>saria una bella furtuna da fà !|
+362	$217126	175	 Lenna : Ci tocca à fermà li !>Ma cumu pudemu andà à>Wolse ?>>Nanzu, i battelli ci andavanu,>ma postu chì u ventu s'hè>indebulitu...>>>Galuf : È ùn avemu più mancu>Syldra...|
+363	$217148	34	 Galuf : Faris... Mi dispiace.|
+364	$217187	63	 Lenna : [Bartz], ùn cunnosci>micca un bon mezu per>ghjunghje ci ?>>[Bartz] : S'ellu ùn ci hè micca ventu,>ùn si pò andà per mare...|
+365	$2171B5	46	 [Bartz] : È s'ellu ùn si pò andà>per mare... ci vulerà à andà...|
+366	$217202	77	 L'aghju vistu cù i mei ochji...>Aghju vistu un dragone vulà>versu u monte nordu !!|
+367	$21728F	141	 Lenna : Chì sorte di dragone ?>Paria addumesticatu ?>>Euh... Paria un dragone...>cù ale...[FixedPause] È paria avè una>sorte d'armatura.|
+368	$2172DD	78	 Lenna : Hiryû ! U dragone di>u mo babbu serà nant'à u>monte nordu ?...|
+369	$217394	183	 Faris : Chì ci hè, Lenna ?>>>>Lenna : Nant'à u monte nordu>cresce una pianta chì si>chjama l'Erba di Dragone.>Ùn ci hè altru chè ella per>curà e ferite d'un dragone...>Forse ch'ellu hè feritu...?|
+370	$217484	240	 Galuf : È s'ellu ùn si pò andà>per mare...>>>>[Bartz] : ...    [FixedPause]>  ...    [FixedPause]>  ...>Ci anderemu per aria !!>Lenna : Cù Hiryû, puderiamu>ghjunghje à Wolse.>Galuf : Bellu penseru. Versu u>monte nordu !!|
+371	$2174A4	32	 Lenna : L'elmu di babbu !|
+372	$2174D7	51	 >\52Lenna hè avvelenata da una>\52freccia !|
 373	$2174E3	12	 [Bartz] : Lenna !|
-374	$2175DE	251	 Magissa : Ha, ha, ha… J’étais venue>capturer le dragon mais on dirait>que j’ai trouvé quelque chose de>bien plus précieux.>[Bartz] : Un instant… Qui oserait>chasser un dragon ?>>>Magissa : Leurs cornes valent une>fortune sur le marché noir…>Ha, ha, ha, ha…|
-375	$217646	104	 Magissa : Nulle autre que la>princesse de Tycoon ! Je vais>t’offrir en cadeau à mon mari…>Il sera ravi !|
-376	$217677	49	 Faris : Si tu tiens à la vie, ne la>touche pas !|
-377	$2176AF	56	 [Bartz] : Faris !>Magissa : Dommage ! On dirait qu’il>a glissé…|
-378	$2176C0	17	 Magissa : Quoi ?|
-379	$2176D8	24	 [Bartz] : Lenna ! Tiens bon !|
-380	$21771C	68	 Magissa : Ooh… J’en ai assez ! Très>bien ! Je vous écraserai tous !|
-381	$217733	23	 Lenna : Merci, Faris !|
-382	$217795	98	 Lenna : Hiryû !>Faris : Ses blessures sont sévères…>Lenna : Ne t’inquiète pas, Hiryû…>Je suis là.|
-383	$2177B9	36	 Faris : Lenna ![FixedPause] Que… Que fais-tu ?|
-384	$217816	93	 Lenna : Ne vous approchez pas !>Tout ira bien. Je dois seulement>cueillir l’herbe aux dragons…|
-385	$21783E	40	 Lenna : Donnez-la à Hiryû… Faites>vite…|
-386	$217858	26	 Lenna : Tiens bon, Hiryû…|
-387	$2178A3	75	 Galuf : Mille tonnerres ! Quelle>imprudence ! Tu pourrais y laisser>ta vie !|
-388	$217927	132	 > Hiryû purge le poison du corps de> Lenna !>>Lenna : Merci, Hiryû…>Galuf : Merveilleux ! Vous voilà tous>les deux guéris ! Partons !|
-389	$217955	46	 [Bartz] : Euh… A vrai dire, j’ai un>peu le vertige…|
-390	$2179AE	89	 [Bartz] : Quoi ? Vous trouvez ça>drôle ?>Galuf : Ha, ha, ha ! N’aie pas peur !>Allons ! Monte !|
-391	$2179D1	35	 Qui va là ? Partez immédiatement !|
-392	$217A06	53	 Par ordre du roi de Wolse,>personne ne peut entrer !|
-393	$217A67	97	 Grâce au cristal, notre eau est très>pure ! Qui plus est, les monstres ne>nous attaquent jamais.|
-394	$217A9C	53	 Sans le cristal, l’eau devient de plus>en plus sale…|
-395	$217AF3	87	 Vive le roi de Wolse ! Il utilise le>pouvoir du cristal de l’eau pour le>bien de tous !|
-396	$217B44	81	 Pauvre roi de Wolse ! Lui qui était>si bon, il est maintenant sur son lit>de mort…|
-397	$217B6A	38	 Le cristal est dans la tour de>Wolse.|
-398	$217B9E	52	 Je n’arrive pas à y croire…>Le cristal s’est brisé…|
-399	$217BF5	87	 Les rumeurs racontent que le>cristal de Tycoon s’est brisé… Vous>savez si c’est vrai ?|
-400	$217C69	116	 D’abord le cristal de Tycoon et>maintenant le nôtre aussi… Il ne>reste plus que deux cristaux…>Sont-ils en lieu sûr ?|
+374	$2175DE	251	 Magissa : Hehehe...>Erimu venuti per piglià u>dragone, ma eccu una preda>ancu più preziosa !>[Bartz] : U dragone ?>Magissa : E corne d'un dragone>si vendenu à prezzu d'oru,>hehehe!|
+375	$217646	104	 Magissa : È in più, eccu a>principessa di Tycoon ! Farà un>bellu rigalu per u mo maritu.>Heehee...!|
+376	$217677	49	 Faris : Smette !!|
+377	$2176AF	56	 [Bartz] : Faris !>Magissa : Hè cascata ! Heehee...|
+378	$2176C0	17	 Magissa : Huh!?|
+379	$2176D8	24	 [Bartz] : Lenna ! Teni bonu !|
+380	$21771C	68	 Magissa : Dannazione, s'ella hè>cusì, mi tocarà à piglià vi>tutti quattru !|
+381	$217733	23	 Lenna : Grazie, Faris !|
+382	$217795	98	 Lenna : Hiryû !>Faris : Chì ferita tremenda...>>>Lenna : Hiryû...>Teni, t'aghju da curà.|
+383	$2177B9	36	 Faris : Lenna ! Chì credi>di fà ?|
+384	$217816	93	 Lenna : Stò bè.>Ùn v'avvicinate !>S'eiu u possu curà cù l'Erba di>Dragone...|
+385	$21783E	40	 Lenna : Prestu...>Date li quessa à Hiryû...|
+386	$217858	26	 Lenna : Guarisci, Hiryû...|
+387	$2178A3	75	 Galuf : Chì mossa scunsiderata...>Era propiu una pazzia...|
+388	$217927	132	 >    L'avvelenamentu di Lenna hè sparitu !>>>Lenna : Hiryû...grazie !>Galuf : Hè fatta ! Aiò, andemu !!|
+389	$217955	46	 [Bartz] : Eiu... euh...>Aghju un pocu paura di l'altura...|
+390	$2179AE	89	 [Bartz] : Oh, chì ci hè di>cusì buffu ?>Galuf : Oh, aiò ! Muntaci sopra !|
+391	$2179D1	35	 Quale sì ?>Fora d'quì, fora !!|
+392	$217A06	53	 Senza l'autorizazione di u rè di>Wolse, ùn pudete entre in a torra !|
+393	$217A67	97	 Grazia à u cristallu, quì l'acqua>hè purissima ! È in più, i mostri>ùn s'avvicinanu mancu.|
+394	$217A9C	53	 Postu chì u cristallu hè persu,>l'acqua s'hè à pocu à pocu>sporcata...|
+395	$217AF3	87	 U rè di Wolse hè un grande !>Si serve di u putere di u>cristallu di l'acqua per u>bene di tutti !|
+396	$217B44	81	 U nostru bon rè hè feritu...>A so vita hè in periculu...|
+397	$217B6A	38	 U cristallu hè in a torra di>Wolse.|
+398	$217B9E	52	 U cristallu hè sparitu avà...|
+399	$217BF5	87	 Hè vera chì u cristallu di>Tycoon s'hè rottu ?|
+400	$217C69	116	 Cum'è à Tycoon, u nostru>cristallu s'hè rottu.>>>Si dice chì ci sò altri dui>cristalli in u mondu, ma ùn>sò induve si trovanu...|
 401	$217CB8	79	 La tour de Wolse est située au>nord d’ici. C’est de là que provient>notre eau.|
 402	$217D15	93	 Karnak est située sur le continent>ouest… Comment a-t-il pu se>rendre jusqu’ici sans bateau ?|
 403	$217D85	112	 C’est un Garula. Il vit dans la forêt>près d’ici mais il est plutôt timide,>alors ne soyez pas méchant avec>lui.|
