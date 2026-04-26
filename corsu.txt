@@ -499,105 +499,105 @@
 499	$2198AC	25	 Faris : Lenna, dormi ?|
 500	$2199AE	258	 Lenna : Innò… Chì ci hè ?>Faris : Hè stranu… Eru tantu>chjuca quandu u battellu hà>capighjatu… Aviu scurdatu>cumpletamente a mio vita d'prima>di l'accidente.>>>>Lenna : Faris… Sarissa…>Faris : Ma stu locu… Eiu… Eiu>mi ne ramentu… Ritrovu à pocu>à pocu a memoria…|
 501	$2199CC	30	 Sarissa : Soin… Soin2… Soin3…|
-502	$219AA2	214	 Jénica : C’est assez pour>aujourd’hui.>Sarissa : Ouf ! Je suis épuisée !>>Jénica : La reine aimerait que vous>alliez border la princesse Lenna>dans son lit. Je vais corriger vos>devoirs. Allons !>Sarissa : D’accord !|
-503	$219AEC	74	 Jénica : N’oubliez pas de revenir ici>sans tra\BBer !>Sarissa : Oui ! \AEZut…\AF|
-504	$219C0A	286	 Sarissa : Coucou Lenna… Demain,>papa et moi, on va aller se>promener avec Hiryû !>Lenna : Papa, papoupou !>Sarissa : Il dit qu’il n’y a rien de>mieux que de voler dans le ciel à>dos de dragon ! Et que quand on>regarde en bas, c’est comme si>tout le monde avait lancé le sort>Lévitation !|
-505	$219C69	95	 Sarissa : Non, attends… Euh…>Ce n’était pas Léviter… Crapaud ?>Renvoi ? Ah ! Mini ! C’est ça !|
-506	$219C98	47	 Jénica : Elle a dû s’attarder, encore>une fois…|
-507	$219D5D	197	 Lenna : Sarissa…>Faris : Oui ?>Lenna : Il serait peut-être>préférable de ne pas dire au>chancelier qui tu es pour l’instant.>Il ne te laisserait plus jamais sortir>du palais !>Faris : Tu as raison…|
-508	$219D86	41	 Faris : Nous devons aller retrouver>papa…|
-509	$219DA5	31	 Faris : … et aider Galuf et [Bartz].|
-510	$219DDD	56	 Chancelier : Passerez-vous au>moins la nuit au château ?|
-511	$219E3F	98	 Lenna : Nous ne pouvons plus aider>père… Mais nous devons aider tous>ceux qui ont besoin de nous.|
-512	$219E85	70	 Lenna : Que la garde demeure>inébranlable jusqu’à ce que je>revienne.|
-513	$219EDB	86	 Lenna : Faris… Sarissa. Te>souviens-tu de père ?>Faris : … Ça doit bien faire 15 ans…|
-514	$219F29	78	 Sarissa : Non ! Non, non, non, non,>non !! J’ai peur, je ne veux pas y>aller !|
-515	$219F86	93	 Roi de Tycoon : Sarissa ! Tu me>harcèles pendant des semaines et>ensuite tu changes d’avis ?|
-516	$21A011	139	 Roi de Tycoon : Papa doit aller>chercher le meilleur docteur au>monde pour guérir maman. Je vais>revenir aussi vite que possible.>Sois sage.|
-517	$21A036	37	 Sarissa : Attends ! Je veux y aller !|
-518	$21A0C9	147	 \52\52\52- Journal du roi de Tycoon ->>>>«Mois X, jour X… C’est aujourd’hui>que devait avoir lieu le premier vol>de Sarissa, mais elle a fait un>caprice…»|
-519	$21A101	56	 Lenna : Comment ? On ne peut plus>rien faire pour elle ?|
-520	$21A168	103	 Roi de Tycoon : Ma chérie, le>docteur a fait ce qu’il a pu… Le seul>remède serait une langue de>dragon…|
-521	$21A1AC	68	 Roi de Tycoon : Lenna ! Où vas-tu>avec ce couteau ? [FixedPause]… Non ! Tu ne…|
-522	$21A1C5	25	 Roi de Tycoon : Arrête !|
-523	$21A1E7	34	 Jénica : Je vais aller lui parler.|
-524	$21A297	176	 Jénica : Votre Altesse ! Si vous>coupez sa langue, le dernier>dragon disparaîtra à tout jamais…>La reine aime beaucoup Hiryû…>Pouvez-vous vraiment couper la>langue de son ami ?|
-525	$21A30F	120	 Jénica : Votre Altesse… Le roi>venait ici chaque jour, incapable de>prendre une décision. Peut-être>est-ce mieux ainsi…|
-526	$21A328	25	 Roi de Tycoon : Idiote !|
-527	$21A344	28	 Lenna : Snif ! Snif ! Mère…|
-528	$21A352	14	 Bon courage !|
-529	$21A3A7	85	 Si vous trouvez quoi que ce soit>d’utile dans le château, ne vous>gênez surtout pas !|
-530	$21A3B9	18	 Revenez bientôt !|
-531	$21A3CD	20	 J’assure la garde !|
-532	$21A40D	64	 Je ne sais pas pourquoi vous devez>partir, mais… Bonne chance !|
-533	$21A44B	62	 N’oubliez pas d’explorer le château>dans ses moindres recoins.|
-534	$21A49E	83	 Le chancelier est sorti… Il a dit>qu’il avait quelque chose à donner>à la princesse.|
-535	$21A4E2	68	 On raconte qu’il y a 1000 ans, les>cieux de Tycoon se sont déchirés…|
-536	$21A511	47	 Oh, le dragon du roi est revenu !>Quelle joie !|
-537	$21A554	67	 Lorsque son Altesse était partie, le>chancelier était très inquiet.|
-538	$21A582	46	 Si seulement la princesse pouvait>rester ici.|
-539	$21A6AB	297	 Jénica : Je suis au service de la>famille royale depuis des années.>J’avais la charge des princesses>Lenna et Sarissa.>[Bartz] : Sarissa ?>Jénica : Oui, la sœur a\BBée de la>princesse Lenna.>>Elle naviguait avec son père quand>une tempête a fait chavirer le>yacht royal et elle a été emportée>par les flots.|
-540	$21A6EA	63	 Jénica : Je me doutais bien que>c’était la princesse Sarissa !|
-541	$21A71A	48	 Jénica : Je m’en rappelle comme si>c’était hier…|
-542	$21A738	30	 Le chancelier a l’air soulagé.|
-543	$21A7CC	148	 Chancelier : Ce bâton fait partie de>l’héritage de la famille royale de>Tycoon depuis des générations.>Faites-en bon usage.>Lenna : Je vous remercie.|
-544	$21A837	107	 Chancelier : Ne vous inquiétez pas>pour nous, votre Altesse. Nous>protégerons le château en votre>absence !|
-545	$21A8B8	129	 Chancelier : Rien ne pourrait vous>convaincre de rester au château ?>Lenna : Oh, ne soyez pas si triste !>Le monde est en danger…|
-546	$21A904	76	 Chancelier : Votre Altesse,>avez-vous décidé de rentrer au>château ? Le roi…|
-547	$21A945	65	 Chancelier : Faites appel à moi si>vous désirez quoi que ce soit.|
-548	$21A9B3	110	 Des monstres sont sortis de>l’aérolithe et se sont dirigés vers le>cristal. On ne peut plus entrer au>château.|
-549	$21AA00	77	 Les monstres n’ont pas encore>attaqué la ville… Espérons que ça>va continuer.|
-550	$21AA86	134	 Grâce au cristal, nous pouvons>forger des armes facilement.>>>C’est pourquoi vous ne trouverez>pas de meilleurs prix qu’ici, à>Karnak !|
-551	$21ABA6	288	 Les cinglés de la bibliothèque des>anciens disent que nous ne>devrions plus utiliser le pouvoir du>cristal ! Quels casse-pieds !>La reine a dû construire un mur>pour les empêcher de revenir nous>embêter. Euh… Oui, ça veut aussi>dire qu’on ne peut plus atteindre>la bibliothèque des anciens.|
-552	$21ABFD	87	 La bibliothèque des anciens est>située au sud d’ici. Le professeur>Cid a étudié là-bas.|
-553	$21AC5A	93	 C’est le professeur Cid qui a>inventé les machines à amplifier>les cristaux. C’est un génie !|
-554	$21ACAD	83	 Vous avez combattu un Spectre ?>S’il est seul, il utilisera «Flash».>Soyez prudents !|
-555	$21ACF5	72	 La Chimère vit dans le désert.>C’est un monstre particulièrement>féroce…|
-556	$21AD53	94	 Les voilà !>[Bartz] : ???>>>Ils contrôlent les monstres !>Ils sont sortis de l’aérolithe, eux>aussi !|
-557	$21AD78	37	 Vieil homme : Oh, j’abandonne !>[Bartz] : ?|
-558	$21ADEB	115	 Vieil homme : J’arrive à sortir de>ma cellule mais je me retrouve>dans la vôtre… et il ne me reste>plus d’explosifs !|
-559	$21AE1A	47	 Vieil homme : Oh, vous trouvez ça>drôle, vous ?|
-560	$21AEAC	146	 Vieil homme : Bah, peu importe…>Je m’appelle Cid.>Lenna : Quoi ?>Celui qui a inventé ces machines>terribles qui amplifient le pouvoir>des cristaux ?|
-561	$21AF1F	115	 Cid : …>Lenna : Pardon…>>>Cid : Non, tu n’as pas à t’excuser.>C’est la vérité, après tout. Je suis>le responsable…|
-562	$21B056	311	 Cid : C’était écrit dans un livre de>la bibliothèque des anciens…>Autrefois, les cristaux possédaient>un pouvoir sans égal ! J’ai donc>étudié ceux de Tycoon, Wolse et>Karnak pour inventer une machine>amplificatrice… Mais j’avais tort !>Si les cristaux se sont brisés, c’est>à cause de ma machine… C’est ma>faute !|
-563	$21B0F8	162	 [Bartz] : Pourquoi es-tu>prisonnier ?>Cid : Je n’ai pas pu sauver les>cristaux de Tycoon et Wolse…>J’ai voulu sauver le cristal de>Karnak mais ils m’ont jeté en>prison.|
-564	$21B14A	82	 [Bartz] : Alors notre objectif est le>même…>Cid : Vous êtes venus protéger le>cristal ?|
-565	$21B16D	35	 [Bartz] : Oui ! Ils nous l’ont>demandé !|
-566	$21B1A7	58	 Cid : Quoi ? Un fragment de>cristal… Mais qui êtes-vous ?|
-567	$21B1D4	45	 Chancelier : Professeur ! C’est un>désastre !|
-568	$21B34C	376	 Cid : Que s’est-il passé ?>Chancelier : Vous aviez raison…>Le cristal est fêlé !>Cid : Comment ?>Chancelier : J’ai arrêté la machine>mais le rendement du cristal n’a>fait qu’augmenter…>Cid : Le navire thermique…>Chancelier : Oui ? Qu’y a-t-il ?>Cid : C’est probablement le navire>thermique qui draine le pouvoir du>cristal.>Chancelier : Je vous en supplie,>professeur ! Aidez-nous !|
-569	$21B3DB	143	 Cid : J’aurai aussi besoin de leur>aide.>>>Chancelier : Mais professeur ! Ils>sont sortis de l’aérolithe ! Ils sont>de mèche avec ce loup-garou…|
-570	$21B41F	68	 Cid : S’ils ne peuvent pas m’aider,>alors je ne peux pas vous aider.|
-571	$21B448	41	 Chancelier : … Je n’ai donc pas le>choix.|
-572	$21B470	40	 Cid : Vous allez m’aider, n’est-ce>pas ?|
-573	$21B4FD	141	 Cid : Je dois aller examiner le>navire thermique. C’est un endroit>dangereux, alors n’oubliez pas de>bien vous préparer.>Je vous y attendrai !|
-574	$21B533	54	 Personne ne peut pénétrer dans le>château ! Du vent !|
-575	$21B562	47	 La salle du cristal est située sous le>château.|
-576	$21B59B	57	 Le cristal est fêlé et de longues>flammes en jaillissent !|
-577	$21B5E2	71	 Impossible de s’approcher du>cristal ! Les flammes nous en>empêchent !|
-578	$21B625	67	 Nous avons arrêté la machine>avant que le cristal soit fêlé,>mais…|
-579	$21B67D	88	 Le cristal est fêlé et un>loup-garou est en liberté… La>situation pourrait-elle empirer ?|
-580	$21B692	21	 La reine a disparu !|
-581	$21B6DC	74	 Karnak a prospéré grâce au>pouvoir du cristal… Est-ce la fin du>royaume ?|
-582	$21B708	44	 Dépendons-nous trop du pouvoir>du cristal ?|
-583	$21B74A	66	 On raconte que les cristaux de>Tycoon et de Wolse se sont brisés…|
-584	$21B78D	67	 Le navire thermique peut naviguer>même lorsqu’il n’y a pas de vent.|
-585	$21B7DA	77	 Le moteur du navire thermique>fonctionne grâce au pouvoir du>cristal du feu.|
-586	$21B824	74	 Le loup-garou qui est sorti de>l’aérolithe essaie d’atteindre le>cristal !|
-587	$21B887	99	 Chancelier : Le professeur est parti>examiner le navire thermique…>Où la reine peut-elle bien être ?|
-588	$21B8BD	54	 C’est étrange… Le loup-garou n’a>pas attaqué la ville.|
-589	$21B8E7	42	 Le loup-garou veut s’emparer du>cristal !|
-590	$21B8FD	22	 Une ombre noire… Elle…|
-591	$21B915	24	 Capitaine ! Tenez bon !|
-592	$21B96E	89	 Ne vous inquiétez pas ! Nous ne>laisserons pas les monstres>s’infiltrer dans le château !|
-593	$21B987	25	 Soldat : Le loup-garou !|
-594	$21B9AB	36	 Soldat : Ne le laissez pas passer !|
-595	$21BA0E	99	 Nous l’avons effrayé en utilisant>les explosifs du professeur, mais il>reviendra, j’en suis certain.|
-596	$21BA60	82	 Soldat : Il est interdit de>s’aventurer sans permission sur le>navire thermique !|
-597	$21BA9D	61	 Pour utiliser les ascenseurs,>appuyez sur les boutons rouges.|
-598	$21BACA	45	 Des monstres ont envahi le navire>thermique…|
-599	$21BADE	20	 Arrêtez le moteur !|
-600	$21BB18	58	 Si vous n’arrêtez pas le moteur, le>cristal va se briser…|
+502	$219AA2	214	 Jenica : Basta per oghje.>Sarissa : Uff ! Sò straculta !>>Jenica : A regina vuleria chì vo>andessite à mette a principessa>Lenna à dorme. Vò à currege i>vostri duveri. Aiò !>Sarissa : Va bè !|
+503	$219AEC	74	 Jenica : Ùn vi scurdate di vultà>quì senza traghjinà !>Sarissa : Iè ! \AEOh…\AF|
+504	$219C0A	286	 Sarissa : O Lenna… Dumane,>babbu è eiu, anderemu à fà una>spassighjata cù Hiryû !>Lenna : Papa, papupu !>Sarissa : Dice ch'ùn ci hè nunda di>più bellu chè vulà in celu à>spinu à un dragone ! È chì quand'omu>fighjeghja in ghjò, hè cum'è s'è>tutti avissinu ricevutu u sortilegiu>Lévitation !|
+505	$219C69	95	 Sarissa : Innò, aspetta… Euh…>Ùn era mica Léviter… Crapaud ?>Renvoi ? Ah ! Mini ! Eccu !|
+506	$219C98	47	 Jenica : Si serà attardata torna>una volta…|
+507	$219D5D	197	 Lenna : Sarissa…>Faris : Iè ?>Lenna : Saria forse>megliu di ùn dì à u>cancelliere quale sì per avà.>Ùn ti lasciaria mai più sorte>da u palazzu !>Faris : Hai ragiò…|
+508	$219D86	41	 Faris : Ci tocca à andà à ritruvà>babbu…|
+509	$219DA5	31	 Faris : … è aiutà Galuf è [Bartz].|
+510	$219DDD	56	 Cancelliere : Passerete à u>menu a notte à u castellu ?|
+511	$219E3F	98	 Lenna : Ùn pudemu più aiutà>babbu… Ma duvemu aiutà tutti>quelli chì anu bisognu di noi.|
+512	$219E85	70	 Lenna : Chì a guardia fermi>salda sin'à u mo ritornu.|
+513	$219EDB	86	 Lenna : Faris… Sarissa. Ti>rammenti di babbu ?>Faris : … Seranu quantunque 15 anni…|
+514	$219F29	78	 Sarissa : Innò ! Innò, innò, innò,>innò, innò !! Aghju paura, ùn ci>vogliu andà !|
+515	$219F86	93	 Rè di Tycoon : Sarissa ! Mi>tormenti dapoi settimane è>dopu cambi idea ?|
+516	$21A011	139	 Rè di Tycoon : Babbu deve andà>à circà u megliu duttore di u>mondu per curà mamma. Turnaraghju>u più prestu pussibule.>Stai bona.|
+517	$21A036	37	 Sarissa : Aspetta ! Vogliu vene anch'eiu !|
+518	$21A0C9	147	 \52\52\52- Ghjurnale di u rè di Tycoon ->>>>«Mese X, ghjornu X… Oghje>duvia esse u primu volu di>Sarissa, ma hà fattu un>capricciu…»|
+519	$21A101	56	 Lenna : Cumu ? Ùn si pò più>fà nunda per ella ?|
+520	$21A168	103	 Rè di Tycoon : Cara meia, u>duttore hà fattu tuttu u pussibule…>L'unicu rimediu saria una lingua>di dragone…|
+521	$21A1AC	68	 Rè di Tycoon : Lenna ! Induve vai>cù issu cultellu ? [FixedPause]… Innò ! Tu ùn…|
+522	$21A1C5	25	 Rè di Tycoon : Ferma !|
+523	$21A1E7	34	 Jenica : Vò à parlà li.|
+524	$21A297	176	 Jenica : Vostra Altezza ! S'è vo>li tagliate a lingua, l'ultimu>dragone spariscerà per sempre…>A regina amava assai Hiryû…>Pudete veramente taglià a>lingua di u so amicu ?|
+525	$21A30F	120	 Jenica : Vostra Altezza… U rè>venia quì ogni ghjornu, incapace di>decide si. Forse hè megliu>cusì…|
+526	$21A328	25	 Rè di Tycoon : Scema !|
+527	$21A344	28	 Lenna : Snif ! Snif ! Mamma…|
+528	$21A352	14	 Fate attenzione !|
+529	$21A3A7	85	 S'è vo truvate qualcosa>d'utile in u castellu, ùn vi>imbarazzate micca !|
+530	$21A3B9	18	 Turnate prestu !|
+531	$21A3CD	20	 Eiu facciu a guardia !|
+532	$21A40D	64	 Ùn sò micca perchè duvete>parte, ma… bona furtuna !|
+533	$21A44B	62	 Ùn vi scurdate di visità u castellu>sin'à i so più chjuchi scorni.|
+534	$21A49E	83	 U cancelliere hè surtitu… Hà dettu>ch'ellu avia qualcosa da dà>à a principessa.|
+535	$21A4E2	68	 Si conta chì mille anni fà, u>celu di Tycoon s'hè spaccatu…|
+536	$21A511	47	 Oh, u dragone di u rè hè vultatu !>Chì gioia !|
+537	$21A554	67	 Quand'era partita Vostra Altezza, u>cancelliere era assai inchietu.|
+538	$21A582	46	 Ah, s'ella pudia a principessa>firmà quì.|
+539	$21A6AB	297	 Jenica : Sò à u serviziu di a>famiglia reale dapoi anni.>M'occupava di e principesse>Lenna è Sarissa.>[Bartz] : Sarissa ?>Jenica : Iè, a surella maiò di a>principessa Lenna.>>Navigava cù u so babbu quand'una>timperaccia hà fattu capighjà u>yacht reale, è hè stata purtata>via da l'onde.|
+540	$21A6EA	63	 Jenica : Mi n'avvedia bè chì>era a principessa Sarissa !|
+541	$21A71A	48	 Jenica : Mi ne ramentu cum'è s'ellu>fussi statu eri…|
+542	$21A738	30	 U cancelliere pare sollievatu.|
+543	$21A7CC	148	 Cancelliere : Stu bastone face>parte di l'eredità di a famiglia>reale di Tycoon dapoi generazioni.>Fate ne bon usu.>Lenna : Vi ringraziu.|
+544	$21A837	107	 Cancelliere : Ùn vi fate micca pena>per noi, Vostra Altezza. Prutegeremu>u castellu durante a vostra>assenza !|
+545	$21A8B8	129	 Cancelliere : Nunda ùn puderia>cunvince vi di firmà à u castellu ?>Lenna : Oh, ùn siate tantu tristu !>U mondu hè in periculu…|
+546	$21A904	76	 Cancelliere : Vostra Altezza,>avete decisu di vultà à u>castellu ? U rè…|
+547	$21A945	65	 Cancelliere : Fate appellu à mè>s'è vo desiderate qualcosa.|
+548	$21A9B3	110	 Mostri sò surtiti di>l'aerolitu è si sò diretti versu u>cristallu. Ùn si pò più entre in u>castellu.|
+549	$21AA00	77	 I mostri ùn anu ancu attaccatu>a cità… Speremu ch'ella>continui cusì.|
+550	$21AA86	134	 Grazia à u cristallu, pudemu>forgià armi facilmente.>>>Hè per quessa chì ùn truverete>micca prezzi megliu chè quì,>à Karnak !|
+551	$21ABA6	288	 I matti di a biblioteca di l'antichi>dicenu chì ùn duveriamu più>aduprà u putere di u>cristallu ! Chì seccatura !>A regina hà duvutu custruì un muru>per impedì li di vultà à>infastidì ci. Euh… Iè, quessa vole>dì dinù chì ùn si pò più>ghjunghje à a biblioteca di>l'antichi.|
+552	$21ABFD	87	 A biblioteca di l'antichi hè>situata à u sudu di quì. U>prufessore Cid hà studiatu culà.|
+553	$21AC5A	93	 Hè u prufessore Cid chì hà>inventatu e macchine à amplificà>i cristalli. Hè un geniu !|
+554	$21ACAD	83	 Avete cumbattutu un Spectre ?>S'ellu hè solu, utilizerà «Flash».>State attenti !|
+555	$21ACF5	72	 A Chimera campa in u desertu.>Hè un mostru particularmente>feroce…|
+556	$21AD53	94	 Eccu li !>[Bartz] : ???>>>Cuntrullanu i mostri !>Sò surtiti di l'aerolitu, elli>dinù !|
+557	$21AD78	37	 Vechju : Oh, mi ne rendu !>[Bartz] : ?|
+558	$21ADEB	115	 Vechju : Riusciscu à sorte di a>mo cellula ma mi ritrovu>in a vostra… è ùn mi ferma>più splusivu !|
+559	$21AE1A	47	 Vechju : Oh, vi face ride, voi ?|
+560	$21AEAC	146	 Vechju : Bah, ùn importa…>Mi chjamu Cid.>Lenna : Cosa ?>Quellu chì hà inventatu isse>macchine tremende chì amplificanu>u putere di i cristalli ?|
+561	$21AF1F	115	 Cid : …>Lenna : Perdona…>>>Cid : Innò, ùn hai micca da>scusà ti. Hè a verità, dopu à>tuttu. Sò eiu u rispunsevule…|
+562	$21B056	311	 Cid : Era scrittu in un libru di>a biblioteca di l'antichi…>Nanzu, i cristalli pussidavanu>un putere senza paru ! Aghju dunque>studiatu quelli di Tycoon, Wolse è>Karnak per inventà una macchina>amplificatrice… Ma m'era>ingannatu ! S'è i cristalli si sò>rotti, hè per via di a mo>macchina… Hè colpa meia !|
+563	$21B0F8	162	 [Bartz] : Perchè sì in>prigiò ?>Cid : Ùn aghju pussutu salvà i>cristalli di Tycoon è Wolse…>Aghju vulsutu salvà quellu di>Karnak ma m'anu lampatu in>prigiò.|
+564	$21B14A	82	 [Bartz] : Allora u nostru scopu hè>listessu…>Cid : Site venuti à prutege u>cristallu ?|
+565	$21B16D	35	 [Bartz] : Iè ! Sò elli chì anu>demandatu a nostra aiuta !|
+566	$21B1A7	58	 Cid : Cosa ? Un frammentu di>cristallu… Ma quale site voi ?|
+567	$21B1D4	45	 Cancelliere : Prufessore ! Hè un>disastru !|
+568	$21B34C	376	 Cid : Chì hè accadutu ?>Cancelliere : Aviate ragiò…>U cristallu s'hè crepatu !>Cid : Cumu ?>Cancelliere : Aghju arrestatu a>macchina ma u rendimentu di u>cristallu hà cuntinuatu à>cresce…>Cid : U vascellu termicu…>Cancelliere : Iè ? Chì ci hè ?>Cid : Hè prubabile ch'ellu sia u>vascellu termicu à succhià u>putere di u cristallu.>Cancelliere : Vi ne supplegu,>prufessore ! Aiutate ci !|
+569	$21B3DB	143	 Cid : Averaghju dinù bisognu>di u so aiutu.>>>Cancelliere : Ma prufessore ! Elli>sò surtiti di l'aerolitu ! Sò>cumplici cù issu lupu-garou…|
+570	$21B41F	68	 Cid : S'elli ùn ponu aiutà mi,>allora eiu ùn possu aiutà vi.|
+571	$21B448	41	 Cancelliere : … Ùn aghju dunque>micca scelta.|
+572	$21B470	40	 Cid : M'aiuterete, ùn hè>vera ?|
+573	$21B4FD	141	 Cid : Devu andà à esaminà u>vascellu termicu. Hè un locu>periculosu, allora ùn vi scurdate>di preparà vi bè.>Vi ci asetteraghju !|
+574	$21B533	54	 Nimu pò entre in u>castellu ! Andate vi ne !|
+575	$21B562	47	 A sala di u cristallu hè situata>sottu à u castellu.|
+576	$21B59B	57	 U cristallu hè crepatu è longhe>fiamme ne scappanu !|
+577	$21B5E2	71	 Impussibule d'avvicinà si à u>cristallu ! E fiamme ci ne>impediscenu !|
+578	$21B625	67	 Avemu arrestatu a macchina>nanzu chì u cristallu si>crepessi, ma…|
+579	$21B67D	88	 U cristallu hè crepatu è un>lupu-garou hè in libertà… A>situazione puderia peghjurà ?|
+580	$21B692	21	 A regina hè sparita !|
+581	$21B6DC	74	 Karnak hà prusperatu grazia à u>putere di u cristallu… Hè a fine di u>regnu ?|
+582	$21B708	44	 Dipendimu troppu di u putere>di u cristallu ?|
+583	$21B74A	66	 Si conta chì i cristalli di>Tycoon è Wolse si sò rotti…|
+584	$21B78D	67	 U vascellu termicu pò navigà>ancu quand'ellu ùn ci hè ventu.|
+585	$21B7DA	77	 U mutore di u vascellu termicu>funziona grazia à u putere di u>cristallu di u focu.|
+586	$21B824	74	 U lupu-garou surtitu di>l'aerolitu prova à ghjunghje à u>cristallu !|
+587	$21B887	99	 Cancelliere : U prufessore hè>partutu à esaminà u vascellu>termicu… Induve pò esse a regina ?|
+588	$21B8BD	54	 Hè stranu… U lupu-garou ùn hà>micca attaccatu a cità.|
+589	$21B8E7	42	 U lupu-garou vole impadrunì si di u>cristallu !|
+590	$21B8FD	22	 Un'ombra nera… Ella…|
+591	$21B915	24	 Capitanu ! Teni bonu !|
+592	$21B96E	89	 Ùn vi fate pena ! Ùn lasceremu>micca i mostri infiltrà si in u>castellu !|
+593	$21B987	25	 Suldatu : U lupu-garou !|
+594	$21B9AB	36	 Suldatu : Ùn lu lasciate micca>passà !|
+595	$21BA0E	99	 L'avemu spaventatu aduprendu>l'esplusivi di u prufessore, ma>turnerà, ne sò sicuru.|
+596	$21BA60	82	 Suldatu : Hè pruibitu>d'avventurà si senza permessu>nant'à u vascellu termicu !|
+597	$21BA9D	61	 Per aduprà l'ascensori,>appughjate nantu à i buttoni>rossi.|
+598	$21BACA	45	 Mostri anu invaditu u vascellu>termicu…|
+599	$21BADE	20	 Fermate u mutore !|
+600	$21BB18	58	 S'è vo ùn firmate micca u>mutore, u cristallu si romperà…|
 601	$21BB3A	34	 Cid : Vous en avez mis du temps !|
 602	$21BBFE	196	 Cid : J’avais raison… C’est le>moteur qui draine le pouvoir du>cristal…>[Bartz] : Le moteur ?>Cid : Oui, si nous n’arrêtons pas le>moteur au plus vite, le cristal va se>briser. Pourriez-vous le faire ?|
 603	$21BC80	130	 Cid : Vous pouvez entrer par ici,>mais prenez garde ! Des monstres>ont envahi le navire !>>Bonne chance ! Nous comptons sur>vous.|
