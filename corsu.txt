@@ -1098,106 +1098,106 @@
 1098	$22487C	71	 Galuf : State attenti ! V'aghju>dettu chì i mostri sò feroce !|
 1099	$2248A3	39	 Vulete tastà a nostra>spicialità ?|
 1100	$2248DD	58	 Ùn ci hè nunda di megliu per>rimette vi u curagiu !|
-1101	$22492E	81	 Il n’y a pas de danseuses dans un>trou pareil… Pourquoi ne pas>danser pour nous ?|
-1102	$224943	21	 Oh, c’est délicieux !|
-1103	$2249D7	148	 Avez-vous entendu parler de la>Gourde de Cornago ?>>>C’est un objet qui vous permet de>capturer des monstres plus>facilement. C’est drôlement utile !|
-1104	$224A0B	52	 Hé ! Si tu montes sur scène, il faut>que tu danses !|
-1105	$224A20	21	 Ça, c’est l’arsenal.|
-1106	$224A36	22	 Ça, c’est l’armurier.|
-1107	$224A99	99	 Vous combattez Exdeath ? Voilà !>C’est mon accessoire préféré… Je>vous l’offre !>>>Obtenu : Ruban !|
-1108	$224AB4	27	 Prenez soin de mon Ruban !|
-1109	$224ACD	25	 Où ai-je mis mon ruban ?|
-1110	$224B32	101	 Eh bien ! Des clients ! Je n’en crois>pas mes yeux. Passez la nuit ici !>Aujourd’hui, c’est gratuit !|
-1111	$224B4B	25	 [Bartz] : Où est passé Galuf ?|
-1112	$224B8F	68	 Galuf : Aah… La spécialité de>Rugole ! Estomacs fragiles>s’abstenir !|
-1113	$224BEF	96	 Galuf : Oh, [Bartz] ! Que se>passe-t-il ?>[Bartz] : Je n’arrive pas à dormir…>Galuf : Hum ! Viens t’asseoir.|
-1114	$224C48	89	 [Bartz] : Désolé, Galuf. Si nous>n’étions pas venus, tu aurais pu>prendre le château d’assaut…|
-1115	$224D11	201	 Galuf : Même si nous avions réussi>à pénétrer dans le château, la>barrière nous aurait écrasés. Je ne>pensais pas qu’elle avait été>terminée. C’est grâce à vous si nos>troupes n’ont pas été détruites !|
-1116	$224DA6	149	 Galuf : [Bartz]… Vous saviez que>vous ne pourriez pas retourner>sur votre monde. Pourquoi>êtes-vous venus ?>[Bartz] : … Nous n’avions pas de>raison particulière…|
+1101	$22492E	81	 Ùn ci hè ballerine in stu paese…>Perchè ùn ballereste micca>per noi ?|
+1102	$224943	21	 Oh, ch'ellu hè bonu !|
+1103	$2249D7	148	 Avete intesu parlà di a>Gourda di Cornago ?>>>Hè un ogettu chì permette di>catturà i mostri assai più>facilmente. Hè propiu utile !|
+1104	$224A0B	52	 Oi ! S'è tù monti in scena, ci vole>ch'è tù balli !|
+1105	$224A20	21	 Quessu hè l'arsenale.|
+1106	$224A36	22	 Quessu hè l'armiere.|
+1107	$224A99	99	 Site quelli chì cumbattenu>Exdeath ? Eccu ! Hè u mo>accessoriu preferitu… Vi lu>offru !>>>Pigliatu : Rubanu !|
+1108	$224AB4	27	 Piglia ti cura di u mo Rubanu !|
+1109	$224ACD	25	 Induve averaghju messu u mo rubanu ?|
+1110	$224B32	101	 Ebbè ! Ospiti ! ùn possu micca>crede ci. Passate a notte quì !>Sta sera, hè gratisi !|
+1111	$224B4B	25	 [Bartz] : Induve hè passatu Galuf ?|
+1112	$224B8F	68	 Galuf : Aah… A spicialità di>Rugole ! Per l'istomachi fragili,>astene vi !|
+1113	$224BEF	96	 Galuf : Oh, [Bartz] ! Chì succede ?>[Bartz] : ùn riescu micca à dorme…>Galuf : Hum ! Veni à pusà ti.|
+1114	$224C48	89	 [Bartz] : Scusa, Galuf. S'è noi>ùn fussimu ghjunti, averisti pussutu>attaccà u castellu…|
+1115	$224D11	201	 Galuf : Ancu s'è no avessimu>riisciutu à entre in u castellu, a>barriera ci averia schiacciati. ùn>pensava micca ch'ella fussi digià>cumpleta. Hè grazia à voi chì e>nostre truppe ùn sò state distrutte !|
+1116	$224DA6	149	 Galuf : [Bartz]… Sapete chì>ùn puderiate micca turnà>annantu à u vostru mondu. Perchè>siete venuti ?>>[Bartz] : … ùn aviamu micca una>ragione particulare…|
 1117	$224DB1	11	 Galuf : [Bartz]…|
-1118	$224DB4	3	 12|
-1119	$224DD4	32	 [Bartz] : Hé, ne fais pas cette tête.|
-1120	$224E3A	102	 Galuf : Mille tonnerres ! Ce sont les>12 armes scellées ! Je croyais>qu’elles n’étaient qu’une légende !|
-1121	$224F07	205	 [Bartz] : Ce sont les armes qui ont>été utilisées dans la guerre qui a>eu lieu il y a 1000 ans ?>Lenna : Elles se sont… fossilisées ?>[Bartz] : Tu t’attendais peut-être à>ce qu’elles soient comme neuves>après des siècles ?|
+1118	$224DB4	3	 >Grazie !!|
+1119	$224DD4	32	 [Bartz] : Oi, ùn fà micca sta testa.|
+1120	$224E3A	102	 Galuf : Mille tonni ! Sò e>12 arme sigillate ! Cridia>ch'elle ùn fussinu chè una legenda !|
+1121	$224F07	205	 [Bartz] : Sò e arme chì sò state>aduprate in a guerra d'1000 anni>fà ?>>Lenna : Si sò tutte petrificate… ?>>[Bartz] : Ti aspettavi forse ch'elle>fussinu cum'è nove dopu>à tanti seculi ?|
 1122	$224F1E	23	 >\52\52\52\52\52\52\52\52\52\52\52\52\52Excalibur|
-1123	$224F35	23	 >\52\52\52\52\52\52\52\52\52\52\52\52Assassine|
-1124	$224F50	27	 >\52\52\52\52\52\52\52\52 Katana de Sasuke|
-1125	$224F69	25	 >\52\52\52\52\52\52\52\52\52\52 Lance sacrée|
-1126	$224F83	26	 >\52\52\52\52\52\52\52\52\52\52 Hache runique|
+1123	$224F35	23	 >\52\52\52\52\52\52\52\52\52\52\52\52Daga assassina|
+1124	$224F50	27	 >\52\52\52\52\52\52\52\52 Katana di Sasuke|
+1125	$224F69	25	 >\52\52\52\52\52\52\52\52\52\52 Lancia sacra|
+1126	$224F83	26	 >\52\52\52\52\52\52\52\52\52\52 Accetta runica|
 1127	$224F9A	23	 >\52\52\52\52\52\52\52\52\52\52\52\52 Masamune|
-1128	$224FB3	25	 >\52\52\52\52\52\52\52\52\52\52 Arc de Yo\AAhi|
-1129	$224FCC	25	 >\52\52\52\52\52\52\52\52\52\52\52Fouet de feu|
-1130	$224FE5	25	 >\52\52\52\52\52\52\52\52\52\52Bâton de sage|
-1131	$224FFE	25	 >\52\52\52\52\52\52\52\52\52 Sceptre magus|
-1132	$225018	26	 >\52\52\52\52\52\52\52\52\52\52 Lyre d’Apollon|
-1133	$225031	25	 >\52\52\52\52\52\52\52\52\52\52Cloche de Ga\CA|
-1134	$225050	31	 >\52\52\52 Une des 12 armes scellées…|
+1128	$224FB3	25	 >\52\52\52\52\52\52\52\52\52\52 Arcu di Yoichi|
+1129	$224FCC	25	 >\52\52\52\52\52\52\52\52\52\52\52Frusta di focu|
+1130	$224FE5	25	 >\52\52\52\52\52\52\52\52\52\52Bastone di saviu|
+1131	$224FFE	25	 >\52\52\52\52\52\52\52\52\52 Verga magica|
+1132	$225018	26	 >\52\52\52\52\52\52\52\52\52\52 Lira d'Apollon|
+1133	$225031	25	 >\52\52\52\52\52\52\52\52\52\52Campana di Gaia|
+1134	$225050	31	 >\52\52\52 Una di e 12 arme sigillate…|
 1135	$225057	7	 Kupo !|
-1136	$225096	63	 Galuf : Qu’est-ce qu’un mog peut>bien faire ici ?>[Bartz] : Un mog ?|
-1137	$22510C	118	 Galuf : Des petites créatures>étranges qui vivent dans la forêt.>Un rien les effraie… Ils ne se>montrent pas souvent.|
-1138	$225120	20	 Lenna : Aidons-le !|
-1139	$22513F	31	 Lenna : Attention, petit mog !|
+1136	$225096	63	 Galuf : Chì ci face un mog quì ?>[Bartz] : Un mog ?|
+1137	$22510C	118	 Galuf : Sò piccule creature>misteriose chì campanu in a>furesta. Un nunda li impaurisce…>Si facenu vede di raru.|
+1138	$225120	20	 Lenna : Aiutemu lu !|
+1139	$22513F	31	 Lenna : Attenti, picculu mog !|
 1140	$225152	19	 Mog : Kupo, kupo !|
-1141	$225155	3	 14|
-1142	$2251A1	76	 Lenna : N’aie pas peur, petit mog…>Nous allons t’aider ! Viens !>Mog : Kupo…|
-1143	$2251DB	58	 Lenna : Tu n’as plus rien à>craindre !>Mog : Kupo, kupo !|
+1141	$225155	3	 [Bartz] : Andemu !|
+1142	$2251A1	76	 Lenna : ùn avè paura, picculu mog…>T'aiuteremu ! Veni !>Mog : Kupo…|
+1143	$2251DB	58	 Lenna : ùn hai più nunda da>teme !>Mog : Kupo, kupo !|
 1144	$2251EA	15	 Mog : Kupopo !|
-1145	$225226	60	 [Bartz] : Qu’y a-t-il ?>Lenna : Je crois qu’il veut qu’on le>suive.|
-1146	$22525C	54	 Lenna : Regardez ! C’est le mog que>nous avons aidé !|
-1147	$225291	53	 Mog : Kupo ! Kupo !>Lenna : Tu veux nous remercier ?|
-1148	$2252C4	51	 Mog : Kupo !>Lenna : Je crois qu’il nous les>offre.|
-1149	$2252DF	27	 [Bartz] : Un costume…[P3] de mog ?|
-1150	$2252F7	24	 Vous voulez l’essayer ?|
+1145	$225226	60	 [Bartz] : Chì ci hè ?>Lenna : Credu ch'ellu vole chì no u>siguimu.|
+1146	$22525C	54	 Lenna : Fighjate ! Hè u mog chì>avemu aiutatu !|
+1147	$225291	53	 Mog : Kupo ! Kupo !>Lenna : Ci vole à ringrazià ci ?|
+1148	$2252C4	51	 Mog : Kupo !>Lenna : Credu ch'ellu ci li>offre.|
+1149	$2252DF	27	 [Bartz] : Un vistitu…[P3] di mog ?|
+1150	$2252F7	24	 Vulete mette lu ?|
 1151	$225309	18	 Mog : Kuku popo !|
-1152	$225324	27	 Galuf : Hum ? Que fait-il ?|
-1153	$225365	65	 Krile : Que se passe-t-il ? Pourquoi>es-tu si agité ?>Mog : Kupo !|
-1154	$2254AD	328	 Soldat : Qu’y a-t-il ?>Krile : C’est papi ! Il est dans le>village des mogs !>Soldat : Comment !>Krile : Les mogs peuvent>communiquer par télépathie. Ils>peuvent se parler, quelle que soit>la distance qui les sépare…>Soldat : Le village des mogs est>très loin d’ici.>Krile : Oui… Et le dragon n’est pas>en état de voler jusque là-bas.|
-1155	$2254BF	18	 Dragon : Mrrrrrr…|
-1156	$2254E8	41	 Krile : Quoi ? Je vois. … Je te>remercie.|
-1157	$225538	80	 Krile : Il dit qu’il peut faire un>autre aller-retour !>Soldat : Si vous le dites…|
-1158	$225560	40	 [Bartz] : Que se passe-t-il ?>Mog : Kupopopo !|
-1159	$225574	20	 [Bartz] : Quoi ? Le nez ?|
-1160	$2255A1	45	 Krile : Où peut bien être la forêt>des mogs ?|
-1161	$2255C5	36	 Mog : Kupopo !>Krile : Oh ? Le nez ?|
+1152	$225324	27	 Galuf : Hum ? Chì face ?|
+1153	$225365	65	 Krile : Chì succede ? Perchè>site cusì agitatu ?>Mog : Kupo !|
+1154	$2254AD	328	 Suldatu : Chì ci hè ?>Krile : Hè babbone ! Hè in u>paese di i mogs !>Suldatu : Cumu !>Krile : I mogs ponu>cumunicà per telepatia. Ponu>parlà si ancu s'elli sò luntani unu>da l'altru…>Suldatu : U paese di i mogs hè>assai luntanu da quì.>Krile : Iè… È u dragone ùn hè più>in statu di vulà sin'à culà.|
+1155	$2254BF	18	 Dragone : Mrrrrrr…|
+1156	$2254E8	41	 Krile : Chì ? Capiscu. … Ti>ringraziu.|
+1157	$225538	80	 Krile : Dice ch'ellu pò fà un>ultimu viaghju andata è vultata !>Suldatu : S'è vo u dite…|
+1158	$225560	40	 [Bartz] : Chì succede ?>Mog : Kupopopo !|
+1159	$225574	20	 [Bartz] : Chì ? U nasu ?|
+1160	$2255A1	45	 Krile : Induve serà dunque a>Furesta di i Mogs ?|
+1161	$2255C5	36	 Mog : Kupopo !>Krile : Oh ? U nasu ?|
 1162	$2255D7	18	 Mog : Kuku popo !|
 1163	$2255E6	15	 Galuf : Krile !|
-1164	$2255F4	14	 Krile : Papi !|
-1165	$225654	96	 Galuf : Comment as-tu fait pour>nous retrouver ?>Krile : Les mogs m’ont dit que vous>étiez ici !|
-1166	$225684	48	 Krile : Papi, nous devons retourner>au château !|
-1167	$2256BB	55	 Krile : Je vais raccompagner le>dragon jusqu’à son nid.|
-1168	$2256D4	25	 Soldat : Votre Majesté !|
-1169	$225726	82	 Galuf : Merci d’avoir protégé le>château en mon absence.>Soldat : Votre Majesté !|
-1170	$225835	271	 Galuf : Exdeath a-t-il fait des>siennes ?>Soldat : Il n’a pas bougé depuis>qu’ils ont érigé le bouclier.>Galuf : Je vois… Et les troupes ?>Soldat : Elles ont presque toutes>été anéanties par les hordes de>monstres d’Exdeath…>Galuf : …>Soldat : Je suis désolé, votre>Majesté.|
-1171	$2258B4	127	 [Bartz] : Hein ? Moi qui croyais que>tu n’étais qu’un vieux fou ! Tu ne>nous as jamais dit que tu étais>roi !>Galuf : … Eh bien, je…|
-1172	$2258DD	41	 [Bartz] : Fichtre ! Tu parles d’une>surprise !|
-1173	$22591E	65	 Galuf : Très bien. Vous pouvez>disposer.>Soldat : A vos ordres !|
-1174	$2259CF	177	 Galuf : Qu’y a-t-il, [Bartz] ? Tu me>regardes encore d’un air bizarre.>[Bartz] : Toi ! Un roi ! Ha, ha ! J’ai>peine à y croire !>Galuf : Alors tu crois que je ne suis>pas digne d’être roi ?|
-1175	$2259E1	18	 Galuf : Comment ?|
-1176	$225A3C	91	 [Bartz] : Je plaisante, mais… Je>devrais être plus poli !>Pardonnez-moi… votre Majesté.>Galuf : …|
-1177	$225AAA	110	 Galuf : Vous savez, je suis votre>ami et non votre roi… Vous pouvez>m’appeler «Galuf».>[Bartz] : Quel soulagement !|
-1178	$225B13	105	 Le château d’Exdeath est protégé>par un bouclier surpuissant. Nous>ne pouvons même pas nous en>approcher.|
-1179	$225B90	125	 Peu après sa naissance, les parents>de Krile partirent sauver un>dragon dans le désert de Grociana.>On ne les a jamais revus…|
+1164	$2255F4	14	 Krile : Babbone !|
+1165	$225654	96	 Galuf : Cumu hai fattu per>truvà ci ?>Krile : I mogs m'anu dettu chì>erate quì !|
+1166	$225684	48	 Krile : Babbone, ci vole à turnà>subitu à u castellu !|
+1167	$2256BB	55	 Krile : Eiu, riaccompagneraghju u>dragone sin'à u so nidu.|
+1168	$2256D4	25	 Suldatu : Vostra Maestà !|
+1169	$225726	82	 Galuf : Grazie d'avè prutettu u>castellu in a mo assenza.>Suldatu : Vostra Maestà !|
+1170	$225835	271	 Galuf : Exdeath hà fattu qualchì>mossa ?>Suldatu : ùn hà micca mossu da>quandu anu alzatu u scudu.>Galuf : Capiscu… È e truppe ?>>Suldatu : Sò state guasgi tutte>annientate da e orde di mostri>d'Exdeath…>Galuf : …>Suldatu : Mi dispiace, Vostra>Maestà.|
+1171	$2258B4	127	 [Bartz] : Eh ? Eiu chì ti cridia>solu un vechju scemu ! ùn ci hai>mai dettu chì eri rè !>Galuf : … Ebbè, eiu…|
+1172	$2258DD	41	 [Bartz] : Fighjate un pocu què !>Chì surpresa !|
+1173	$22591E	65	 Galuf : Va bè. Pudete>dispone.>Suldatu : à i vostri ordini !|
+1174	$2259CF	177	 Galuf : Chì ci hè, [Bartz] ? Mi>fighji sempre cù quellu aria strana.>[Bartz] : Tù ! Un rè ! Ha, ha !>Aghju sempre difficultà à crede ci !>Galuf : Allora, credi chì ùn sò>degne d'esse rè ?|
+1175	$2259E1	18	 Galuf : Cumu ?|
+1176	$225A3C	91	 [Bartz] : Scherzu, ma… mi>duveria mustrà più pulitu !>Pardunate mi… Vostra Maestà.>Galuf : …|
+1177	$225AAA	110	 Galuf : Sapete, sò u vostru>amicu è micca u vostru rè… Pudete>chjamà mi « Galuf ».>[Bartz] : Chì sollievu !|
+1178	$225B13	105	 U castellu d'Exdeath hè prutettu>da un scudu supraputente. ùn pudemu>manch'appena avvicinà ci.|
+1179	$225B90	125	 Pocu dopu à a so nascita, i parenti>di Krile partinu per salvà un>dragone in u disertu di Grociana.>ùn sò mai più vultati…|
 1180	$225BA1	17	 Mog : Kupopopo !|
-1181	$225C09	104	 La citadelle de Bal a été construite>il y a des siècles… Qui sait quels>secrets vous pourrez y découvrir.|
-1182	$225C4A	65	 Oh, ce Gilgamesh ! Nos troupes ont>été anéanties à cause de lui !|
-1183	$225C85	59	 Il est impossible d’ouvrir la porte>de pierre du sous-sol.|
-1184	$225D0A	133	 Quand le roi s’est téléporté vers>l’autre monde, un accident s’est>produit et il a perdu la mémoire…>Il a même perdu son équipement !|
-1185	$225D47	61	 Si nous ne l’arrêtons pas, Exdeath>détruira le monde entier…|
-1186	$225D99	82	 Krile peut parler à ce mog comme>elle parle à vous et moi ! Quel>talent mystérieux…|
-1187	$225DD6	61	 Krile est si gentille ! Elle a un cœur>d’or, tout comme le roi.|
-1188	$225E34	94	 Exdeath a décimé nos troupes…>Nous n’avons plus beaucoup de>soldats pour protéger le château.|
-1189	$225E40	12	 Bienvenue !|
-1190	$225E6D	45	 Ne me dérangez pas pendant que>je travaille !|
-1191	$225EAD	64	 Hum ! Je n’ai pas l’habitude d’offrir>des cadeaux, mais… Voilà !|
-1192	$225EC7	26	 >Obtenu : Lyre de Lamia !|
-1193	$225EDD	22	 Que faites-vous ici ?|
-1194	$225F25	72	 Les monstres d’Exdeath nous>attaquent dès que nous sortons du>château !|
-1195	$225F5E	57	 Si nous ouvrons les portes, les>monstres vont attaquer !|
-1196	$225F82	36	 Krile : …>Lenna : Qu’y a-t-il, Krile ?|
-1197	$225FCE	76	 Krile : Le dragon… Il… ne va pas>survivre…>Lenna : Quoi ?>Faris : Pourquoi ?|
-1198	$2260CB	253	 Krile : Il s’est surmené… Il était>blessé et il n’aurait pas dû voler,>mais… Il m’a accompagnée pour>vous trouver…>Galuf : Il s’est sacrifié pour venir>nous sauver…>Faris : Pouvons-nous faire quelque>chose pour lui ?>Krile : …>Lenna : L’herbe aux dragons…|
-1199	$22627F	436	 Krile : L’herbe aux dragons ? Elle>pourrait le guérir ?>Lenna : Oui, mais… Peut-on en>trouver sur ce monde ?>Faris : Sur notre monde, les>dragons font leur nid là où pousse>l’herbe aux dragons. Si nous>trouvons l’endroit où ils font leur>nid, nous devrions en trouver.>Galuf : Cela me semble logique…>[Bartz] : Alors ? Où font-ils leur>nid ?>Galuf : Le val des dragons semble>l’endroit indiqué, seulement…>Personne n’en est jamais revenu>vivant…|
-1200	$2262AF	48	 [Bartz] : Alors nous serons les>premiers à le faire !|
+1181	$225C09	104	 A citadella di Bal hè stata custruita>seculi fà… Quale sà chì secreti>ci pudarete scopre.|
+1182	$225C4A	65	 Oh, issu Gilgamesh ! E nostre truppe>sò state annientate à causa soia !|
+1183	$225C85	59	 Hè impussibule d'apre a porta di>petra di u sottuterra.|
+1184	$225D0A	133	 Quandu u rè s'hè teletrasportatu>versu l'altru mondu, un accidente>s'hè pruduttu è hà persu a memoria…>Hà ancu persu u so equipaggiu !|
+1185	$225D47	61	 S'è no ùn l'arrestemu micca, Exdeath>destruerà u mondu sanu…|
+1186	$225D99	82	 Krile pò parlà à stu mog cum'ella>parla à voi è à mè ! Chì>dono misteriosu…|
+1187	$225DD6	61	 Krile hè cusì brava ! Hà un core>d'oru, listessu chì u rè.|
+1188	$225E34	94	 Exdeath hà decimatu e nostre>truppe… ùn ci fermanu più assai>soldati per prutege u castellu.|
+1189	$225E40	12	 Benvenuti !|
+1190	$225E6D	45	 Ùn mi disturbate micca mentre>travagliu !|
+1191	$225EAD	64	 Hum ! ùn aghju micca l'abitudine di>offre rigali, ma… Eccu !|
+1192	$225EC7	26	 >Pigliatu : Lira di Lamia !|
+1193	$225EDD	22	 Chì fate quì ?|
+1194	$225F25	72	 I mostri d'Exdeath ci>attaccanu subitu subitu quand'esciamu da u>castellu !|
+1195	$225F5E	57	 S'è no apremu e porte, i>mostri attaccheranu !|
+1196	$225F82	36	 Krile : …>Lenna : Chì ci hè, Krile ?|
+1197	$225FCE	76	 Krile : U dragone… Ellu… ùn hà da>campà…>Lenna : Chì ?>Faris : Perchè ?|
+1198	$2260CB	253	 Krile : S'hè supraccaricatu… Era>digià feritu è ùn averia micca duvutu>vulà, ma… M'hà accumpagnata>per truvà vi…>Galuf : S'hè sacrificatu per vene>à salvà ci…>Faris : Pudemu fà qualcosa>per ellu ?>Krile : …>Lenna : L'erba di dragone…|
+1199	$22627F	436	 Krile : L'erba di dragone ? A>puderia guarì ?>>Lenna : Iè, ma… Se ne pò>truvà in stu mondu ?>Faris : In u nostru mondu, i>dragoni facenu u nidu induve cresce>l'erba di dragone. S'è no truvemu>u locu induve facenu u nidu,>ne duveriamu truvà.>Galuf : Mi pare logicu…>[Bartz] : Allora ? Induve facenu>u nidu ?>Galuf : A Valle di i dragoni>pare u locu adattu, solu chì…>Nimu ùn ne hè mai vultatu vivu…|
+1200	$2262AF	48	 [Bartz] : Allora, seremu i>primi à riesce ci !|
 1201	$2262BA	11	 Krile : [Bartz] !|
 1202	$226331	119	 Galuf : Le val des dragons est situé>au nord du château. Il faudra>d’abord traverser Quelbe, la ville>des loups-garous.|
 1203	$226412	225	 Krile : Mais les monstres ont cerné>le château ! Qu’allez-vous faire ?>Galuf : Ne t’inquiète pas ! Nous>nous en occuperons !>[Bartz] : C’est vrai !>Lenna : L’union fait la force.>Faris : Nous te rapporterons de>l’herbe aux dragons !|
