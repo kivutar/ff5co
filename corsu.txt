@@ -1298,106 +1298,106 @@
 1298	$22849A	36	 Si conta chì u rè Xezat hè mortu…|
 1299	$2284CA	48	 U scudu di u castellu d'Exdeath hè>statu dissipatu !|
 1300	$2284DF	21	 Krile : Ghido chjama…|
-1301	$2284F5	22	 Krile s’est évanouie !|
-1302	$228539	68	 Ghido le sage vit sur une petite \B8e>au nord-est du val des dragons.|
-1303	$228576	61	 Krile : Ghido appelle… du fond de>l’océan… Papi… dépêche-toi !|
-1304	$2285CE	88	 Krile : Je me sens beaucoup mieux.>Galuf : Ne te surmène pas.>Krile : Oh, papi… D’accord.|
-1305	$2285F7	41	 Non… Sa Majesté ne pourrait pas…>Oh non…|
-1306	$22860C	21	 Je déteste Exdeath !|
-1307	$228650	68	 Je ne peux pas croire que… Krile…>Toutes mes condoléances…>Courage !|
-1308	$22867B	43	 Krile… Sa Majesté veillera toujours>sur toi…|
-1309	$2286B0	53	 Noooon ! Je ne peux pas croire que>le roi ait péri !|
-1310	$2286D9	41	 Exdeath est de retour dans son>château !|
-1311	$228734	91	 [Bartz] : C’est ici ?>Galuf : Ghido le sage habite ici, oui.>Lenna : Allons-y !>Faris : Attends !|
-1312	$228752	30	 [Bartz] : Un tremblement de terre !|
-1313	$228783	49	 [Bartz] : L’\B8e va… Oh non !>Galuf : Vite ! Le dragon !|
-1314	$2287D4	81	 Exdeath : Mouah ha, ha, ha, ha !>Voilà ce qui arrive à ceux qui osent>me défier !|
-1315	$2287E8	20	 Garde : Qui va là ?|
-1316	$228834	76	 Garde : Ne reconnaissez-vous pas>Galuf, le roi de Bal ? Laissez-le>entrer !|
-1317	$2288EE	186	 Sergent : Sa Majesté le roi Xezat>est à la tête de la flotte en route>pour attaquer le château>d’Exdeath.>Galuf : Vraiment !>Faris : Xezat… Il est le quatrième>guerrier de l’aube, non ?|
-1318	$228917	41	 [Bartz] : Il a combattu aux côtés de>mon père…|
-1319	$22893B	36	 Sergent : Suivez-moi, je vous prie.|
-1320	$228981	70	 Sergent : Prenez tout ce qui>pourrait vous être utile dans le>château.|
-1321	$2289A0	31	 Galuf : Nous vous remercions !|
-1322	$228A33	147	 Galuf : J’ai de bien mauvaises>nouvelles… Xezat a péri.>Sergent : Comment ?>>Galuf : Il a péri au combat, d’une>mort digne d’un guerrier de l’aube.|
-1323	$228A36	3	 18|
-1324	$228AB1	123	 Sergent : Prenez toutes les armes>que vous trouverez dans le>château. Sans le roi, elles ne nous>sont plus d’aucune utilité.|
-1325	$228B81	208	 Sergent : Qui êtes-vous ?>Lenna : Nous sommes des alliés de>sa Majesté le roi Xezat…>>Malheureusement, le roi a péri en>combattant Exdeath.>Sergent : Le roi…[FixedPause] … Je comprends.>Et sa Majesté le roi Galuf aussi…|
-1326	$228BAF	46	 [Bartz] : Xezat a sacrifié sa vie>pour nous sauver…|
-1327	$228BD7	40	 Sergent : Veuillez patienter un>instant.|
-1328	$228C22	75	 Bienvenue au château de Surgate,>la résidence de sa Majesté le roi>Xezat !|
-1329	$228C71	79	 Sa Majesté est à la tête de la>flotte qui se dirige vers le château>d’Exdeath.|
-1330	$228CB5	68	 Votre dragon devrait pouvoir se>poser sur le pont du navire du roi.|
-1331	$228D06	81	 Si seulement nous pouvions>détruire le bouclier qui protège le>château d’Exdeath…|
-1332	$228D3A	52	 Nous défendrons le château>jusqu’au retour du roi !|
-1333	$228D9A	96	 Le bouclier est fortifié du côté du>grand pont, mais à l’est… Nous>aurions peut-être une chance.|
-1334	$228D9D	3	 19|
-1335	$228DD8	59	 Personne n’est autorisé à pénétrer>dans la chambre du roi.|
-1336	$228E49	113	 Ah, je me souviens de cette>chanson. Xezat la chantait tout le>temps à l’époque…>>>\52\52\52\52\52\52Appris : Etude Rapide !|
-1337	$228EB3	106	 Je viens tout juste de revenir du>lac au nord d’ici. Je l’ai échappé>belle ! Un œil immense m’a>poursuivi !|
-1338	$228F75	194	 Nous avons trouvé un livre qui>date de plus d’un millier d’années.>Malheureusement, nous n’en avons>trouvé que la moitié. Nous ne>pouvons en déchiffrer le contenu.>Il s’intitule «Manuscrit scellé».|
-1339	$228FFB	134	 Ooh, les gens feuillettent les livres>sans les ranger par la suite. C’est>insupportable ! Venez m’aider à>ranger les livres qui tra\BBent.|
-1340	$22900C	17	 Etagère «A - B».|
-1341	$22901D	17	 Etagère «G - H».|
-1342	$22902E	17	 Etagère «M - N».|
-1343	$22903F	17	 Etagère «C - D».|
-1344	$229050	17	 Etagère «I - J».|
-1345	$229061	17	 Etagère «O - P».|
-1346	$229072	17	 Etagère «S - Z».|
-1347	$229083	17	 Etagère «E - F».|
-1348	$229094	17	 Etagère «K - L».|
-1349	$2290A5	17	 Etagère «Q - R».|
-1350	$2290DF	58	 Très bien ! Je peux retourner dans>ma chambre maintenant.|
-1351	$2290FF	32	 >Obtenu : «Hérésie littéraire» !|
-1352	$22911D	30	 >Obtenu : «Tome monstrueux» !|
-1353	$229142	37	 >Obtenu : «Lois secrètes de Ronka» !|
-1354	$2291D1	143	 Je vous remercie de m’avoir aidée.>>>>Vous savez, on raconte qu’un sort>pouvant faire léviter les gens est>caché quelque part dans le>château.|
-1355	$229219	72	 [Bartz] : C’est trop lourd… Je ne>peux pas en transporter deux en>même temps.|
-1356	$22923F	38	 >Vous replacez le livre sur l’étagère.|
-1357	$229260	33	 Replacer le livre sur l’étagère ?|
-1358	$22927D	29	 >\52\52\52\52\52\52\52\52\52Appris : Léviter !|
-1359	$229302	133	 [Bartz] : Voyons voir… Cu…[FixedPause] Ce n’est>pas la bonne étagère !>Lenna : … Cherches-tu quelque>chose, [Bartz] ?>[Bartz] : Hein ? Non ! Rien en>particulier !|
-1360	$22936C	106	 Nous n’arrivons pas à trouver>l’autre moitié de ce livre ! Nous>avons cherché partout à travers le>monde !|
-1361	$2293F0	132	 Ce livre fait la liste de toutes les>atrocités commises par Exdeath il>y a 30 ans… Nous ne pouvons pas>laisser l’histoire se répéter !|
-1362	$22942F	63	 [Bartz] : Je pourrais jurer avoir vu>un livre identique quelque part…|
-1363	$2294A6	119	 A-t-on réussi à détruire le>bouclier ? Mince ! J’aurais bien>aimé participer à l’attaque, mais je>suis toujours blessé…|
-1364	$2294BF	25	 Ouille… J’ai mal partout…|
-1365	$22951D	94	 On nous envoie encore des blessés>de l’assaut contre le bouclier ! Tous>nos lits sont occupés !|
-1366	$229530	19	 Xezat : Ce dragon…|
-1367	$229559	41	 Xezat : Ne tirez pas. Ce sont des>amis !|
-1368	$2295D0	119	 Xezat : Galuf ! Content de te>revoir !>Galuf : Xezat ! Comment vas-tu ?>>Xezat : Ça pourrait aller mieux. Qui>sont-ils ?|
-1369	$229607	55	 Galuf : Voici le fils de Dorgann,>[Bartz].>Xezat : Le fils de…|
-1370	$229685	126	 Galuf : Ces demoiselles sont des>princesses de l’autre monde.>Xezat : Enchanté de faire votre>connaissance. Je m’appelle Xezat.|
-1371	$229717	146	 Galuf : Oh ? Qu’en est-il de sa>Majesté le roi Xezat ?>Xezat : Euh, à vrai dire, ça ne me>va pas vraiment…>Galuf : Tu n’as pas tort ! Ha, ha, ha !|
-1372	$229773	92	 Galuf : Alors, peux-tu nous aider à>infiltrer le château ?>Xezat : Ha, à qui le dites-vous !|
-1373	$2297BA	71	 Xezat : Pour l’instant, allez vous>reposer. Le combat débutera>bientôt.|
-1374	$2297F6	60	 La flotte n’est qu’un leurre.>J’espère que ça fonctionnera…|
-1375	$229851	91	 Si nous réussissons à détruire une>des quatre tours protectrices, le>bouclier se dissipera.|
-1376	$229891	64	 Une fois le bouclier dissipé, nous>pourrons attaquer le château.|
-1377	$22989C	11	 A l’aide !|
-1378	$2298C0	36	 Nous nous occuperons des>monstres !|
-1379	$2298DB	27	 Utilisez la salle de droite.|
-1380	$229901	38	 Nous creusons un tunnel sous>l’océan.|
-1381	$22991A	25	 Ooh… J’ai le mal de mer…|
-1382	$22994A	48	 Sa Majesté vous attend dans la>salle de gauche !|
-1383	$22996B	33	 Des monstres ! On nous attaque !|
-1384	$2299B1	70	 Galuf : Xezat, que se passe-t-il ?>Xezat : Exdeath… Il nous a cernés !|
-1385	$2299C1	16	 Galuf : Cernés…|
-1386	$229A1C	91	 Xezat : Je m’en occupe.>Galuf : Fais attention !>Xezat : Sois prudent !>Xezat : En garde !|
-1387	$229ABA	158	 Gilgamesh : Aaah… Un ciel d’azur,>une mer d’émeraude ! Qui pourrait>en demander plus ?>Malheureusement, vous>m’empêchez d’apprécier cette>magnifique journée !|
-1388	$229B05	75	 Gilgamesh : Pfft ! S’il en est ainsi,>pourquoi ne pas venir nager avec>moi ?|
-1389	$229B79	116	 Gilgamesh : Oh ! Quel sale tour ! Je>n’étais pas censé tomber ! Je ne>l’oublierai pas de sitôt ! Vous…>Gloup, gloup !|
+1301	$2284F5	22	 Krile hè cascata svenuta !|
+1302	$228539	68	 Ghido u saviu campa annantu à una>piccula isula à u nordu-est di a>Valle di i dragoni.|
+1303	$228576	61	 Krile : Ghido chjama… da u fondu di>l'uceanu… Babbone… sbrigà ti !|
+1304	$2285CE	88	 Krile : Mi sentu assai megliu.>Galuf : Ùn ti strapazzà.>Krile : Oh, babbone… D'accordu.|
+1305	$2285F7	41	 Innò… U rè ùn puderia micca…>Oh innò…|
+1306	$22860C	21	 Odiu Exdeath !|
+1307	$228650	68	 Ùn possu crede chì… Krile…>Ti porgu e mo cundulianze…>Curagiu !|
+1308	$22867B	43	 Krile… U rè veghjerà sempre>nantu à tè…|
+1309	$2286B0	53	 Nooo ! Ùn possu micca crede chì>u rè sia mortu !|
+1310	$2286D9	41	 Exdeath hè vultatu in u so>castellu !|
+1311	$228734	91	 [Bartz] : Hè quì ?>Galuf : Ghido u saviu campa quì, iè.>Lenna : Andemu ci !>Faris : Aspetta !|
+1312	$228752	30	 [Bartz] : Un trimuleghju di terra !|
+1313	$228783	49	 [Bartz] : L'isula hà da… Oh innò !>Galuf : Prestu ! U dragone !|
+1314	$2287D4	81	 Exdeath : Mouah ha, ha, ha, ha !>Eccu ciò chì accade à quelli chì osanu>sfidà mi !|
+1315	$2287E8	20	 Guardia : Quale va là ?|
+1316	$228834	76	 Guardia : Ùn ricunniscite micca>Galuf, u rè di Bal ? Lasciate lu>entre !|
+1317	$2288EE	186	 Sergente : A so Maestà u rè Xezat>hè à capu di a flotta in strada>per attaccà u castellu>d'Exdeath.>Galuf : Veramente !>Faris : Xezat… Hè u quartu>guerrieru di l'alba, nò ?|
+1318	$228917	41	 [Bartz] : Hà cumbattutu à fiancu di>u mo babbu…|
+1319	$22893B	36	 Sergente : Seguitemi, vi ne pregu.|
+1320	$228981	70	 Sergente : Pigliate tuttu ciò chì>puderia esse vi utile in u>castellu.|
+1321	$2289A0	31	 Galuf : Vi ringraziemu !|
+1322	$228A33	147	 Galuf : Aghju assai male>nutizie… Xezat hè mortu.>Sergente : Cumu ?>>Galuf : Hè mortu in cumbattu, d'una>morte degna d'un guerrieru di l'alba.|
+1323	$228A36	3	 ...|
+1324	$228AB1	123	 Sergente : Pigliate tutte l'arme>chì truverete in u>castellu. Senza u rè, ùn ci>sò più d'alcuna utilità.|
+1325	$228B81	208	 Sergente : Quale site voi ?>>Lenna : Semu alleati di>a so Maestà u rè Xezat…>>Sfortunatamente, u rè hè mortu in>cumbattu contr'à Exdeath.>Sergente : U rè…[FixedPause] … Capiscu.>È a so Maestà u rè Galuf dinù…|
+1326	$228BAF	46	 [Bartz] : Xezat hà sacrificatu a so vita>per salvà ci…|
+1327	$228BD7	40	 Sergente : Aspettate un>mumentu, per piacè.|
+1328	$228C22	75	 Benvenuti à u castellu di Surgate,>a residenza di a so Maestà u rè>Xezat !|
+1329	$228C71	79	 A so Maestà hè à capu di a>flotta chì si dirige versu u castellu>d'Exdeath.|
+1330	$228CB5	68	 U vostru dragone duveria pudè>atterrà nant'à u ponte di u bastimentu di u rè.|
+1331	$228D06	81	 Ah, s'ellu ci fussi pussibule di>distrughje u scudu chì prutege u>castellu d'Exdeath…|
+1332	$228D3A	52	 Difenderemu u castellu>sin'à u ritornu di u rè !|
+1333	$228D9A	96	 U scudu hè furtificatu da a banda di u>Gran Ponte, ma à livante…>Averiamu forse una furtuna.|
+1334	$228D9D	3	 ...|
+1335	$228DD8	59	 Nimu hè autorizatu à entre>in a camera di u rè.|
+1336	$228E49	113	 Ah, mi ramentu di sta>canzona. Xezat a cantava sempre>tandu…>>>\52\52\52\52\52\52Amparatu : Cantu di rapidità !|
+1337	$228EB3	106	 Sò ghjustu avà vultatu da u>lavu à u nordu d'quì. L'aghju scansata>bella ! Un ochju tamantu m'hà>inseguitatu !|
+1338	$228F75	194	 Avemu trovu un libru chì>data di più di mille anni fà.>Sfurtunatamente, ùn n'avemu>trovu cà a metà. Ùn pudemu micca>decifrane u cuntinutu.>Si chjama « Manuscrittu sigillatu ».|
+1339	$228FFB	134	 Ooh, a ghjente sfoglia i libri>senza rimetteli à locu dopu. Hè>insuppurtabile ! Venite à aiutà mi à>rincasà i libri chì sò sparsi in giru.|
+1340	$22900C	17	 Scaffale « A - B ».|
+1341	$22901D	17	 Scaffale « G - H ».|
+1342	$22902E	17	 Scaffale « M - N ».|
+1343	$22903F	17	 Scaffale « C - D ».|
+1344	$229050	17	 Scaffale « I - J ».|
+1345	$229061	17	 Scaffale « O - P ».|
+1346	$229072	17	 Scaffale « S - Z ».|
+1347	$229083	17	 Scaffale « E - F ».|
+1348	$229094	17	 Scaffale « K - L ».|
+1349	$2290A5	17	 Scaffale « Q - R ».|
+1350	$2290DF	58	 Assai bè ! Puderaghju vultà in>a mo camera avà.|
+1351	$2290FF	32	 >Pigliatu : « Eresia litteraria » !|
+1352	$22911D	30	 >Pigliatu : « Tumu mostruosu » !|
+1353	$229142	37	 >Pigliatu : « Leghje secrete di Ronka » !|
+1354	$2291D1	143	 Vi ringraziu d'avè mi aiutata.>>>>Sapete, si conta chì un sortilegiu>capace di fà levità a ghjente hè>piattu in qualchì locu in u>castellu.|
+1355	$229219	72	 [Bartz] : Hè troppu pesante… Ùn>ne possu trasportà dui à a>volta.|
+1356	$22923F	38	 >Rimettite u libru nantu à u scaffale.|
+1357	$229260	33	 Rimette u libru nantu à u scaffale ?|
+1358	$22927D	29	 >\52\52\52\52\52\52\52\52\52Amparatu : Levità !|
+1359	$229302	133	 [Bartz] : Fighjemu un pocu… Cu…[FixedPause] Ùn hè>micca u scaffale ghjustu !>Lenna : … Cerchi qualchì>cosa, [Bartz] ?>[Bartz] : Eh ? Innò ! Nunda>di particulare !|
+1360	$22936C	106	 Ùn riescemu micca à truvà>l'altra metà di stu libru ! Avemu>circatu in ogni locu à traversu u>mondu !|
+1361	$2293F0	132	 Stu libru face a lista di tutte l'>atrocità cumesse da Exdeath 30>anni fà… Ùn pudemu micca>lascià chì a storia si ripeta !|
+1362	$22942F	63	 [Bartz] : Puderia ghjurà d'avè vistu>un libru identicu in qualchì locu…|
+1363	$2294A6	119	 Simu riesciuti à distrughje u>scudu ? Mince ! Mi saria>piaciutu participà à l'attaccu, ma sò>sempre feritu…|
+1364	$2294BF	25	 Ahiu… Mi face male tuttu…|
+1365	$22951D	94	 Ci mandanu sempre altri feriti>da l'assaltu contr'à u scudu ! Tutti>i letti sò occupati !|
+1366	$229530	19	 Xezat : Stu dragone…|
+1367	$229559	41	 Xezat : Ùn tirate. Sò>amichi !|
+1368	$2295D0	119	 Xezat : Galuf ! Cuntentu di vede ti>torna !>Galuf : Xezat ! Cumu stai ?>>Xezat : Puderia andà megliu. Quale>sò elli ?|
+1369	$229607	55	 Galuf : Eccu u figliolu di Dorgann,>[Bartz].>Xezat : U figliolu di…|
+1370	$229685	126	 Galuf : Ste damicelle sò principesse>di l'altru mondu.>Xezat : Incantatu di fà a vostra>cunniscenza. Mi chjamu Xezat.|
+1371	$229717	146	 Galuf : Oh ? È a so>Maestà u rè Xezat ?>>Xezat : Euh, à dì la franca, ùn mi>cunvene micca tantu…>Galuf : Ùn ai micca tortu ! Ha, ha, ha !|
+1372	$229773	92	 Galuf : Allora, ci poi aiutà à>infiltrà ci in u castellu ?>>Xezat : Ha, a quale u dici !|
+1373	$2297BA	71	 Xezat : Per avà, andate vi à>riposà. U cumbattu hà da cumincià>prestu.|
+1374	$2297F6	60	 A flotta ùn hè chè un esca.>Spergu chì hà da funziunà…|
+1375	$229851	91	 S'è no riescemu à distrughje una>di e quattru torre prutrittrice, u>scudu si dissiperà.|
+1376	$229891	64	 Una volta dissipatu u scudu,>puderemu attaccà u castellu.|
+1377	$22989C	11	 À l'aiutu !|
+1378	$2298C0	36	 Ci ne occuparemu noi di i>mostri !|
+1379	$2298DB	27	 Aduprate a sala à diritta.|
+1380	$229901	38	 Stemmu scavendu un tunnel sottu>à l'uceanu.|
+1381	$22991A	25	 Ooh… Mi vene u mal di mare…|
+1382	$22994A	48	 A so Maestà vi aspetta in a>sala à manca !|
+1383	$22996B	33	 Mostri ! Simu attaccati !|
+1384	$2299B1	70	 Galuf : Xezat, chì succede ?>Xezat : Exdeath… Ci hà circundati !|
+1385	$2299C1	16	 Galuf : Circundati…|
+1386	$229A1C	91	 Xezat : Me ne occupu eiu.>Galuf : Stà attentu !>Xezat : Stà attentu tù dinù !>Xezat : In guardia !|
+1387	$229ABA	158	 Gilgamesh : Aaah… Un celu turchinu,>un mare smeraldinu ! Quale ne>puderia dumandà di più ?>Sfurtunatamente, voi>m'impedite d'apprezzà sta>magnifica ghjurnata !|
+1388	$229B05	75	 Gilgamesh : Pfft ! S'ellu hè cusì,>perchè ùn vene micca à nutà cun>mè ?|
+1389	$229B79	116	 Gilgamesh : Oh ! Chì gattivu colpu ! Ùn>duvia micca cascà ! Ùn mi ne>scurderaghju tantu prestu ! Voi…>Gloup, gloup !|
 1390	$229B86	13	 Galuf : Ah !|
-1391	$229BFC	118	 Galuf : Ah… Mes mains sont>engourdies…>Xezat : J’arrive, tiens bon !>>Galuf : Je ne pourrai pas tenir plus>longtemps…|
-1392	$229C3A	62	 Galuf : Le dragon !>Xezat : Parfait ! Passons à>l’offensive !|
-1393	$229C6E	52	 Tout est sous contrôle !>Rendez-vous dans la cale !|
-1394	$229CAE	64	 Xezat : Quand vous serez prêts,>prenez l’autre côté de la boîte.|
-1395	$229CC0	18	 Xezat : Allons-y !|
-1396	$229DC8	264	 Galuf : Que comptes-tu faire ?>Xezat : La flotte n’est qu’un leurre.>Nous essayons d’atteindre la tour>protectrice en sous-marin !>Galuf : Hum, pas mal, comme plan !>Xezat : Cela va sans dire ! Le tunnel>menant à la tour vient tout juste>d’être terminé. Allons-y !|
-1397	$229DDD	21	 Xezat : Suivez-moi !|
-1398	$229DF8	27	 Voulez-vous vous reposer ?|
-1399	$229E1D	37	 Xezat : Replions-nous pour>l’instant.|
-1400	$229E31	20	 Xezat : Attention !|
+1391	$229BFC	118	 Galuf : Ah… E mo mani sò>inturbidite…>Xezat : Ghjungu, tene bonu !>>Galuf : Ùn puderaghju tene più>à longu…|
+1392	$229C3A	62	 Galuf : U dragone !>Xezat : Perfettu ! Passemu à>l'offensiva !|
+1393	$229C6E	52	 Tuttu hè sottu cuntrollu !>Andate in stiva !|
+1394	$229CAE	64	 Xezat : Quand'ellu sarete pronti,>pigliate l'altru latu di a scatula.|
+1395	$229CC0	18	 Xezat : Andemu !|
+1396	$229DC8	264	 Galuf : Chì conti di fà ?>Xezat : A flotta ùn hè chè un esca.>Circhemu à ghjunghje à a torre>prutrittrice in sottumarinu !>Galuf : Hum, micca male, cum'è pianu !>Xezat : Hè sicuru ! U tunnel>chì porta à a torre hè ghjustu avà>compiu. Andemu !|
+1397	$229DDD	21	 Xezat : Seguitemi !|
+1398	$229DF8	27	 Vulete ripusà vi ?|
+1399	$229E1D	37	 Xezat : Ritiremu ci per>u mumentu.|
+1400	$229E31	20	 Xezat : Attenti !|
 1401	$229F69	312	 Galuf : Nous sommes dans la tour>protectrice ?>Xezat : C’est exact. Si nous>arrivons à la détruire, le bouclier>se dissipera ! Je vais m’occuper de>la génératrice située au sous-sol.>Allez détruire l’antenne au>sommet !>Galuf : Entendu !>Xezat : Je vous donnerai le signal>dès que j’aurai détruit la>génératrice !|
 1402	$229F8A	33	 Xezat : Tenez ! C’est pour vous.|
 1403	$229FA9	31	 >Obtenu : Herbe aux murmures !|
