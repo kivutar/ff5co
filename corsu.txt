@@ -1498,106 +1498,106 @@
 1498	$22BBA2	20	 [Bartz] : Galuf ! Cura3 !|
 1499	$22BBC0	30	 Lenna : Ti ne supplichu… Vita !|
 1500	$22BBF6	54	 Faris : Teni bonu ! Coda di Fenice !>Elixir ! Forza !|
-1501	$22BC13	29	 >\52\52\52\52\52\52 Galuf a rendu l’âme…|
-1502	$22BC61	78	 Krile : PAPI ! Non ! Non ! Ne>m’abandonne pas ! Ne me laisse>pas toute seule !|
-1503	$22BC78	23	 Krile …>Krile : … Papi ?|
-1504	$22BD68	240	 Galuf : L’arbre gardien, celui qui a>protégé les cristaux pendant des>siècles, me permet de te parler…>Je n’ai pas beaucoup de temps,>mais je veux te donner ma force…>Ne pleure plus, Krile… Tu dois>combattre aux côtés de [Bartz],>Lenna et Faris !|
-1505	$22BDA4	60	 Krile : Non ! C’est à toi de le faire !>Ne m’abandonne pas !|
-1506	$22BE0B	103	 Galuf : Tu sais bien que cela m’est>impossible… Toutefois, tu n’es pas>seule, Krile. Ne l’oublie jamais.|
-1507	$22BE37	44	 >\52\52Krile reçoit les compétences de>\52\52Galuf !|
-1508	$22BE9F	104	 Krile : … Une brise tiède… Papi, je>sais que tu veilleras sur moi…>Galuf : Je serai toujours là pour>toi.|
-1509	$22BECF	48	 Krile : Papi… … … J’ai compris. Oh ?>Exdeath va…|
+1501	$22BC13	29	 >\52\52\52\52\52\52 Galuf hè mortu…|
+1502	$22BC61	78	 Krile : BABBONE ! Innò ! Innò ! Ùn>m'abbandunà micca ! Ùn mi lascia>micca tutta sola !|
+1503	$22BC78	23	 Krile…>Krile : … Babbone ?|
+1504	$22BD68	240	 Galuf : L'arburu guardianu, quellu chì hà>prutettu i cristalli durante seculi,>mi permette di parlà ti…>Ùn aghju tantu tempu,>ma ti vogliu dà a mo forza…>Ùn pienghje più, Krile… Ci vole>à cumbatte à fiancu di [Bartz],>Lenna è Faris !|
+1505	$22BDA4	60	 Krile : Innò ! Ci vole à fà la tù !>Ùn m'abbandunà micca !|
+1506	$22BE0B	103	 Galuf : A sai bè chì ghjè>impussibule… Eppuru, ùn sì micca>sola, Krile. Ùn scurdà ti ne mai.|
+1507	$22BE37	44	 >\52\52Krile riceve l'abilità di>\52\52Galuf !|
+1508	$22BE9F	104	 Krile : … Un soffiu tepidu… Babbone, sò>chì veghjerai nantu à mè…>Galuf : Seraghju sempre quì per>tè.|
+1509	$22BECF	48	 Krile : Babbone… … … Aghju capitu. Oh ?>Exdeath hà da…|
 1510	$22BEDA	11	 [Bartz] : Krile !|
-1511	$22BFAF	213	 Krile : [Bartz], Lenna, Faris… Je>veux me joindre à vous !>[Bartz] : Krile…>Krile : Papi m’a dit qu’Exdeath>essaie de détruire les cristaux.>Dépêchons-nous ! Nous devons>nous rendre à son château au plus>vite et l’en empêcher !|
-1512	$22BFC2	19	 Krile : Le dragon !|
-1513	$22BFD9	23	 Krile : Papi m’appelle !|
+1511	$22BFAF	213	 Krile : [Bartz], Lenna, Faris… Vogliu>unisce mi à voi !>[Bartz] : Krile…>Krile : Babbone m'hà dettu ch'Exdeath>prova à distrughje i cristalli.>Affrettemu ci ! Ci vole à andà>à u so castellu u più>prestamente è impedì lu !|
+1512	$22BFC2	19	 Krile : U dragone !|
+1513	$22BFD9	23	 Krile : Babbone m'appella !|
 1514	$22BFE2	9	 Krile : …|
-1515	$22C036	84	 La porte est verrouillée et il n’y a>pas d’autre moyen d’entrer !>Exdeath, espèce de…|
-1516	$22C07B	69	 Ghido le sage saurait sans doute>quoi faire dans une telle situation…|
-1517	$22C0AF	52	 Exdeath est là-haut et nous ne>pouvons rien faire !|
-1518	$22C0C6	23	 Nous vengerons Xezat !|
-1519	$22C0E4	30	 Tu nous le paieras, Exdeath !|
-1520	$22C109	37	 Nous n’avons pas pu arrêter>Exdeath…|
-1521	$22C120	23	 Exdeath est au sommet…|
-1522	$22C13C	28	 Nous n’avons rien pu faire…|
-1523	$22C15F	35	 Allez combattre Exdeath pour>nous !|
-1524	$22C174	21	 Il… était trop fort…|
-1525	$22C187	19	 [Bartz] : Un cul-de-sac…|
-1526	$22C213	140	 [Bartz] : Krile, où vas-tu ? Il n’y a>rien là-bas.>Krile : Tu te trompes… Ce n’est>qu’une illusion créée par Exdeath.>Lenna : Quoi ? Tu en es sûre ?|
-1527	$22C234	33	 Krile : Papi, donne-moi ta force…|
-1528	$22C2B5	129	 Kelgar : Je vois… Galuf a péri lui>aussi… Dorgann, Xezat et Galuf ne>sont plus de ce monde…[FixedPause] Oh… Je>n’en ai plus pour longtemps…|
-1529	$22C2C4	15	 Maître Kelgar !|
-1530	$22C302	62	 Kelgar : Je ne tarderai pas à>sombrer dans le sommeil éternel…|
-1531	$22C343	65	 Kelgar : Qui va là ? … Galuf ? Galuf,>c’est bien toi ? Krile est…|
-1532	$22C35D	26	 Kelgar : Galuf…[FixedPause] Entendu.|
-1533	$22C3DE	129	 Kelgar : Laissez-moi emprunter>votre force !>>>Maître Kelgar !>>>>Kelgar : Ensemble, nous pourrons>dissiper l’illusion d’Exdeath !|
-1534	$22C437	89	 Kelgar : Accédez à mon ultime>requête… Dirigez votre énergie>vers le château d’Exdeath !|
-1535	$22C454	29	 A vos ordres, Maître Kelgar !|
-1536	$22C497	67	 Krile : Je vois papi… et… un>loup-garou !>[Bartz] : Ce doit être Kelgar !|
-1537	$22C49A	3	 25|
-1538	$22C4AF	21	 Krile : Leur énergie…|
-1539	$22C507	88	 Carbuncle : Si vous êtes plus forts>que moi, je me joindrai à vous !>Qu’en dites-vous ?|
-1540	$22C561	90	 Carbuncle : Pas mal du tout ! Enfin !>L’aventure m’attend !>>>>\52\52\52\52\52\52\52\52\52\52Appris : Ahuri !|
-1541	$22C5CA	105	 [Bartz] : Pas encore lui !>Gilgamesh : Ha, ha ! Vous cherchez>quelque chose ? Trop tard ! Le>trésor est à moi !|
-1542	$22C606	60	 Exdeath : Ne vous mêlez pas de ce>qui ne vous regarde pas !|
-1543	$22C636	48	 [Bartz] : Exdeath ! Nous ne te>laisserons pas faire !|
-1544	$22C71A	228	 Exdeath : Mouah ha, ha, ha, ha…>Savez-vous au moins ce que>j’essaie d’accomplir ?>[Bartz] : Euh… Non, mais…>Exdeath : Vous vous battez si>vaillamment sans connaître la>vérité… Imbéciles !>>Je vais redonner au monde son>apparence d’antan.|
-1545	$22C7E9	207	 [Bartz] : Dis plutôt que tu le>transformeras en un monde de>ténèbres !>Exdeath : Peu importe ce que vous>croyez. Vous ne pourriez jamais>comprendre mes intentions. Je ne>vous permettrai pas de me faire>obstacle !|
-1546	$22C827	62	 Lenna : Oh non ! Les cristaux !>[Bartz] : Ils… Ils vont se briser !|
-1547	$22C836	15	 Lenna : C’est…|
-1548	$22C882	76	 Faris : Le château de Tycoon…>Lenna : Nous sommes revenus sur>notre monde ?|
-1549	$22C892	16	 Votre Altesse !|
-1550	$22C895	3	 26|
-1551	$22C8A9	20	 Vous êtes revenue !|
-1552	$22C8AC	3	 27|
-1553	$22C8FB	79	 Chancelier : Princesse Lenna !>Princesse Sarissa ! Vous êtes saines>et sauves !|
-1554	$22C90D	18	 Lenna : Père… Il…|
-1555	$22C9F5	232	 Chancelier : La mort de sa Majesté>représente une grande perte pour>notre royaume. Cependant, nous>devons aller de l’avant. De plus, la>princesse Sarissa est revenue alors>que nous la croyions perdue à tout>jamais… Réjouissons-nous !|
-1556	$22CA63	110	 Faris : Sarissa… Mon véritable>nom…>Chancelier : Oui, votre Altesse.>>Faris : C’est le nom que papa m’a>donné…|
-1557	$22CA87	36	 [Bartz] : Hé, qu’est-ce que vous>faites ?|
-1558	$22CAF4	109	 Chancelier : Nous avons organisé>un banquet en l’honneur de votre>retour. Vos… amis peuvent aussi y>assister.|
-1559	$22CB6F	123	 Faris : Je ne sortirai pas de cette>pièce habillée ainsi ! Pas question !>Chancelier : Allons, votre Altesse !>Faris : Pfft !|
-1560	$22CB7D	14	 Oh… Superbe !|
-1561	$22CB93	22	 [Bartz] : A qui le dis-tu !|
-1562	$22CBBB	40	 Krile : [Bartz], tu rougis !>[Bartz] : Pas du tout !|
-1563	$22CBE7	44	 Tycoon pourra retrouver sa gloire>d’antan !|
-1564	$22CC2E	71	 La princesse Lenna est mignonne,>mais la princesse Sarissa est>canon !|
-1565	$22CC83	85	 C’est vrai que la princesse a décidé>de porter le nom de «Faris» ? Quel>nom étrange…|
-1566	$22CCA7	36	 Un, deux, trois… Dansez avec nous !|
-1567	$22CD21	122	 J’espère que les princesses ne>partiront plus à l’aventure ! Si>seulement elles pouvaient rester>au château pour toujours…|
-1568	$22CD41	32	 Le banquet durera trois jours !|
-1569	$22CD51	16	 Oups ! Pardon !|
-1570	$22CDC6	117	 Merveilleux ! Merveilleux !>[FixedPause] … Au fait, vous avez remarqué>que le ciel juste au-dessus de>Tycoon est un peu étrange ?|
-1571	$22CDFA	52	 Krile : Papi…>[Bartz] : Ça va, Krile ? Tu pensais à>Galuf ?|
-1572	$22CE6B	113	 Krile : Oui… Je vais mieux, mais je>suis toujours un peu anxieuse.>C’est comme si papi me poussait à>me dépêcher…|
-1573	$22CEBC	81	 [Bartz] : Je crois que je comprends>comment tu te sens. Partons !>Krile : Hein ? Quoi ?|
-1574	$22CF11	85	 [Bartz] : Nous devons savoir>pourquoi nous sommes revenus>sur mon monde.>Krile : D’accord !|
-1575	$22CF64	83	 Krile : Mais Lenna et Faris…>[Bartz] : Je ne crois pas qu’elles>puissent nous accompagner…|
-1576	$22CF67	3	 28|
-1577	$22CFC7	96	 Nous sommes si heureux que les>princesses soient rentrées ! Nous>n’avons plus à nous inquiéter.|
-1578	$22D024	93	 Excusez-moi ! Je dois aller avertir>tout le monde que nous avons>terminé le pont de l’ouest !|
-1579	$22D0D2	174	 [Bartz] : Boko devrait toujours>être dans la grotte à l’ouest d’ici…>Krile : Boko ?>[Bartz] : Quoi, tu ne me crois pas ?>Krile : Toi qui as tant de mal à>voler à dos de dragon…>[Bartz] : Pfft !|
-1580	$22D0EA	24	 Krile : Aïe ! Prends ça !|
-1581	$22D111	39	 [Bartz] : Impossible d’avoir le>dernier mot…|
+1515	$22C036	84	 A porta hè chjosa à chjave è ùn ci hè>altru mezu d'entrà !>Exdeath, spezia di…|
+1516	$22C07B	69	 Ghido u saviu saparia forse>chì fà in una situazione simile…|
+1517	$22C0AF	52	 Exdeath hè culà sopra è ùn>pudemu fà nunda !|
+1518	$22C0C6	23	 Vindicheremu Xezat !|
+1519	$22C0E4	30	 A pagherai, Exdeath !|
+1520	$22C109	37	 Ùn avemu pussutu arrestà>Exdeath…|
+1521	$22C120	23	 Exdeath hè in cima…|
+1522	$22C13C	28	 Ùn avemu pussutu fà nunda…|
+1523	$22C15F	35	 Andate à cumbatte Exdeath per>noi !|
+1524	$22C174	21	 Era… troppu forte…|
+1525	$22C187	19	 [Bartz] : Un viale senza esce…|
+1526	$22C213	140	 [Bartz] : Krile, induve vai ? Ùn ci hè>nunda culà.>Krile : Ti sbagli… Ùn hè>chè una illusione creata da Exdeath.>Lenna : Chì ? Ne sì sicura ?|
+1527	$22C234	33	 Krile : Babbone, prestami a to forza…|
+1528	$22C2B5	129	 Kelgar : Capiscu… Galuf hè mortu>anch'ellu… Dorgann, Xezat è Galuf ùn>sò più di stu mondu…[FixedPause] Oh… Ùn>mi ferma più tantu da campà…|
+1529	$22C2C4	15	 Signore Kelgar !|
+1530	$22C302	62	 Kelgar : Ùn tarderaghju micca à>piombà in u sonnu eternu…|
+1531	$22C343	65	 Kelgar : Quale va là ? … Galuf ? Galuf,>sì propiu tù ? Krile hè…|
+1532	$22C35D	26	 Kelgar : Galuf…[FixedPause] Capitu.|
+1533	$22C3DE	129	 Kelgar : Lasciate mi imprestà>u vostru putere !>>>Signore Kelgar !>>>>Kelgar : Inseme, puderemu>dissipà l'illusione d'Exdeath !|
+1534	$22C437	89	 Kelgar : Accedite à a mo ultima>dumanda… Dirigite a vostra energia>versu u castellu d'Exdeath !|
+1535	$22C454	29	 À i vostri ordini, Signore Kelgar !|
+1536	$22C497	67	 Krile : Vecu babbone… è… un>lupu mannaru !>[Bartz] : Deve esse Kelgar !|
+1537	$22C49A	3	 ...|
+1538	$22C4AF	21	 Krile : A so energia…|
+1539	$22C507	88	 Carbuncle : S'è vo site più forti>ch'è mè, mi unisceraghju à voi !>Chì ne dite ?|
+1540	$22C561	90	 Carbuncle : Mica male ! Infine !>L'aventura m'aspetta !>>>>\52\52\52\52\52\52\52\52\52\52Appris : Carbuncle !|
+1541	$22C5CA	105	 [Bartz] : Micca torna ellu !>Gilgamesh : Ha, ha ! Circate>qualcosa ? Troppu tardi ! U>tesoru hè mio !|
+1542	$22C606	60	 Exdeath : Ùn vi immischjate micca in ciò>chì ùn vi riguarda !|
+1543	$22C636	48	 [Bartz] : Exdeath ! Ùn ti>lasceremu micca fà !|
+1544	$22C71A	228	 Exdeath : Mouah ha, ha, ha, ha…>Sapete almenu ciò chì>provu à compie ?>>[Bartz] : Euh… Innò, ma…>Exdeath : Vi battete cusì>valentemente senza cunnosce a>verità… Scemi !>>Renderaghju à u mondu u so>aspettu d'antan.|
+1545	$22C7E9	207	 [Bartz] : Vulete dì chì u>trasformerai in un mondu di>tenebre !>Exdeath : Poco importa ciò chì credite.>Ùn puderete mai>capisce e mo intenzioni. Ùn vi>lasceraghju micca fà mi>ostaculu !|
+1546	$22C827	62	 Lenna : Oh innò ! I cristalli !>[Bartz] : Elli… Elli si vanu à rompe !|
+1547	$22C836	15	 Lenna : Quellu hè…|
+1548	$22C882	76	 Faris : U castellu di Tycoon…>Lenna : Semu vultati annantu>à u nostru mondu ?|
+1549	$22C892	16	 Altezza !|
+1550	$22C895	3	 ...|
+1551	$22C8A9	20	 Site vultata !|
+1552	$22C8AC	3	 ...|
+1553	$22C8FB	79	 Cancelliere : Principessa Lenna !>Principessa Sarissa ! Site sane>è salve !|
+1554	$22C90D	18	 Lenna : Babbu… Ellu…|
+1555	$22C9F5	232	 Cancelliere : A morte di a so Maestà>raprisenta una grande perdita per>u nostru regnu. Eppuru, ci>tocca à avanzà. In più, a>principessa Sarissa hè vultata mentre>noi a cridiamu persa per sempre…>Rallegremu ci !|
+1556	$22CA63	110	 Faris : Sarissa… U mo veru>nome…>Cancelliere : Iè, Altezza vostra.>>Faris : Hè u nome chì babbu m'hà>datte…|
+1557	$22CA87	36	 [Bartz] : Oi, chì hè chì fate ?|
+1558	$22CAF4	109	 Cancelliere : Avemu urganizatu>un banchettu in l'onore di u vostru>ritornu. I vostri… amichi ponu>assiste ci dinù.|
+1559	$22CB6F	123	 Faris : Ùn surtaraghju micca da sta>stanza vistuta cusì ! Mancu per>isognu !>Cancelliere : Andate, Altezza vostra !>Faris : Pfft !|
+1560	$22CB7D	14	 Oh… Superba !|
+1561	$22CB93	22	 [Bartz] : Ùn mi lu fà micca dì !|
+1562	$22CBBB	40	 Krile : [Bartz], tù arrussisci !>[Bartz] : Mica vera !|
+1563	$22CBE7	44	 Tycoon puderà ritruvà a so gloria>d'antan !|
+1564	$22CC2E	71	 A principessa Lenna hè carina,>ma a principessa Sarissa hè>magnifica !|
+1565	$22CC83	85	 Hè vera chì a principessa hà decisu>di purtà u nome di « Faris » ? Chì>nome stranu…|
+1566	$22CCA7	36	 Unu, dui, trè… Ballate cun noi !|
+1567	$22CD21	122	 Spergu chì e principesse ùn>partinu più in aventura ! Sì>solu elle pudessinu firmà>à u castellu per sempre…|
+1568	$22CD41	32	 U banchettu durerà trè ghjorni !|
+1569	$22CD51	16	 Oups ! Scusate mi.|
+1570	$22CDC6	117	 Maravigliosu ! Maravigliosu !>[FixedPause] … À prò, avete rimarcatu>chì u celu ghjustu sopra>Tycoon hè un pocu stranu ?|
+1571	$22CDFA	52	 Krile : Babbone…>[Bartz] : Va bè, Krile ? Pensavi à>Galuf ?|
+1572	$22CE6B	113	 Krile : Iè… Stò megliu, ma sò>sempre un pocu ansiosa.>Hè cum'è s'è babbone mi spinghjessi>à affrettà mi…|
+1573	$22CEBC	81	 [Bartz] : Credu di capisce>cum'è ti senti. Partemu !>Krile : Eh ? Chì ?|
+1574	$22CF11	85	 [Bartz] : Ci vole à sapè>perchè simu vultati>annantu à u mo mondu.>Krile : D'accordu !|
+1575	$22CF64	83	 Krile : Ma Lenna è Faris…>[Bartz] : Ùn credu micca ch'elle>possinu accumpagnà ci…|
+1576	$22CF67	3	 ...|
+1577	$22CFC7	96	 Semu cusì felici chì e>principesse sianu vultate ! Ùn>avemu più da inquietà ci.|
+1578	$22D024	93	 Scusate mi ! Devu andà à avvisà>tuttu u mondu chì avemu>finitu u ponte di punente !|
+1579	$22D0D2	174	 [Bartz] : Boko duveria sempre>esse in a grotta à punente d'quì…>Krile : Boko ?>[Bartz] : Chì, ùn mi credi micca ?>Krile : Tù chì hai tantu male à>vulà nant'à un dragone…>[Bartz] : Pfft !|
+1580	$22D0EA	24	 Krile : Aiò ! Piglia ti què !|
+1581	$22D111	39	 [Bartz] : Impussibule d'avè>l'ultima parolla…|
 1582	$22D12C	27	 [Bartz] : Boko !>Boko : Kwoaaa !|
-1583	$22D150	36	 Krile : Bonjour ! Je m’appelle Krile !|
-1584	$22D183	51	 [Bartz] : Oh ? Tu parles aussi le>langage des chocobos ?|
-1585	$22D1C8	69	 Krile : Je me débrouille… Je crois>qu’il veut nous présenter>quelqu’un.|
-1586	$22D227	95	 Krile : Quoi ? Vraiment ?>[Bartz], je te présente Koko, la>compagne de Boko.>[Bartz] : Boko ! Tombeur, va !|
-1587	$22D324	253	 [Bartz] : J’ai une faveur à te>demander, Boko…>Boko : Kwoa !>Krile : Il dit qu’il sait déjà de quoi>tu parles.>[Bartz] : Hein ?>Krile : Il dit que tu veux repartir à>l’aventure, c’est ça ?>[Bartz] : Peux-tu vraiment nous>accompagner, Boko ? Tu as une>copine, maintenant et…|
-1588	$22D3C8	164	 [Bartz] : Qu’est-ce qu’il dit ?>Krile : Il dit qu’il l’aime beaucoup…>[Bartz] : Oh !>>Krile : … et il lui demande de>prendre soin des enfants pendant>son absence…>[Bartz] : Les enfants ?|
-1589	$22D405	61	 Krile : Koko est enceinte ! Elle dit>qu’elle attendra Boko ici.|
-1590	$22D44F	74	 [Bartz] : Merci, Koko… Ne t’inquiète>pas ! Il reviendra bientôt !>Koko : Kwoa !|
-1591	$22D495	70	 Koko : Kwoa, kwoa !>Krile : Elle dit : «Soyez prudents !».>Merci Koko !|
-1592	$22D4D9	68	 Pirate : On raconte que le capitaine>était la princesse de Tycoon !|
-1593	$22D505	44	 Pirate : Oooh… J’ai toujours le mal>de mer…|
-1594	$22D5A1	156	 Pirate : Mon grand-père a porté>secours à une petite fille qui était>en train de se noyer. Elle a dit>qu’elle s’appelait «Fariffa» alors il>l’a surnommé Faris.|
-1595	$22D610	111	 Pirate : Quand on s’habitue à eux,>les chocobos sont plutôt mignons…>Je me demande quand Koko aura>ses petits…|
-1596	$22D643	51	 Pirate : Capitaine ! Je vous>aiiiiiiiiiiime… Hic !|
-1597	$22D65C	25	 Pirate : Ohé, ohé… Hic !|
-1598	$22D6C0	100	 Je vous avais bien dit qu’il se>remettrait de ses blessures ! Il>s’est même trouvé une petite>amie !|
-1599	$22D6F5	53	 [Bartz] : Ouille !>Krile : Si tu n’étais pas allé aussi>vite…|
-1600	$22D72D	56	 [Bartz] : … Boko ! C’est ta faute !>Boko : Kwoa, kwoa, kwoa !|
+1583	$22D150	36	 Krile : Bonghjornu ! Mi chjamu Krile !|
+1584	$22D183	51	 [Bartz] : Oh ? Parli dinù a>lingua di i chocobos ?|
+1585	$22D1C8	69	 Krile : Mi ne sbroglieghju… Credu>ch'ellu voglia prisentà ci>qualchissia.|
+1586	$22D227	95	 Krile : Chì ? Veramente ?>[Bartz], ti prisentu Koko, a>cumpagna di Boko.>[Bartz] : Boko ! Bravu, va !|
+1587	$22D324	253	 [Bartz] : Aghju una dumanda à fà ti, Boko…>Boko : Kwoa !>Krile : Dice ch'ellu sà digià di chì>parli.>[Bartz] : Eh ?>Krile : Dice chì tù voli riparte>in aventura, hè cusì ?>[Bartz] : Ci poi veramente>accumpagnà, Boko ? Avà hai una>cumpagna, è…|
+1588	$22D3C8	164	 [Bartz] : Chì dice ?>Krile : Dice ch'ellu l'ama assai…>[Bartz] : Oh !>>Krile : … è li dumanda di>piglià si cura di i zitelli mentre>ellu serà luntanu…>[Bartz] : I zitelli ?|
+1589	$22D405	61	 Krile : Koko hè incinta ! Dice>ch'ella aspetterà Boko quì.|
+1590	$22D44F	74	 [Bartz] : Grazie, Koko… Ùn ti ne fà>micca ! Turnerà prestu !>Koko : Kwoa !|
+1591	$22D495	70	 Koko : Kwoa, kwoa !>Krile : Dice : « State attenti ! ».>Grazie Koko !|
+1592	$22D4D9	68	 Pirata : Si conta chì u capitanu>era a principessa di Tycoon !|
+1593	$22D505	44	 Pirata : Oooh… Aghju sempre u mal>di mare…|
+1594	$22D5A1	156	 Pirata : U mo babbone hà purtatu>aiutu à una zitelluccia chì era>in traccia di annegà. Ella hà dettu>ch'ella si chjamava « Fariffa », tandu>ellu l'hà chjamata Faris.|
+1595	$22D610	111	 Pirata : Quandu ci si avvezza à elli,>i chocobos sò piuttostu carini…>Mi dumandu quandu Koko averà>i so picciotti…|
+1596	$22D643	51	 Pirata : Capitanu ! Vi>amuuuuuuu… Hic !|
+1597	$22D65C	25	 Pirata : Ohé, ohé… Hic !|
+1598	$22D6C0	100	 Vi l'avia ben dettu ch'ellu si>saria rimessu di e so ferite ! Hà>trovu ancu una piccula>amica !|
+1599	$22D6F5	53	 [Bartz] : Ahiu !>Krile : S'è tù ùn fussi andatu cusì>prestu…|
+1600	$22D72D	56	 [Bartz] : … Boko ! Hè colpa toia !>Boko : Kwoa, kwoa, kwoa !|
 1601	$22D753	38	 Krile : Ne sois pas fâché contre lui !|
 1602	$22D774	33	 Krile : [Bartz] ! Qu’est-ce que>c’est ?|
 1603	$22D7DF	107	 [Bartz] : Tombés dans le nid d’un>monstre… Il ne manquait plus que>ça.>Krile : Qu’allons-nous faire ?>Boko : Kwoa…|
