@@ -498,7 +498,7 @@
 498	$219893	109	 Lenna : Hi, hi, hi !>Galuf : Ma chì faci,>chjucu ?>>Faris : Credu ch'ellu li manca una>rotella…|
 499	$2198AC	25	 Faris : Lenna, dormi ?|
 500	$2199AE	258	 Lenna : Innò… Chì ci hè ?>Faris : Hè stranu… Eru tantu>chjuca quandu u battellu hà>capighjatu… Aviu scurdatu>cumpletamente a mio vita d'prima>di l'accidente.>>>>Lenna : Faris… Sarissa…>Faris : Ma stu locu… Eiu… Eiu>mi ne ramentu… Ritrovu à pocu>à pocu a memoria…|
-501	$2199CC	30	 Sarissa : Soin… Soin2… Soin3…|
+501	$2199CC	30	 Sarissa : Cura… Cura 2… Cura 3…|
 502	$219AA2	214	 Jenica : Basta per oghje.>Sarissa : Uff ! Sò straculta !>>Jenica : A regina vuleria chì vo>andessite à mette a principessa>Lenna à dorme. Vò à currege i>vostri duveri. Aiò !>Sarissa : Va bè !|
 503	$219AEC	74	 Jenica : Ùn vi scurdate di vultà>quì senza traghjinà !>Sarissa : Iè ! \AEOh…\AF|
 504	$219C0A	286	 Sarissa : O Lenna… Dumane,>babbu è eiu, anderemu à fà una>spassighjata cù Hiryû !>Lenna : Papa, papupu !>Sarissa : Dice ch'ùn ci hè nunda di>più bellu chè vulà in celu à>spinu à un dragone ! È chì quand'omu>fighjeghja in ghjò, hè cum'è s'è>tutti avissinu ricevutu u sortilegiu>Lévitation !|
@@ -1104,9 +1104,9 @@
 1104	$224A0B	52	 Oi ! S'è tù monti in scena, ci vole>ch'è tù balli !|
 1105	$224A20	21	 Quessu hè l'arsenale.|
 1106	$224A36	22	 Quessu hè l'armiere.|
-1107	$224A99	99	 Site quelli chì cumbattenu>Exdeath ? Eccu ! Hè u mo>accessoriu preferitu… Vi lu>offru !>>>Pigliatu : Rubanu !|
-1108	$224AB4	27	 Piglia ti cura di u mo Rubanu !|
-1109	$224ACD	25	 Induve averaghju messu u mo rubanu ?|
+1107	$224A99	99	 Site quelli chì cumbattenu>Exdeath ? Eccu ! Hè u mo>accessoriu preferitu… Vi lu>offru !>>>Pigliatu : Nastru !|
+1108	$224AB4	27	 Piglia ti cura di u mo Nastru !|
+1109	$224ACD	25	 Induve averaghju messu u mo nastru ?|
 1110	$224B32	101	 Ebbè ! Ospiti ! ùn possu micca>crede ci. Passate a notte quì !>Sta sera, hè gratisi !|
 1111	$224B4B	25	 [Bartz] : Induve hè passatu Galuf ?|
 1112	$224B8F	68	 Galuf : Aah… A spicialità di>Rugole ! Per l'istomachi fragili,>astene vi !|
@@ -1208,7 +1208,7 @@
 1208	$2265E5	59	 Galuf : Ouh là ! Ùn anu micca persu>tempu… Attenti !|
 1209	$22664A	101	 Galuf : U purtone chì porta à a>Valle di i dragoni hè à u nordu di a>cità. Mi dumandu s'ellu serà>apertu…|
 1210	$226684	58	 Galuf : Ùn ci hè nunda da fà ! Hè>chjosu… Andemu à circà à Kelgar.|
-1211	$22668F	11	 Halte-là !|
+1211	$22668F	11	 Ùn vi move !|
 1212	$226714	133	 [Bartz] : S'elli volenu luttà…>Galuf : Calma ti, [Bartz] ! Ùn>sò micca i nostri nemichi !>>Faris : Cù amichi cusì, quale hà>bisognu di nemichi ?|
 1213	$2267E2	206	 Kelgar : Oh, Galuf !>Galuf : Kelgar !>Kelgar : Hè una stonda chì>ùn ci semu più visti.>Galuf : Ho, ho ! Kelgar hè unu di i>guerrieri di l'alba.>[Bartz] : Hà cumbattutu Exdeath>cun tè 30 anni fà ?|
 1214	$22686F	141	 Kelgar : Quale sò sti lupacchiotti ?>Galuf : Sò abitanti di u>mondu induve aviamu imprigiunatu>Exdeath.>Kelgar : Sgherri d'Exdeath ?|
@@ -2099,7 +2099,7 @@
 2099	$236A6E	85	 Exdeath : Criature imprigiunate>in a fessura interdimensionale !>Miei servitori !|
 2100	$236B32	196	 Exdeath : Guerrieri guidati da a>luce di i cristalli cercanu e>tavulette antiche…>Andate, tumbate li !!>Ùn devenu micca ricuperà e>arme leggendarie chì anu distruttu>u grande Enuo…|
 2101	$236BDE	172	 Ci ne incarichemu, maestru !>>>>Exdeath : Eccellente ! Partite>subitu !>>>Sbarazzate vi di elli mentre ch'eiu>m'impadroniscu di a putenza di u>nèant ! Mouah ha, ha, ha, ha !|
-2102	$236C19	59	 Noi altri, mostri stati imprigiunati>mille anni in a fessura…|
+2102	$236C19	59	 Noi altri, mostri imprigiunati>mille anni in a fessura…|
 2103	$236C85	108	 Quandu u nostru maestru Exdeath>s'impadrunirà di a putenza di u>nèant, un novu mondu di>tenebre nascerà per noi !|
 2104	$236CDC	87	 Ùn vi lasceremu micca fà !>U nèant serà a vostra tomba !>Ha, ha, ha, ha, ha !|
 2105	$236D27	75	 Altu ! Site voi i guerrieri chì>tenenu i frammenti di i>cristalli ?|
@@ -2141,7 +2141,7 @@
 2141	$23771A	38	 Pensate d'esse diventati>veri esperti, hè cusì ?|
 2142	$237735	27	 Oh ! Ma ùn ci hè pressa !|
 2143	$237771	60	 Perchè ùn andate micca à>ripete lu à a Casa di i Principianti,>eh ?|
-2144	$237AF3	898	 Ah bè… Vi insegnu qualcosa>di interessante !>>>I guerrieri liberi ponu purtà>qualsiasi pezzu d'equipagiu. I>mimi ponu purtà tuttu, fora di i>nastri.>>Ma e so statistiche di forza è di>magia sò un pocu debule, nò ?>>Tuttavia, una volta ch'è vo avete>maestrisatu unu o più mistieri, a>storia cambia. E statistiche>migliurate è i talenti innati di i>mistieri maestrisati sò aghjunti>automaticamente à i mistieri>Libera è Mimu !>Per esempiu, s'è vo maestrisate>Paladinu, Magu Neru è Latru,>e classi Libera è Mimu>possederanu a forza d'un>Paladinu, a magia d'un Magu Neru,>è dinù i talenti innati d'un Latru, vale à>dì \ABPassaghju" è \ABSprint".>>In più, ci pudete aghjunghje dui>abilità di cumbattu.>>>Una volta maestrisati parechji>mistieri, Libera è Mimu>diventanu di gran lunga e classi>più putente !|
+2144	$237AF3	898	 Ah bè… Vi insegnu qualcosa>di interessante !>>>I guerrieri liberi ponu purtà>qualsiasi pezzu d'equipagiu. I>mimi ponu purtà tuttu, fora di i>nastri.>>Ma e so statistiche di forza è di>magia sò un pocu debule, nò ?>>Tuttavia, una volta ch'è vo avete>maestrisatu unu o più mistieri, a>storia cambia. E statistiche>migliurate è i talenti innati di i>mistieri maestrisati sò aghjunti>automaticamente à i mistieri>Libera è Mimu !>Per esempiu, s'è vo maestrisate>Paladinu, Magu Neru è Latru,>e classi Libera è Mimu>possederanu a forza d'un>Paladinu, a magia d'un Magu Neru,>è dinù i talenti innati d'un Latru, vale à>dì «Passaghju» è «Sprint».>>In più, ci pudete aghjunghje dui>abilità di cumbattu.>>>Una volta maestrisati parechji>mistieri, Libera è Mimu>diventanu di gran lunga e classi>più putenti !|
 2145	$237B95	162	 La-li-ho ! Ùn m'era mai>preoccupatu di què nanzu, ma…>pare chì qualcosa si passi à a>superficia…>Sò sicuru ch'ellu ci hè una furesta>ghjustu à u sopra di noi…|
 2146	$237C1E	137	 La-li-ho ! Avete dighjà intesu>parlà di a Lampa magica ?>>>S'è vo a rimettite à u locu induve>hè stata creata, si ricaricherà>torna !|
 2147	$237C7F	97	 La-li-ho ! Ralibeau hè in traccia>di scavà un tunnel… Dice ch'ellu>puderà fà u giru di u mondu !|
