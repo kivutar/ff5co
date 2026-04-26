@@ -1199,105 +1199,105 @@
 1199	$22627F	436	 Krile : L'erba di dragone ? A>puderia guarì ?>>Lenna : Iè, ma… Se ne pò>truvà in stu mondu ?>Faris : In u nostru mondu, i>dragoni facenu u nidu induve cresce>l'erba di dragone. S'è no truvemu>u locu induve facenu u nidu,>ne duveriamu truvà.>Galuf : Mi pare logicu…>[Bartz] : Allora ? Induve facenu>u nidu ?>Galuf : A Valle di i dragoni>pare u locu adattu, solu chì…>Nimu ùn ne hè mai vultatu vivu…|
 1200	$2262AF	48	 [Bartz] : Allora, seremu i>primi à riesce ci !|
 1201	$2262BA	11	 Krile : [Bartz] !|
-1202	$226331	119	 Galuf : Le val des dragons est situé>au nord du château. Il faudra>d’abord traverser Quelbe, la ville>des loups-garous.|
-1203	$226412	225	 Krile : Mais les monstres ont cerné>le château ! Qu’allez-vous faire ?>Galuf : Ne t’inquiète pas ! Nous>nous en occuperons !>[Bartz] : C’est vrai !>Lenna : L’union fait la force.>Faris : Nous te rapporterons de>l’herbe aux dragons !|
-1204	$22642B	25	 Krile : Je vous remercie.|
-1205	$22643D	18	 Dragon : Mrrrrrr…|
-1206	$226528	235	 Galuf : Ouvrez les portes !>Soldat : Mais votre Majesté ! Les>monstres vont attaquer !>Galuf : Fermez les portes derrière>nous et verrouillez-les !>Soldat : Vous ne pourrez pas>revenir au château ! Etes-vous>certain de vouloir sortir ?|
-1207	$2265AA	130	 Galuf : C’est bon ! Fermez les>portes et ne les rouvrez pas, quoi>qu’il arrive !>Soldat : A vos ordres !>Soldat : Soyez prudents !|
-1208	$2265E5	59	 Galuf : Ouh là ! Ils n’ont pas perdu>de temps… Attention !|
-1209	$22664A	101	 Galuf : Le portail qui mène au val>des dragons est au nord de la ville.>Je me demande s’il sera ouvert…|
-1210	$226684	58	 Galuf : Rien à faire ! C’est fermé…>Allons trouver Kelgar.|
+1202	$226331	119	 Galuf : A Valle di i dragoni si trova>à u nordu di u castellu. Ci vulerà>prima à traversà Quelb, a cità di>i lupi mannari.|
+1203	$226412	225	 Krile : Ma i mostri anu circundatu>u castellu ! Chì farete ?>>Galuf : Ùn ti ne fà ! Ci>ne occuparemu noi !>[Bartz] : Hè vera !>Lenna : Uniti simu più forti.>Faris : Ti ripurteremu di>l'erba di dragone !|
+1204	$22642B	25	 Krile : Vi ringraziu.|
+1205	$22643D	18	 Dragone : Mrrrrrr…|
+1206	$226528	235	 Galuf : Aprite e porte !>Suldatu : Ma Vostra Maestà ! I>mostri anu da attaccà !>Galuf : Chjudite e porte daretu>à noi è serratele bè !>Suldatu : Ùn puderete più>rientrà in u castellu ! Site>sicurissimu di vulè sorte ?|
+1207	$2265AA	130	 Galuf : Va bè cusì ! Chjudite e>porte è ùn l'aprite più, accada>ciò ch'accada !>Suldatu : À i vostri ordini !>Suldatu : State attenti !|
+1208	$2265E5	59	 Galuf : Ouh là ! Ùn anu micca persu>tempu… Attenti !|
+1209	$22664A	101	 Galuf : U purtone chì porta à a>Valle di i dragoni hè à u nordu di a>cità. Mi dumandu s'ellu serà>apertu…|
+1210	$226684	58	 Galuf : Ùn ci hè nunda da fà ! Hè>chjosu… Andemu à circà à Kelgar.|
 1211	$22668F	11	 Halte-là !|
-1212	$226714	133	 [Bartz] : S’ils veulent se battre…>Galuf : Du calme, [Bartz] ! Ils ne>sont pas nos ennemis !>>Faris : Avec de tels amis, qui a>besoin d’ennemis ?|
-1213	$2267E2	206	 Kelgar : Oh, Galuf !>Galuf : Kelgar !>Kelgar : Cela fait longtemps que>nous ne nous sommes pas vus.>Galuf : Ho, ho ! Kelgar est un des>guerriers de l’aube.>[Bartz] : Il a combattu Exdeath>avec toi il y a 30 ans ?|
-1214	$22686F	141	 Kelgar : Qui sont ces louveteaux ?>Galuf : Ce sont des habitants du>monde où nous avions emprisonné>Exdeath.>Kelgar : Des sbires d’Exdeath ?|
-1215	$2268E6	119	 [Bartz] : Quoi ? Attends !>Kelgar : Tu oses amener ici ceux>qui ont détruit les cristaux et>permis à Exdeath de s’échapper ?|
-1216	$226923	61	 Galuf : Non ! Ecoute-moi ! Ils sont…>Kelgar : Assez, Galuf !|
-1217	$2269AA	135	 Kelgar : En garde, [Bartz], qui que>tu sois !>[Bartz] : Quoi ?>Galuf : Kelgar…>Kelgar : Sbire d’Exdeath ou pas,>montre-moi ce dont tu es capable !|
-1218	$2269CA	32	 [Bartz] : Non… Ça va. Je m’en>occupe.|
-1219	$226A0A	64	 Kelgar : Ha ! Voyons ce que tu>penses de mon attaque de garou !|
-1220	$226A18	14	 [Bartz] : Te voilà !|
-1221	$226A44	44	 Galuf : [Bartz] ! Tu aurais pu y aller>doucement !|
-1222	$226B72	302	 [Bartz] : Désolé, Kelgar…>Galuf : Mille tonnerres, Kelgar ! Tu>te surmènes trop !>Sois raisonnable !>Kelgar : Comment a-t-il pu éviter>mon attaque de garou aussi>facilement ? Extraordinaire !>>[Bartz] : Bof, ce n’est qu’une>technique que mon père m’a>apprise.>>Kelgar : Ton père ? Comment>s’appelle-t-il ?>[Bartz] : Dorgann.|
-1223	$226C05	147	 [Bartz] : Quoi ? Qu’est-ce que j’ai>dit ?>Galuf : Non… C’est impossible…>Kelgar : Le fils de Dorgann…>[Bartz] : Euh, oui, je suis le fils de>Dorgann… Et alors ?|
-1224	$226C9B	150	 Galuf : C’est avec lui, Kelgar et>Xezat Surgate que j’ai combattu>Exdeath, il y a 30 ans.>>Kelgar : Dorgann était l’un des>quatre guerriers de l’aube.|
-1225	$226D1E	131	 [Bartz] : Une seconde… Mon père>était de ce monde ?>Kelgar : C’est exact.>[Bartz] : …>Galuf : Nous avons suivi Exdeath>jusque sur votre monde…|
-1226	$226DB6	152	 Galuf : Est-il immortel ?>Dorgann : Nos attaques ne>semblent pas l’atteindre…>>Kelgar : Nous devrons>l’emprisonner ici.>Xezat : C’est la seule solution.|
-1227	$226E18	98	 Dorgann : Quoi ? Ici ? Nous ne>pouvons pas laisser une créature si>maléfique sur un autre monde !|
-1228	$226E84	108	 Xezat : Nous n’avons pas le choix !>Kelgar : Attention ! Il reprend>connaissance !>Galuf : Mille tonnerres !|
-1229	$226EDA	86	 Kelgar : Nous n’avons vraiment>plus le choix ! Nous devons>l’emprisonner maintenant !|
-1230	$226F54	122	 Galuf : Dorgann, nous ne pourrons>pas utiliser le pouvoir des cristaux>sans ton accord…>Nos cœurs doivent ne faire qu’un !|
-1231	$226F57	3	 15|
-1232	$226F79	34	 Galuf : Tu veux vraiment rester ?|
-1233	$226FB3	58	 Dorgann : J’ai pris ma décision.>Kelgar : Mais pourquoi ?|
-1234	$226FC5	18	 Dorgann : Adieu !|
+1212	$226714	133	 [Bartz] : S'elli volenu luttà…>Galuf : Calma ti, [Bartz] ! Ùn>sò micca i nostri nemichi !>>Faris : Cù amichi cusì, quale hà>bisognu di nemichi ?|
+1213	$2267E2	206	 Kelgar : Oh, Galuf !>Galuf : Kelgar !>Kelgar : Hè una stonda chì>ùn ci semu più visti.>Galuf : Ho, ho ! Kelgar hè unu di i>guerrieri di l'alba.>[Bartz] : Hà cumbattutu Exdeath>cun tè 30 anni fà ?|
+1214	$22686F	141	 Kelgar : Quale sò sti lupacchiotti ?>Galuf : Sò abitanti di u>mondu induve aviamu imprigiunatu>Exdeath.>Kelgar : Sgherri d'Exdeath ?|
+1215	$2268E6	119	 [Bartz] : Chì ? Aspetta !>Kelgar : Osi purtà quì quelli>chì anu distruttu i cristalli è>permessu à Exdeath di scappà ?|
+1216	$226923	61	 Galuf : Innò ! Stà à sente mi ! Elli sò…>Kelgar : Basta, Galuf !|
+1217	$2269AA	135	 Kelgar : In guardia, [Bartz], chiunque>tu sia !>[Bartz] : Chì ?>Galuf : Kelgar…>Kelgar : Sgherru d'Exdeath o micca,>fammi vede di chì sì capace !|
+1218	$2269CA	32	 [Bartz] : Innò… Va bè. Me ne>occupu eiu.|
+1219	$226A0A	64	 Kelgar : Ha ! Avà vedaremu ciò chì>pensate di u mo attaccu di lupu !|
+1220	$226A18	14	 [Bartz] : Eccu ti !|
+1221	$226A44	44	 Galuf : [Bartz] ! Puderiate esse andatu>più pianu !|
+1222	$226B72	302	 [Bartz] : Scusa, Kelgar…>Galuf : Mille tonni, Kelgar ! Ti>stanchi troppu !>Sii ragiunevule !>Kelgar : Cumu hà pussutu schivà>u mo attaccu di lupu cusì>facilmente ? Straordinariu !>>[Bartz] : Bof, ùn hè chè una>tecnica chì m'hà amparatu u mo>babbu.>>Kelgar : U to babbu ? Cumu>si chjama ?>>[Bartz] : Dorgann.|
+1223	$226C05	147	 [Bartz] : Chì ? Chì hè chì aghju>dettu ?>Galuf : Innò… Hè impussibule…>Kelgar : U figliolu di Dorgann…>[Bartz] : Euh, iè, sò u figliolu di>Dorgann… E allora ?|
+1224	$226C9B	150	 Galuf : Hè cun ellu, Kelgar è>Xezat Surgate chì aghju cumbattutu>Exdeath 30 anni fà.>>Kelgar : Dorgann era unu di i>quattru guerrieri di l'alba.|
+1225	$226D1E	131	 [Bartz] : Aspetta… U mo babbu>era di stu mondu ?>>Kelgar : Hè cusì.>[Bartz] : …>Galuf : Aviamu perseguitatu Exdeath>sin'à u vostru mondu…|
+1226	$226DB6	152	 Galuf : Hè immortale ?>Dorgann : I nostri attacchi ùn>parenu micca toccà lu…>>Kelgar : Ci vulerà à>sigillà lu quì.>Xezat : Hè a sola suluzione.|
+1227	$226E18	98	 Dorgann : Chì ? Quì ? Ùn pudemu>micca lascià una criatura cusì>malefica in un altru mondu !|
+1228	$226E84	108	 Xezat : Ùn avemu altra scelta !>Kelgar : Attenti ! Si rimette>in vita !>Galuf : Mille tonni !|
+1229	$226EDA	86	 Kelgar : Ùn avemu veramente>più scelta ! Ci tocca>à imprigiunà lu avà !|
+1230	$226F54	122	 Galuf : Dorgann, ùn puderemu>micca aduprà u putere di i cristalli>senza u to accordu…>I nostri cori devenu fà ne unu solu !|
+1231	$226F57	3	 >Hè fatta ! L'avemu sigillatu !|
+1232	$226F79	34	 Galuf : Vulete veramente firmà ?|
+1233	$226FB3	58	 Dorgann : Aghju pigliatu a mo>decisione.>Kelgar : Ma perchè ?|
+1234	$226FC5	18	 Dorgann : Addiu !|
 1235	$226FD6	17	 Galuf : Dorgann…|
-1236	$22704C	118	 Galuf : Dorgann est resté sur votre>monde pour surveiller les sceaux>de la prison d’Exdeath…>[Bartz] : … C’est donc pour ça…|
-1237	$22704F	3	 16|
-1238	$22713C	237	 Kelgar : Comment va notre ami>Dorgann ?>[Bartz] : Il est tombé malade il y a>trois ans et…>Kelgar : Je vois… Toutes mes>condoléances… Fils de Dorgann, que>puis-je faire pour t’aider ?>>[Bartz] : Euh… Nous voudrions>pouvoir accéder au val des>dragons…|
-1239	$227176	58	 Kelgar : Un villageois ira ouvrir le>portail immédiatement.|
-1240	$2271E9	115	 Je vais prier pour que vous>reveniez sains et saufs. Tenez ! Je>vous l’offre. Ce chant repousse les>morts-vivants.|
-1241	$227206	29	 >\52\52\52\52\52\52\52\52 Appris : Requiem !|
-1242	$227244	62	 Kelgar : Oooh… Si seulement je>pouvais me battre à vos côtés…|
-1243	$22748C	584	 Kelgar : L’Ile de Ghido a disparu…>[Bartz] : C’est Exdeath qui l’a fait>couler ?>Kelgar : C’est probable. Je crois>qu’il sait que l’ultime combat>approche.>[Bartz] : Nous devrons attaquer>son château directement, alors.>Kelgar : C’est impossible. Le>bouclier qui protège le château>empêche qui que ce soit de s’en>approcher… [FixedPause]Ah ! Xezat ! Xezat a>dit qu’il détruirait le bouclier avec>sa flotte de guerre.>Galuf : Oh ! Ce serait parfait !>[Bartz] : Xezat est votre ami ?>Galuf : Xezat est le quatrième>guerrier de l’aube. Son château est>situé au nord du val des dragons !>Nous devrions lui rendre visite.|
-1244	$2274AC	32	 Kelgar : Je vois… Xezat a péri…|
-1245	$227547	155	 Kelgar : Xezat… et Galuf… Je suis>le dernier guerrier de l’aube, on>dirait…>>Quelle ironie ! Le plus vieux et le>plus faible du groupe est toujours>vivant…|
-1246	$22757B	52	 Lenna : Regardez !>Faris : De l’herbe aux dragons !|
-1247	$22759F	36	 Faris : Aaah !>Lenna : Au secours !|
-1248	$22767B	220	 [Bartz] : Qu’est-ce que c’était ?>Lenna : L’herbe n’est pas censée>attaquer les gens !>Faris : Ce n’est pas de l’herbe,>c’est un monstre ignoble !>Galuf : C’est donc pour cette raison>que les dragons ont disparu de ce>monde !|
-1249	$227699	30	 Faris : L’herbe aux dragons !|
-1250	$2276AC	19	 Lenna : Regardez !|
-1251	$2276D3	39	 Lenna : Cueillons-en et partons>d’ici !|
-1252	$2276F1	30	 >Obtenu : Herbe aux dragons !|
-1253	$227725	52	 Galuf : Nous sommes de retour !>Ouvrez les portes !|
-1254	$22778E	105	 Soldat : Bien essayé, M. le monstre !>Les soldats de Bal ne sont pas aussi>crédules que vous le pensez !|
-1255	$2277B2	36	 Galuf : Misère ! Passons au plan B.|
-1256	$2277C7	21	 Galuf : Vous venez ?|
-1257	$2277E4	29	 Galuf:\52Vaya\52gèlida\52bienveïeda.|
-1258	$2277E7	3	 17|
-1259	$22787C	149	 Soldat : Votre Majesté ! Nous>pensions que c’était un des pièges>d’Exdeath…>>Galuf : Ne vous en faites pas ! On>ne prend jamais trop de>précautions…|
-1260	$2278D3	87	 Soldat : La prochaine fois, je>m’assurerai que c’est le roi et>j’ouvrirai les portes !|
-1261	$2278F2	31	 Krile souffre d’un mal de tête…|
-1262	$227945	83	 Krile ne se sentait pas bien. Elle est>allée se reposer dans sa chambre>dans la tour.|
-1263	$2279B0	107	 Krile a dit qu’elle avait mal à la>tête et ensuite elle a perdu>connaissance ! Elle se repose dans>sa chambre.|
-1264	$227A00	80	 Galuf : Krile !>Krile : Papi…>Galuf : Tiens bon, ma chérie !>Krile : Il… m’appelle…|
-1265	$227A6A	106	 Galuf : Chut, ne parle pas.>Krile : Il… Ghido appelle…>[Bartz] : Ghido ?>>Krile : Dépêchez-vous… Allez… le>trouver…|
-1266	$227B54	234	 [Bartz] : Qui est ce Ghido ?>Galuf : Un sage qui a plus de>700 ans…>>C’est Ghido qui a prédit que les>cristaux de votre monde se>briseraient.>>[Bartz] : Et il essaie d’appeler>Krile ?>Galuf : Il pourra peut-être nous>dire comment vaincre Exdeath !|
-1267	$227C21	205	 Krile : …>Galuf : Tiens bon, Krile. Nous allons>trouver Ghido…>Krile : Mais le dragon…>Galuf : Ne t’inquiète pas, nous>avons ramené de l’herbe aux>dragons.>>Krile : Vraiment ? Le dragon se>repose dans sa tour…|
-1268	$227CF0	207	 Galuf : Viendrez-vous avec moi ?>Lenna : Bien sûr !>Faris : Quelle question !>[Bartz] : Où habite-t-il, ce>mystérieux Ghido ?>Galuf : Il habite sur une petite \B8e>au milieu de l’océan, au nord-est>du val des dragons.|
-1269	$227D22	50	 Lenna : Tiens, mange, tu te sentiras>mieux après.|
-1270	$227D86	100	 [Bartz] : Hum, cette herbe a>exterminé les dragons… Il n’est>pas surprenant qu’il ne veuille pas>y toucher.|
-1271	$227E18	146	 Galuf : Peu importe ce qu’il veut ! Il>doit en manger !>>>Il ne survivra pas très longtemps>avec de telles blessures s’il ne>mange pas cette herbe !|
-1272	$227E5A	66	 Lenna : Regarde, miam ! C’est>délicieux ! Allons, mange, toi aussi…|
-1273	$227EC6	108	 Faris : Lenna ! Serais-tu devenue>folle ?>>>[Bartz] : Lenna ! L’herbe aux>dragons est vénéneuse pour les>humains !|
-1274	$227EDC	22	 Lenna : Allons, mange…|
-1275	$227EEF	19	 Lenna : Très bien…|
+1236	$22704C	118	 Galuf : Dorgann hè firmatu annantu>à u vostru mondu per vigilà i sigilli>di a prigiò d'Exdeath…>[Bartz] : … Eccu dunque perchè…|
+1237	$22704F	3	 |
+1238	$22713C	237	 Kelgar : Cumu stà u nostru amicu>Dorgann ?>[Bartz] : Hè cascatu malatu trè anni fà è…>Kelgar : Capiscu… Vi porgu e mo>cundulianze… Figliolu di Dorgann, chì>poss'e fà per aiutà ti ?>>[Bartz] : Euh… Vuleriamu>pudè entre in a Valle di i>dragoni…|
+1239	$227176	58	 Kelgar : Un paisanu anderà à apre>u purtone subitu subitu.|
+1240	$2271E9	115	 Pregaraghju per chì vultessi>sani è salvi. Teni ! Te l'offru. Stu>cantu scaccia i morti-viventi.|
+1241	$227206	29	 >\52\52\52\52\52\52\52\52 Amparatu : Requiem !|
+1242	$227244	62	 Kelgar : Oooh… S'ellu mi fussi>pussibule di luttà à fiancu à voi…|
+1243	$22748C	584	 Kelgar : L'isula di Ghido hè sparita…>[Bartz] : Hè Exdeath chì l'hà fatta>affundà ?>>Kelgar : Hè prubabile. Credu>ch'ellu sappia chì l'ultimu cumbattu>s'avvicina.>[Bartz] : Tandu, ci vulerà à attaccà>direttamente u so castellu.>Kelgar : Hè impussibule. U>scudu chì prutege u castellu>impedisce à chiunque d'avvicinà si… [FixedPause]Ah ! Xezat ! Xezat hà>detto ch'ellu distrugherebbe u>scudu cù a so flotta di guerra.>Galuf : Oh ! Saria perfettu !>[Bartz] : Xezat hè u vostru amicu ?>Galuf : Xezat hè u quartu>guerrieru di l'alba. U so castellu hè>situatu à u nordu di a Valle di i dragoni !>Duvaremu andà à vede lu.|
+1244	$2274AC	32	 Kelgar : Capiscu… Xezat hè mortu…|
+1245	$227547	155	 Kelgar : Xezat… è Galuf… Sò>u solu ultimu guerrieru di l'alba, à>quantu pare…>>Chì irunia ! U più vechju è u>più debule di u gruppu hè sempre>vivu…|
+1246	$22757B	52	 Lenna : Fighjate !>Faris : Erba di dragone !|
+1247	$22759F	36	 Faris : Aaah !>Lenna : À l'aiutu !|
+1248	$22767B	220	 [Bartz] : Chì era què ?>Lenna : L'erba ùn duveria micca>attaccà a ghjente !>Faris : Ùn hè micca erba,>hè un mostru abominevule !>Galuf : Hè dunque per quessa>chì i dragoni sò spariti di stu>mondu !|
+1249	$227699	30	 Faris : L'erba di dragone… !|
+1250	$2276AC	19	 Lenna : Fighjate !|
+1251	$2276D3	39	 Lenna : Pighjemu ne è surtimu>da quì !|
+1252	$2276F1	30	 >Pigliatu : Erba di dragone !|
+1253	$227725	52	 Galuf : Semu di ritornu !>Aprite e porte !|
+1254	$22778E	105	 Suldatu : Bellu provu, o Signor>mostru ! I suldati di Bal ùn sò>micca cusì creduloni ch'è vo>pensate !|
+1255	$2277B2	36	 Galuf : Oimè ! Passemu à u pianu B.|
+1256	$2277C7	21	 Galuf : Venite ?|
+1257	$2277E4	29	 Galuf : Chì accolta\52ghjalata !|
+1258	$2277E7	3	 |
+1259	$22787C	149	 Suldatu : Vostra Maestà !>Cridiamu ch'ellu fussi unu di i>trappuli d'Exdeath…>>Galuf : Ùn vi ne fate micca ! Ùn si>piglia mai troppu di>pricauzioni…|
+1260	$2278D3	87	 Suldatu : A prossima volta, mi>assicureraghju chì sia u rè è>apriraghju e porte !|
+1261	$2278F2	31	 Krile hà un forte mal di capu…|
+1262	$227945	83	 Krile ùn si sentia micca bè. Hè>andata à ripusà si in a so camera>in a torra.|
+1263	$2279B0	107	 Krile hà dettu ch'ella avia male à a>testa è dopu hà persu>cunniscenza ! Si riposa in>a so camera.|
+1264	$227A00	80	 Galuf : Krile !>Krile : Babbo…ne…>Galuf : Teni bonu, o cara !>Krile : Ellu… m'appella…|
+1265	$227A6A	106	 Galuf : Zitta, ùn parlà.>Krile : Ellu… Ghido chjama…>[Bartz] : Ghido ?>>Krile : Affrettate vi… Andate… à>truvà lu…|
+1266	$227B54	234	 [Bartz] : Quale hè issu Ghido ?>Galuf : Un saviu chì hà più di>700 anni…>>Hè Ghido chì hà preditu chì i>cristalli di u vostru mondu si>romperianu.>>[Bartz] : È prova à chjamà>Krile ?>>Galuf : Forse puderà dì ci>cumu vince Exdeath !|
+1267	$227C21	205	 Krile : …>Galuf : Teni bonu, Krile. Anderemu>à circà à Ghido…>Krile : Ma u dragone…>Galuf : Ùn ti ne fà, avemu>ripurtatu di l'erba di>dragone.>>Krile : Veramente ? U dragone si>riposa in a so torra…|
+1268	$227CF0	207	 Galuf : Venerete cun mè ?>>Lenna : Benintesa !>Faris : Chì dumanda !>[Bartz] : Induve campa, issu>misteriosu Ghido ?>>Galuf : Campa annantu à una piccula>isula in mezu à l'uceanu, à u nordu-est>di a Valle di i dragoni.|
+1269	$227D22	50	 Lenna : Teni, manghja, ti>sentirai megliu dopu.|
+1270	$227D86	100	 [Bartz] : Hum, st'erba hà>sterminatu i dragoni… Ùn hè>micca stupente ch'ellu ùn ne voglia>manghjà.|
+1271	$227E18	146	 Galuf : Poco importa ciò ch'ellu vole ! Li>tocca à manghjà ne !>>>Ùn camperà tantu cù ste>ferite s'ellu ùn manghja micca>st'erba !|
+1272	$227E5A	66	 Lenna : Fighja, miam ! Hè>deliziosa ! Dai, manghja, tù dinù…|
+1273	$227EC6	108	 Faris : Lenna ! Saresti diventata>scema ?>>>[Bartz] : Lenna ! L'erba di>dragone hè velenosa per l'omi !|
+1274	$227EDC	22	 Lenna : Dai, manghja…|
+1275	$227EEF	19	 Lenna : Bravu…|
 1276	$227EFF	16	 Faris : Lenna !|
-1277	$227F1A	27	 Krile : Lenna ! Tiens bon !|
-1278	$227F28	14	 Krile : Bois !|
+1277	$227F1A	27	 Krile : Lenna ! Teni bonu !|
+1278	$227F28	14	 Krile : Beie !|
 1279	$227F38	16	 Faris : Lenna !|
-1280	$227F52	26	 [Bartz] : Lenna ! Ça va mieux ?|
-1281	$227FB4	98	 Lenna : Oui… Merci, Krile.>Krile : Pourquoi as-tu fait une>chose pareille ? C’était très>dangereux !|
-1282	$227FFD	73	 Faris : Lenna ! Et si Krile n’avait pas>été là ?>Lenna : Je suis désolée…|
-1283	$22804A	77	 Galuf : Krile ! Tu devrais toujours>être au lit !>Krile : Je vais un peu mieux…|
+1280	$227F52	26	 [Bartz] : Lenna ! Va megliu ?|
+1281	$227FB4	98	 Lenna : Iè… Ti ringraziu, Krile.>Krile : Perchè hai fattu una>cosa simile ? Era assai>periculosa !|
+1282	$227FFD	73	 Faris : Lenna ! È se Krile ùn>fussi stata quì ?>>Lenna : Mi dispiace…|
+1283	$22804A	77	 Galuf : Krile ! Duvaresti sempre>esse in lettu !>Krile : Mi sentu un pocu megliu…|
 1284	$228059	15	 Galuf : Krile !|
-1285	$2280D4	123	 Krile : Ne vous inquiétez pas pour>moi…>[Bartz] : Pfft ! Il y a toujours>quelqu’un qui en fait trop, par ici !>Krile : Hi, hi, hi…|
-1286	$228143	111	 Galuf : Retourne te reposer, ma>chérie !>Krile : D’accord…>>Lenna : Krile… Je te remercie. Tu>m’as sauvé la vie.|
-1287	$228190	77	 Krile : Tu as sauvé la vie de mon>dragon. Nous sommes quittes.>Merci encore !|
-1288	$2281D0	64	 Galuf : Allons ! Repose-toi bien !>Krile : Oui ! Soyez prudents !|
-1289	$228225	85	 Galuf : Allons trouver Ghido !>Lenna : D’accord !>Faris : Allons-y !>[Bartz] : C’est parti !|
-1290	$22825D	56	 Krile est au sommet de la tour…>Elle pleurait, la pauvre…|
-1291	$22829A	61	 Sa Majesté est revenue ! Nous>n’avons plus rien à craindre !|
-1292	$2282DC	66	 Votre Majesté, n’oubliez pas>d’emporter le sort Renvoi avec>vous !|
-1293	$228343	103	 Un bouclier bloque le grand pont.>Sans un dragon, il est impossible de>s’approcher du repaire d’Exdeath.|
-1294	$22838F	76	 Ghido le sage nous guide et nous>offre ses conseils… Il est>extraordinaire !|
-1295	$2283F2	99	 Les troupes d’Exdeath n’ont pas>attaqué depuis quelque temps…>Exdeath doit mijoter quelque>chose !|
-1296	$22842E	60	 Quatre tours protectrices>maintiennent le bouclier en place.|
-1297	$228476	72	 On dit que le roi Xezat de Surgate>va attaquer Exdeath avec sa>flotte !|
-1298	$22849A	36	 On raconte que le roi Xezat a péri…|
-1299	$2284CA	48	 Le bouclier du château d’Exdeath a>été dissipé !|
-1300	$2284DF	21	 Krile : Ghido appelle…|
+1285	$2280D4	123	 Krile : Ùn vi ne fate micca per>mè…>[Bartz] : Pfft ! Ci hè sempre>qualchissia chì ne face troppu, quì !>Krile : Hi, hi, hi…|
+1286	$228143	111	 Galuf : Vultà à ripusà ti, o>cara !>Krile : D'accordu…>>Lenna : Krile… Ti ringraziu. Mi>hai salvatu a vita.|
+1287	$228190	77	 Krile : Hai salvatu a vita di u mo>dragone. Semu pari.>Grazie torna !|
+1288	$2281D0	64	 Galuf : Andemu ! Riposa ti bè !>Krile : Iè ! State attenti !|
+1289	$228225	85	 Galuf : Andemu à truvà à Ghido !>Lenna : D'accordu !>Faris : Andemu !>[Bartz] : Partemu !|
+1290	$22825D	56	 Krile hè in cima à a torra…>Povara, paria ch'ella pienghjessi…|
+1291	$22829A	61	 A Sua Maestà hè vultata ! Ùn>avemu più nunda da teme !|
+1292	$2282DC	66	 Vostra Maestà, ùn vi scurdate>d'emportà cun voi u sortilegiu>Teletrasportu !|
+1293	$228343	103	 Un scudu blocca u Gran Ponte.>Senza un dragone, hè impussibule>d'avvicinà si à u riparu d'Exdeath.|
+1294	$22838F	76	 Ghido u saviu ci guida è ci>dà i so cunsiglii… Hè>straordinariu !|
+1295	$2283F2	99	 E truppe d'Exdeath ùn anu micca>attaccatu dapoi un pezzu…>Exdeath deve tramà qualcosa !|
+1296	$22842E	60	 Quattru torre prutrittrice>tenenu u scudu in piazza.|
+1297	$228476	72	 Si dice chì u rè Xezat di Surgate>attaccherà Exdeath cù a so>flotta !|
+1298	$22849A	36	 Si conta chì u rè Xezat hè mortu…|
+1299	$2284CA	48	 U scudu di u castellu d'Exdeath hè>statu dissipatu !|
+1300	$2284DF	21	 Krile : Ghido chjama…|
 1301	$2284F5	22	 Krile s’est évanouie !|
 1302	$228539	68	 Ghido le sage vit sur une petite \B8e>au nord-est du val des dragons.|
 1303	$228576	61	 Krile : Ghido appelle… du fond de>l’océan… Papi… dépêche-toi !|
