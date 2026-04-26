@@ -1698,106 +1698,106 @@
 1698	$22F293	41	 Lenna : Ùn possu stà>sveglia…[P2][AutoClose]|
 1699	$22F2AF	28	 Faris : … sò troppu>stanca…[P2][AutoClose]|
 1700	$22F2CA	27	 Krile : Vogliu…>dorme…[P2][AutoClose]|
-1701	$22F2D0	6	 33[P2][AutoClose]|
-1702	$22F2D6	6	 34[P3][AutoClose]|
-1703	$22F2F9	35	 Ce combat… était trop difficile…[P4][AutoClose]|
-1704	$22F305	12	 >Papi ! [P2][AutoClose]|
-1705	$22F32B	38	 Mid : Nous avons reçu une lettre ![P3][AutoClose]|
-1706	$22F365	58	 Mid : Si seulement nous savions ce>qui lui est arrivé…[P3][AutoClose]|
-1707	$22F39F	58	 Mid : Si seulement nous savions ce>qui lui est arrivé…[P3][AutoClose]|
-1708	$22F3D9	58	 Mid : Si seulement nous savions ce>qui lui est arrivé…[P3][AutoClose]|
-1709	$22F413	58	 Mid : Si seulement nous savions ce>qui lui est arrivé…[P3][AutoClose]|
+1701	$22F2D0	6	 Chì ci hè ?[P2][AutoClose]|
+1702	$22F2D6	6	 Nunda…>Aghju solu un pocu di sonnu…[P3][AutoClose]|
+1703	$22F2F9	35	 Issa battaglia… m'hà svutatu di>tutte e mo forze…[P4][AutoClose]|
+1704	$22F305	12	 >Babbone ![P2][AutoClose]|
+1705	$22F32B	38	 Mid : Hè ghjunta una lettera ![P3][AutoClose]|
+1706	$22F365	58	 Mid : Ah… induve hè ch'ella>s'hè cacciata ?[P3][AutoClose]|
+1707	$22F39F	58	 Mid : Ah… induve sò andate>tutte e duie ?[P3][AutoClose]|
+1708	$22F3D9	58	 Mid : Ah… induve hè ch'ellu>s'hè cacciatu ?[P3][AutoClose]|
+1709	$22F413	58	 Mid : Ah… induve sò andati>tutti ?[P3][AutoClose]|
 1710	$22F428	21	 >\52\52\52\52\52\52\52\52\52\52\52\52\52 [Bartz]>[P2][AutoClose]|
 1711	$22F441	25	 >\52\52\52\52\52\52\52\52\52\52\52\52\52\52Lenna>[P2][AutoClose]|
 1712	$22F45C	27	 >\52\52\52\52\52\52\52\52\52\52\52\52\52\52 Faris\52>[P2][AutoClose]|
 1713	$22F475	25	 >\52\52\52\52\52\52\52\52\52\52\52\52\52\52 Krile>[P2][AutoClose]|
-1714	$22F4B4	63	 Cid : Personne n’aurait dû se faire>engloutir par le néant…[P4][AutoClose]|
-1715	$22F50D	89	 Cid : Krile… Tes efforts ont été>récompensés… Tout le monde a>combattu si vaillamment ![P4][AutoClose]|
-1716	$22F534	39	 Cid : Oh ? Qu’est-ce que c’était ?>[P2][AutoClose]|
-1717	$22F5AD	121	 Cid : J’aurais juré avoir entendu>quelque chose…«Il est trop tôt…»>Hum ! Mon imagination me joue>peut-être des tours.[P4][AutoClose]|
-1718	$22F602	85	 «Cid, Mid… Ça va ? C’est moi,>[Bartz]. Je ne sais pas trop>comment, mais j’ai survécu…»[P4][AutoClose]|
-1719	$22F645	67	 «Cid, Mid… Comment allez-vous ?>C’est moi, Lenna. J’ai survécu…»[P4][AutoClose]|
-1720	$22F69E	89	 «Cid, Mid… Ça va ? C’est moi, Faris.>Je ne sais pas trop comment, mais>j’ai survécu…»[P4][AutoClose]|
-1721	$22F6E0	66	 «Cid, Mid… Comment allez-vous ?>C’est moi, Krile. J’ai survécu…»[P4][AutoClose]|
-1722	$22F71F	63	 «C’est comme si notre combat>n’avait été qu’un cauchemar… »[P4][AutoClose]|
-1723	$22F791	114	 «J’ai beaucoup voyagé depuis.»[P4][AutoClose]>>>>«Tout semble être rentré à la>normale. Le monde est un endroit>paisible.»[P6][AutoClose]|
-1724	$22F7D7	70	 «Le chancelier de Tycoon s’occupe>de la reconstruction du château.»[P3][AutoClose]|
-1725	$22F841	106	 «Le chancelier de Tycoon est>toujours de bonne humeur. Il>n’arrête pas de s’écrier : Princesse>Lenna !»[P3][AutoClose]|
-1726	$22F8AA	105	 «Le chancelier de Tycoon est>toujours aussi enjoué. Il n’arrête>pas de s’écrier : Princesse>Sarissa !»[P3][AutoClose]|
-1727	$22F8D7	45	 «Le chancelier de Tycoon a l’air>heureux.»[P3][AutoClose]|
-1728	$22F912	59	 «Cependant, Faris s’inquiète au>sujet de son équipage.»[P3][AutoClose]|
-1729	$22F980	110	 «Le chancelier s’est tellement>inquiété pendant mon absence qu’il>ne veut plus me laisser sortir du>château…»[P3][AutoClose]|
-1730	$22F9CD	77	 «Le chancelier était heureux de me>revoir, mais je m’inquiète pour>Lenna…»[P3][AutoClose]|
-1731	$22FA09	60	 «Lenna et Faris reviendront un>jour… Je n’en doute pas.»[P3][AutoClose]|
-1732	$22FA3E	53	 «Lenna est certaine que Faris>reviendra un jour…»[P3][AutoClose]|
-1733	$22FA73	53	 «Faris est certaine que Lenna>reviendra un jour…»[P3][AutoClose]|
-1734	$22FAA1	46	 «Elle rentrera bientôt… Je n’en>doute pas.»[P3][AutoClose]|
-1735	$22FAF7	86	 «Sarissa n’est pas encore revenue,>mais je sais qu’elle reviendra. Je>l’attendrai…»[P3][AutoClose]|
-1736	$22FB3A	67	 «Les gens de Bal s’inquiètent parce>qu’il n’y a pas d’héritier…»[P3][AutoClose]|
-1737	$22FB83	73	 «Krile pourrait devenir reine. Ce>serait étrange, non ?[FixedPause] Ha, ha, ha !»[P3][AutoClose]|
-1738	$22FBDB	88	 «Je pourrais devenir reine ! … Ça>n’arrivera jamais ! Mais…[FixedPause] je ne>refuserais pas !»[P3][AutoClose]|
-1739	$22FC1A	63	 «Le dragon et le mog attendent>toujours le retour de Krile…»[P4][AutoClose]|
-1740	$22FC91	119	 «Je suis retourné à Lix.»>«Je voulais passer un peu de>temps auprès de mes parents>avant de repartir à l’aventure.»[P3][AutoClose]|
-1741	$22FD11	128	 «[Bartz] est retourné à Lix.»>«Il a dit qu’il voulait passer un peu>de temps auprès de ses parents>avant de repartir à l’aventure.»[P4][AutoClose]|
-1742	$22FD6B	90	 «Le vent souffle de nouveau à>Tycoon.»>«Je sais que père veille sur moi, où>qu’il soit…»[P3][AutoClose]|
-1743	$22FDF3	136	 «C’est étrange, le château évoque>en moi des souvenirs de mon>père…»[P3][AutoClose]>>«Je sais que je n’aurai plus de>nouveaux souvenirs de lui…»[P3][AutoClose]|
-1744	$22FE5E	107	 «J’oubliais presque ! Mon meilleur>ami a des enfants ! Vous devriez>venir les voir, ils sont si mignons !»[P4][AutoClose]|
-1745	$22FEC6	104	 «Ah oui ! Boko et Koko ont eu leurs>bébés ! Ils sont si mignons !>N’oubliez pas de venir les voir !»>[P4][AutoClose]|
-1746	$22FF31	107	 «Ah, Boko et Koko ont eu leurs>petits.»>«Mes matelots s’en occupent ! Vous>devriez leur rendre visite.»[P4][AutoClose]|
-1747	$22FF65	52	 «Boko aurait tant voulu montrer>ses petits à [Bartz]…»[P4][AutoClose]|
-1748	$22FF85	32	 «Un an s’est écoulé depuis…»[P2][AutoClose]|
-1749	$22FFB0	43	 «Je vais retourner là où repose>Galuf…»[P4][AutoClose]|
-1750	$230000	80	 «Lenna et Faris sont occupées à>Tycoon… [Bartz] est reparti à>l’aventure.»[P4][AutoClose]|||[AutoClose]|\04[AutoClose]|n
-1751	$230040	64	 «Je crois que je vais retourner à>l’endroit où repose papi.»[P4][AutoClose]|
-1752	$230063	35	 «Si vous recevez des nouvelles…»[P4][AutoClose]|
-1753	$230083	32	 «Avertissez-moi, d’accord ?»[P4][AutoClose]|
-1754	$2300A3	32	 «Avertissez-moi, d’accord ?»[P4][AutoClose]|
-1755	$2300CC	41	 Krile : Si papi ne m’avait pas>sauvée…[P4][AutoClose]|
-1756	$2300F5	41	 Krile : Si papi ne m’avait pas>sauvée…[P4][AutoClose]|
-1757	$230124	47	 Lenna : Si Galuf n’était pas>intervenu, je…[P4][AutoClose]|
-1758	$230153	47	 Lenna : Si Galuf n’était pas>intervenu, je…[P4][AutoClose]|
-1759	$2301A2	79	 Les cristaux ont été régénérés… Le>monde est en paix. Mais… Je suis>triste…[P6][AutoClose]|
-1760	$2301C0	30	 C’est peut-être parce que…[P2][AutoClose]|
-1761	$2301F5	53	 Krile : Depuis la mort de papi…[FixedPause] Je>suis si seule…[P4][AutoClose]|
-1762	$23022B	54	 [Bartz] : Qu’est-ce que tu>racontes ? Tu n’es pas seule.[P3][AutoClose]|
-1763	$230263	56	 Lenna : Nous sommes là pour toi.[FixedPause]>>Faris : Courage ![P3][AutoClose]|
-1764	$230280	29	 Krile : … Au revoir, papi.[P2][AutoClose]|
-1765	$2302AE	46	 C’est peut-être parce que [Bartz]>n’est plus là.[P4][AutoClose]|
-1766	$2302E1	51	 C’est peut-être parce que Lenna >n’est plus là.[P4][AutoClose]|
-1767	$230314	51	 C’est peut-être parce que Faris >n’est plus là.[P4][AutoClose]|
-1768	$230346	50	 C’est peut-être parce que Krile >n’est plus là.[P4][AutoClose]|
-1769	$23037F	57	 C’est peut-être parce que les>autres ne sont plus là.[P4][AutoClose]|
-1770	$2303B8	57	 C’est peut-être parce que les>autres ne sont plus là.[P4][AutoClose]|
-1771	$2303F1	57	 C’est peut-être parce que les>autres ne sont plus là.[P4][AutoClose]|
-1772	$230423	50	 Krile : Oh ? Papi ?[FixedPause]… As-tu dit>quelque chose ?[P4][AutoClose]|
-1773	$230440	29	 Galuf ?[FixedPause] C’est bien toi ?[P4][AutoClose]|
-1774	$230452	18	 Incroyable !.![P3][AutoClose]|
-1775	$230474	34	 Krile : Vous êtes tous venus !>[P2][AutoClose]|
-1776	$23049B	39	 Galuf : Je vous l’avais bien dit !>[P2][AutoClose]|
-1777	$2304DD	66	 Galuf : Il était trop tôt pour que>vous veniez nous rejoindre.[P4][AutoClose]|
-1778	$2304EA	13	 … Galuf ![P2][AutoClose]|
-1779	$23051E	52	 [Bartz] : Bien sûr ! Tu croyais qu’on>allait t’oublier ?[P5][AutoClose]|
-1780	$23052E	16	 Krile : Vous…[P3][AutoClose]|
-1781	$230559	43	 Lenna : Ne pleure pas, Krile !>Courage ![P4][AutoClose]|
-1782	$23059A	65	 Faris : Galuf va se moquer de toi, si>tu continues à pleurer.[P3][AutoClose]|
-1783	$2305E2	72	 Krile : Snif ! Snif ! Ha, ha… Tu as>raison… Snif ! Il rit aux éclats.[P4][AutoClose]|
-1784	$23064D	107	 A la fin… Après le combat avec>Exdeath, je n’avais plus de forces…>[P4][AutoClose]>>Je n’ai pas pu sortir du néant.[P4][AutoClose]|
-1785	$2306C9	124	 Je n’en pouvais plus… La fatigue >engourdissait mon corps.[P6][AutoClose]>>>Ensuite, j’ai commencé à me sentir>mieux, petit à petit.[P6][AutoClose]|
-1786	$230745	124	 Je n’en pouvais plus… La fatigue >engourdissait mon corps.[P6][AutoClose]>>>Ensuite, j’ai commencé à me sentir>mieux, petit à petit.[P6][AutoClose]|
-1787	$230770	43	 [Bartz] : J’ai entendu la voix de>mon père…>\52[P4][AutoClose]|
-1788	$23079B	43	 [Bartz] : J’ai entendu la voix de>mon père…>\52[P4][AutoClose]|
-1789	$2307C5	42	 Krile : J’ai entendu la voix de papi…>\52[P4][AutoClose]|
-1790	$230810	75	 Les cristaux ont retrouvé leur>éclat… Cette fois, nous les>protégerons.[P6][AutoClose]|
-1791	$230844	52	 [Bartz] : Comme mon père et ses>compagnons l’ont fait…[P4][AutoClose]|
-1792	$230881	61	 Lenna : Entendez-vous quelque>chose ?>Faris : Oui, c’est…[P4][AutoClose]|
-1793	$23089D	28	 Krile : La voix de papi ?[P3][AutoClose]|
-1794	$2308CA	45	 [Bartz] : Non… Ce n’est que le>murmure du vent.[P3][AutoClose]|
-1795	$2308F1	39	 Lenna : Le ruissellement de l’eau ?>[P3][AutoClose]|
-1796	$230917	38	 Faris : Ou le crépitement du feu…>[P3][AutoClose]|
-1797	$230941	42	 Krile : Ou le frémissement de la>terre…[P3][AutoClose]|
-1798	$23096B	42	 [Bartz] : Je ne sais pas ce que>c’est, mais…[P5][AutoClose]|
-1799	$230984	25	 Faris : Je l’entends…[P3][AutoClose]|
-1800	$2309B0	44	 Lenna : Oui… Quelque chose>d’accueillant…[P3][AutoClose]|
+1714	$22F4B4	63	 Cid : Seriate dunque stati>veramente inghjuttiti da u nèant…[P4][AutoClose]|
+1715	$22F50D	89	 Cid : Krile… Avete fattu un travagliu>magnificu… Tutti quanti avete>cumbattutu cusì bè ![P4][AutoClose]|
+1716	$22F534	39	 Cid : Oh ? Hai dettu qualcosa ?[P2][AutoClose]|
+1717	$22F5AD	121	 Cid : Averia ghjuratu d'avè intesu>qualcosa…>Diceva : ùn hè ancu u locu induve>duvete vene…[P4][AutoClose]|
+1718	$22F602	85	 Cid, Mid… state bè ?>Sò [Bartz]. Pare chì no ci>simu salvati…[P4][AutoClose]|
+1719	$22F645	67	 Cid, Mid… state bè ?>Sò Lenna. Pare chì no ci>simu salvati…[P4][AutoClose]|
+1720	$22F69E	89	 Cid, Mid… state bè ?>Sò Faris. Pare chì no ci>simu salvati…[P4][AutoClose]|
+1721	$22F6E0	66	 Cid, Mid… state bè ?>Sò Krile. Pare chì no ci>simu salvati…[P4][AutoClose]|
+1722	$22F71F	63	 Avà mi pare quasi>ch'issa battaglia ùn fussi stata>chè un sognu…[P4][AutoClose]|
+1723	$22F791	114	 Dapoi tandu, aghju viaghjatu>da una cità à l'altra.[P4][AutoClose]>>>>Tuttu hè vultatu cum'era nanzu.>U mondu hè torna cusì>tranquillu.[P6][AutoClose]|
+1724	$22F7D7	70	 U cancelliere di Tycoon corre da>tutte e bande per ricustruì u>castellu.[P3][AutoClose]|
+1725	$22F841	106	 U cancelliere di Tycoon hè>tuttu cuntentu, è corre>sclamendu : Principessa>Lenna ![P3][AutoClose]|
+1726	$22F8AA	105	 U cancelliere di Tycoon hè>tuttu cuntentu, è corre>sclamendu : Principessa>Sarissa ![P3][AutoClose]|
+1727	$22F8D7	45	 U cancelliere di Tycoon pare>davveru felice.[P3][AutoClose]|
+1728	$22F912	59	 Ma Faris pare inchietassi per>u so equipagiu.[P3][AutoClose]|
+1729	$22F980	110	 Credu d'avè datu troppu pinsamenti>à u cancelliere… Da avà in poi,>passeraghju più tempu à u>castellu.[P3][AutoClose]|
+1730	$22F9CD	77	 U cancelliere era felice di>rivedemi à u castellu, ma in fondu>si face sempre penseru per Lenna…[P3][AutoClose]|
+1731	$22FA09	60	 Sò chì Lenna è Faris>turneranu un ghjornu…[P3][AutoClose]|
+1732	$22FA3E	53	 Ma Lenna… hè sicura chì>Faris turnerà di sicuru…[P3][AutoClose]|
+1733	$22FA73	53	 Ma Faris… hè sicura chì>Lenna turnerà di sicuru…[P3][AutoClose]|
+1734	$22FAA1	46	 Anch'eiu credu veramente>ch'ella turnerà prestu…[P3][AutoClose]|
+1735	$22FAF7	86	 A mo surella ùn hè ancu>turnata, ma l'aspetteraghju>sempre.[P3][AutoClose]|
+1736	$22FB3A	67	 U castellu di Bal hà prublemi :>ùn ci hè più nimu per>succede à u tronu…[P3][AutoClose]|
+1737	$22FB83	73	 Forse ancu… a regina Krile ?>Ha, ha, ha ![P3][AutoClose]|
+1738	$22FBDB	88	 Forse… diventeraghju>regina ??[FixedPause] Mmh… ùn sona>micca male…[P3][AutoClose]|
+1739	$22FC1A	63	 Hiryû è u mog aspettanu>sempre u ritornu di Krile…[P4][AutoClose]|
+1740	$22FC91	119	 Avà sò in Lix.>Sin'à a mo prossima partenza,>credu ch'eiu passeraghju un>pocu di tempu cù babbu è mamma.[P3][AutoClose]|
+1741	$22FD11	128	 [Bartz] hè avà in u so>paese nativu.[P3][AutoClose]>>>\52Sin'à a so prossima partenza,>starà un pocu cù u so babbu è>a so mamma.[P4][AutoClose]|
+1742	$22FD6B	90	 U ventu hè vultatu à>Tycoon ! Sò sicura chì,>in qualchì locu, babbu ci>fighjuleghja…[P3][AutoClose]|
+1743	$22FDF3	136	 Quand'eiu sò à u castellu…>stranamente, i ricordi di>babbu mi tornanu in mente…[P3][AutoClose]>>Saranu forse l'unichi ricordi>ch'eiu averaghju mai di>ellu…?[P3][AutoClose]|
+1744	$22FE5E	107	 Ah, guasi mi ne scurdava ! U mo>migliore amicu hà avutu i so>chjuchi ! Duvete vene à vede li, sò>troppu carini ![P4][AutoClose]|
+1745	$22FEC6	104	 Ah, à prò ! Boko è Koko anu>avutu i so chjuchi ! Sò>adorabili ! Venite à cunnosce li !>[P4][AutoClose]|
+1746	$22FF31	107	 Ah iè, Boko è Koko anu avutu>i so chjuchi ! Sò i mo pirati chì se>ne occupanu. Venite à vede li !>[P4][AutoClose]|
+1747	$22FF65	52	 Ma quellu à quale Boko vuleria>più chè tuttu mustrà i so>chjuchi hè [Bartz]…[P4][AutoClose]|
+1748	$22FF85	32	 Dapoi tandu, hè digià>passatu un annu…[P2][AutoClose]|
+1749	$22FFB0	43	 Pensu d'andà à issu>locu… Quellu induve>riposa Galuf…[P4][AutoClose]|
+1750	$230000	80	 Lenna è Faris sò occupate à>u castellu, è [Bartz] hè>partutu torna in viaghju… cusì>[P4][AutoClose]|
+1751	$230040	64	 Credu ch'eiu anderaghju>à issu locu… Quellu induve>riposa babbone…[P4][AutoClose]|
+1752	$230063	35	 S'è… l'altri venenu à>dumandà di mè…[P4][AutoClose]|
+1753	$230083	32	 No, sò sicura ch'elli>veneranu. Dite li ch'eiu>vulia vede li torna…[P4][AutoClose]|
+1754	$2300A3	32	 No, sò sicura ch'elli>veneranu. Dite li ch'eiu>vulia vede li torna…[P4][AutoClose]|
+1755	$2300CC	41	 S'è… in quellu mumentu…>S'è babbone ùn m'avia micca>salvata…[P4][AutoClose]|
+1756	$2300F5	41	 S'è… in quellu mumentu…>S'è babbone ùn m'avia micca>salvata…[P4][AutoClose]|
+1757	$230124	47	 S'è… in quellu mumentu…>S'è Galuf ùn m'avia micca>salvata…[P4][AutoClose]|
+1758	$230153	47	 S'è… in quellu mumentu…>S'è Galuf ùn m'avia micca>salvatu…[P4][AutoClose]|
+1759	$2301A2	79	 A terra, u ventu, u focu è>l'acqua sò tutti vivi, è u mondu>hà ritrovu a pace…>Eppuru, sò sempre un pocu trista…[P6][AutoClose]|
+1760	$2301C0	30	 Ne sò sicura, hè perchè…[P2][AutoClose]|
+1761	$2301F5	53	 Hè perchè babbone ùn ci hè>più… è sò firmata tutta sola…[P4][AutoClose]|
+1762	$23022B	54	 [Bartz] : Ùn sì micca sola.[P3][AutoClose]|
+1763	$230263	56	 Lenna : Simu quì, nò ?>Faris : Aiò, fatti curagiu ![P3][AutoClose]|
+1764	$230280	29	 à prestu, babbone…[P2][AutoClose]|
+1765	$2302AE	46	 Hè perchè [Bartz] ùn hè>micca quì, nò…[P4][AutoClose]|
+1766	$2302E1	51	 Hè perchè Lenna ùn hè>micca quì, nò…[P4][AutoClose]|
+1767	$230314	51	 Hè perchè Faris ùn hè>micca quì, nò…[P4][AutoClose]|
+1768	$230346	50	 Hè perchè Krile ùn hè>micca quì, nò…[P4][AutoClose]|
+1769	$23037F	57	 Hè perchè [Bartz] è l'altri>ùn sò micca quì, nò…[P4][AutoClose]|
+1770	$2303B8	57	 Hè perchè Lenna è l'altri>ùn sò micca quì, nò…[P4][AutoClose]|
+1771	$2303F1	57	 Hè perchè Faris è l'altri>ùn sò micca quì, nò…[P4][AutoClose]|
+1772	$230423	50	 Chì ?>Babbone ?[FixedPause]>… Avete dettu qualcosa ?[P4][AutoClose]|
+1773	$230440	29	 Chì ? Galuf ?[FixedPause]>… Avete dettu qualcosa ?[P4][AutoClose]|
+1774	$230452	18	 Site vivi ![P3][AutoClose]|
+1775	$230474	34	 Krile : Tutti quanti !!>Site venuti !![P2][AutoClose]|
+1776	$23049B	39	 Galuf : Ùn te l'avia forse>detta ?[P2][AutoClose]|
+1777	$2304DD	66	 Stu locu ùn hè ancu per>voi…[P4][AutoClose]|
+1778	$2304EA	13	 Galuf !![P2][AutoClose]|
+1779	$23051E	52	 [Bartz] : Ben intesu. Cumu>vuleriate chì ci scurdemu>d'un cumpagnu di lotta ?[P5][AutoClose]|
+1780	$23052E	16	 Krile : O zitè…[P3][AutoClose]|
+1781	$230559	43	 Lenna : E lacrime ùn ti>stanu bè, Krile. Ci vole à>tene fermu ![P4][AutoClose]|
+1782	$23059A	65	 Faris : Galuf si rideria di>tè ![P3][AutoClose]|
+1783	$2305E2	72	 Krile : Snif… Hehe… ai>ragiò… Babbone si ride>di mè…[P4][AutoClose]|
+1784	$23064D	107	 Dopu l'ultimu cumbattu>contru Exdeath… eru cusì>spussata…[P4][AutoClose]>>ùn avia più a forza>per scappà da u nèant…[P4][AutoClose]|
+1785	$2306C9	124	 V'aghju vistu diventà sempre>più chjuchi… è m'aghju>messa à sente mi in pace…[P6][AutoClose]>>>Pocu à pocu, mi sò sintita>megliu…[P6][AutoClose]|
+1786	$230745	124	 V'aghju vistu diventà sempre>più chjuchi… è m'aghju>messa à sente mi in pace…[P6][AutoClose]>>>Pocu à pocu, mi sò sintita>megliu…[P6][AutoClose]|
+1787	$230770	43	 Ma tandu aghju intesu a voce>di i Guerrieri di l'Alba…>\52[P4][AutoClose]|
+1788	$23079B	43	 Ma tandu aghju intesu a voce>di i Guerrieri di l'Alba…>\52[P4][AutoClose]|
+1789	$2307C5	42	 Ma tandu aghju intesu a voce>di i Guerrieri di l'Alba…>\52[P4][AutoClose]|
+1790	$230810	75	 I cristalli anu ritrovu a so>putenza… Avà ci tocca à noi>di prutege la.[P6][AutoClose]|
+1791	$230844	52	 [Bartz] : Cum'è babbu è>l'altri l'avianu prutetta…[P4][AutoClose]|
+1792	$230881	61	 Lenna : Sentite qualcosa ?>Faris : … iè, a sentu ![P4][AutoClose]|
+1793	$23089D	28	 Krile : A voce di babbone… ?[P3][AutoClose]|
+1794	$2308CA	45	 [Bartz] : Innò…>U frusciu di l'arburi, forse ?[P3][AutoClose]|
+1795	$2308F1	39	 Lenna : U murmuriu di>l'acqua… ?[P3][AutoClose]|
+1796	$230917	38	 Faris : U tremulà di u>focu… ?[P3][AutoClose]|
+1797	$230941	42	 Krile : U sussuru di a>terra… ?[P3][AutoClose]|
+1798	$23096B	42	 [Bartz] : Ùn la sò…>Ùn la sò, ma…[P5][AutoClose]|
+1799	$230984	25	 Faris : A sentu…[P3][AutoClose]|
+1800	$2309B0	44	 Lenna : Iè… qualcosa di>caldu…[P3][AutoClose]|
 1801	$2309C5	21	 Lenna : Allons-y ![P3][AutoClose]|
 1802	$2309E6	33	 Faris : Syldra ! Tu es vivante !|
 1803	$230A34	78	 [Bartz] : Qu’est-ce que tu racontes,>Faris ?>Lenna : Faris… Vois-tu quelque>chose ?|
