@@ -898,106 +898,106 @@
 898	$220E5B	121	 [Bartz] : Cid ! Mid ! Avemu un>prublema…>>>Cid : Ùn vi fate pena.>Mid : Avemu vistu tuttu cù u>telescopiu !|
 899	$220E86	43	 Mid : U cristallu di a terra hè>quassù !|
 900	$220F42	188	 Mid : I Ronchiani avianu amplificatu>u putere di u cristallu di a terra>per fà vulà a so cità.>>Eppuru, si sò firmati appena>anu scupertu chì quessa pudia>danneghjà u cristallu.|
-901	$220F85	67	 Cid : Vous devez vous dépêcher !>Quelqu’un a réactivé la machine !|
-902	$220FE6	97	 Lenna : Non… Ce n’est pas>possible… Père !>Faris : Non ! Il ne ferait jamais une>chose pareille !|
-903	$221014	46	 [Bartz] : Comment pourrons-nous>atteindre la cité ?|
-904	$2210B3	159	 Cid : Grâce à ceci !>Mid : De l’adamantine ! Si nous>renforçons le vaisseau avec ce>métal, il pourra voler plus haut.>Cependant, il faudrait d’abord en>trouver…|
-905	$2210CC	25	 Galuf : Aucun problème !|
-906	$2211EB	287	 Galuf : Il y avait de l’adamantine>dans l’aérolithe que j’ai utilisé pour>venir ici !>[Bartz] : Tu en es sûr ?>Galuf : Tu doutes de moi ?>[Bartz] : Euh, non… Seulement, ta>mémoire n’est pas très fidèle ces>jours-ci, et…>Galuf : Balivernes ! Je me souviens>parfaitement d’avoir aperçu de>l’adamantine !|
-907	$22122D	66	 Faris : Quoi qu’il en soit, nous>pouvons commencer par>l’aérolithe.|
-908	$22129A	109	 Cid : Nous resterons ici pour>effectuer les préparatifs.>Mid : Rapportez-nous de>l’adamantine au plus vite !|
-909	$2212CA	48	 Galuf : Hum… C’était par ici j’en>suis certain…|
-910	$2212D9	15	 Galuf : Voilà !|
-911	$221303	42	 [Bartz] : Il y a quelque chose qui…>Attention !|
-912	$221328	37	 Galuf : C’est bien de l’adamantine !|
-913	$221387	95	 Galuf : Alors ? Ma mémoire est>fidèle !>[Bartz] : Pour un amnésique,>peut-être…>Galuf : Ha, ha, ha !|
-914	$22139E	23	 >Obtenu : Adamantine !|
-915	$221421	131	 Cid : Excellent ! Vous avez récupéré>de l’adamantine !>>>Mid : Nous allons nous mettre au>travail immédiatement ! Allez vous>reposer !|
-916	$221459	56	 [Bartz] : Hum… Bizarre… J’ai rêvé>que le vaisseau était prêt…|
-917	$221489	48	 Cid : Debout là-dedans !>Le vaisseau est prêt !|
-918	$2214AE	37	 [Bartz] : Vous n’avez pas perdu de>temps !|
-919	$2214F6	72	 Cid : Après le décollage, appuyez>sur le bouton A pour voler plus>haut !|
-920	$22152D	55	 Lenna : Nous pourrons désormais>atteindre les ruines ?|
-921	$22155A	45	 Cid : En théorie, oui… Mais regardez>un peu…|
-922	$221616	188	 Cid : La cité est munie d’un>système de défense redoutable…>Si vous ne le détruisez pas, vous ne>pourrez pas y pénétrer.>Mid : Ce livre prétend que la cité>possède des canons surpuissants…|
-923	$2216F0	218	 Lenna : Nous n’avons pas le choix !>Faris : Tu as raison !>>>Galuf : Nous nous débarrasserons>de ces vieux canons en moins de>deux !>>[Bartz] : Merci pour votre aide !>Allons trouver le cristal avant qu’il>ne soit trop tard !|
-924	$22173A	74	 [Bartz] : C’en est fini de leur>système de défense !>Lenna : Attends… Regarde !|
-925	$22177B	65	 Galuf : Mille tonnerres !>Faris : Nous voilà dans de beaux>draps !|
-926	$2217CF	84	 [Bartz] : Alors c’est par là qu’il faut>entrer ?>Galuf : On dirait bien.>Faris : Allons-y !|
-927	$221815	70	 Lenna : Père !>Roi de Tycoon : Il me bloque le>chemin !>Faris : Papa…|
-928	$22182E	25	 Roi de Tycoon : Silence !|
-929	$2218CC	158	 Roi de Tycoon : Ce monstre est le>gardien de ces ruines.>>>Il peut changer son point faible>sans crier gare…>Il faut le vaincre le plus>rapidement possible !|
-930	$221907	59	 Roi de Tycoon : Parfait ! Parfait !>[FixedPause]Mouah ha, ha, ha, ha…|
-931	$221925	30	 Lenna : Père !>Faris : Papa !|
-932	$22194C	39	 [Bartz] : Le cristal de la terre est>là-bas…|
-933	$22198E	66	 Galuf : Mille tonnerres ! Il est>possédé par un esprit maléfique !|
-934	$2219C9	59	 Lenna : [Bartz], arrête !>Faris : Non !>[Bartz] : Laissez-moi passer !|
-935	$221A16	77	 Roi de Tycoon : Puisque vous êtes>tous là, il me sera facile de vous>éliminer !|
-936	$221A2A	20	 Jeune fille : Papi !|
-937	$221A57	45	 Jeune fille : Papi ! Oh, tu es sain et>sauf !|
-938	$221A7A	35	 Galuf : Krile… Tu t’appelles… Krile !|
-939	$221A9E	36	 >\52\52\52 Galuf retrouve la mémoire ![P4][AutoClose]|
-940	$221AC4	38	 Krile : Papi, tu m’as tellement>manqué…|
-941	$221B18	84	 Krile : Oh, ne vous en faites pas.>Ce n’était qu’un sort d’Eclair… Il>s’en remettra.|
-942	$221B5F	71	 Roi de Tycoon : Oooh… Où…[FixedPause] Lenna…>Sarissa ? Sarissa ! C’est bien toi ?|
+901	$220F85	67	 Cid : Ci tocca à affrettà ci !>Qualchissia hà riattivatu a macchina !|
+902	$220FE6	97	 Lenna : Innò… Ùn hè>micca pussibule… Babbu !>Faris : Innò ! Ùn faria mai una>cosa tale !|
+903	$221014	46	 [Bartz] : Cumu faremu à>ghjunghje sin'à a cità ?|
+904	$2210B3	159	 Cid : Grazie à què !>Mid : Adamantina ! S'è no rinfurzemu>u vascellu cù stu metallu, puderà>vulà più in altu.>Eppuru, ci vularia prima à>truvà ne…|
+905	$2210CC	25	 Galuf : Nisun prublema !|
+906	$2211EB	287	 Galuf : Ci era di l'adamantina>in l'aerolitu ch'eiu aghju adupratu per>vene quì !>[Bartz] : Ne sì sicuru ?>Galuf : Dubiti di mè ?>[Bartz] : Euh, nò… Solu chì a to>memoria ùn hè micca assai fidata>sti ghjorni, è…>Galuf : Sciocchezze ! Mi ramentu>perfettamente d'avè vistu>di l'adamantina !|
+907	$22122D	66	 Faris : In ogni modu, pudemu>principià cù>l'aerolitu.|
+908	$22129A	109	 Cid : Firmaremu quì per>fà i priparativi.>Mid : Ripurtate ci>di l'adamantina u più prestu pussibule !|
+909	$2212CA	48	 Galuf : Hum… Era da sta banda, ne>sò sicuru…|
+910	$2212D9	15	 Galuf : Eccu !|
+911	$221303	42	 [Bartz] : Ci hè qualcosa chì…>Attenti !|
+912	$221328	37	 Galuf : Hè propiu di l'adamantina !|
+913	$221387	95	 Galuf : Allora ? A mo memoria hè>fidele !>[Bartz] : Per un sminticatu,>forse…>Galuf : Ha, ha, ha !|
+914	$22139E	23	 >Pigliatu : Adamantina !|
+915	$221421	131	 Cid : Eccellente ! Avete recuperatu>di l'adamantina !>>>Mid : Ci metteremu subitu>à u travagliu ! Andate vi à>riposà !|
+916	$221459	56	 [Bartz] : Hum… Stranu… Aghju sunniatu>chì u vascellu era prontu…|
+917	$221489	48	 Cid : In pedi quì !>U vascellu hè prontu !|
+918	$2214AE	37	 [Bartz] : Ùn avete micca persu di>tempu !|
+919	$2214F6	72	 Cid : Dopu à u decollu, appughjate>nantu à u buttone A per vulà più>in altu !|
+920	$22152D	55	 Lenna : Puderemu avà>ghjunghje à e ruvine ?|
+921	$22155A	45	 Cid : In teoria, iè… Ma fighjate>un pocu…|
+922	$221616	188	 Cid : A cità hè munita d'un>sistema di difesa redutabile…>S'è vo ùn lu distrughjite micca, ùn>puderete entre ci.>Mid : Stu libru pretende chì a cità>possegna cannoni supraputenti…|
+923	$2216F0	218	 Lenna : Ùn avemu micca scelta !>Faris : Hai ragiò !>>>Galuf : Ci sbarazzeremu>di sti vechji cannoni in dui>tempi trè mossi !>>[Bartz] : Grazie per a vostra aiuta !>Andemu à truvà u cristallu nanzu ch'ellu>sia troppu tardi !|
+924	$22173A	74	 [Bartz] : Avemu finitu cù u so>sistema di difesa !>Lenna : Aspetta… Fighja !|
+925	$22177B	65	 Galuf : Mille tonni !>Faris : Ci simu in belli lenzuli !|
+926	$2217CF	84	 [Bartz] : Allora hè da quì ch'ellu ci vole>entre ?>Galuf : Pare bè.>Faris : Andemu ci !|
+927	$221815	70	 Lenna : Babbu !>Rè di Tycoon : Mi blocca>a strada !>Faris : Babbu…|
+928	$22182E	25	 Rè di Tycoon : Zitti !|
+929	$2218CC	158	 Rè di Tycoon : Stu mostru hè u>guardianu di ste ruvine.>>>Pò cambià u so puntu debule>senza avvisu…>Ci vole à vince lu u più>prestu pussibule !|
+930	$221907	59	 Rè di Tycoon : Perfettu ! Perfettu !>[FixedPause]Mouah ha, ha, ha, ha…|
+931	$221925	30	 Lenna : Babbu !>Faris : Babbu !|
+932	$22194C	39	 [Bartz] : U cristallu di a terra hè>culà…|
+933	$22198E	66	 Galuf : Mille tonni ! Hè>pussedutu da un spiritu maleficu !|
+934	$2219C9	59	 Lenna : [Bartz], ferma !>Faris : Innò !>[Bartz] : Lasciate mi passà !|
+935	$221A16	77	 Rè di Tycoon : Postu chì site>tutti quì, mi serà facile di>eliminà vi !|
+936	$221A2A	20	 Zitella : Babbone !|
+937	$221A57	45	 Zitella : Babbone ! Oh, sì salvu è>sanu !|
+938	$221A7A	35	 Galuf : Krile… Ti chjami… Krile !|
+939	$221A9E	36	 >\52\52\52 Galuf ritrova a memoria ![P4][AutoClose]|
+940	$221AC4	38	 Krile : Babbone, m'hè mancatu>tantu…|
+941	$221B18	84	 Krile : Oh, ùn vi ne fate micca.>Era solu un sortilegiu d'Eclair… Si>ne hà da rimette.|
+942	$221B5F	71	 Rè di Tycoon : Oooh… Induve…[FixedPause] Lenna…>Sarissa ? Sarissa ! Sì propiu tù ?|
 943	$221B78	25	 Lenna : Faris… Sarissa !|
-944	$221BE9	113	 Roi de Tycoon : Oui, c’est bien toi…>Sarissa ! Je n’arrive pas à y>croire ! Tu es vivante !>Faris : Papa… Papa !|
+944	$221BE9	113	 Rè di Tycoon : Iè, sì propiu tù…>Sarissa ! Ùn ci possu>crede ! Sì viva !>Faris : Babbu… Babbu !|
 945	$221BF2	9	 [Bartz] : Oh !|
 946	$221C04	18	 Galuf : Exdeath !|
-947	$221C6E	106	 Exdeath : Galuf ! Je suis heureux>de te revoir enfin… Cela signifie>que j’ai réussi ! Mouah, ha, ha, ha !|
-948	$221CC3	85	 Exdeath : Cristaux ! Obéissez-moi…>Donnez-moi votre pouvoir !>Ecrasez ces insectes !|
-949	$221CFB	56	 [Bartz] : Tu crois vraiment que>nous allons te laisser faire ?|
+947	$221C6E	106	 Exdeath : Galuf ! Sò felice>di ritruvà ti infine… Quessa vole dì>ch'eiu aghju riesciutu ! Mouah, ha, ha, ha !|
+948	$221CC3	85	 Exdeath : Cristalli ! Ubbidite mi…>Date mi u vostru putere !>Schiacciate sti insetti !|
+949	$221CFB	56	 [Bartz] : Cridi veramente chì>ti lasciaremu fà ?|
 950	$221D0F	20	 [Bartz] : Oh…>Lenna : [Bartz] !|
-951	$221D73	100	 Exdeath : Ha, ha, ha ! Les cristaux>sont en miettes ! Mon prochain>objectif sera ton monde, Galuf !|
-952	$221D91	30	 Lenna : Père !>Faris : Papa !|
-953	$221E2F	158	 Roi de Tycoon : Sarissa… Lenna…>[Bartz]… … et vous, guerriers>venus d’un autre monde… Votre>mission n’est pas terminée.>Le monde ne doit pas sombrer>dans le néant…|
-954	$221E85	86	 Roi de Tycoon : Lumière de la>terre ! Viens récupérer ton>essence qui repose en moi !|
-955	$221EC5	64	 Roi de Tycoon : N’approchez pas !>Le cristal doit être protégé…|
-956	$221F46	129	 Lenna : Père ! Tenez bon !>Faris : Tu ne peux pas mourir !>>>Roi de Tycoon : Sarissa…>Pardonne-moi… Je n’ai pas été là>pour toi…|
-957	$221F84	62	 Roi de Tycoon : Lenna… Sarissa…>Unissez vos forces… Protégez…|
-958	$221FAB	39	 Roi de Tycoon : [Bartz]… Prends>soin d’elles…|
-959	$221FE0	53	 Lenna : Père ! Non !>Faris : Ne nous abandonne pas !|
-960	$22203E	94	 >\52\52\52\52\52\52\52\52\52\52\52\52\52Samurai>>>>\52\52\52\52\52\52\52\52\52\52\52\52\52Dragoon>>>>\52\52\52\52\52\52\52\52\52\52\52\52\52Danseur>>>>\52\52\52\52\52\52\52\52\52\52\52\52\52 Savant|
-961	$2220AE	112	 [Bartz] : Que se passe-t-il ?>Galuf : Les ruines ! Elles vont>s’écraser !>>[Bartz] : Sortons d’ici ! Retournons>au vaisseau !|
-962	$2220C5	23	 Faris : Lenna… Viens !|
-963	$2220F8	51	 Faris : Accrochez-vous ! Nous>allons être secoués !|
+951	$221D73	100	 Exdeath : Ha, ha, ha ! I cristalli>sò in pezzi ! U mo prossimu>scopu serà u to mondu, Galuf !|
+952	$221D91	30	 Lenna : Babbu !>Faris : Babbu !|
+953	$221E2F	158	 Rè di Tycoon : Sarissa… Lenna…>[Bartz]… … è voi, guerrieri>venuti d'un altru mondu… A vostra>missione ùn hè micca finita.>U mondu ùn deve cascà>in u nulla…|
+954	$221E85	86	 Rè di Tycoon : Luce di a>terra ! Vieni à ripiglià a to>essenza chì riposa in mè !|
+955	$221EC5	64	 Rè di Tycoon : Ùn v'avvicinate micca !>U cristallu deve esse prutettu…|
+956	$221F46	129	 Lenna : Babbu ! Teni bonu !>Faris : Ùn poi more !>>>Rè di Tycoon : Sarissa…>Perdona mi… Ùn sò statu quì>per tè…|
+957	$221F84	62	 Rè di Tycoon : Lenna… Sarissa…>Unite e vostre forze… Prutegite…|
+958	$221FAB	39	 Rè di Tycoon : [Bartz]… Piglia>cura d'elle…|
+959	$221FE0	53	 Lenna : Babbu ! Innò !>Faris : Ùn ci abbandunà !|
+960	$22203E	94	 >\52\52\52\52\52\52\52\52\52\52\52\52\52 Samurai>>>>\52\52\52\52\52\52\52\52\52\52\52\52\52 Dragone>>>>\52\52\52\52\52\52\52\52\52\52\52\52\52 Ballerina>>>>\52\52\52\52\52\52\52\52\52\52\52\52\52 Sapiente|
+961	$2220AE	112	 [Bartz] : Chì succede ?>Galuf : E ruvine ! Vanu>à schiattà si !>>[Bartz] : Esciamu d'quì ! Turnemu>à u vascellu !|
+962	$2220C5	23	 Faris : Lenna… Vieni !|
+963	$2220F8	51	 Faris : Tenite vi ! Ci>hà da scuzzulà !|
 964	$222107	15	 Faris : Lenna…|
-965	$222135	46	 Lenna : Père…[FixedPause] Je ne le reverrai>plus jamais…|
-966	$22219C	103	 [Bartz] : Galuf… Quelque chose ne>va pas ?>Galuf : Nous devons nous>dépêcher !>[Bartz] : Quoi ? Que se passe-t-il ?|
-967	$2221D7	59	 Galuf : J’ai retrouvé la mémoire !>Je me souviens de tout…|
-968	$2222E6	271	 Galuf : Exdeath est un sorcier>maléfique de mon monde… Il y a>30 ans, il est venu ici pour détruire>les cristaux. Avec l’aide des autres>guerriers de l’aube, j’ai pu>l’emprisonner grâce au pouvoir des>cristaux.>>La paix a régné pendant 30 ans…>Nous croyions avoir réussi.|
-969	$222364	126	 Galuf : Cependant, les cristaux ne>réagissaient plus normalement…>Nous sommes venus en découvrir>la cause avec les aérolithes.|
-970	$2223B6	82	 Galuf : C’était trop tard… Exdeath>s’est échappé et est retourné sur>notre monde.|
-971	$222401	75	 [Bartz] : C’est parce que nous>avons amplifié le pouvoir des>cristaux, c’est ça ?|
-972	$222477	118	 Galuf : Non… Nous sommes ceux>qui ont emprisonné Exdeath sur>votre monde… Nous aurions dû>l’emprisonner sur le nôtre…|
-973	$2224AA	51	 [Bartz] : Vous allez vraiment>retourner sur votre monde ?|
-974	$222599	239	 Galuf : Oui, nous devons trouver un>moyen d’emprisonner Exdeath à>nouveau… L’énergie résiduelle de>l’aérolithe de Krile devrait nous>permettre de rentrer sans>encombre. [Bartz], Lenna, Faris…>Je vous remercie de m’avoir aidé.>Vous allez me manquer.|
-975	$2225D9	64	 [Bartz] : Mais qu’est-ce que tu>racontes ? Nous allons>t’accompagner !|
-976	$22263E	101	 Galuf : Impossible ![FixedPause] C’est le dernier>aérolithe. Vous ne pourriez jamais>retourner sur votre monde !|
-977	$22264E	16	 Galuf : Adieu !|
-978	$222680	50	 Krile : Contente d’avoir fait votre>connaissance !|
+965	$222135	46	 Lenna : Babbu…[FixedPause] Ùn lu videraghju>più mai…|
+966	$22219C	103	 [Bartz] : Galuf… Qualcosa ùn>va micca ?>Galuf : Ci tocca à affrettà ci !>[Bartz] : Cosa ? Chì succede ?|
+967	$2221D7	59	 Galuf : Aghju ritrovu a memoria !>Mi ramentu di tuttu…|
+968	$2222E6	271	 Galuf : Exdeath hè un stregone>maleficu di u mo mondu… 30 anni>fà, era ghjuntu quì per distrughje>i cristalli. Cù l'aiutu di l'altri>guerrieri di l'alba, aghju pussutu>imprigiunà lu grazia à u putere di i>cristalli.>>A pace hà regnatu 30 anni…>Cridiamu d'avè riesciutu.|
+969	$222364	126	 Galuf : Eppuru, i cristalli ùn>reagiscianu più nurmalmente…>Simu venuti à scopre ne>a causa cù l'aeroliti.|
+970	$2223B6	82	 Galuf : Era troppu tardi… Exdeath>s'hè scappatu è hè vultatu annantu>à u nostru mondu.|
+971	$222401	75	 [Bartz] : Hè perchè avemu>amplificatu u putere di i>cristalli, ghjè cusì ?|
+972	$222477	118	 Galuf : Innò… Simu noi chì>avemu imprigiunatu Exdeath annantu>à u vostru mondu… Aviamu duvutu>imprigiunà lu annantu à u nostru…|
+973	$2224AA	51	 [Bartz] : Vulerete veramente>vultà annantu à u vostru mondu ?|
+974	$222599	239	 Galuf : Iè, ci vole à truvà un>mezu d'imprigiunà Exdeath torna… L'energia risiduale di>l'aerolitu di Krile duveria>permette ci di vultà senza>imbrogliu. [Bartz], Lenna, Faris…>Vi ringraziu d'avè mi aiutatu.>Mancarete.|
+975	$2225D9	64	 [Bartz] : Ma chì dici ? Noi>veneremu cun tè !|
+976	$22263E	101	 Galuf : Impussibule ![FixedPause] Hè l'ultimu>aerolitu. Ùn puderiate mai>vultà annantu à u vostru mondu !|
+977	$22264E	16	 Galuf : Addiu !|
+978	$222680	50	 Krile : Cuntenta d'avè fattu a vostra>cunniscenza !|
 979	$222693	19	 [Bartz] : Galuf ! Krile !|
-980	$2226C4	49	 Lenna : [Bartz]…>[Bartz] : Oui ?>Faris : Nous discutions et…|
-981	$22274F	139	 Lenna : Ils continuent sûrement à>combattre Exdeath sur leur>monde…>Faris : Nous devons venger papa !>Lenna : Oui ! Et…>Faris : Galuf… Il…|
-982	$22279B	76	 [Bartz] : C’est notre ami.>Lenna : [Bartz] !>Faris : Nous savions que tu>comprendrais !|
-983	$2227C8	45	 [Bartz] : Allons-y ! Un nouveau>monde nous attend !|
-984	$2227FE	54	 Lenna : Oui, mais comment>pourrons-nous l’atteindre ?|
-985	$222845	71	 Faris : Les aérolithes n’ont plus>assez d’énergie pour nous>téléporter…|
-986	$222895	80	 [Bartz] : Pourquoi ne pas demander>à Cid ? Je suis certain qu’il saura>comment faire !|
-987	$2228DF	74	 Chocobo noir : Kwoa !>[Bartz] : Hein ? Qu’est-ce que le>chocobo noir fait ici ?|
-988	$222939	90	 [Bartz] : Cid ! Mid ! Que faites-vous>ici ?>Cid : Ne t’approche pas, [Bartz] !>C’est trop dangereux !|
-989	$2229CB	146	 Mid : Une onde d’énergie>surpuissante émane de>l’adamantine !>>Cid : Nous avons cru bon de>rapporter l’adamantine là où vous>l’aviez… Un instant…|
-990	$222A01	54	 Cid : Oh ! Le sol absorbe l’énergie>de l’adamantine !|
-991	$222A96	149	 Lenna : Est-ce que l’aérolithe est>en train de se recharger ?>Pourra-t-il absorber assez>d’énergie pour nous permettre>d’atteindre le monde de Galuf ?|
-992	$222AE5	79	 [Bartz] : Peut-être ! Qu’en dis-tu,>Cid ?>Cid : Quoi ? Qu’est-ce que vous>racontez ?|
-993	$222BCA	229	 Cid : Hum, je vois !>Mid : Cependant, ce morceau>d’adamantine est trop petit. Il ne>donnera pas assez d’énergie>à l’aérolithe pour vous permettre>de vous téléporter. Peut-être que>si vous combiniez l’énergie des>quatre aérolithes…|
-994	$222BFD	51	 [Bartz] : … nous pourrions>atteindre le monde de Galuf !|
-995	$222C7F	130	 [Bartz] : C’est l’écriture de Cid…>>>>« L’adamantine émet des radiations>dangereuses… Nous allons la>rapporter où vous l’avez>trouvée. »|
-996	$222CE4	101	 Lenna : J’espère qu’il ne leur est>rien arrivé…>[Bartz] : Rapporter l’adamantine ?>Oh, ils sont allés là-bas…|
-997	$222D14	48	 Cid : Attendez-nous ici !>Mid : Ne bougez pas !|
-998	$222D40	44	 Cid : C’est parfait !>Mid : Mais bien sûr !|
-999	$222D5F	31	 Cid : C’est bon ! Au suivant !|
-1000	$222D96	55	 Cid : Et de quatre ! Jetez un coup>d’œil à cette carte…|
+980	$2226C4	49	 Lenna : [Bartz]…>[Bartz] : Iè ?>Faris : Ne discutevamu è…|
+981	$22274F	139	 Lenna : Continuanu sicuramente à>cumbatte Exdeath annantu à u so>mondu…>Faris : Ci tocca à vindicà babbu !>Lenna : Iè ! È…>Faris : Galuf… Ellu…|
+982	$22279B	76	 [Bartz] : Hè u nostru amicu.>Lenna : [Bartz] !>Faris : A sapiamu chì tù>capisceresti !|
+983	$2227C8	45	 [Bartz] : Andemu ci ! Un novu>mondu ci aspetta !|
+984	$2227FE	54	 Lenna : Iè, ma cumu>faremu à ghjunghje ci ?|
+985	$222845	71	 Faris : L'aeroliti ùn anu più>abbastanza energia per>teletrasportà ci…|
+986	$222895	80	 [Bartz] : Perchè ùn dumandà>à Cid ? Sò sicuru ch'ellu saperà>cumu fà !|
+987	$2228DF	74	 Chocobo neru : Kwoa !>[Bartz] : Hein ? Chì ghjè chì u>chocobo neru face quì ?|
+988	$222939	90	 [Bartz] : Cid ! Mid ! Chì fate>quì ?>Cid : Ùn t'avvicinà micca, [Bartz] !>Hè troppu periculosu !|
+989	$2229CB	146	 Mid : Un'onda d'energia>supraputente emana da>l'adamantina !>>Cid : Avemu cridutu bè di>ripurtà l'adamantina induve>l'aviate truvata… Un mumentu…|
+990	$222A01	54	 Cid : Oh ! U tarrenu assorbe l'energia>di l'adamantina !|
+991	$222A96	149	 Lenna : L'aerolitu hè for di>ricaricà si ?>Puderà assorbe abbastanza>d'energia per permette ci>di ghjunghje à u mondu di Galuf ?|
+992	$222AE5	79	 [Bartz] : Forse ! Chì ne dici,>Cid ?>Cid : Cosa ? Di chì parlate ?|
+993	$222BCA	229	 Cid : Hum, capiscu !>Mid : Eppuru, stu pezzu>d'adamantina hè troppu chjucu. Ùn>darà micca abbastanza d'energia>à l'aerolitu per permette vi>di teletrasportà vi. Forse chì>se cumbinavate l'energia di i>quattru aeroliti…|
+994	$222BFD	51	 [Bartz] : … puderiamu>ghjunghje à u mondu di Galuf !|
+995	$222C7F	130	 [Bartz] : Hè a scrittura di Cid…>>>>« L'adamantina emette radiazioni>periculose… A ripurteremu induve>l'aviate>truvata. »|
+996	$222CE4	101	 Lenna : Spergu chì ùn li sia>accadutu nunda…>[Bartz] : Ripurtà l'adamantina ?>Oh, sò andati culà…|
+997	$222D14	48	 Cid : Aspettate ci quì !>Mid : Ùn vi move !|
+998	$222D40	44	 Cid : Hè perfettu !>Mid : Ma benintesa !|
+999	$222D5F	31	 Cid : Va bè ! À u prossimu !|
+1000	$222D96	55	 Cid : È di quattru ! Date un'ochjata>à sta carta…|
 1001	$222E31	155	 Mid : Comme vous pouvez le>constater, le rayon d’énergie des>aérolithes se croise au milieu. C’est>à partir de cet endroit que vous>pourrez vous téléporter.|
 1002	$222E48	23	 Cid : Soyez prudents !|
 1003	$222E64	28	 [Bartz] : Merci Cid ! Merci Mid !|
