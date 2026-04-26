@@ -198,106 +198,106 @@
 198	$213A43	46	 [Bartz] : Aspettate, andaraghju>à vede s'ellu dorme.|
 199	$213AE3	160	 Galuf : [Bartz], perchè fai>ssa faccia ?>[Bartz] : Euh… Ùn hè nunda…>M'averaghju imaginatu>qualcosa…>Galuf : Ma chì raconti ?>Fà mi vede un pocu…|
 200	$213B33	80	 Galuf : Mille fulmini ! Chì>bellezza squisita… Vi taglia>u fiatu !|
-201	$213B64	49	 Lenna : Que se passe-t-il ? Vous>êtes écarlates !|
-202	$213B8D	41	 Faris : Ooh… J’ai dormi à poings>fermés…|
-203	$213BCF	66	 Faris : Qu’est-ce qui vous prend,>vous deux ? Ressaisissez-vous !|
-204	$213C19	74	 Faris : J’aimerais qu’on me laisse>tranquille. Je vous reverrai plus>tard.|
-205	$213C4F	54	 Faites attention ! La taverne est>pleine de pirates !|
-206	$213C66	23	 Misère ! Des pirates !|
-207	$213C8B	37	 Ça tourne… J’ai trop tourné en>rond…|
-208	$213D00	117	 Quoi ? Un aérolithe s’est écrasé sur>le château de Tycoon ? Un autre>vient de s’écraser dans les>montagnes à l’ouest.|
-209	$213DBD	189	 Mon grand-père raconte qu’un>gros monstre méchant a été>emprisonné au fond du canal à>l’est d’ici. C’est la puissance du>cristal du vent qui l’a maintenu>prisonnier pendant tout ce temps !|
-210	$213E36	121	 Si vous vous dirigez vers l’est et>passez par le canal, vous>atteindrez Wolse. Wolse prospère>grâce au cristal de l’eau.|
-211	$213ED6	160	 Grâce à la machine qui amplifie le>pouvoir du cristal du vent, nous>pouvons naviguer plus>rapidement !>Le bateau en provenance de Wolse>devrait bientôt arriver.|
-212	$213F11	59	 On dirait que le vent ne souffle>plus aussi fort qu’avant…|
-213	$213F59	72	 Certains prétendent que le>monstre du canal ne s’attaque>qu’aux femmes.|
-214	$213F98	63	 Je me demande pourquoi les>pirates avaient tous l’air déprimé…|
-215	$213FD9	65	 Les pirates ? Ils ont dit qu’ils>allaient retourner à leur refuge.|
-216	$21402E	85	 Nous avions peur des pirates, mais>à vrai dire, ils n’ont jamais attaqué>nos bateaux.|
-217	$21406D	63	 Vous voulez que je vous>accompagne jusqu’au club des>novices ?|
-218	$214092	37	 C’est bien d’avoir confiance en soi.|
-219	$2140D0	62	 Je m’en doutais. Bien ! Je vais>d’abord vous bander les yeux…|
-220	$2140E0	16	 Nous y sommes !|
-221	$214102	34	 Bonjour ! Vous êtes des novices ?|
-222	$214121	31	 Très bien, vous pouvez entrer.|
-223	$21415F	62	 Nous n’avons pas le temps de nous>occuper de simples curieux.|
-224	$214169	10	 Hiyaaaa !|
-225	$21417E	21	 Merci d’être venus !|
-226	$2141E0	98	 Les urnes et les coffres>renferment parfois des trésors.>Pourquoi ne pas vérifier par>vous-même ?|
-227	$2142D3	243	 Déplacez les mages ou les alliés>plus faibles vers la ligne arrière.>Dans le menu, appuyez sur Gauche>puis sélectionnez la personne que>vous voulez déplacer avec le>bouton A. Appuyez de nouveau sur>le bouton A pour les ramener en>première ligne.|
-228	$214365	146	 Si vos cheveux deviennent blancs,>c’est que vous êtes sous l’effet de>l’altération d’état «Vieillissement».>>Vous perdrez graduellement votre>force.|
-229	$2143E1	124	 L’allié qui se déplace sur la carte>est normalement celui qui figure>en haut du menu. Vous pouvez>changer sa position ainsi…|
-230	$214438	87	 Les fantômes et les morts-vivants>craignent les sorts de guérison,>comme le sort Soin.|
-231	$21450D	213	 Explorez tous les recoins afin de>découvrir les passages secrets.>Par exemple, essayez de traverser>le mur à ma gauche…>Les voleurs possèdent le talent>«\B5il lynx», ce qui leur permet de>les trouver sans problème !|
-232	$21455D	80	 N’oubliez pas de sauvegarder>souvent votre partie ! Prudence>est mère de sûreté.|
-233	$214594	55	 Voulez-vous plus de détails sur le>système de talents ?|
-234	$214628	148	 Pendant le combat, des chiffres>sont affichés à l’écran :>les chiffres blancs indiquent les>dégâts infligés et les verts>indiquent les HP régénérés.|
-235	$2146A8	128	 Maintenez le bouton L et le bouton>R appuyés pour fuir un combat.>Mais attention ! Vous ne pourrez>pas toujours vous échapper !|
-236	$214704	92	 Si vos HP sont bas, n’oubliez pas>d’utiliser une potion ou un sort de>guérison, comme «Soin».|
-237	$21472F	43	 Dans ce coffre, vous trouverez un>cadeau !|
-238	$214795	102	 Ha, ha, ha ! Des monstres se>cachent parfois dans les coffres !>La prochaine fois, faites attention !|
-239	$2148A9	276	 \52\52\52\52\52\52\52\52\52\52Mode «Attente»>Vous pouvez choisir le mode>«Attente» à partir du menu>«Option». Le mode «Attente»>empêche l’ennemi de vous>attaquer pendant que vous>choisissez un sort ou un objet. Ceci>vous permet de réfléchir et de>planifier votre stratégie à votre>propre rythme.|
-240	$2148DC	51	 Vous voulez plus de détails sur des>talents utiles ?|
-241	$214C40	868	 \52\52\52\52\52\52\52\52\52\52\52\52«2\52mains»>Ce talent vous permet de tenir>votre arme à deux mains pour>infliger plus de dégâts à l’ennemi.>Bref, ceci vous permet d’utiliser>votre main libre pour augmenter>votre puissance d’attaque.>>\52\52\52\52\52\52\52\52\52\52\52\52 «Sprint»>Le talent «Sprint» vous permet de>courir dans les donjons et les villes>en appuyant sur le bouton B. Si un>de vos alliés est un voleur, le tour>est joué !>>>\52\52\52«Magie bleue» et «Assimiler»>La magie bleue est l’art d’assimiler>les techniques spéciales de>l’ennemi. Pour ce faire, le talent>«Assimiler» doit être active lorsque>l’attaque ennemie vous atteint.>Vous pourrez ainsi l’ajouter à>votre arsenal. Le talent «Bleue»>vous permet ensuite d’utiliser les>techniques que vous avez>assimilées. Essayez d’assimiler>l’attaque spéciale «Poing» du>gobelin, l’attaque spéciale>«Vampire» du rhinolophe ou même>l’attaque spéciale «Rafale» du>moldwynd !|
-242	$214C58	24	 Faris : Et moi, alors ?|
-243	$214C69	17	 Faris : A plus !|
-244	$214CA1	56	 Lenna : Si je me souviens bien,>c’est la maison de Zok…|
-245	$214CB5	20	 [Bartz] : Tu le connais ?|
-246	$214CE4	47	 Lenna : Oui. Il a construit le canal>de Torna.|
-247	$214D3E	90	 Lenna : Il n’a pas l’air d’être chez>lui…>[Bartz] : Nous viendrons lui rendre>visite plus tard.|
-248	$214D98	90	 Zok : Oh, votre Altesse !>Lenna : Zok ! Il y a longtemps que>nous ne nous sommes pas vus.|
-249	$214E8C	244	 Zok : En effet, votre Altesse.>Lenna : Zok… Pourriez-vous>m’accorder une faveur ? Nous>devons nous rendre à Wolse>en passant par le canal de Torna.>Zok : Mais c’est trop dangereux !>Des monstres ont envahi le canal>car le cristal s’est brisé !|
-250	$214EC0	52	 Zok : Qui plus est, je… j’ai perdu la>clé du canal…|
-251	$214F43	131	 Zok : Je suis désolé. Je ne peux>pas vous aider… Mais puisque vous>êtes venus jusqu’ici, pourquoi ne>pas passer la nuit chez moi ?|
-252	$214F62	31	 Zok : Très bien ! Suivez-moi !|
-253	$214F9E	60	 [Bartz] : Les cristaux… Ils sont la>raison pour laquelle mon père…|
-254	$214FCF	49	 Les cristaux doivent être protégés>à tout prix !|
-255	$21502F	96	 Stella, s’il m’arrive quelque chose,>ne dis rien des cristaux à [Bartz]…>Ce n’est pas sa responsabilité.|
-256	$21505E	47	 Oh, mon chéri, ne dis pas des>choses pareilles…|
-257	$21509B	61	 Lenna : … … Père… Je protégerai>les cristaux… Je le promets…|
-258	$2150B1	22	 Zok : Qu’y a-t-il, [Bartz] ?|
-259	$2150F3	66	 [Bartz] : Rien… J’ai rêvé de mes>parents, c’est tout… Ils sont>décédés…|
-260	$215160	109	 Zok : … Tiens. Prends-la.>[Bartz] : Qu’est-ce que c’est ?>Zok : La clé du canal. Vous pourrez>vous rendre à Wolse.|
-261	$21519F	63	 Zok : J’avais dissimulé la clé car>j’étais inquiet pour Lenna…|
-262	$2151C3	36	 Zok : Prends soin d’elle, d’accord ?|
-263	$2151E9	38	 Zok : Votre Altesse… Soyez>prudente !|
-264	$21520A	33	 Pirates : Capitaine ! Attendez !|
-265	$215246	60	 Faris : Désolé, matelots… Vous ne>pouvez pas m’accompagner.|
-266	$215292	76	 Pirate : Capitaine ! Pourquoi ?>On irait avec vous jusqu’au bout du>monde !|
-267	$2152B3	33	 Faris : Je sais… Pas cette fois.|
-268	$2152CA	23	 Pirates : Capitaine !!|
-269	$215388	190	 Faris : Je serai absent pendant un>un bon moment… Protégez le>refuge en mon absence. Personne>ne doit voler notre trésor !>Pirates : Mais capitaine !>Faris : Je compte sur vous.>Pirates : …|
-270	$2153A1	25	 Pirates : A vos ordres !|
-271	$2153C6	37	 Pirates : Que le vent vous protège !|
-272	$2153DE	24	 [Bartz] : Qu’y a-t-il, Lenna ?|
-273	$215406	40	 Lenna : Le cristal du vent s’est>brisé…|
-274	$2154BB	181	 Lenna : Pour l’instant, le vent ne>fait que s’affaiblir, mais… Bientôt,>il ne soufflera plus. Et dans>quelques années, l’air deviendra>stagnant et les oiseaux ne>pourront plus voler…|
-275	$215506	75	 Lenna : Mon père a dit que nous>devons protéger les trois autres>cristaux.|
-276	$21556E	104	 [Bartz] : Les trois cristaux ?>Lenna : Oui, le cristal du feu, le>cristal de l’eau et le cristal de la>terre.|
-277	$21566F	257	 [Bartz] : S’ils se brisent tous…>Lenna : D’abord, il ne se passera>rien. Mais après un certain temps,>la terre se putréfiera, les océans>croupiront… Le feu perdra sa>chaleur et le monde deviendra>sombre et froid…>>Rien ne pourra survivre dans un tel>environnement…|
-278	$21569B	44	 Galuf : Nous devons protéger les>cristaux !|
-279	$2156C0	37	 [Bartz] : Oh ? Tu as retrouvé la>mémoire ?|
-280	$21570A	74	 Galuf : Non, mais ce n’est pas>grave ! Je vais tout de même aider>Lenna !|
-281	$215737	45	 Faris : Bien dit ! Je vais vous>accompagner.|
-282	$215796	95	 Faris : Nous devons aussi retrouver>le père de Lenna.>[Bartz] : Le roi de Tycoon ? Mais il>a disparu…|
-283	$2157CA	52	 Faris : Il est toujours vivant, j’en>suis certain !|
-284	$2157ED	35	 Lenna : [Bartz]… Viendras-tu avec>nous ?|
-285	$215835	72	 [Bartz] : Avant, ce n’était qu’une>aventure comme une autre… Mais>maintenant…|
-286	$2158EC	183	 Lenna : Les fragments du cristal…>[Bartz] : Ils nous ont donné le>pouvoir nécessaire pour protéger>le monde…>Le pouvoir du cristal du vent…>… [FixedPause]… [FixedPause]C’est décidé !>Allons sauver les cristaux !|
-287	$21591D	49	 Galuf : Tu as raison ! Pas une>minute à perdre !|
-288	$215960	67	 Galuf : [Bartz] ! Où as-tu trouvé>cette clé ?>[Bartz] : Peu importe. Allons-y !|
-289	$215985	37	 >La porte du canal est fermée à clé.|
-290	$2159C4	63	 [Bartz] : Euh… Qu’est-ce que…>Lenna : Oh non ! Le monstre du>canal !|
-291	$215A35	113	 Faris : Tonnerre de Mysidia !>Le gouvernail ne répond plus !>Galuf : Le bateau va être aspiré>dans le tourbillon !|
-292	$215A63	46	 Faris : Syldra ! Qu’y a-t-il ?>[Bartz] : Attention !|
-293	$215AB6	83	 Faris : Syldra !>[Bartz] : … Elle n’a rien, j’en suis>certain. Elle saura nous retrouver !|
+201	$213B64	49	 Lenna : Ma chì dite, voi dui ?|
+202	$213B8D	41	 Faris : Ooh… Aghju durmitu bè…|
+203	$213BCF	66	 Faris : Chì vi piglia, voi dui ?>Ripigliate vi !|
+204	$213C19	74	 Faris : Scusate, ma vogliu stà>sola un pezzu… À più>tardi.|
+205	$213C4F	54	 I pirati sò entruti in a taverna !|
+206	$213C66	23	 … Hic ! …>I pirati anu occupatu a>taverna…|
+207	$213C8B	37	 Mi gira u capu… Gira>troppu…|
+208	$213D00	117	 Cosa ? Un meteoritu hè cascatu>vicinu à u castellu di Tycoon ? Pare>ch'un altru sia cascatu versu>Karnak, à punente.|
+209	$213DBD	189	 Una volta, tempi fà… un mostru>tremendu fù sigillatu à u fondu>di u canale cù a putenza di u>cristallu di u ventu…>Quessa hè una storia ch'eiu>aghju intesu da un vechju.|
+210	$213E36	121	 S'è vo cuntinuate à levante dopu>avè francatu u canale, ghjunghjerete>à Wolse. Wolse campa grazia>à a putenza di u cristallu di>l'acqua.|
+211	$213ED6	160	 Grazia à a machina chì amplifica>u putere di u cristallu di u ventu,>pudemu fà corre i battelli assai>più prestu !>Un battellu da Wolse duveria>ghjunghje da quì à pocu.|
+212	$213F11	59	 Pare chì u ventu sia più debule>chè nanzu…|
+213	$213F59	72	 Dicenu chì u mostru di u>canale s'attacca solu à e>donne.|
+214	$213F98	63	 I pirati parianu avè persu>u so curagiu…|
+215	$213FD9	65	 I pirati anu dettu ch'elli>turnavanu à u so rifugiu è sò>partuti.|
+216	$21402E	85	 Tutti avianu paura di i>pirati, ma à dì la franca, ùn>anu mai attaccatu i nostri battelli.|
+217	$21406D	63	 Vulete ch'eiu vi accumpagni>sin'à a Casa di i>Principianti ?|
+218	$214092	37	 Ouh, avete fiducia in voi.|
+219	$2140D0	62	 Chjudite l'ochji un mumentu !|
+220	$2140E0	16	 Eccu, simu ghjunti !|
+221	$214102	34	 Salute ! Site principianti ?|
+222	$214121	31	 Va bè, pudete entre.|
+223	$21415F	62	 Ùn avemu tempu da perde>cù i curiosi.|
+224	$214169	10	 Fora !!|
+225	$21417E	21	 Grazie d'esse venuti !|
+226	$2141E0	98	 Ci sò qualchì volta tesori piatti>in l'urne è i forzieri !>Pruvate à circalli.|
+227	$2142D3	243	 Mettite i maghi o l'alliati più>debuli in dareta !>In u menu, appughjate à Manca,>poi sceglite a persona chì vulete>spustà cù u buttone A. Appughjate>di novu nant'à A per rimette la>in prima fila.|
+228	$214365	146	 S'è i vostri capelli diventanu>bianchi, site sott'à l'effettu di>l'alterazione di statu «Invechjamentu».>>A vostra forza calerà pianu pianu.|
+229	$2143E1	124	 L'alliatu chì si vede di solitu>quandu si cammina hè u primu>di a furmazione. Per cambià lu…|
+230	$214438	87	 I fantasmi è i morti viventi sò>debuli contr'à i sorti è l'ogetti>di guarigione, cum'è «Cura».|
+231	$21450D	213	 State à l'ochju per i>passaghji sicreti ! Per esempiu,>pudete francà u muru à a>mio manca !>>S'ellu ci hè un latru o qualchissia>cù u talentu «Passaghji»,>puderete vede sti passaghji piatti.|
+232	$21455D	80	 Ùn vi scurdate di salvà>spessu a vostra partita ! Cusì,>s'è vo site tombi, puderete>ripiglià da l'ultimu salvataghju.|
+233	$214594	55	 Vulete una spiegazione nant'à>u sistema di classi è>talenti ?|
+234	$214628	148	 In cumbattu, certi numeri>cumpariscenu à u schermu :>i numeri bianchi mostranu i>danni inflitti, è i verdi>a guarigione di l'HP.|
+235	$2146A8	128	 In cumbattu, s'è vo tenite>premuti à tempu i buttoni L è>R, puderete fughje !>Ma fate casu ! Ùn puderete>micca sempre scapulà.|
+236	$214704	92	 S'è i vostri HP sò bassi, ùn>vi scurdate d'aduprà una>pozione o un sortilegiu di>guarigione, cum'è «Cura».|
+237	$21472F	43	 Ci hè un rigalu da parte>mìa in stu forzieru !|
+238	$214795	102	 Ha, ha, ha ! Ci sò qualchì>volta mostri piatti in i>forzieri ! A prossima volta,>fate casu !|
+239	$2148A9	276	 \52\52\52\52\52\52\52\52\52\52Modu «Attesa»>Pudete sceglie u modu>«Attesa» in u menu>«Opzioni». In modu>«Attesa», u nemicu ùn>attaccherà micca mentre>sceglite un sortilegiu o un>ogettu. Cusì, puderete riflette è>preparà a vostra strategia à u>vostru ritimu.|
+240	$2148DC	51	 Vulete più dittagli nant'à>qualchì talentu utile ?|
+241	$214C40	868	 \52\52\52\52\52\52\52\52\52\52\52\52«2\52mani»>Stu talentu vi permette di>tene un'arma à duie mani per>infligge più danni à u nemicu.>In corta, aduprate a mano libera>per fà cresce a vostra putenza>d'attaccu.>>\52\52\52\52\52\52\52\52\52\52\52\52 «Sprint»>U talentu «Sprint» vi permette>di corre in i paesi è in e>grottte tenendu premutu u>buttone B. S'ellu ci hè un latru>in a squadra, vale dinù !>>>\52\52\52«Magia turchina» è «Amparera»>A magia turchina permette>d'amparà e tecniche speciali>di i nemichi.>Per quessa, un mago turchinu o>qualchissia cù u talentu>«Amparera» deve riceve>quella tecnica da u nemicu.>>Dopu, un mago turchinu o>qualchissia cù u talentu>«Magia turchina» puderà>aduprà ste tecniche.>Pudete amparà, per esempiu,>«Pugnu Goblin» di u goblin,>«Vampiru» di u Steel Bat, o>«Aero» di u Mold Wind !|
+242	$214C58	24	 Faris : È eiu, allora ?|
+243	$214C69	17	 Faris : Bon, à più !|
+244	$214CA1	56	 Lenna : S'eiu mi ramentu bè,>questa hè a casa di Zok…|
+245	$214CB5	20	 [Bartz] : U cunnosci ?|
+246	$214CE4	47	 Lenna : Iè. Hè ellu chì hà>custruitu u canale di Torna.|
+247	$214D3E	90	 Lenna : Ùn pare micca ch'ellu>sia in casa…>[Bartz] : Turneremu più tardi.|
+248	$214D98	90	 Zok : Oh, Altezza !>Lenna : Zok ! Hè un pezzu chì>ùn ci semu visti.|
+249	$214E8C	244	 Zok : Mi face piacè di rivede vi,>Altezza.>Lenna : Zok… Aghju una dumanda>da fà vi. Ci tocca à andà à>Wolse passendu da u canale di>Torna.>Zok : Ma avà ch'ellu s'hè rottu u>cristallu di u ventu, quellu locu>hè pienu di mostri ! Hè troppu>periculosu.|
+250	$214EC0	52	 Zok : È in più…>aghju persu a chjave di u>canale…|
+251	$214F43	131	 Zok : In ogni casu, Altezza Lenna,>passate a notte in casa meia.|
+252	$214F62	31	 Zok : Venite puru di quì.|
+253	$214F9E	60	 [Bartz] : I cristalli…>Avà ch'eiu ci pensu, babbu>m'en parlava…|
+254	$214FCF	49	 I cristalli devenu esse>prutetti à ogni costu !|
+255	$21502F	96	 S'ellu mi accade qualcosa,>ùn dì nunda di i cristalli à>[Bartz]… Ùn vogliu micca>ch'ellu ne porti u pesu…|
+256	$21505E	47	 Oh, u mio caru, ùn dì cose>simule…|
+257	$21509B	61	 Lenna : … Babbu…>Prutegeraghju i cristalli…>A prumettu…|
+258	$2150B1	22	 Zok : Chì ci hè, [Bartz] ?|
+259	$2150F3	66	 [Bartz] : Nunda…>Pensava solu à mamma è à>babbu… Sò morti…|
+260	$215160	109	 Zok : … Teni, piglia la.>[Bartz] : Chì ghjè ?>Zok : A chjave di u canale. Cù>questa, puderete andà à Wolse.|
+261	$21519F	63	 Zok : L'avia piattata perchè>mi facia pena per Lenna…|
+262	$2151C3	36	 Zok : Ti ne pregu ! Prutegila,>d'accordu ?|
+263	$2151E9	38	 Zok : Altezza… Fate>attenzione !|
+264	$21520A	33	 Pirati : Capitanu ! Aspettate !|
+265	$215246	60	 Faris : Scusate, cumpagni…>Ùn pudete micca vene cun mè.|
+266	$215292	76	 Pirata : Capitanu ! Perchè ?>Vi seguiteriamu sin'à a fine>di u mondu !|
+267	$2152B3	33	 Faris : A sò… Micca sta>volta.|
+268	$2152CA	23	 Pirati : Capitanu !!|
+269	$215388	190	 Faris : Pare ch'ella sia una>strada longa… Prutegite u>rifugiu in a mo assenza.>Capitu, cumpagni ?>Pirata : Capitanu !...>>>>Faris : Vi ne pregu…>Pirata : Capitanu…|
+270	$2153A1	25	 Pirata : À i vostri ordini !|
+271	$2153C6	37	 Pirata : Abbiate cura di voi,>capitanu !|
+272	$2153DE	24	 [Bartz] : Chì ci hè, Lenna ?|
+273	$215406	40	 Lenna : U cristallu di u>ventu s'hè rottu…|
+274	$2154BB	181	 Lenna : Per avà, u ventu>s'indebulisce solu… Ma da quì>à pocu si piantarà cumpletamente.>È dopu qualchì annu, l'aria>diventerà ferma è l'acelli>ùn averanu più induve vulà…|
+275	$215506	75	 Lenna : Babbu hà dettu chì ci>tocca à prutege l'altri trè>cristalli.|
+276	$21556E	104	 [Bartz] : L'altri trè cristalli ?>Lenna : Iè, i cristalli di u focu, di>l'acqua è di a terra.|
+277	$21566F	257	 [Bartz] : È s'elli si rompenu>tutti… ?>>Lenna : Per un pezzu, ùn>accaderà nunda… Ma dopu,>pianu pianu, a terra imputridirà,>l'acque stagneranu è smetteranu>di corre…>A putenza di u focu spariscerà,>è tuttu gelerà da u fretu…>>Diventerà un mondu induve>l'omu ùn puderà più campà…|
+278	$21569B	44	 Galuf : Avemu da prutege i>cristalli !|
+279	$2156C0	37	 [Bartz] : Oh ? T'hè vultata a>memoria ?|
+280	$21570A	74	 Galuf : Innò.>Ma andaraghju quantunque à>prutege li !|
+281	$215737	45	 Faris : Eiu dinù, vengu !|
+282	$215796	95	 Faris : Ci tocca dinù à truvà u>babbu di Lenna.>[Bartz] : U rè di Tycoon ch'ellu hè>sparitu in l'ombra ?|
+283	$2157CA	52	 Faris : Sò certa ch'ellu hè>vivu ! U babbu di Lenna ùn>pò more cusì !|
+284	$2157ED	35	 Lenna : [Bartz]… Venerete cun>noi ?|
+285	$215835	72	 [Bartz] : Eiu, ùn facia chè>viaghjà… Ma quandu fighjulu>questi…|
+286	$2158EC	183	 Lenna : I frammenti di u>cristallu…>[Bartz] : Ci prestanu a so>putenza per prutege u mondu…>è u spiritu di u ventu…>… [FixedPause]… [FixedPause]Andemu ! Andemu à prutege i>cristalli !|
+287	$21591D	49	 Galuf : D'accordu ! Andemu !|
+288	$215960	67	 Galuf : [Bartz] ! Induve hai>trovu sta chjave ?>[Bartz] : Chì t'importa ?>Aiò, andemu !|
+289	$215985	37	 >A porta di u canale hè chjosa à chjave.|
+290	$2159C4	63	 [Bartz] : Euh… Chì hè què ?>Lenna : Oh nò ! U mostru di u>canale !|
+291	$215A35	113	 Faris : Ùn aghju più cuntrollu !!>>>>Galuf : Semu risucchiati da>u vortice !|
+292	$215A63	46	 Faris : Syldra ! Chì ci hè ?>[Bartz] : Attenti !|
+293	$215AB6	83	 Faris : Syldra !>[Bartz] : Hè sempre vivu !!>Vole trascinà Syldra cun ellu !|
 294	$215AC8	18	 Faris : Syldra !!|
-295	$215AFE	54	 Faris : Lâchez-moi !>J’ai dit, lâchez-moi ! Syldra !!|
-296	$215B41	67	 [Bartz] : Comment va Faris ?>Galuf : Nous devrions le laisser>tranquille.|
-297	$215B92	81	 [Bartz] : Le bateau est en dérive…>Galuf : Je me demande où nous>allons nous retrouver…|
-298	$215BD8	70	 Lenna : Faris… Syldra est… Syldra>est toujours vivante, quelque>part…|
-299	$215C82	170	 [Bartz] : Où sommes-nous ?>Faris : La nécropole de l’océan…>Lenna : Un cimetière d’épaves, un>nid de morts-vivants…>Galuf : Hum ! Raison de plus pour>sortir d’ici rapidement !|
-300	$215D0B	137	 Faris : Il n’y a pas d’autre chemin ?>Nous allons être trempés !>>>[Bartz] : Et alors ? Un peu d’eau n’a>jamais fait de mal à personne.>Allons !|
+295	$215AFE	54	 Faris : Lasciami !>Lasciami, aghju dettu !!>Syldra !!|
+296	$215B41	67	 [Bartz] : Cumu stà Faris ?>Galuf : Saria megliu à lascià la>tranquilla un pezzu…|
+297	$215B92	81	 [Bartz] : Stu battellu…>Hè purtatu da a currente, nò ?>|
+298	$215BD8	70	 Lenna : Faris… Syldra hè…>Sò sicura ch'ella hè sempre viva,>in qualchì locu…|
+299	$215C82	170	 [Bartz] : Induve simu ?>Faris : U cimiteriu di i battelli…>>>Lenna : Una tana di morti>viventi, nata da e carcasse di>i battelli à a deriva…>>Galuf : Basta à sorte ne prestu !|
+300	$215D0B	137	 Faris : Vulete veramente>passà di quì ?>Ci bagnaraghjemu tutti…>>>[Bartz] : Chì dici ? Aiò,>andemu !|
 301	$215D6B	96	 [Bartz] : Ooh… Je suis trempé>jusqu’aux os !>Lenna : Cet endroit me semble>sûr… Reposons-nous un peu.|
 302	$215DAB	64	 Lenna : Je vais me changer…>N’essayez surtout pas de>regarder !|
 303	$215DD8	45	 [Bartz] : Essayons de faire sécher>nos vêtements !|
