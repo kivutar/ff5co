@@ -1598,106 +1598,106 @@
 1598	$22D6C0	100	 Vi l'avia ben dettu ch'ellu si>saria rimessu di e so ferite ! Hà>trovu ancu una piccula>amica !|
 1599	$22D6F5	53	 [Bartz] : Ahiu !>Krile : S'è tù ùn fussi andatu cusì>prestu…|
 1600	$22D72D	56	 [Bartz] : … Boko ! Hè colpa toia !>Boko : Kwoa, kwoa, kwoa !|
-1601	$22D753	38	 Krile : Ne sois pas fâché contre lui !|
-1602	$22D774	33	 Krile : [Bartz] ! Qu’est-ce que>c’est ?|
-1603	$22D7DF	107	 [Bartz] : Tombés dans le nid d’un>monstre… Il ne manquait plus que>ça.>Krile : Qu’allons-nous faire ?>Boko : Kwoa…|
-1604	$22D824	69	 Promettez-vous de ne plus jamais>faire quelque chose d’aussi idiot ?|
-1605	$22D859	53	 Avouez que vous ne pourriez pas>continuer sans moi !|
-1606	$22D869	16	 Allez ! Montez !|
+1601	$22D753	38	 Krile : Ùn ti sfucà micca nant'à>ellu !|
+1602	$22D774	33	 Krile : [Bartz] ! Chì ghjè>què ?|
+1603	$22D7DF	107	 [Bartz] : U nidu d'un mostru…>Ci mancava solu què.>Krile : Chì avemu da fà ?>Boko : Kwoa…|
+1604	$22D824	69	 Prumettite di ùn fà mai più>una scimità simile ?|
+1605	$22D859	53	 Ricunniscite chì ùn puderiate>micca cuntinuà senza mè !|
+1606	$22D869	16	 Aiò ! Cullate !|
 1607	$22D875	12	 [Bartz] : Faris !|
-1608	$22D8C0	75	 Faris : Lequel d’entre vous a eu la>brillante idée de m’abandonner>là-bas ?|
-1609	$22D8FA	58	 Faris : Ne le faites plus jamais ou>vous le regretterez !|
-1610	$22D98B	145	 [Bartz] : Mais que s’est-il passé ?>Pourquoi nous as-tu suivis ?>>>Faris : Je ne suis pas faite pour>être une princesse… Après tout, je>suis un pirate.|
-1611	$22D997	12	 Krile : Aïe !|
-1612	$22D9CF	56	 [Bartz] : Ça va ?>Krile : Oh, ce n’est qu’une écharde…>Ça ira.|
+1608	$22D8C0	75	 Faris : Quale di voi altri hà avutu>a bella idea di lascià mi>culà ?|
+1609	$22D8FA	58	 Faris : Ùn fate la mai più, o>vi ne pentirete !|
+1610	$22D98B	145	 [Bartz] : Ma chì hè accadutu ?>Perchè ci ai seguitatu ?>>Faris : Ùn sò micca fatta per>esse una principessa… Dopu tuttu, sò>una pirata.|
+1611	$22D997	12	 Krile : Ahi !|
+1612	$22D9CF	56	 [Bartz] : Chì ci hè ?>Krile : Oh, ùn hè chè una scheggia…>Passerà.|
 1613	$22D9DC	13	 Boko : Kwoa…|
-1614	$22D9FE	34	 >\52\52\52\52\52Faris se joint à l’équipe !|
+1614	$22D9FE	34	 >\52\52\52\52\52Faris s'unisce à a squadra !|
 1615	$22DA0A	12	 [Bartz] : Ghido ?|
-1616	$22DA17	13	 [Bartz] : Et hop !|
-1617	$22DAA7	144	 Ghido : Hum ! Je te remercie !>Hum ! Le choc de la fusion des deux>mondes m’a secoué.>>Hum ! Etre une tortue peut avoir>certains inconvénients…|
-1618	$22DB06	95	 [Bartz] : La fusion des deux>mondes ?>Ghido : Hum ! Qui aurait pu croire>que la légende disait vrai…|
-1619	$22DC3B	309	 Ghido : Hum ! Elle raconte qu’il y a>1000 ans, le monde de [Bartz] et le>monde de Krile ne faisaient qu’un.>[Bartz] : Un seul monde ?>Ghido : Hum ! Vas-tu répéter ainsi>tout ce que je dis ?>[Bartz] : Euh… pourquoi les mondes>ont-ils été séparés ?>Ghido : Hum ! Pour emprisonner le>néant.>[Bartz] : Le néant ?>Ghido : Hum ! Il continue !|
-1620	$22DE2B	496	 Ghido : Hum ! Il y a 1000 ans, l’être>le plus maléfique qui soit, Enuo,>existait sur ce monde. Hum ! Enuo>pouvait contrôler le néant.>Hum ! Grâce aux 12 armes>légendaires, il fut possible de le>vaincre, mais pas le néant qu’il>avait créé… Hum ! En guise de>dernier recours, il fut décidé que>les cristaux seraient divisés en>deux… Hum ! … et que le monde>serait aussi divisé en deux pour>maintenir l’équilibre. Hum ! Le>néant fut emprisonné entre les>deux mondes, dans la fissure>interdimensionnelle.|
-1621	$22DF12	231	 [Bartz] : Alors Exdeath disait vrai…>Il voulait vraiment redonner au>monde son apparence d’origine…>>Ghido : Hum ! Mais sans les>cristaux…>[Bartz] : Le pouvoir du vent ne>reviendra plus…>Ghido : Hum ! Ni celui de la terre,>du feu ou de l’eau.|
-1622	$22DF35	35	 Krile : Aïe ! Ooh, cette écharde me…|
-1623	$22E076	321	 [Bartz] : Exdeath !>Exdeath : Mouah ha, ha, ha, ha… Je>me suis transformé en écharde en>attendant l’instant propice !>Je vais maintenant vous révéler>quelles sont mes intentions… Je>vais prendre le contrôle du pouvoir>du néant !>[Bartz] : Quoi ?>Exdeath : C’est pour cette raison>que j’ai fusionné les mondes !>Mouah ha, ha, ha, ha !|
-1624	$22E1A3	301	 Ghido : Hum ! Maintenant que les>deux mondes ne font plus qu’un, la>fissure qui emprisonnait le néant>est apparue !>Faris : Un instant, tu veux dire que>le néant va pouvoir s’échapper ?>>>Exdeath : Oui… Le néant sera enfin>libéré après des centaines>d’années ! Et sa puissance sans>limite sera mienne !|
-1625	$22E1D2	47	 [Bartz] : Nous ne te laisserons pas>faire, Exdeath !|
-1626	$22E1FF	45	 Krile : Le château de Tycoon…>Faris : Lenna !|
-1627	$22E26E	111	 Exdeath : Magnifique ! Admirez la>puissance du néant ! Voyez comme>elle peut tout engloutir ! Elle sera>mienne !|
-1628	$22E291	35	 Faris : Lenna… Exdeath, espèce de…|
-1629	$22E2D3	66	 Exdeath : Insectes insignifiants !>Tremblez devant ma puissance !|
-1630	$22E2F1	30	 Exdeath : Tortue méprisable !|
-1631	$22E3CA	217	 Exdeath : Pas mal, pour un reptile !>Ghido : Hum ! Tu crois que j’ai>passé 700 ans à me goinfrer de>pizza ?>Exdeath : Ha, ha, ha… Tu aurais>peut-être dû. Dans l’au-delà, on ne>trouve pas ce genre de plaisir>culinaire !|
-1632	$22E3CD	3	 29|
-1633	$22E3D0	3	 30|
-1634	$22E3D3	3	 31|
-1635	$22E3FF	44	 Les mondes se sont fusionnés ?>Incroyable !|
-1636	$22E452	83	 Tous les chercheurs se sont>précipités vers l’édifice qui est>apparu au sud d’ici.|
-1637	$22E49F	77	 L’édifice qui est soudainement>apparu au sud d’ici… Est-ce une>bibliothèque ?|
-1638	$22E4D5	54	 C’est quoi, cette boule noire ? Elle>m’effraie un peu…|
-1639	$22E501	44	 Nous sommes finis ! C’est la fin du>monde !|
-1640	$22E53E	61	 Si Exdeath réussit à contrôler le>néant, nous sommes cuits !|
-1641	$22E5C4	134	 Je ne peux pas croire que la>bibliothèque des anciens ait>disparu…>>Heureusement, les chercheurs ont>pu fuir à temps vers le château !|
-1642	$22E60A	70	 Bienvenue à Surgate ! Nous>protégerons le château, quoi qu’il>arrive !|
-1643	$22E647	61	 [Bartz] : L’arbre gardien…>Faris : La forêt se régénère peu à>peu…|
-1644	$22E67A	51	 Krile : Oh, papi… Pourquoi ne>peux-tu pas revenir ?|
-1645	$22E68F	21	 Faris : Lenna… Papa…|
-1646	$22E6B4	37	 [Bartz] : Tant de vies ont été>sacrifiées…|
-1647	$22E6D1	29	 Krile : Regardez, un dragon !|
+1616	$22DA17	13	 [Bartz] : Oplà !|
+1617	$22DAA7	144	 Ghido : Hum ! Ti ringraziu !>Hum ! U scossa di a fusione di i dui>mondi m'hà vultatu nantu à u>spinu…>>Hum ! Esse una tartaruga pò avè>qualchì svantaghju…|
+1618	$22DB06	95	 [Bartz] : A fusione di i dui>mondi ?>Ghido : Hum ! Quale averia cridutu>chì a legenda fussi vera…|
+1619	$22DC3B	309	 Ghido : Hum ! A legenda conta>chì, mille anni fà, u mondu di>[Bartz] è quellu di Krile ùn>ne facianu chè unu.>[Bartz] : Un solu mondu ?>Ghido : Hum ! Iè.>[Bartz] : Euh… perchè i mondi>sò stati spartuti ?>>Ghido : Hum ! Per imprigiunà u>\ABnèant".>[Bartz] : U \ABnèant"...?>Ghido : Hum ! Iè.|
+1620	$22DE2B	496	 Ghido : Hum ! Mille anni fà, una>forza malefica tremenda, Enuo,>esistia nant'à stu mondu. Hum ! Enuo>pudia cuntrullà u nèant.>Hum ! À a fine, cù e dodici arme>leggendarie, a ghjente>riiscì à vince lu…>>Ghido : Hum ! Ma ùn pudì micca>disfà si di u nèant ch'ellu>avia creatu.>>Ghido : Hum ! Allora a ghjente ùn>ebbe altra scelta chè di…>>>sparte i cristalli in dui.>Quandu i cristalli chì sustenianu u>mondu sò stati spartuti, u mondu s'hè>spartutu anch'ellu in dui.>Ghido : Hum ! U spaziu trà sti dui>mondi, chjamatu a \ABfessura>interdimensionale", hè quì chì a>ghjente sigillò u nèant.|
+1621	$22DF12	231	 [Bartz] : Tandu Exdeath dicia a>verità…>Vulia veramente ridà à u>mondu a so forma d'origine…>>Ghido : Hum ! Ma senza i>cristalli…>[Bartz] : U putere di u ventu ùn>turnerà più…>Ghido : Hum ! Mancu quellu di a>terra, di u focu è di l'acqua.|
+1622	$22DF35	35	 Krile : Ahi ! Ooh, issa scheggia>mi…|
+1623	$22E076	321	 [Bartz] : Exdeath !>Exdeath : Mouah ha, ha, ha, ha… Aghju>pigliatu a forma d'una scheggia è>aspettatu issu mumentu !>Vi possu avà svelà e mo vere>intenzioni… Vò à impadrunì mi di a>putenza di u nèant !>[Bartz] : Chì ?>Exdeath : Hè per quessa ch'eiu>aghju riunitu torna i dui mondi !>Mouah ha, ha, ha, ha !|
+1624	$22E1A3	301	 Ghido : Hum ! Avà chì i dui>mondi ùn ne facenu più chè unu, a>fessura chì imprigiunava u nèant>hè apparsa !>Faris : Aspetta… Vulete dì chì u>nèant puderà scappà ?>>>Exdeath : Iè… U nèant serà infine>liberatu dopu à seculi>d'imprigiunamentu ! È a so putenza>senza limiti serà meia !|
+1625	$22E1D2	47	 [Bartz] : Ùn ti lasciaremu micca>fà, Exdeath !|
+1626	$22E1FF	45	 Krile : U castellu di Tycoon…>Faris : Lenna !|
+1627	$22E26E	111	 Exdeath : Magnificu ! Ammirate a>putenza di u nèant ! Fighjate cumu>pò inghjuttì tuttu ! Prestu serà>meiu !|
+1628	$22E291	35	 Faris : Lenna… Exdeath, infame…|
+1629	$22E2D3	66	 Exdeath : Insetti insignificanti !>Tremate davanti à a mo putenza !|
+1630	$22E2F1	30	 Exdeath : Tartaruga miserabile !|
+1631	$22E3CA	217	 Exdeath : Mica male, per un rettile !>Ghido : Hum ! Cridi chì aghju>passatu 700 anni à ùn fà>nunda ?>Exdeath : Ha, ha, ha… Ùn parlerai>più cusì per tantu !|
+1632	$22E3CD	3	 Ghido : Hum ! S'è Exdeath s'impadruniscesse>di a putenza di u nèant…>u mondu saria avvoltu da e>tenebre…>Ghido : [Bartz] !>Faris !>Krile !!>Correte à a fessura interdimensionale !|
+1633	$22E3D0	3	 [Bartz] : Vò à vede ciò chì>s'hè passatu…|
+1634	$22E3D3	3	 [Bartz] : Hè inutile ! Hè troppu>orribile à vede…>Andemu…|
+1635	$22E3FF	44	 I dui mondi sò diventati unu ?>Incredibile…|
+1636	$22E452	83	 I sapienti sò corsi versu>l'edifiziu apparsu à u sudu>d'quì.|
+1637	$22E49F	77	 L'edifiziu apparsu à u>sudu… Si dice ch'ella sia una>biblioteca ?|
+1638	$22E4D5	54	 Chì era issa massa nera>tamanta !?|
+1639	$22E501	44	 Hè a fine…>U mondu ùn hà più speranza…|
+1640	$22E53E	61	 S'è Exdeath riesce à cuntrullà u>nèant, simu persi !|
+1641	$22E5C4	134	 L'Antica Biblioteca… Solu qualchì>sapiente chì si truvava fora di>l'edifiziu hà pussutu esse>salvatu…|
+1642	$22E60A	70	 Questu hè u castellu di>Surgate ! U prutegeremu,>costi ciò chì costi !!|
+1643	$22E647	61	 [Bartz] : L'arburu guardianu…>Faris : A furesta principia à>rinvivisce…|
+1644	$22E67A	51	 Krile : Oh, babbone… Perchè ùn>pudete micca vultà ?|
+1645	$22E68F	21	 Faris : Lenna… Babbu…|
+1646	$22E6B4	37	 [Bartz] : Tante vite sò>sparite…|
+1647	$22E6D1	29	 Krile : Fighjate, un dragone !|
 1648	$22E6E1	16	 Faris : Lenna !|
-1649	$22E733	82	 [Bartz] : Lenna ! Tu n’as rien ?>Réveille-toi !>Lenna : …[FixedPause] …[FixedPause] …[FixedPause] Ce corps>m’appartient !|
-1650	$22E756	35	 Faris : Lenna !>[Bartz] : Qu’est-ce que…|
-1651	$22E7C7	113	 Exdeath : O créature emprisonnée>dans la fissure pendant des>centaines d’années… Réponds à>mon appel, Mélusine !|
+1649	$22E733	82	 [Bartz] : Lenna ! Svegliati !>>>Lenna : …[FixedPause] …[FixedPause] …[FixedPause] Stu corpu>hè meiu !|
+1650	$22E756	35	 Faris : Lenna !>[Bartz] : Chì… ?|
+1651	$22E7C7	113	 Exdeath : Vai, Melusina !>Tu chì sì stata imprigiunata in a>fessura dapoi mille anni !!|
 1652	$22E7D5	14	 [Bartz] : Exdeath !|
-1653	$22E833	94	 Exdeath : Mouah ha, ha, ha ! Je>peux contrôler tout ce qui était>emprisonné dans la fissure !|
-1654	$22E860	45	 [Bartz] : Ah…>Faris : Lenna… Arrête…>Krile : Lenna…|
-1655	$22E8A4	68	 Exdeath : Mouah ha, ha, ha ! Vous>périrez des mains de votre amie !|
-1656	$22E90B	103	 [Bartz] : Exdeath !>Exdeath : Mouah ha, ha, ha… Et>maintenant, je vais m’occuper de>cette misérable tortue !|
-1657	$22E988	125	 Exdeath : Bientôt la puissance du>néant sera mienne ! Le monde>entier devra se soumettre à mes>volontés ! Mouah ha, ha, ha !|
-1658	$22E99C	20	 [Bartz] : Le… Lenna… Non…|
-1659	$22E9E5	73	 >\52\52\52\52\52\52\52\52Hiryû se sacrifie !>>>>Le démon est expulsé du corps de>Lenna !|
-1660	$22E9FB	22	 [Bartz] : C’est le moment !|
+1653	$22E833	94	 Exdeath : Mouah ha, ha, ha ! Tutti>i mostri imprigiunati in a fessura>sò diventati i mo servitori !!|
+1654	$22E860	45	 [Bartz] : Ah…>Faris : Lenna… basta…>Krile : Lenna…|
+1655	$22E8A4	68	 Exdeath : Mouah ha, ha, ha !>Murerete per a manu di a vostra>amica !|
+1656	$22E90B	103	 [Bartz] : Exdeath !>>>>Exdeath : Mouah ha, ha, ha…>È avà, davanti à voi, vogliu prima>sbarazzà mi di issa tartaruga…|
+1657	$22E988	125	 Exdeath : Prestu, issa putenza>sarà cumpletamente meia, è u>mondu sanu s'inginucchjerà>davanti à mè !! Mouah ha, ha, ha !|
+1658	$22E99C	20	 [Bartz] : Le… Lenna… Innò…|
+1659	$22E9E5	73	 >\52\52\52\52\52\52\52\52Attaccu disperatu di Hiryû !>>>>U mostru hè statu cacciatu da u>corpu di Lenna !|
+1660	$22E9FB	22	 [Bartz] : Avà !!|
 1661	$22EA07	12	 [Bartz] : Lenna !|
-1662	$22EA16	15	 Lenna : [Bartz]… Je…|
-1663	$22EA7C	102	 Faris : Lenna !>Lenna : Faris… Krile… Le château…>Nous… Les ténèbres…>Faris : Nous savons… Repose-toi.|
-1664	$22EA9E	34	 >\52\52\52\52 Lenna se joint à l’équipe !|
-1665	$22EABB	29	 [Bartz] : Le sable ne bouge plus !|
-1666	$22EB47	140	 Krile : Sans les deux cristaux de la>terre, il n’y a plus assez d’énergie>pour le faire bouger.>>Faris : Le sol est de plus en plus>instable…|
-1667	$22EB6E	39	 Krile : Regardez ! Le manuscrit>scellé !|
-1668	$22EBB5	71	 «Bénie par la terre et les esprits>ancestraux, une tablette>sommeille…»|
-1669	$22EBD3	30	 >\52\52\52\52\52\52La première tablette !|
-1670	$22EC21	78	 Krile : Oh, il y a quelque chose>d’écrit… «Bahamut, le roi des>dragons…»[FixedPause]… Oh ?|
-1671	$22EC3C	27	 Krile : La péninsule ! Elle…|
-1672	$22EC73	55	 Bahamut : J’attendrai votre venue>sur le mont du nord…|
-1673	$22EC9A	39	 Faris : Regardez ! C’est le>vaisseau !|
-1674	$22ECAB	17	 [Bartz] : La tablette…|
-1675	$22ED3A	143	 «Pour libérer du sceau l’arme>convoitée, devant la stèle, veuillez>vous arrêter.»>>«Quand vous aurez fait trois choix,>la tablette s’émiettera.»|
-1676	$22ED7C	66	 [Bartz] : Trois sceaux… Nous ne>pouvons choisir que trois des 12>armes.|
-1677	$22ED8E	18	 Briser le sceau ?|
-1678	$22EDCC	62	 Choisissez trois armes… La tablette>peut briser trois sceaux…|
-1679	$22EE1B	79	 [Bartz] : Le néant est toujours là…>[P2][AutoClose]>>>Krile : Mais nous avons battu>Exdeath !>[P2][AutoClose]|
-1680	$22EE8E	115	 Lenna : Est-ce parce que les>cristaux ont été détruits ?[P2][AutoClose]>>>Faris : Le monde sera donc englouti>par le néant…[P2][AutoClose]|
-1681	$22EEB5	39	 >\52\52\52L’espérance exalte la terre…>\52>[P2][AutoClose]|
-1682	$22EEDC	39	 >\52La bravoure avive les flammes…>\52>[P2][AutoClose]|
-1683	$22EF0D	49	 > Le dévouement insuffle la vie aux> océans…>[P2][AutoClose]|
-1684	$22EF4F	66	 >\52La soif de connaître dissémine la>\52sagesse à tous les vents…>[P2][AutoClose]|
-1685	$22EF68	25	 [Bartz] : Le monde… renaît ?[P3][AutoClose]|
-1686	$22EF8C	36	 Lenna : Et les cristaux aussi…>\52[P2][AutoClose]|
-1687	$22EFDE	82	 [Bartz] : Il restait toujours un peu>du pouvoir des cristaux dans leurs>fragments.>\52[P3][AutoClose]|
-1688	$22EFFB	29	 Krile : Le ciel soit loué…[P2][AutoClose]|
-1689	$22F043	72	 [Bartz] : Lenna… Faris… Krile…>Parce que vous avez pris soin des>fragments…[P4][AutoClose]|
-1690	$22F06B	40	 Lenna : Tu en as aussi pris soin,>[Bartz]…[P2][AutoClose]|
-1691	$22F085	26	 Krile : Et papi aussi ![P1][AutoClose]|
-1692	$22F0DB	86	 Lenna : Le vent soufflera de>nouveau à Tycoon…[P2][AutoClose]>>>Roi de Tycoon : Tu as raison.>[P2][AutoClose]|
-1693	$22F132	87	 [Bartz] : Papa …>Krile : Papi…>[P3][AutoClose]>>Lenna : Père…>Faris : Papa…>[P3][AutoClose]>>[Bartz] : Kelgar et Xezat…>[P3][AutoClose]|
-1694	$22F1EF	189	 Roi de Tycoon : Le monde a encore>besoin de vous.[P4][AutoClose]>>>Galuf : Il est beaucoup trop tôt>pour que vous veniez nous>rejoindre ![P4][AutoClose]>>Dorgann : Retournez dans le monde>que vous avez sauvé ![P2][AutoClose]|
-1695	$22F1F4	5	 32[Wait][AutoClose]|
-1696	$22F24F	91	 Non, il faut s’accrocher ! Il ne faut>pas dormir ! Il sera impossible de>revenir sinon ![P3][AutoClose]|
-1697	$22F26A	27	 [Bartz] : Mais… j’ai sommeil…>[P2][AutoClose]|
-1698	$22F293	41	 Lenna : Impossible de rester>éveillée…[P2][AutoClose]|
-1699	$22F2AF	28	 Faris : … trop fatiguée…[P2][AutoClose]|
-1700	$22F2CA	27	 Krile : Je veux… dormir…[P2][AutoClose]|
+1662	$22EA16	15	 Lenna : [Bartz]… Eiu…|
+1663	$22EA7C	102	 Faris : Lenna !>Lenna : Faris… Krile… U castellu…>Eiu… e tenebre…>Faris : A sapemu.>Ùn parlà troppu.|
+1664	$22EA9E	34	 >\52\52\52\52 Lenna s'unisce à a squadra !|
+1665	$22EABB	29	 [Bartz] : E sabbie mobili>sò ferme !|
+1666	$22EB47	140	 Krile : Dapoi chì i dui cristalli>di a terra si sò spezzati, a putenza>di a terra hè sparita cumpletamente…>>Faris : A terra si indebulisce…|
+1667	$22EB6E	39	 Krile : Fighjate ! U manuscrittu>sigillatu !|
+1668	$22EBB5	71	 \ABNe riposa unu trà l'anime di u>passatu, prutettu da a terra…"|
+1669	$22EBD3	30	 >\52\52\52\52\52\52Pigliatu : \ABPrima tavuletta" !|
+1670	$22EC21	78	 Krile : Oh, ci hè qualcosa>scrittu… \ABBahamut, rè di i>dragoni…"[FixedPause] … Oh ?|
+1671	$22EC3C	27	 Krile : A penisula ! Ella…|
+1672	$22EC73	55	 Bahamut : V'aspetteraghju nant'à>u Monti di u Nordu…|
+1673	$22EC9A	39	 Faris : Fighjate ! Hè u>vascellu !|
+1674	$22ECAB	17	 [Bartz] : A tavuletta…|
+1675	$22ED3A	143	 \ABPer liberà da u sigillu l'arma>bramata, teni ti davanti à a>stele.">>\ABDopu avè fattu trè scelte, a>tavuletta si sbriciarà."|
+1676	$22ED7C	66	 [Bartz] : Trè sigilli…>Ci tocca à sceglie trè di e>dodici arme ?|
+1677	$22ED8E	18	 >\52\52\52Leva stu sigillu ?|
+1678	$22EDCC	62	 Sceglite trè arme… A tavuletta>pò rompe trè sigilli…|
+1679	$22EE1B	79	 [Bartz] : U nèant hè sempre>quì…>[P2][AutoClose]>>>Krile : Ma avemu vintu>Exdeath !>[P2][AutoClose]|
+1680	$22EE8E	115	 Lenna : Hè perchè i>cristalli sò stati distrutti ?[P2][AutoClose]>>>Faris : U mondu serà tandu>inghjuttitu da u nèant…[P2][AutoClose]|
+1681	$22EEB5	39	 >\52\52\52A speranza dà a so>benedizzione à a terra…>\52[P2][AutoClose]|
+1682	$22EEDC	39	 >\52U curagiu accende e>fiamme…>\52[P2][AutoClose]|
+1683	$22EF0D	49	 > A buntà face di l'acqua> a surgente di a vita…>[P2][AutoClose]|
+1684	$22EF4F	66	 >\52A sete di sapè porta a>\52saviezza à cavalcà u ventu…>[P2][AutoClose]|
+1685	$22EF68	25	 [Bartz] : U mondu…>rinasce…[P3][AutoClose]|
+1686	$22EF8C	36	 Lenna : È i cristalli dinù…>\52[P2][AutoClose]|
+1687	$22EFDE	82	 [Bartz] : Firmava sempre un pocu>di putenza in i frammenti di>cristallu.>\52[P3][AutoClose]|
+1688	$22EFFB	29	 Krile : Meno male…[P2][AutoClose]|
+1689	$22F043	72	 [Bartz] : Lenna… Faris… Krile…>Hè perchè avete prutettu i>frammenti…[P4][AutoClose]|
+1690	$22F06B	40	 Lenna : Tù dinù,>[Bartz]…[P2][AutoClose]|
+1691	$22F085	26	 Krile : È babbone dinù…[P1][AutoClose]|
+1692	$22F0DB	86	 Lenna : È avà u ventu turnerà>in Tycoon…[P2][AutoClose]>>>Rè di Tycoon : Iè.[P2][AutoClose]|
+1693	$22F132	87	 [Bartz] : Babbu…>Krile : Babbone…>[P3][AutoClose]>>Lenna : Babbu…>Faris : Babbu…>[P3][AutoClose]>>[Bartz] : È Kelgar è Xezat>dinù…>[P3][AutoClose]|
+1694	$22F1EF	189	 Rè di Tycoon : U mondu hà sempre>bisognu di voi ![P4][AutoClose]>>>Galuf : Hè sempre troppu prestu>per vene à ritruvà ci ![P4][AutoClose]>>Dorgann : Avete fattu bè…>Avà, vultate à u vostru mondu !>[P2][AutoClose]|
+1695	$22F1F4	5	 Hiryû ![P1][AutoClose]|
+1696	$22F24F	91	 Aiò, attaccate vi bè ! Ùn vi>addurmintate ! Ùn puderete più>esce ne ![P3][AutoClose]|
+1697	$22F26A	27	 [Bartz] : Eiu… aghju>sonnu…>[P2][AutoClose]|
+1698	$22F293	41	 Lenna : Ùn possu stà>sveglia…[P2][AutoClose]|
+1699	$22F2AF	28	 Faris : … sò troppu>stanca…[P2][AutoClose]|
+1700	$22F2CA	27	 Krile : Vogliu…>dorme…[P2][AutoClose]|
 1701	$22F2D0	6	 33[P2][AutoClose]|
 1702	$22F2D6	6	 34[P3][AutoClose]|
 1703	$22F2F9	35	 Ce combat… était trop difficile…[P4][AutoClose]|
