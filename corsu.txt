@@ -2098,62 +2098,62 @@
 2098	$236A19	170	 Vi ne pregu ! Arrestati>Exdeath ! ùn deve micca>impadrunì si di a putenza di u>nèant !>>Forse possu aiutà vi…>Vulete ch'eiu vi leghi un passaghju>di u Manuscrittu sigillatu ?|
 2099	$236A6E	85	 Exdeath : Criature imprigiunate>in a fessura interdimensionale !>Miei servitori !|
 2100	$236B32	196	 Exdeath : Guerrieri guidati da a>luce di i cristalli cercanu e>tavulette antiche…>Andate, tumbate li !!>Ùn devenu micca ricuperà e>arme leggendarie chì anu distruttu>u grande Enuo…|
-2101	$236BDE	172	 Nous nous en chargerons, maître !>>>>Exdeath : Excellent ! Partez>immédiatement !>>>Débarrassez-vous d’eux alors que>je m’empare du pouvoir du néant !>Mouah ha, ha, ha, ha !|
-2102	$236C19	59	 Nous avons été prisonniers de la>fissure pendant 1000 ans…|
-2103	$236C85	108	 Lorsqu’il obtiendra le pouvoir du>néant, notre maître Exdeath>créera un nouveau monde de>ténèbres pour nous !|
-2104	$236CDC	87	 Nous ne vous laisserons pas faire !>Le néant sera votre tombeau !>Ha, ha, ha, ha, ha !|
-2105	$236D27	75	 Halte ! Etes-vous les guerriers qui>possèdent les fragments des>cristaux ?|
-2106	$236D58	49	 Je vois… Partez ! Vous n’avez rien>à faire ici !|
-2107	$236D61	9	 Je vois…|
-2108	$236D7D	28	 Vous n’irez pas plus loin !|
-2109	$236DAA	45	 Personne d’autre n’a pu retourner>à Surgate…|
-2110	$236DAD	3	 40|
-2111	$236E71	196	 Je me demandais quelle sorte de>guerriers pourrait bien venir>jusqu’ici…[FixedPause]>>Pfft ! Ce n’est qu’un groupe de>fillettes ! Ha, ha, ha ! Dommage,>mes chéries… Vous n’irez>malheureusement pas plus loin !|
-2112	$236EBC	75	 Lenna : L’entrée de la fissure est là>où le château de Tycoon était>situé…|
-2113	$236F4C	144	 Krile : Nous devons nous dépêcher !>Exdeath obtiendra bientôt le>pouvoir du néant !>>Faris : Mais Ghido a dit que nous>n’étions pas assez forts…|
-2114	$236F90	68	 [Bartz] : Nous devons récupérer>les armes légendaires du château>de Kuza.|
-2115	$236FAD	29	 Krile : Qu’est-ce que c’est ?|
-2116	$23701E	113	 Lenna : La fissure !>Faris : Je ne contrôle plus le>vaisseau ! Elle va nous aspirer !>[Bartz] : Parfait ! C’est parti !|
-2117	$237054	54	 Nous protégerons le château>jusqu’au retour de Krile !|
-2118	$237082	46	 Qu’est-ce qu’il peut bien y avoir>là-dessous ?|
-2119	$2370B2	48	 Est-ce vrai ? Est-ce qu’Exdeath>s’est échappé ?|
-2120	$2370D2	32	 Mog : Krile… Bon courage, kupo !|
-2121	$2370E9	23	 Krile ! Sois prudente !|
-2122	$2370FB	18	 >Obtenu : Lampe !|
-2123	$2371AC	177	 Exdeath : Je vais écraser tout ceux>qui se trouvent sur mon chemin, à>commencer par vos amis !>>J’espère que vous apprécierez de>voir vos compagnons être aspirés>par le néant !|
-2124	$2371BF	19	 [Bartz] : Non ! Arrête !|
-2125	$2371D2	19	 >Obtenu : Spathe !|
-2126	$2372C0	238	 Krile : Nous devons arrêter>Exdeath… Pas seulement pour nos>amis, mais pour tous les habitants>de notre monde…>Faris : Tu as raison… Trop de vies>ont été sacrifiées. Cela ne doit pas>continuer !>>[Bartz] : Allons-y…>Nous protégerons notre monde.|
-2127	$237353	147	 Exdeath : On prétend qu’il est>impossible de contrôler le pouvoir>infini du néant… Balivernes !>>Pouvoir du néant ! Montre-nous ta>véritable forme !|
-2128	$2373A8	85	 Exdeath : Va ! Détruis tout sur ton>passage ! Montre-leur quel pouvoir>est le tien !|
-2129	$2373E5	61	 Krile : Les villes et les villages sont>aspirés dans le néant !|
-2130	$2373F9	20	 [Bartz] : Exdeath ! Non !|
-2131	$237459	96	 Lenna : C’est horrible…>Faris : Il a même détruit Lix, le>village de [Bartz]…>Krile : Comment a-t-il pu…|
-2132	$237469	16	 [Bartz] : Nooooooon !|
-2133	$237480	23	 Faris : [Bartz] ! Du calme !|
-2134	$237495	21	 [Bartz] ! Au secours ! [P2][AutoClose]|
+2101	$236BDE	172	 Ci ne incarichemu, maestru !>>>>Exdeath : Eccellente ! Partite>subitu !>>>Sbarazzate vi di elli mentre ch'eiu>m'impadroniscu di a putenza di u>nèant ! Mouah ha, ha, ha, ha !|
+2102	$236C19	59	 Noi altri, mostri stati imprigiunati>mille anni in a fessura…|
+2103	$236C85	108	 Quandu u nostru maestru Exdeath>s'impadrunirà di a putenza di u>nèant, un novu mondu di>tenebre nascerà per noi !|
+2104	$236CDC	87	 Ùn vi lasceremu micca fà !>U nèant serà a vostra tomba !>Ha, ha, ha, ha, ha !|
+2105	$236D27	75	 Altu ! Site voi i guerrieri chì>tenenu i frammenti di i>cristalli ?|
+2106	$236D58	49	 Capiscu… Partite ! Ùn avete>nulla à fà quì !|
+2107	$236D61	9	 Capiscu…|
+2108	$236D7D	28	 Ùn anderete micca più>luntanu !|
+2109	$236DAA	45	 Simu i soli à esse riesciuti>à vultà in Surgate…|
+2110	$236DAD	3	 [Bartz] : Andemu !!|
+2111	$236E71	196	 Mi dumandava chì sorte di>guerrieri puderianu ghjunghje>sin'à quì…[FixedPause]>>Pfft ! Ùn site chè un gruppu di>zitellacce ! Ha, ha, ha ! Peccatu,>bellezze… Ùn anderete>sfurtunatamente micca più luntanu !|
+2112	$236EBC	75	 Lenna : L'entrata di a>fessura si trova induve u>castellu di Tycoon hè sparitu…|
+2113	$236F4C	144	 Krile : Ci tocca à affrettà ci !>Exdeath s'impadrunirà prestu di a>putenza di u nèant !>>Faris : Ma Ghido hà dettu chì ùn>eramu micca abbastanza forti…|
+2114	$236F90	68	 [Bartz] : Ci tocca à ricuperà>l'arme leggendarie di u castellu>di Kuza.|
+2115	$236FAD	29	 Krile : Chì ghjè què ?|
+2116	$23701E	113	 Lenna : A fessura !>Faris : Ùn cuntrullu più u>vascellu ! Ci hà da aspirà !>[Bartz] : Perfettu ! Ci andemu !!|
+2117	$237054	54	 Prutegeremu u castellu sin'à u>ritornu di Krile !|
+2118	$237082	46	 Chì ci serà mai quallà>sottu ?|
+2119	$2370B2	48	 Hè vera ? Exdeath s'hè>scappatu ?|
+2120	$2370D2	32	 Mog : Krile… Fatti curagiu, kupo !|
+2121	$2370E9	23	 Krile ! State attenta !|
+2122	$2370FB	18	 >Pigliatu : Lampa !|
+2123	$2371AC	177	 Exdeath : Vogliu schiaccià tutti>quelli chì si tenenu nantu à u mo>camminu, principiendu da i vostri>amichi !>>Spergu chì vi piacerà di vede i vostri>cumpagni esse aspirati da u>nèant !|
+2124	$2371BF	19	 [Bartz] : Innò ! Piantala !|
+2125	$2371D2	19	 >Pigliatu : Spatha !|
+2126	$2372C0	238	 Krile : Ci tocca à arrestà>Exdeath… Micca solu per i nostri>amichi, ma per tutti l'abitanti di u>nostru mondu…>Faris : Ai ragiò… Troppe vite>sò dighjà state sacrificate. ùn>deve più cuntinuà !>>[Bartz] : Andemu…>Prutegeremu u nostru mondu.|
+2127	$237353	147	 Exdeath : Si pretende chì a>putenza infinita di u nèant sia>impussibule à cuntrullà…>Scimità !>>Putenza di u nèant ! Mostra ci a>to vera forma !|
+2128	$2373A8	85	 Exdeath : Vai ! Distrughji tuttu>nant'à u to passaghju !>Mostra li a to putenza !|
+2129	$2373E5	61	 Krile : E cità è i paesi sò>aspirati da u nèant !|
+2130	$2373F9	20	 [Bartz] : Exdeath ! Innò !|
+2131	$237459	96	 Lenna : Hè orribile…>Faris : Hà ancu distruttu Lix, u>paese di [Bartz]…>Krile : Cumu hà pussutu…|
+2132	$237469	16	 [Bartz] : Noooooo !|
+2133	$237480	23	 Faris : [Bartz] ! Calmate vi !|
+2134	$237495	21	 [Bartz] ! Aiutu ! [P2][AutoClose]|
 2135	$2374AE	25	 Krile ! Kupo kupooo ! [P2][AutoClose]|
-2136	$2374C6	24	 Voler à dos de dragon ?|
-2137	$23755A	148	 Je vais vous donner quelque chose>de fantastique mais d’abord…>>>D’abord…[FixedPause] Euh…[FixedPause] Vous devez faire le>tour du monde à dos de chocobo>jaune ! Alors ?|
-2138	$2375E0	134	 Quoi ? Vous avez fait le tour de>monde à dos de chocobo jaune ?>Ça va pas la tête ? Bon, je vais>tenir ma promesse…>>Obtenu : Veste !|
-2139	$237664	132	 Je ne pensais pas que vous>réussiriez…>>>Dites, vous en avez profité pour>admirer des chutes d’eau en>faisant votre tour du monde ?|
-2140	$2376F4	144	 Salutations ! Je suis M. Clio ! Je sais>tout, tout de vous ! Approchez, mes>enfants…>>Les statistiques ne sauraient>mentir ! Etes-vous curieux ?|
-2141	$23771A	38	 Vous pensez être des pros, c’est>ça ?|
-2142	$237735	27	 Oh ! Mais rien ne presse !|
-2143	$237771	60	 Pourquoi ne pas aller le répéter au>club des novices, hein ?|
-2144	$237AF3	898	 Eh bien… Je vais vous apprendre>quelque chose d’intéressant !>>>Les guerriers libres peuvent>s’équiper de n’importe quelle pièce>d’équipement. Les mimes peuvent>s’équiper de tout sauf d’un ruban.>Cependant, ces classes ne sont pas>particulièrement puissantes si on>les compare aux autres…>>Toutefois, si vous avez maîtrisé>une ou plusieurs classes, c’est une>autre histoire. Les caractéristiques>améliorées et les talents innés des>classes maîtrisées sont ajoutées>automatiquement aux classes Libre>et Mime ! Par exemple, si vous>avez maîtrisé les classes Paladin,>Mage noir et Voleur, les classes>Libre et Mime posséderont la force>d’un paladin, la magie d’un mage>noir ainsi que les talents innés>d’un voleur, c’est-à-dire « \B5il de>lynx » et « Sprint ». Vous pourrez>aussi choisir deux talents de>combat ! Après avoir maîtrisé>plusieurs classes, Libre et Mime>deviennent les classes les plus>puissantes !|
-2145	$237B95	162	 La-li-ho ! Je ne m’en étais jamais>préoccupé avant, mais… On dirait>que quelque chose se passe à la>surface…>Je suis certain qu’il y a une forêt>au-dessus de nous…|
-2146	$237C1E	137	 La-li-ho ! Vous avez entendu>parler de la lampe magique ?>>>Si vous la placez à l’endroit où elle>a été créée, elle se remplira de>nouveau !|
-2147	$237C7F	97	 La-li-ho ! Ralibeau est en train de>creuser un tunnel… Il dit qu’il>pourra faire le tour du monde !|
-2148	$237CDB	92	 La-li-ho ! Nous ne sommes que>cinq, mais notre royaume est>quand même le plus beau de tous !|
+2136	$2374C6	24	 Vulà à spinu à u dragone ?|
+2137	$23755A	148	 Vi daraghju qualcosa di>straordinariu, ma micca senza>nunda in cambiu…>>>Mmh…[FixedPause] Euh…[FixedPause] Duvete fà u giru di u>mondu à spinu à un chocobo>ghjallu ! Allora ?|
+2138	$2375E0	134	 Cumu ? Avete fattu u giru di>u mondu à spinu à un chocobo>ghjallu ? Site scemi o chì ? Bon,>teneraghju a mo prumessa…>>Pigliatu : Vesta !|
+2139	$237664	132	 Ùn pensava micca chì ci>riusciteriate…>>>À prò, durante u vostru giru di u>mondu, ùn vi site micca>fermatu davanti à una cascata ?|
+2140	$2376F4	144	 Salute ! Sò u sgiò Clio ! Sò tuttu,>tuttu di voi ! Avvicinate vi,>zitelli…>>E statistiche ùn mentenu mai !>Site curiosi ?|
+2141	$23771A	38	 Pensate d'esse diventati>veri esperti, hè cusì ?|
+2142	$237735	27	 Oh ! Ma ùn ci hè pressa !|
+2143	$237771	60	 Perchè ùn andate micca à>ripete lu à a Casa di i Principianti,>eh ?|
+2144	$237AF3	898	 Ah bè… Vi insegnu qualcosa>di interessante !>>>I guerrieri liberi ponu purtà>qualsiasi pezzu d'equipagiu. I>mimi ponu purtà tuttu, fora di i>nastri.>>Ma e so statistiche di forza è di>magia sò un pocu debule, nò ?>>Tuttavia, una volta ch'è vo avete>maestrisatu unu o più mistieri, a>storia cambia. E statistiche>migliurate è i talenti innati di i>mistieri maestrisati sò aghjunti>automaticamente à i mistieri>Libera è Mimu !>Per esempiu, s'è vo maestrisate>Paladinu, Magu Neru è Latru,>e classi Libera è Mimu>possederanu a forza d'un>Paladinu, a magia d'un Magu Neru,>è dinù i talenti innati d'un Latru, vale à>dì \ABPassaghju" è \ABSprint".>>In più, ci pudete aghjunghje dui>abilità di cumbattu.>>>Una volta maestrisati parechji>mistieri, Libera è Mimu>diventanu di gran lunga e classi>più putente !|
+2145	$237B95	162	 La-li-ho ! Ùn m'era mai>preoccupatu di què nanzu, ma…>pare chì qualcosa si passi à a>superficia…>Sò sicuru ch'ellu ci hè una furesta>ghjustu à u sopra di noi…|
+2146	$237C1E	137	 La-li-ho ! Avete dighjà intesu>parlà di a Lampa magica ?>>>S'è vo a rimettite à u locu induve>hè stata creata, si ricaricherà>torna !|
+2147	$237C7F	97	 La-li-ho ! Ralibeau hè in traccia>di scavà un tunnel… Dice ch'ellu>puderà fà u giru di u mondu !|
+2148	$237CDB	92	 La-li-ho ! Ùn simu chè cinque, ma>u nostru regnu ferma quantunque>u più bellu di tutti !|
 2149	$237CE5	10	 La-li-ho !|
-2150	$237D73	142	 \52\52\52\52«Encyclopédie de la magie>\52\52\52\52\AEVolume III\AF»>>>« Je suis un mage qui utilise le>talent «Ryûken»… Voilà le secret de>ma puissance infinie ! »|
-2151	$237E07	148	 \52\52\52\52«Encyclopédie de la magie>\52\52\52\52\AEVolume XIV\AF»>>>« Giga Eclat possède un point>faible… Pendant que vous lancez ce>sort, vous êtes sans défense ! »|
-2152	$237F7E	375	 \52\52\52\52\52\52\52 « Livre millénaire »>>>>\52\52« Et soudainement les cieux se>\52\52fendirent avec éclat et ainsi>\52\52apparut une bête sans âme sur>\52\52notre monde… »>\52 « Oméga, suivi du dragon des>\52 légendes, Shinryû, ravagèrent>\52 monts et collines \AC nul ne put les>\52 arrêter. »>« Dans la fissure, ils furent>encha\BBés. Puissent-ils y rester>pour l’éternité et puisse l’humanité>enfin les oublier ! »|
-2153	$237FF4	118	 Les géomanciens ne font qu’un>avec leur environnement. Ils ne>craignent pas les sols dangereux et>évitent les pièges.|
-2154	$23808E	154	 On dit que les nains fabriquent les>meilleures armes et pièces>d’armures qui soient !>>Ce n’est pas qu’une légende !>Je sais qu’ils existent quelque>part !|
-2155	$2380AA	28	 Parle-moi des géomanciens !|
-2156	$2380C0	22	 Parle-moi des nains !|
-2157	$238108	72	 Le pouvoir d’un guerrier sommeille>à l’intérieur du fragment de>cristal…|
-2158	$238122	26	 [Bartz] : Qu’est-ce que c’est ?|
-2159	$238157	53	 >\52\52\52\52\52\52\52L’espace se distord…>\52\52\52\52\52\52\52Le temps recule…|
+2150	$237D73	142	 \52\52\52\52\52\52\52\52\52\52 Manuale di magia>\52\52\52\52\52\52\52\52\52\52\AEVolume III\AF>>>Sò un magu chì usa>l'abilità \ABRyûken"…>Quì si trova u secretu di a mo>putenza infinita !|
+2151	$237E07	148	 \52\52\52\52\52\52\52\52\52\52 Manuale di magia>\52\52\52\52\52\52\52\52\52\52\AEVolume XIV\AF>>>Gigaflare hà un puntu>debule… Mentre chì lanciate stu>sortu, restate senza difesa !|
+2152	$237F7E	375	 \52\52\52\52\52\52\52\52\52\52 Libru millenariu>>>>\52\52\52\52\52\52 E di colpu i celi si>\52\52\52\52\52\52 fendinu cù stintu>\52\52\52\52\52\52 è apparì una bestia>\52\52\52\52\52\52 senza core nantu à>\52\52\52\52\52\52 u nostru mondu…>\52\52 Oméga, seguitatu da u>\52\52 dragone legendariu,>\52\52 Shinryû, devastonu>\52\52 muntagne è culline,>\52\52 nimu li pudì arrestà.>In a fessura, sò stati>incatenati. Ch'elli ci possinu>firmà per l'eternità, è ch'elli>sienu infine scurdati da>l'umanità !|
+2153	$237FF4	118	 I Geomanziani facenu corpu>unu cù u so ambiente. Ùn>temenu micca i terreni periculosi>è evitanu e trappule.|
+2154	$23808E	154	 Si dice chì i nani fabbricanu e>migliore arme è armature chì ci>sianu !>>Ùn hè mica solu una legenda !>Sò sicuru ch'elli esistenu>in qualchì locu !|
+2155	$2380AA	28	 Parlami di i Geomanziani !|
+2156	$2380C0	22	 Parlami di i nani !|
+2157	$238108	72	 A putenza d'un guerrieru>riposa in u frammentu>di cristallu…|
+2158	$238122	26	 [Bartz] : Chì ghjè què ?|
+2159	$238157	53	 >\52\52\52\52\52\52\52U spaziu si distorce…>\52\52\52\52\52\52\52U tempu scorri à u ritrosu…|
