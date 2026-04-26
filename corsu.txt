@@ -998,106 +998,106 @@
 998	$222D40	44	 Cid : Hè perfettu !>Mid : Ma benintesa !|
 999	$222D5F	31	 Cid : Va bè ! À u prossimu !|
 1000	$222D96	55	 Cid : È di quattru ! Date un'ochjata>à sta carta…|
-1001	$222E31	155	 Mid : Comme vous pouvez le>constater, le rayon d’énergie des>aérolithes se croise au milieu. C’est>à partir de cet endroit que vous>pourrez vous téléporter.|
-1002	$222E48	23	 Cid : Soyez prudents !|
-1003	$222E64	28	 [Bartz] : Merci Cid ! Merci Mid !|
-1004	$222E89	37	 Cid : Allons, Mid !>Mid : Oui, papi !|
-1005	$222ED7	78	 Cid : Diantre ! Ça fourmille de>monstres ! Euh, à vous de jouer,>les enfants !|
-1006	$222EF3	28	 Mid : Ouf ! J’ai eu chaud !|
-1007	$222F25	50	 Cid : Très bien ! Nous nous>occuperons du reste !|
-1008	$222F45	32	 Cid : Voilà !>Mid : Au suivant !|
-1009	$222F61	28	 >\52\52\52\52\52\52\52\52\52\52Appris : Titan !|
-1010	$222F85	36	 Cid : Voilà !>Mid : Dépêchons-nous !|
-1011	$222FA1	28	 [Bartz] : Cid ! Mid ! Attention !|
-1012	$222FD3	50	 Cid : Vous n’avez rien ?>Mid : Ouah ! Bien joué !|
-1013	$223000	45	 Cid : Ne bougez pas !>Mid : On s’en occupe !|
-1014	$223060	96	 Lenna : Ils sont partis depuis>longtemps…>Faris : Nous ferions mieux d’aller>jeter un coup d’œil.|
-1015	$22308B	43	 Cid : Au secours !>Mid : Aïe ! Aidez-nous !|
-1016	$223099	14	 [Bartz] : Partons !|
-1017	$2230E2	73	 Lenna : Vous n’avez rien ?>Mid : Ouf !>Cid : Nous l’avons échappé belle !|
-1018	$22311E	60	 Cid : Bon !>Passons à l’aérolithe suivant !>Mid : D’accord !|
-1019	$22325C	318	 Lenna : Le rayon s’affaiblit…>[Bartz] : Les aérolithes n’ont>presque plus d’énergie.>Faris : C’est tout ou rien !>[Bartz] : Nous ne pourrons pas>revenir après… Etes-vous>certaines de vouloir continuer ?>>Lenna : Nous devons aller aider nos>amis. C’est tout ce qui compte.>Faris : Lenna a raison. Nous ne>pouvons pas les abandonner !|
-1020	$223271	21	 [Bartz] : Bien ! Allons-y !|
-1021	$22329E	45	 [Bartz] : C’est…>Lenna : C’est le monde de Galuf ?|
-1022	$2232C2	36	 Lenna : Disons adieu à notre>monde…|
-1023	$223314	82	 Faris : Bon courage, matelots ! Vous>devrez piller et saccager les villes>sans moi.|
-1024	$223343	47	 [Bartz] : Sois sage, Boko ! Ne fais>pas de bêtises !|
-1025	$223381	62	 [Bartz] ! Pour toi et tes amis, c’est>gratuit ! Reposez-vous bien !|
-1026	$2233EB	106	 Ton père venait toujours acheter>son équipement ici… Je vous>propose tout mon inventaire à prix>coûtant !|
-1027	$223471	134	 Oh, [Bartz] ! Ça fait un bail ! Tu as>finalement décidé de rentrer chez>toi ? J’espère que tu ne repartiras>pas à l’aventure tout de suite !|
-1028	$223498	39	 [Bartz] ? C’est toi ? Youpi ! [Bartz]>est revenu !|
-1029	$22352C	148	 [Bartz] ! Tu es revenu ! Je…[FixedPause] Je t’ai>attendu… Quand tu auras terminé>tes aventures, viens me rendre>visite, d’accord ? J’ai quelque>chose à te demander…|
-1030	$223584	88	 [Bartz] ! Tu te souviens de moi ?>Viens me rendre visite ! Ce sera>comme au bon vieux temps !|
-1031	$2235A3	31	 … 97, 98, 99, 100 ! J’arrive !|
-1032	$2235AF	12	 [Bartz] : O. K. !|
-1033	$2235CA	27	 [Bartz] : Hé…[FixedPause] Au…[FixedPause] Au secours !|
-1034	$2235F5	43	 Ha, ha, ha ! Et depuis, tu as le>vertige ?|
-1035	$223662	109	 Je n’étais peut-être pas une>lumière quand j’étais petit, mais un>jour je serai le plus brillant des>savants…|
-1036	$223680	30	 Oh ! [Bartz] ? Comme tu as grandi !|
-1037	$2236D0	80	 Ah, alors ton père est tombé>malade ? Comme c’est>malheureux ! Bon courage, [Bartz] !|
-1038	$2236ED	29	 >\52\52\52\52\52\52\52\52«Ici repose Stella.»|
-1039	$223716	41	 Un barde habite là où tu habitais>avant.|
-1040	$22376E	88	 Vous habitiez ici ? Eh bien ! Ne vous>gênez pas ! Faites comme chez>vous ! Ha, ha, ha !|
-1041	$2237B4	70	 Dorgann : Il dort ?>Stella : … Tu vas repartir bientôt,>n’est-ce pas ?|
-1042	$22390E	346	 Dorgann : … Je n’irai nulle part.>Stella : Mes crises ne sont plus>aussi fréquentes qu’avant… Je vais>mieux. J’aimerais quand même>que tu puisses rester avec nous>plus longtemps… Ta famille a>besoin de toi…>>Dorgann : Je sais… Tu devrais te>reposer. Tu n’es pas tout à fait>rétablie.>>Stella : J’irai bientôt me coucher.>Laisse-moi juste terminer ça…|
-1043	$223A5C	334	 [Bartz] : Tu vas partir, c’est ça ?>Dorgann : Tu ne dormais pas ?>[Bartz] : Tu vas aller combattre les>méchants, papa ?[P6][AutoClose]>Dorgann : C’est mon devoir.>[Bartz] : Amène-moi avec toi ![P6][AutoClose]>>>Dorgann : Tu dois rester ici et>prendre soin de ta maman.[P6][AutoClose]>>>Ne lui dis pas que tu m’as vu partir,>d’accord ? Ce sera notre secret.>[Bartz] : Motus et bouche cousue ![P6][AutoClose]|
-1044	$223AC3	103	 Dorgann : Allons ! Tu peux dormir>maintenant. [FixedPause]Stella ! Tu pourras>terminer demain. Viens te reposer.[P4][AutoClose]|
+1001	$222E31	155	 Mid : Per piacè, affrettate vi à>ghjunghje quì, duve l'energia di i>quattru aeroliti si raccoglie !>Hè quì ch'ellu si trova u puntu>di teletrasportu.|
+1002	$222E48	23	 Cid : State attenti !|
+1003	$222E64	28	 [Bartz] : Grazie, Cid ! Grazie, Mid !|
+1004	$222E89	37	 Cid : Andemu, Mid !>Mid : Iè, babbone !|
+1005	$222ED7	78	 Cid : Mille tonni ! Ci hè un'infinità>di mostri quì drentu ! Euh, à>voi di ghjucà, zitelli !|
+1006	$222EF3	28	 Mid : Ouf ! Aghju avutu paura !|
+1007	$222F25	50	 Cid : Perfettu ! Ci ne>occuperemu noi di u restu !|
+1008	$222F45	32	 Cid : Eccu !>Mid : À u prossimu !|
+1009	$222F61	28	 >\52\52\52\52\52\52\52\52\52\52Amparatu : Titan !|
+1010	$222F85	36	 Cid : Hè fattu !>Mid : Prestu, affrettemu ci !|
+1011	$222FA1	28	 [Bartz] : Cid ! Mid ! Attenti !|
+1012	$222FD3	50	 Cid : State bè ?>Mid : Ouah ! Site forti !|
+1013	$223000	45	 Cid : Aspettate quì !>Mid : Turnemu subitu !|
+1014	$223060	96	 Lenna : Hè troppu ch'elli sò>partuti…>Faris : Ci hè forse qualcosa chì ùn>va micca. Andemu à vede !|
+1015	$22308B	43	 Cid : à l'aiutu !>Mid : Aiò ! Aiutate ci !|
+1016	$223099	14	 [Bartz] : Andemu !|
+1017	$2230E2	73	 Lenna : State bè ?>Mid : Ouf !>Cid : L'avemu scansata bella !|
+1018	$22311E	60	 Cid : Va bè !>Avà, à l'aerolitu prossimu !>Mid : D'accordu !|
+1019	$22325C	318	 Lenna : U raghju s'indibulisce…>[Bartz] : Ùn ferma guasgi più>energia in l'aeroliti !>Faris : Hè tuttu o nunda !>[Bartz] : Serà solu andata…>Forse ùn puderemu mai>turnà… L'avete capitu ?>>Lenna : Iè.>Faris : Ùn ci hè prublema !|
+1020	$223271	21	 [Bartz] : Va bè ! Andemu !|
+1021	$22329E	45	 [Bartz] : Hè…>Lenna : U mondu di Galuf ?|
+1022	$2232C2	36	 Lenna : Hè l'ora di dì addiu à u>nostru mondu…|
+1023	$223314	82	 Faris : State bè, o marinari !>Duvarete saccheghjà è razzià>e cità senza di mè.|
+1024	$223343	47	 [Bartz] : Boko… mi ne vogu avà !|
+1025	$223381	62	 O [Bartz] ! Per tè è i toi amichi, hè>gratisi ! Ripusate vi bè !|
+1026	$2233EB	106	 U to babbu vinia sempre à>cumprà si l'equipaggiu quì… Vi>faraghju tuttu à prezzu di costu !|
+1027	$223471	134	 Oh, [Bartz] ! Hè una stonda ch'ùn>ti si vede ! Sì vultatu infine in>casa ? Spergu chì ùn ripartessi>micca subitu in aventura !|
+1028	$223498	39	 [Bartz] ? Sì tù ? Iè ! [Bartz] hè>vultatu !|
+1029	$22352C	148	 [Bartz] ! Sì vultatu ! Eiu…[FixedPause] T'aghju>aspittatu… Quandu averai finitu>e to aventure, venerai à vede mi,>d'accordu ? Aghju qualcosa>da dumandà ti…|
+1030	$223584	88	 [Bartz] ! Ti ramenti di mè ?>Veni à vede mi ! Serà>cum'è à i boni vechji tempi !|
+1031	$2235A3	31	 … 97, 98, 99, 100 ! Ghjungu !|
+1032	$2235AF	12	 [Bartz] : O.K. !|
+1033	$2235CA	27	 [Bartz] : Oi…[FixedPause] Qualchissia…[FixedPause] Aiutu !|
+1034	$2235F5	43	 Ha, ha, ha ! È ghjè da tandu>ch'è tù hai u vertiginu ?|
+1035	$223662	109	 Forse ùn eru micca una gran>lumera da chjucu, ma un ghjornu>diventeraghju u più grande>sapiente di tutti…|
+1036	$223680	30	 Oh ! [Bartz] ? Cumu sì crisciutu !|
+1037	$2236D0	80	 Ah, cusì u to babbu hè cascatu>malatu ? Hè propiu una trista>nova ! Curagiu, [Bartz] !|
+1038	$2236ED	29	 >\52\52\52\52\52\52\52\52Quì riposa Stella…|
+1039	$223716	41	 Avà, un bardu campa in a casa>induve tù campavi nanzu.|
+1040	$22376E	88	 Campavate quì ? Ebbè ! Ùn vi>fate pregà ! Fate cum'è s'è vo>fussite in casa vostra ! Ha, ha, ha !|
+1041	$2237B4	70	 Dorgann : Dorme ?>Stella : … Prestu, turnerai à parte,>ùn hè vera ?|
+1042	$22390E	346	 Dorgann : … ùn andaraghju in>nisun locu.>Stella : E mo crisi ùn sò più>cusì frequente ch'è prima… Mi sentu>megliu. Mi piacerebbe quantunque>ch'è tù pudessi firmà cun noi>più à longu… A to famiglia>hà bisognu di tè…>>Dorgann : A sò… Ti duveresti>riposà. ùn sì ancu micca>cumpletamente rimessa.>>Stella : Andaraghju prestu à dorme.>Lasciami solu finisce què…|
+1043	$223A5C	334	 [Bartz] : Ai da parte, hè cusì ?>Dorgann : ùn durmi micca ?>[Bartz] : Ai da andà à luttà contr'à>i cattivi, babbu ?[P6][AutoClose]>Dorgann : Hè u mo duvere.>[Bartz] : Purtami cun tè ![P6][AutoClose]>>>Dorgann : Tù devi stà quì è>piglià ti cura di a to mamma.[P6][AutoClose]>>>È ùn li dì micca chì m'ai vistu parte,>va bè ? Serà u nostru secretu.>[Bartz] : Bocca chjosa ![P6][AutoClose]|
+1044	$223AC3	103	 Dorgann : Andemu ! Pudete dorme>avà. [FixedPause]Stella ! Puderai>finisce dumane. Veni à ripusà ti.[P4][AutoClose]|
 1045	$223AD8	21	 Dorgann : Stella ?[P3][AutoClose]|
-1046	$223AEF	23	 Dorgan : STELLA !!![P3][AutoClose]|
-1047	$223B5A	107	 Quelle jolie mélodie… Je vais écrire>une chanson… Voilà, je vous la>dédie !>>>\52\52\52\52\52Appris : Aria séduisante !|
-1048	$223B7B	33	 Vous n’avez pas assez d’argent !|
-1049	$223C54	217	 Qu’avons-nous là ? Est-ce votre>courage ou votre chance qui vous>a mené jusqu’ici ? A vous de>décider. Si vous êtes courageux,>choisissez la boîte de gauche. Si>vous êtes poltron, choisissez la>boîte de droite. Alors ?|
-1050	$223C70	28	 >Obtenu : Lame des braves !|
-1051	$223C84	20	 >Obtenu : Cisaille !|
-1052	$223C9B	23	 Ouh ! On se dégonfle !|
-1053	$223CAE	19	 Faris : [Bartz]… Ça va ?|
+1046	$223AEF	23	 Dorgann : STELLA !!![P3][AutoClose]|
+1047	$223B5A	107	 Chì bella melodia… Ne tireraghju>una canzona… Eccu, ve la>dedicu !>>>\52\52\52\52\52Amparatu : Aria seducente !|
+1048	$223B7B	33	 Ùn avete micca abbastanza soldi !|
+1049	$223C54	217	 Chì avemu quì ? Hè u vostru>curagiu o a vostra furtuna chì vi>hà cunduttu sin'à quì ? à voi di>decide. S'è vo site curagiosi,>sceglite a scatula manca. S'è vo>site pavidi, sceglite a>scatula diritta. Allora ?|
+1050	$223C70	28	 >Pigliatu : Lama di i bravi !|
+1051	$223C84	20	 >Pigliatu : Cultellu vigliaccu !|
+1052	$223C9B	23	 Ouh ! Ci si sgonfia !|
+1053	$223CAE	19	 Faris : [Bartz]… Va bè ?|
 1054	$223CBD	15	 [Bartz] : Oh, Faris…|
-1055	$223DA6	233	 [Bartz] : Je te présente ma mère.>Faris : Pardon ?>[Bartz] : Je suis né dans ce village,>mais… Ma mère est décédée>quand j’étais très jeune… Ensuite,>j’ai voyagé avec mon père pendant>des années. Cependant, il est>tombé malade il y a trois ans et…|
-1056	$223DC6	32	 [Bartz] : Voilà. C’est mieux comme>ça…|
-1057	$223DF9	51	 >« Ici repose Stella et Dorgann, son>mari dévoué. »|
-1058	$223E21	40	 [Bartz] : Il voulait être enterré>avec maman…|
-1059	$223E85	100	 [Bartz] : Mon père était un homme>courageux…>Faris : Un père… J’aurais bien aimé>en avoir un…>[Bartz] : Faris ?|
-1060	$223ED1	76	 Faris : Partons. Lenna va>s’inquiéter si nous ne sommes pas>là à son réveil.|
-1061	$223F56	133	 Faris : … Lenna… Je peux te>demander quelque chose ?>>>Pourquoi as-tu risqué ta vie pour>sauver celle du dragon sur le mont>du nord ?|
-1062	$223FE7	145	 Lenna : Sarissa… Te rappelles-tu de>notre mère ?>Faris : Quoi ? … Euh, vaguement…>>Lenna : Hiryû me fait penser à>elle…>Faris : Que veux-tu dire ?|
-1063	$224004	29	 [Bartz] : Attention ! Un monstre !|
+1055	$223DA6	233	 [Bartz] : Questa hè a mo mamma.>Faris : Eh ?>[Bartz] : Sò natu in stu paese,>ma… A mo mamma hè morta>quandu eru sempre chjucu… Dopu,>aghju viaghjatu cù u mo babbu>durante anni. Eppuru, hè>cascatu malatu trè anni fà è…|
+1056	$223DC6	32	 [Bartz] : Eccu. Hè megliu>cusì…|
+1057	$223DF9	51	 >Quì riposanu Stella è Dorgann, u>so maritu devotu.|
+1058	$223E21	40	 [Bartz] : Vulìa esse interratu>cù mamma…|
+1059	$223E85	100	 [Bartz] : U mo babbu era un omu>curagiosu…>Faris : Un babbu… Mi saria piaciutu>avè ne unu…>[Bartz] : Faris ?|
+1060	$223ED1	76	 Faris : Turnemu. Lenna hà da>inquietà si s'è no ùn simu micca>quì quand'ella si sveglia.|
+1061	$223F56	133	 Faris : … Lenna… Ti possu>dumandà qualcosa ?>>>Perchè hai risicatu a to vita per>salvà u dragone nant'à u monte>di u nordu ?|
+1062	$223FE7	145	 Lenna : Sarissa… Ti ramenti di>a nostra mamma ?>Faris : Chì ? … Euh, appena appena…>>Lenna : Hiryuu mi face pinsà>à ella…>Faris : Chì voli dì ?|
+1063	$224004	29	 [Bartz] : Attenti ! Un mostru !|
 1064	$224018	20	 [Bartz] : Lenna ! Faris !|
-1065	$22403E	38	 [Bartz] : Pouah ![FixedPause] Je… ne peux plus>bouger…|
-1066	$224090	82	 Lenna : Nous devrions peut-être>nous reposer… Pourquoi ne pas>utiliser une tente ?|
-1067	$2240A9	25	 [Bartz] : Oh… Où sommes-nous ?|
-1068	$2240DE	53	 Exdeath : Mouah ha, ha… Bienvenue>dans mon château !|
+1065	$22403E	38	 [Bartz] : Pouah ![FixedPause] Eiu… ùn possu più>move mi…|
+1066	$224090	82	 Lenna : Duvaremu forse>riposà ci… Perchè ùn aduprà>una tenda ?|
+1067	$2240A9	25	 [Bartz] : Oh… Induve simu ?|
+1068	$2240DE	53	 Exdeath : Mouah ha, ha… Benvenuti>in u mo castellu !|
 1069	$2240EC	14	 [Bartz] : Exdeath !|
-1070	$224134	72	 Monstre : Sire Exdeath ! Galuf et les>autres ont atteint le grand pont.|
-1071	$22417C	72	 Exdeath : Parfait ! Préparez le>miroir géant !>Monstre : A vos ordres !|
-1072	$2241BE	66	 Exdeath : Je devrais vous>remercier. Vous allez m’être très>utiles…|
-1073	$224201	67	 Lenna : [Bartz] ! Regarde !>[Bartz] : On peut voir notre reflet>dans le ciel !|
-1074	$224248	71	 Krile : Papi, regarde !>Galuf : [Bartz] ! Lenna ! Faris ! Mais>qu’est-ce que…|
-1075	$22428A	66	 Exdeath : Assez, Galuf ! Si tu fais un>pas de plus, ils périront !|
-1076	$2242B1	39	 Galuf : Mille tonnerres !>Repliez-vous !|
+1070	$224134	72	 Mostru : Signore Exdeath ! Galuf è>l'altri anu ghjunghjitu à u Gran>Ponte.|
+1071	$22417C	72	 Exdeath : Perfettu ! Preparate u>Grande Spechju !>Mostru : à i vostri ordini !|
+1072	$2241BE	66	 Exdeath : Vi duveria ringrazià.>Mi sarete assai utili…|
+1073	$224201	67	 Lenna : [Bartz] ! Fighja !>[Bartz] : Si vede u nostru riflessu>in celu !|
+1074	$224248	71	 Krile : Babbone, fighja !>Galuf : [Bartz] ! Lenna ! Faris ! Ma>chì ghjè chì…|
+1075	$22428A	66	 Exdeath : Basta, Galuf ! S'è tù>fai un passu di più, morenu !|
+1076	$2242B1	39	 Galuf : Mille tonni !>Ritiremu ci !|
 1077	$2242C5	20	 Exdeath : Gilgamesh.|
-1078	$224316	81	 Gilgamesh : Maître !>Exdeath : Surveille-les. Ne les laisse>surtout pas s’échapper.|
-1079	$22432E	24	 [Bartz] : Exdeath, espèce de…|
+1078	$224316	81	 Gilgamesh : Maestru !>Exdeath : Survegliateli. Ùn li lascià>sopratuttu scappà.|
+1079	$22432E	24	 [Bartz] : Exdeath, spezia di…|
 1080	$224336	8	 [Bartz] : Ah…|
-1081	$224382	76	 Galuf : Krile, laisse-moi emprunter>ton dragon. Ils ont besoin de mon>aide !|
-1082	$2243B8	54	 Galuf : Préparez le dragon !>Soldats : A vos ordres !|
-1083	$2243E4	44	 Galuf : Je te remercie. Va>retrouver Krile !|
-1084	$2243FD	25	 Galuf : Alors c’est ici…|
-1085	$22443C	63	 >Galuf obtient les objets de [Bartz]>et les fragments des cristaux !|
-1086	$224460	36	 Galuf : [Bartz], Lenna, Faris…>J’arrive !|
-1087	$224486	38	 S’ils nous voient, nous sommes>cuits !|
-1088	$22449D	23	 Gilgamesh : Qui va là ?|
-1089	$2244FB	94	 [Bartz] : Galuf !>Galuf : Ne bougez pas ! Je vais>vous sortir de là en deux temps>trois mouvements.|
-1090	$22458E	147	 Faris : Merci, Galuf.>[Bartz] : Désolé d’avoir ruiné ton>attaque. Nous…>>Galuf : Peu importe ! Nous>pourrons discuter de tout ça une>fois sortis d’ici !|
-1091	$224644	182	 Gilgamesh : Ha, ha, ha ! Devinez qui>était caché derrière la porte ! Oui,>c’est moi ! Vous en avez mis du>temps ! Je croyais que vous vous>étiez perdus quelque part ! Bah !>Allons-y !|
-1092	$22467A	54	 Galuf : Krile !>Krile : Papi ! La barrière…>Attention !|
-1093	$224688	14	 Krile : Papi !|
-1094	$224738	176	 [Bartz] : Désolé, Galuf… Nous>sommes venus pour t’aider et>finalement, c’est toi qui…>>Galuf : Je vous avais pourtant dit>de ne pas vous mêler de tout ça !>Vous ne m’écoutez jamais.|
-1095	$224751	25	 Faris : Où sommes-nous ?|
-1096	$224806	181	 Galuf : Quelque part sur le>continent de Grociana, c’est-à-dire>au milieu de nulle part. Les>monstres des alentours sont>plutôt féroces… Quelle chance nous>avons d’avoir atterri ici !|
-1097	$224835	47	 Galuf : Mais…[FixedPause] Je suis heureux de>vous revoir.|
-1098	$22487C	71	 Galuf : Soyez prudents ! Je vous l’ai>dit, les monstres sont féroces !|
-1099	$2248A3	39	 Vous voulez goûter à notre>spécialité ?|
-1100	$2248DD	58	 Il n’y a rien de tel pour vous>mettre du cœur au ventre !|
+1081	$224382	76	 Galuf : Krile, lasciami imprestà u>to dragone. Anu bisognu di u mo>aiutu !|
+1082	$2243B8	54	 Galuf : Preparate u dragone !>Suldati : à i vostri ordini !|
+1083	$2243E4	44	 Galuf : Ti ringraziu. Vola>à ritruvà Krile !|
+1084	$2243FD	25	 Galuf : Allora hè quì…|
+1085	$22443C	63	 >Galuf piglia l'ogetti di [Bartz]>è i frammenti di i cristalli !|
+1086	$224460	36	 Galuf : [Bartz], Lenna, Faris…>Ghjungu !|
+1087	$224486	38	 S'elli ci vedenu, simu>fritti !|
+1088	$22449D	23	 Gilgamesh : Quale hè ?|
+1089	$2244FB	94	 [Bartz] : Galuf !>Galuf : Ùn vi move ! Vi ne>faraghju sorte in dui tempi>trè mossi.|
+1090	$22458E	147	 Faris : Grazie, Galuf.>[Bartz] : Scusa d'avè rovinatu u to>attaccu. Noi…>>Galuf : Lascia corre ! Ne>pareremu una volta surtiti>da quì !|
+1091	$224644	182	 Gilgamesh : Ha, ha, ha ! Induvinate>quale era piattatu daretu à a>porta ! Iè, sò eiu ! Ci avete messu>un pezzu ! Cridia chì vi eri>persi in qualchì locu ! Bah !>Andemu !|
+1092	$22467A	54	 Galuf : Krile !>Krile : Babbone ! A barriera…>Attenti !|
+1093	$224688	14	 Krile : Babbone !|
+1094	$224738	176	 [Bartz] : Scusa, Galuf… Semu>venuti per aiutà ti è infine, sì tù>chì…>>Galuf : Vi avia purtantu dettu>di ùn immischjà vi in tuttu què !>Ùn state mai à sente.|
+1095	$224751	25	 Faris : Induve simu ?|
+1096	$224806	181	 Galuf : In qualchì locu nant'à u>cuntinente di Grociana, vale à dì>in mezu à nunda. I mostri di i>cintorni sò piuttostu feroce… Chì>furtuna d'esse cascati quì !|
+1097	$224835	47	 Galuf : Ma…[FixedPause] Sò cuntentu di>vede vi torna.|
+1098	$22487C	71	 Galuf : State attenti ! V'aghju>dettu chì i mostri sò feroce !|
+1099	$2248A3	39	 Vulete tastà a nostra>spicialità ?|
+1100	$2248DD	58	 Ùn ci hè nunda di megliu per>rimette vi u curagiu !|
 1101	$22492E	81	 Il n’y a pas de danseuses dans un>trou pareil… Pourquoi ne pas>danser pour nous ?|
 1102	$224943	21	 Oh, c’est délicieux !|
 1103	$2249D7	148	 Avez-vous entendu parler de la>Gourde de Cornago ?>>>C’est un objet qui vous permet de>capturer des monstres plus>facilement. C’est drôlement utile !|
