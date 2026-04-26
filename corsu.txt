@@ -1898,106 +1898,106 @@
 1898	$23233E	149	 A putenza di issu frammentu>di cristallu… aghju infine>riesciutu à maestrisà la !>>Ùn vi la lasceraghju micca !>Andate vi ne !|
 1899	$23235A	28	 Tsk, tsk… Si leva u sipariu !|
 1900	$23236F	21	 >\52\52\52\52\52\52\52\52\52\52\52\52\52\52 Mimu|
-1901	$232391	34	 Cid : Ooh ! Je suis tout étourdi…|
-1902	$2324A5	276	 Mid : Papi ! Tu n’as rien ?>Cid : Je ne me sens pas bien… Mais>j’ai de bonnes nouvelles !>>Cid : Au cours de mes recherches,>j’ai découvert d’autres techniques>intéressantes… Nous pouvons>améliorer le vaisseau !>Désormais, il pourra se>transformer en sous-marin !>[Bartz] : Vraiment ?|
-1903	$2324D1	44	 Cid : Bien sûr ! Rien ne m’est>impossible !|
-1904	$23254C	123	 Mid : Ce sera bientôt prêt.>Krile : Ton grand-père ne s’arrête>jamais !>>Mid : …[FixedPause] Papi croit que la situation>est sa faute…|
-1905	$23260E	194	 Krile : Toutefois… Il n’aurait jamais>pu savoir ce qui allait se passer…>Mid : Je sais… Je crois qu’il le sait>aussi.>Mais c’est pour cette raison qu’il>veut utiliser ses inventions pour>vous aider.|
-1906	$23261E	16	 Cid : Terminé !|
-1907	$232677	89	 Cid : Une fois dans l’eau, appuyez>sur le bouton A puis Bas pour>submerger le vaisseau !|
-1908	$23271D	166	 Cid : [Bartz]…[FixedPause] Je ne peux pas>combattre… Tout ce que je sais>faire, c’est bricoler des machines.>>J’ai fait tout ce que j’ai pu pour>vous aider… A vous de voir le>reste !|
-1909	$23272B	14	 [Bartz] : Allons-y !|
-1910	$232773	72	 Lenna : Désormais, nous pouvons>explorer les profondeurs>sous-marines ?|
-1911	$2327C7	84	 Faris : C’est exact ! Nous pourrons>chercher la tablette située au fond>des océans…|
-1912	$2327F2	43	 Krile : Mid… Prends soin de ton>grand-père.|
-1913	$232813	33	 Mid : D’accord. Soyez prudents !|
-1914	$232876	99	 Les cristaux ont été détruits et les>ténèbres envahissent le monde…>C’est un véritable cauchemar !|
-1915	$23289C	38	 Le monde ne sera plus jamais le>même…|
-1916	$2328CD	49	 Le château a explosé ! J’ai du mal à>le croire !|
-1917	$232907	58	 Un château est apparu près de la>bibliothèque des anciens.|
-1918	$232942	59	 La machine du professeur a brisé>le cristal ? Incroyable !|
-1919	$232980	62	 La reine ne va pas bien… J’espère>qu’elle se remettra bientôt.|
-1920	$232999	25	 Le château est en ruine…|
-1921	$232A05	108	 Quand le château a explosé, le mur>qui nous empêchait d’atteindre la>bibliothèque des anciens a été>détruit.|
-1922	$232A5E	89	 On raconte que les chercheurs de>la bibliothèque des anciens ont>découvert quelque chose…|
-1923	$232AC7	105	 La reine s’est évanouie sur le>navire thermique… Elle se repose>maintenant au premier étage de>l’auberge.|
-1924	$232AE6	31	 Il fait de plus en plus froid…|
-1925	$232B71	139	 Nous n’avons pas besoin du cristal>pour forger des armes et des>pièces d’équipement de première>qualité…>Cependant, les prix ont augmenté !|
-1926	$232BA7	54	 Vous savez jouer du piano ?>Jouez-nous un air connu !|
-1927	$232BCC	37	 Croyez-vous que les nains>existent ?|
-1928	$232BE1	21	 Les nains existent !|
-1929	$232C8F	174	 Quand j’étais jeune, on m’a>raconté que les nains vivent sous>terre et qu’ils sont des forgerons>hors pair !>De plus, ils ont tous une barbe et ils>combattent avec des haches !|
-1930	$232CC5	54	 Le professeur semble avoir>retrouvé la bonne humeur !|
-1931	$232D53	142	 Nous avons trouvé des armes et>des pièces d’équipement dans la>grotte située au nord d’ici.>>Vous pouvez vous les procurer>dans nos magasins.|
-1932	$232D94	65	 Il y a 500 ans, nos ancêtres>possédaient une culture>développée…|
-1933	$232E1E	138	 Très loin à l’est d’ici est située l’\B8e>de Lunule… Vous en avez entendu>parler ?>>Elle a la forme d’un croissant !>Comme c’est approprié !|
-1934	$232E21	3	 38|
-1935	$232E60	63	 Mon père est un aventurier ! Il est>parti découvrir le monde !|
-1936	$232EB5	85	 Vous avez visité les chutes>d’Istorie ? Elles sont immenses !>J’aimerais tant y aller…|
-1937	$232F22	109	 Les ruines… Il est interdit d’y>pénétrer mais, vous savez, les>jeunes, aujourd’hui, ils n’écoutent>personne !|
-1938	$232F86	100	 Certains racontent qu’ils ont>entendu des bruits étranges>venant du sol de l’\B8e de Lunule…>Bizarre !|
-1939	$232FE5	95	 La taverne est toujours remplie>d’aventuriers qui cherchent des>trésors dans la grotte du nord.|
-1940	$23302F	74	 Les anciens ont parsemé la grotte>au nord d’ici de pièges… Faites>gaffe !|
-1941	$23309E	111	 Attendez patiemment près de la>rangée de boutons en forme de>crânes pour savoir sur lequel vous>devez appuyer.|
-1942	$23315F	193	 Des aventuriers ont déjà récupéré>la plupart des trésors de la>grotte…>>Vous pouvez tout de même aller y>jeter un coup d’œil, si ça vous dit.>Les anciens ont peut-être installé>un dispositif qui…|
-1943	$2331AD	78	 Au fond de la grotte, vous pourrez>atteindre la surface en escaladant>le mur…|
-1944	$2331D3	38	 Un château étrange vient>d’apparaître…|
-1945	$23320C	57	 Hum ! Les jeunes d’aujourd’hui et>leur soif d’aventure !|
-1946	$23327F	115	 Bienvenue à Jacole. Les habitants>de notre village sont les>descendants des ronkiens…>N’est-ce pas extraordinaire ?|
-1947	$2332BE	63	 Un château est apparu au nord>d’ici ! Qu’est-ce qui se passe ?|
-1948	$233329	107	 Mon grand-père était un>aventurier. Il disait qu’il y avait>quelque chose de dissimulé sous>l’\B8e de Lunule.|
-1949	$233368	63	 Les petites \B8es méridionales>forment une longue cha\BBe étroite.|
-1950	$233383	27	 Allons, viens près de moi !|
-1951	$23339B	24	 Joignez-vous à nous ![FixedPause][AutoClose]|
-1952	$2333D6	59	 Et toi aussi, derrière l’écran !>Dansons tous ensemble ![FixedPause][AutoClose]|
-1953	$2333EB	21	 Encore une fois ![P2][AutoClose]|
-1954	$2334A6	187	 Il y a beaucoup de tremblements>de terre sur notre \B8e… Et à chaque>fois, un tourbillon…>>Hein ? Ne me dites pas que votre>navire a été englouti par les flots !>Ho, ho, ho ! Quelle guigne !|
-1955	$2334FC	86	 Un village fantôme dans la forêt ?>Mais où allez-vous chercher des>histoires pareilles ?|
-1956	$233544	72	 On disait autrefois que les>monstres de pierre détestent les>défigeurs…|
-1957	$2335C3	127	 J’ai essayé d’attraper un chocobo>noir dans la forêt, mais il courait>trop vite… On devrait organiser>des courses de chocobos !|
-1958	$233628	101	 Certains disent qu’un village est>apparu dans la forêt, comme un>mirage. Je me demande si c’est>vrai…|
-1959	$233695	109	 Parfois, on peut entendre des>bruits étranges, comme s’il y avait>quelque chose sous le sol…>C’est terrible !|
-1960	$2336D0	59	 C’est quoi, cette tour bizarre ? Elle>n’était pas là avant…|
-1961	$2336DB	11	 A l’aide !|
-1962	$2336E7	12	 J’ai peur !|
-1963	$233795	174	 Les ruines de Ronka sont situées>sur le continent ouest.>>>Ce que je n’arrive pas à>comprendre, c’est que les objets>trouvés lors des fouilles sont les>mêmes que ceux d’ici !|
-1964	$2337D6	65	 Allez, papi ! Raconte-nous encore>tes histoires à dormir debout !|
-1965	$23381D	71	 Allez, papi ! Ces voyageurs veulent>entendre ton histoire de chocobos !|
-1966	$2338BB	158	 Autrefois, les chocobos noirs>vivaient et se reproduisaient dans>les forêts. Ils ne pouvaient se>poser que parmi les arbres.>Malheureusement, ils ont disparu…|
-1967	$233922	103	 Cette \B8e semble être bénie !>Les récoltes sont toujours>abondantes, même s’il ne pleut>presque jamais !|
-1968	$2339E0	190	 Dans notre village, il y a un poème>étrange qui a été transmis de>génération en génération…>>« A droite est la tour où règne la>force… La magie n’est d’aucun>secours et le combat se corse ! »|
-1969	$233A21	65	 Une autre récolte abondante !>Le sol de notre \B8e est si fertile !|
-1970	$233A4F	46	 Rien ne pousse sans le cristal…>Rien du tout.|
-1971	$233AA5	86	 Regardez-moi cette source ! Il ne>pleut jamais ici, mais elle>bouillonne nuit et jour !|
-1972	$233B4C	167	 J’ai découvert un vieux poème>dans le journal du barde du>village :>>« A gauche est la tour où règne la>magie… La force n’est d’aucun>secours, changez de stratégie ! »|
-1973	$233BA8	92	 Mid : Vous voilà ! Une tour est >apparue au-dessus du hangar !>Papi est coincé sous le sol !|
-1974	$233BCF	39	 Est-ce vrai qu’Exdeath s’est>échappé ?|
-1975	$233C13	68	 Le monde va être englouti par les>ténèbres… C’est la fin du monde !|
-1976	$233C36	35	 Les monstres ont cerné le village !|
-1977	$233C79	67	 Si j’étais vous, je ne>m’approcherais pas du château au>sud d’ici…|
-1978	$233CA9	48	 Bienvenue à Rugole, le petit village>frontalier !|
-1979	$233D27	126	 On dit qu’Exdeath s’est échappé,>mais nous n’avons pas à nous>inquiéter. Il n’attaquerait pas un>village perdu comme le nôtre.|
-1980	$233D70	73	 La jeune fille qui est entre>l’arsenal et l’armurier cherchait>son ruban…|
-1981	$233E04	148	 Kuza, le château des sceaux, est>situé au sud d’ici.>>>Les armes utilisées dans la guerre>qui a eu lieu il y a 1000 ans ont été>scellées à l’intérieur.|
-1982	$233E34	48	 N’oubliez pas d’essayer la>spécialité du village !|
-1983	$233E6C	56	 Oh ! Ça fait des années qu’on n’a>pas eu de visiteurs !|
-1984	$233EF4	136	 La ville à l’est d’ici a été engloutie>par les ténèbres… Serons-nous les>prochaines victimes ? J’ai si peur,>je n’arrive plus à dormir !|
-1985	$233F2B	55	 Menteur ! Il dit qu’il a vu un mog !>C’est un menteur !|
-1986	$233F69	62	 J’ai vu un mog ! J’ai vu un mog !>C’est vrai ! Vrai de vrai !|
-1987	$233F7B	18	 Mouton : Bêêêêê !|
-1988	$233FB9	62	 Personne ne peut pénétrer dans la>forêt située à l’est d’ici.|
-1989	$233FD5	28	 La forêt de Mua a disparu !|
-1990	$23403F	106	 Les arbres de la forêt sont>sensibles. Ils comprennent ce qu’on>dit et peuvent même lire dans nos>pensées.|
-1991	$234061	34	 La forêt n’est plus qu’un désert…|
-1992	$2340C1	96	 La légende raconte que quelque>chose de magnifique a été>dissimulé dans la forêt à l’est d’ici.|
-1993	$234120	95	 Un rayon de lumière menaçant est>parti de la forêt et s’est dirigé>vers le château d’Exdeath !|
-1994	$234181	97	 Quelqu’un a ouvert la porte de la>remise. On dit qu’elle est hantée !>J’en ai la chair de poule !|
-1995	$2341A4	35	 Ce désert est soudainement>apparu…|
-1996	$2341CC	40	 La convoitise ne mène à rien qui>vaille…|
-1997	$23420D	65	 Alors les cristaux avaient été>dissimulés dans la forêt de Mua ?|
-1998	$234238	43	 La grande forêt de Mua protège>les sceaux.|
-1999	$23427E	70	 Exdeath est de retour après 30 ans>de calme… Le cauchemar>recommence.|
-2000	$2342BB	61	 Des dryades se dissimulent le long>des sentiers de la forêt.|
+1901	$232391	34	 Cid : Ooh ! Mi gira a>testa…|
+1902	$2324A5	276	 Mid : Babbone ! State bè ?>Cid : Ùn mi sentu tantu bè… Ma>aghju una bona nutizia !>>Cid : In i mo ricerchi, aghju scupertu>altre tecniche interessanti…>Pudemu migliurà u vascellu !>Avà, si puderà trasfurmà in>suttumarinu !>[Bartz] : Veramente ?|
+1903	$2324D1	44	 Cid : Ben intesu ! Nunda mi>hè impussibule !|
+1904	$23254C	123	 Mid : Hè guasgi prontu.>Krile : U vostru babbone ùn>s'arresta mai !>>Mid : …[FixedPause] U babbone crede chì tuttu>què sia colpa soia…|
+1905	$23260E	194	 Krile : Eppuru… ùn pudia>micca sapè ciò chì saria>accadutu…>Mid : Iè. Credu ch'ellu a sappi>aissà dinù.>Ma ghjè propiu per quessa ch'ellu>vole mette e so invenzioni à>u serviziu di a pace.|
+1906	$23261E	16	 Cid : Hè fatta !|
+1907	$232677	89	 Cid : Una volta in acqua, appughjate>nantu à u buttone A è sceglite>Bas per immerge u vascellu !|
+1908	$23271D	166	 Cid : [Bartz]…[FixedPause] Eiu ùn possu>cumbatte… Tuttu ciò ch'eiu sò>capace di fà hè travaglià nantu à e>macchine.>>Aghju fattu tuttu ciò ch'eiu pudia>per aiutà vi… Avà tocca à voi>per u restu !|
+1909	$23272B	14	 [Bartz] : Andemu !|
+1910	$232773	72	 Lenna : Cusì, avà pudemu>esplorà e prufundezze>marine ?|
+1911	$2327C7	84	 Faris : Iè ! Puderemu andà à circà>a tavuletta chì riposa à u fondu>di l'oceanu…|
+1912	$2327F2	43	 Krile : Mid… Pigliate vi cura>di u vostru babbone.|
+1913	$232813	33	 Mid : D'accordu. State attenti !|
+1914	$232876	99	 I cristalli sò stati distrutti è e>tenebre invadenu u mondu…>Hè un veru incubu !|
+1915	$23289C	38	 U mondu ùn serà più mai listessu…|
+1916	$2328CD	49	 U castellu hè esplosu ! Facciu>fatica à crede ci !|
+1917	$232907	58	 Un castellu hè apparsu vicinu à>a Biblioteca di l'Antichi.|
+1918	$232942	59	 A macchina di u prufessore hà>spezzatu u cristallu ? Incredibile !|
+1919	$232980	62	 A regina ùn si sente micca bè…>Spergu ch'ella si rimetta prestu.|
+1920	$232999	25	 U castellu hè in ruvina…|
+1921	$232A05	108	 Quandu u castellu hè esplosu, u>muru chì ci bluccava u passaghju>versu a Biblioteca di l'Antichi hè>statu distruttu.|
+1922	$232A5E	89	 Si dice chì i sapienti di a>Biblioteca di l'Antichi anu scupertu>qualcosa…|
+1923	$232AC7	105	 A regina hè stata ritruvata>svinuta nantu à u vascellu termicu…>Si riposa avà à u primu pianu di>a locanda.|
+1924	$232AE6	31	 Face sempre più fretu…|
+1925	$232B71	139	 Avà chì ùn si pò più aduprà a>putenza di u cristallu per forghjà>arme è pezzi d'armatura,>i buttegai anu avutu à alzà>i prezzi.|
+1926	$232BA7	54	 Sapete sunà u pianuforte ?>Sunate ci qualcosa di cunnisciutu !|
+1927	$232BCC	37	 Cridite chì i nani>esistinu ?|
+1928	$232BE1	21	 I nani esistinu di sicuru !|
+1929	$232C8F	174	 Quand'eiu era chjucu, mi si>dicìa chì i nani campanu sottu>terra è ch'elli sò fabbri>straordinarii !>È po anu tutti una barba è>cumbattenu cù l'asce !|
+1930	$232CC5	54	 Pare chì u prufessore abbia>ritrovu u so bon umore !|
+1931	$232D53	142	 Avemu trovu arme è pezzi>d'armatura in a grotta à u>nordu d'quì.>>I pudete cumprà in e nostre>butteghe.|
+1932	$232D94	65	 Cinquecentu anni fà, i nostri>antenati pussidianu una>civilizazione sviluppata…|
+1933	$232E1E	138	 Assai luntanu à livante d'quì si>trova l'isula di Lunule… L'avete>digià intesa mintuvà ?>>Hà a forma d'un crescente !>U so nome li stà propiu bè !|
+1934	$232E21	3	 A grotta di u nordu ?>Hè un restu>d'un paese chjamatu u regnu di>Lonka, distruttu cinquecentu anni fà.|
+1935	$232E60	63	 U mo babbu hè un avventurieru !>Hè partutu à scopre u mondu !|
+1936	$232EB5	85	 Avete visitatu e cascate>d'Istory ? Sò tamante !>Mi piacerebbe tantu d'andà ci…|
+1937	$232F22	109	 E ruvine… Hè pruibitu d'entrà ci,>ma sapete, i ghjovani d'oghje ùn>stanu à sente à nimu !|
+1938	$232F86	100	 Certi dicenu d'avè intesu>rumori strani chì venianu da>sottu à l'isula di Lunule…>Chì misteru !|
+1939	$232FE5	95	 A taverna hè sempre piena>d'avventurieri chì cercanu tesori>in a grotta di u nordu.|
+1940	$23302F	74	 L'Antichi anu sparsu a grotta>à u nordu d'quì di trappule è>di meccanismi strani… Fate>attenzione !|
+1941	$23309E	111	 Aspettate pazientemente vicinu à>a fila di buttoni à forma di>craniu per capì nant'à>quale duvete appughjà.|
+1942	$23315F	193	 A maiò parte di i tesori di a>grotta sò digià stati pigliati.>>Pudete sempre andà ci à>fighjà, ma ùn pensu micca ch'ella>vi firmi qualcosa di preziosu… fora,>forse, di e trappule antiche…|
+1943	$2331AD	78	 In fondu à a grotta, puderete>ghjunghje à a superficia>arrampichendu vi annantu à u>muru…|
+1944	$2331D3	38	 Un castellu stranu hà appena>apparsu…|
+1945	$23320C	57	 Eh bè ! I ghjovani d'oghje è a>so sete d'avventura !|
+1946	$23327F	115	 Benvenuti à Jacole. L'abitanti>di u nostru paese discendenu>da i Ronchiani…>Ùn hè maravigliosu ?|
+1947	$2332BE	63	 Un castellu hè apparsu à u>nordu d'quì ! Chì sarà mai ?|
+1948	$233329	107	 U mo babbone era un>avventurieru. Dicia ch'ellu ci era>qualcosa di piattu sottu à>l'isula di Lunule.|
+1949	$233368	63	 E piccule isule miridiunali>formanu una longa striscia di>terra stretta.|
+1950	$233383	27	 Aiò, venite à ballà cun>noi !|
+1951	$23339B	24	 Unite vi à noi ![FixedPause][AutoClose]|
+1952	$2333D6	59	 È tù dinù, daretu à u screnu !>Ballimu tutti inseme ![FixedPause][AutoClose]|
+1953	$2333EB	21	 Ancora una volta ![P2][AutoClose]|
+1954	$2334A6	187	 Ci sò assai trimuleghji di>terra nantu à a nostra isula… È ogni>volta, apparisce un vortice…>>Cumu ? Ùn mi dite micca chì a>vostra nave hè stata inghjuttita da>i flutti ! Ho, ho, ho ! Chì mala furtuna !|
+1955	$2334FC	86	 Un paese fantasma in a furesta ?>Ma induve andate à pescà ste>storie ?|
+1956	$233544	72	 Un tempu si dicia chì i>mostri di petra detestanu i>Défigeurs…|
+1957	$2335C3	127	 Aghju pruvatu à acchiappà un>chocobo neru in a furesta, ma>curria troppu prestu… Ci>vuleria à urganizà corse di chocobo !|
+1958	$233628	101	 Certi dicenu chì un paese hè>apparsu in a furesta, cum'è un>miraghju. Mi dumandu s'ella>hè vera…|
+1959	$233695	109	 Calchì volta, si ponu intende>rumori strani, cum'è s'ellu ci>fussi qualcosa sottu à a terra…>Hè spaventosu !|
+1960	$2336D0	59	 Chì ghjè issa torre strana ? ùn>c'era micca nanzu…|
+1961	$2336DB	11	 à l'aiutu !|
+1962	$2336E7	12	 Aghju paura !|
+1963	$233795	174	 E ruvine di Ronka si trovanu annantu>à u cuntinente di punente.>>>Ciò ch'eiu ùn capiscu micca, hè chì>l'ogetti scavati culà sò listessi>ch'è quelli chì si trovanu quì !|
+1964	$2337D6	65	 Aiò, babbone ! Cuntate ci torna>e vostre storie di ruvine !|
+1965	$23381D	71	 Aiò, babbone ! Sti viaghjatori>vulerianu intende a vostra>storia di chocobos !|
+1966	$2338BB	158	 Anticamente, i chocobos neri>campavanu è si ripruducevanu>in e fureste. Pudianu>ripusà si solu trà l'arburi.>Sfurtunatamente, sò spariti…|
+1967	$233922	103	 Iss'isula pare benedetta !>E racolte sò sempre abbundante,>ancu s'ellu ùn piove quasi>mai !|
+1968	$2339E0	190	 In u nostru paese, ci hè un puema>stranu trasmessu di generazione>in generazione…>>\ABA diritta hè a torre di a forza.>A magia ùn serve à nunda…"|
+1969	$233A21	65	 Un'altra bella racolta !>A terra di a nostra isula hè>cusì fertile !|
+1970	$233A4F	46	 Senza u cristallu, ùn cresce>più nunda… nunda di nunda.|
+1971	$233AA5	86	 Fighjate sta surgente ! ùn>piove guasi mai quì, è puru>l'acqua ne sorte notte è ghjornu !|
+1972	$233B4C	167	 Aghju trovu un vechju puema in u>ghjurnale di u bardu di u paese :>>\ABA manca hè a torre di a magia.>A forza ùn serve à nunda…"|
+1973	$233BA8	92	 Mid : Eccu vi ! Una torre hè>apparsa sopra à a Catapulta !>U babbone hè firmatu bluccatu>sottu à a terra !|
+1974	$233BCF	39	 Hè vera ch'Exdeath s'hè>scappatu ?|
+1975	$233C13	68	 U mondu serà inghjuttitu da e>tenebre… Hè a fine di u mondu !|
+1976	$233C36	35	 I mostri anu circundatu u paese !|
+1977	$233C79	67	 S'eiu fussi in voi, ùn>m'avvicinaria micca troppu di u>castellu à u sudu d'quì…|
+1978	$233CA9	48	 Benvenuti à Rugole, u chjucu>paese di cunfini !|
+1979	$233D27	126	 Si dice chì Exdeath s'hè>scappatu, ma ùn avemu micca>à inchietà ci. Ùn attaccaria mica>un paese persu cum'è u nostru.|
+1980	$233D70	73	 A zitella trà l'arsenale è l'armaru>circava u so nastru…|
+1981	$233E04	148	 Kuza, u castellu di i sigilli, si>trova à u sudu d'quì.>>>L'arme aduprate in a guerra d'un>mille anni fà sò state>sigillate dentru.|
+1982	$233E34	48	 Ùn vi scurdate di pruvà a>spicialità di u paese !|
+1983	$233E6C	56	 Oh ! Sò anni ch'ùn avemu micca>avutu visitatori !|
+1984	$233EF4	136	 A cità à livante d'quì hè stata>inghjuttita da e tenebre… Saremu e>prossime vittime ? Aghju>tanta paura ch'ùn riescu più>à dorme !|
+1985	$233F2B	55	 Bugiardu ! Dice d'avè vistu un>mog ! Hè un bugiardu !|
+1986	$233F69	62	 Aghju vistu un mog ! Ne aghju>vistu unu ! Hè vera, vera vera !|
+1987	$233F7B	18	 Muntone : Bèèèèè !|
+1988	$233FB9	62	 Nimu pò entre in a furesta>situata à livante d'quì.|
+1989	$233FD5	28	 A furesta di Mua hè sparita !|
+1990	$23403F	106	 L'arburi di a furesta sò vivi.>Capiscenu ciò ch'omu dice è>ponu ancu sente i nostri>penseri.|
+1991	$234061	34	 A furesta ùn hè più cà un>desertu…|
+1992	$2340C1	96	 A legenda conta chì qualcosa di>magnificu hè statu piattu>in a furesta à livante>d'quì.|
+1993	$234120	95	 Un raghju di luce minacciosu>hè partutu da a furesta è si hè>direttu versu u castellu>d'Exdeath !|
+1994	$234181	97	 Qualchissia hà apertu a porta di>a rimessa. Si dice ch'ella>sia stregata ! Mi ne vene a>pelle d'oca !|
+1995	$2341A4	35	 Issu desertu hè apparsu di>colpu…|
+1996	$2341CC	40	 A cupidigia ùn porta mai>nunda di bonu…|
+1997	$23420D	65	 Cusì i cristalli eranu piatti>in a furesta di Mua ?|
+1998	$234238	43	 A grande furesta di Mua>prutege i sigilli.|
+1999	$23427E	70	 Exdeath hè di ritornu dopu>trenta anni di calma… L'incubu>ricumencia.|
+2000	$2342BB	61	 E driade si piattanu longu à>i sentieri di a furesta.|
 2001	$234329	110	 L’autre jour, je suis allé dans le>désert et j’ai aperçu un édifice>étrange… Qu’est-ce que ça peut>bien être ?|
 2002	$234392	105	 La légende dit qu’au fond de la>forêt de Mua, on retrouve l’arbre>gardien, celui qui protège les>sceaux.|
 2003	$2343BF	45	 Ghido est sain et sauf ? Le ciel soit>loué !|
