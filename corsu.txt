@@ -798,106 +798,106 @@
 798	$21F115	10	 Kwoaaaa !|
 799	$21F1A4	143	 [Bartz] : Un chocobo neru !>Lenna : Oh ! Cridia ch'elli>fussinu spariti !>>[Bartz] : Pare di nò ! I>chocobos neri ponu vulà, nò ? Aiò !|
 800	$21F246	162	 Chocobo neru : Kwoaaaa !>Galuf : Ùn hè riesciutu à>vulà… Sì forse troppu>pesante.>Faris : Oh, pare ch'ellu abbia qualcosa>piantata in a so gola…|
-801	$21F271	43	 Chocobo noir : Kwoa… … Gargl…>Keuf, keuf !|
-802	$21F2C6	85	 Lenna : Des fragments de cristal ?>Faris : L’explosion de Karnak a dû>les éparpiller…|
-803	$21F307	65	 [Bartz] : Il ne pouvait plus voler>parce qu’il a essayé de les avaler !|
-804	$21F333	44	 >\52\52\52\52\52\52\52\52\52\52\52\52\52 Barde>>>>\52\52\52\52\52\52\52\52\52\52\52\52\52Rôdeur|
-805	$21F383	80	 [Bartz] : Beurk, ils sont gluants !>Galuf : Vous croyez qu’il pourra>voler cette fois ?|
-806	$21F3A0	29	 [Bartz] : Je n’y arriverai jamais…|
-807	$21F3BC	28	 Galuf : Ce n’est pas grave.|
-808	$21F3CF	19	 Lenna : Vas-y, [Bartz] !|
-809	$21F3EC	29	 Galuf : Tu abandonnes déjà ?|
-810	$21F3FF	19	 [Bartz] : Pas question !|
-811	$21F437	56	 Mid et Cid sont retournés à la>bibliothèque des anciens.|
-812	$21F48D	86	 Vous dites que le navire thermique>fonctionne toujours ?>Le professeur est un génie !|
-813	$21F50C	127	 Un homme bizarre s’est fait>chasser de l’auberge pour avoir>refusé de payer. Il a dit qu’un roi>ne transporte jamais d’argent…|
-814	$21F551	69	 J’ai vu le roi de Tycoon ! Il parlait>du désert des sables mouvants…|
-815	$21F5AA	89	 Le roi de Tycoon, ici ! Qui l’eût cru !>Il a posé tout plein de questions à>votre sujet…|
-816	$21F61C	114	 Cid : Vous voilà enfin !>[Bartz] : Cid, nous avons trouvé>l’\B8e en forme de croissant…>Mais le navire thermique a coulé !|
-817	$21F6A7	139	 Cid : Oh ?>Mid : Peu importe ! Nous en>construirons un autre !>>Cid : J’ai des nouvelles>importantes ! Nous avons trouvé le>roi de Tycoon !|
-818	$21F88B	484	 Lenna : Comment ?>Cid : On l’a aperçu à Karnak.>Il se dirigeait vers le désert des>sables mouvants…>Faris : Des sables mouvants ?>>>>Mid : C’est le désert situé à l’ouest>d’ici… Le sable de ce désert>engloutit quiconque ose s’y>aventurer…>Cid : Il est impossible de traverser>le désert. La légende raconte que>les ruines de la ville de Gohn sont>situées au-delà du désert, mais…>[Bartz] : Si personne ne peut>traverser le désert, comment le>roi a-t-il pu le faire ?>Cid : Excellente question.|
-819	$21F8C6	59	 Mid : Des témoins prétendent qu’il>lévitait…>[Bartz] : Lévitait ?|
-820	$21F90A	68	 Lenna : Père…>Faris : Allons. Nous n’avons pas une>seconde à perdre.|
-821	$21FA11	263	 Galuf : Nous ne savons toujours>pas comment traverser le désert !>>>Faris : Nous pourrons discuter une>fois rendus là-bas ! Ne me dis pas>qu’un peu de sable t’effraie,>l’ancêtre…>Galuf : Pfft ! A ton âge, j’avais>déjà traversé au moins trois>déserts ! Viens, [Bartz] !|
-822	$21FA1F	14	 [Bartz] : Allons-y !|
-823	$21FA50	49	 Cid : Comment pouvons-nous>traverser le désert ?|
-824	$21FAC6	118	 Mid : Les ruines de la ville de Gohn>sont de l’autre côté du désert.>C’est tout ce qui reste d’une>civilisation oubliée.|
-825	$21FB2C	102	 Le désert des sables mouvants…>Le sable s’enfonce trop>rapidement.>Il est impossible de le traverser.|
-826	$21FB79	77	 Cet oiseau noir… Non ! Un chocobo>noir ? Je croyais qu’ils étaient>disparus !|
-827	$21FBB5	60	 C’est la vérité ! Le roi de Tycoon>est allé dans le désert !|
-828	$21FBE9	52	 Je me demande si c’était vraiment>le roi de Tycoon…|
-829	$21FC51	104	 La légende raconte que quelque>chose d’extraordinaire est>dissimulé dans le désert des sables>mouvants…|
-830	$21FC7B	42	 Galuf : Hum…[FixedPause] Nous n’avons aucune>chance…|
-831	$21FCB4	57	 Cid : Attendez !>Mid : Il est trop tôt pour>abandonner !|
-832	$21FD10	92	 Cid : Nous construirons un pont !>Mid : C’est risqué, mais vous aimez>les défis, pas vrai ?|
-833	$21FD9C	140	 Cid : Alors, voici notre plan :>premièrement, nous appelons le>Ver des sables…>Mid : Ensuite, vous le combattez…>Cid : Et voilà votre pont !|
-834	$21FE24	136	 Galuf : Ce n’est pas le plan le plus>complexe qui soit…>>>Cid : Pourquoi trouver une solution>complexe quand la simplicité est de>mise ?|
-835	$21FE68	68	 Cid : Faites les préparatifs>nécessaires. Nous débuterons sous>peu.|
-836	$21FEAA	66	 Cid : Je vais appeler le Ver des>sables !>Mid : Vous êtes prêts ?|
-837	$21FF22	120	 Mid : J’oubliais ! Si vous lancez un>sort sur le Ver des sables, vous le>regretterez ! Bon courage !>Cid : C’est parti !|
-838	$21FF64	66	 Mid : Bravo !>Cid : Vous pourrez maintenant>traverser le désert !|
-839	$21FFA6	66	 [Bartz] : Prenez soin du chocobo>noir pendant notre absence,>d’accord ?|
-840	$21FFBB	21	 Cid : Bonne chance !|
-841	$220000	69	 Mid : Soyez prudents !||| !||ts !|nts !||!|!|!||!|ts !| !| !|d ?| !|u
-842	$220036	54	 [Bartz] : Ce doivent être les ruines>dont Cid nous a parlé…|
-843	$22006C	54	 [Bartz] : Ce doivent être les ruines>dont Cid nous a parlé…|
-844	$220098	44	 Lenna : C’était…>Faris : Le roi de Tycoon ?|
-845	$2200BB	35	 Lenna : Père !>Faris : … P… [FixedPause]Papa…|
-846	$2200DE	35	 Lenna : Père !>Faris : … P… [FixedPause]Papa…|
-847	$220178	154	 Lenna : Faris !>Faris : …>Lenna : Je le savais bien ! Tu es ma>sœur a\BBée !>Faris : Désolée… Je n’en étais pas>certaine… J’aurais dû t’en parler>plus tôt…|
+801	$21F271	43	 Chocobo neru : Kwoa… … Gargl…>Keuf, keuf !|
+802	$21F2C6	85	 Lenna : Frammenti di cristallu ?>Faris : L'esplosione di Karnak hà>duvutu sparghje li…|
+803	$21F307	65	 [Bartz] : Ùn pudia più vulà>perchè hà pruvatu à inghjutti li !|
+804	$21F333	44	 >\52\52\52\52\52\52\52\52\52\52\52\52\52 Bardu>>>>\52\52\52\52\52\52\52\52\52\52\52\52\52 Cacciatore|
+805	$21F383	80	 [Bartz] : Beurk, sò viscosi !>Galuf : Cridite ch'ellu puderà>vulà, sta volta ?|
+806	$21F3A0	29	 [Bartz] : Ùn ci feraghju mai…|
+807	$21F3BC	28	 Galuf : Ùn face nunda.|
+808	$21F3CF	19	 Lenna : Aiò, [Bartz] !|
+809	$21F3EC	29	 Galuf : Rinunci digià ?|
+810	$21F3FF	19	 [Bartz] : Manca appena !|
+811	$21F437	56	 Mid è Cid sò vultati à a>biblioteca di l'antichi.|
+812	$21F48D	86	 Dite chì u vascellu termicu>funziona sempre ?>U prufessore hè un geniu !|
+813	$21F50C	127	 Un omu stranu s'hè fattu>caccià da l'usanda per ùn avè>pagatu. Hà dettu chì un rè>ùn porta mai soldi…|
+814	$21F551	69	 Aghju vistu u rè di Tycoon ! Parlava>di u desertu di e sabbie mobili…|
+815	$21F5AA	89	 U rè di Tycoon, quì ! Quale>l'averia credutu ! Hà fattu una mansa>di dumande nant'à voi…|
+816	$21F61C	114	 Cid : Vi eccu infine !>[Bartz] : Cid, avemu trovu>l'isula in forma di luna crescente…>Ma u vascellu termicu hè colatu !|
+817	$21F6A7	139	 Cid : Oh ?>Mid : Ùn face nunda ! Ne>custruiremu un altru !>>Cid : Aghju nutizie>impurtante ! Avemu trovu u>rè di Tycoon !|
+818	$21F88B	484	 Lenna : Cumu ?>Cid : Hè statu vistu à Karnak.>S'avviava versu u desertu di e>sabbie mobili…>Faris : Sabbie mobili ?>>>>Mid : Hè u desertu situatu à punente>d'quì… A sabbia di stu desertu>ingolle chiunque osi avventurà ci…>Cid : Hè impussibule di francà>u desertu. A legenda conta chì>e ruvine di a cità di Gohn sò>situate aldilà di u desertu, ma…>[Bartz] : S'è nimu ùn pò>attraversà u desertu, cumu u>rè hà pussutu fà ?>Cid : Bella dumanda.|
+819	$21F8C6	59	 Mid : Tistimoni pretendenu ch'ellu>levitava…>[Bartz] : Levitava ?|
+820	$21F90A	68	 Lenna : Babbu…>Faris : Andemu. Ùn avemu mancu>una siconda da perde.|
+821	$21FA11	263	 Galuf : Ùn sapemu sempre>micca cumu attraversà u desertu !>>>Faris : Ne puderemu discorre una>volta ghjunti culà ! Ùn mi dì mica>ch'un pocu di rena ti face paura,>o anticu…>Galuf : Pfft ! À a to età, avia>digià francatu almenu trè>deserti ! Vieni, [Bartz] !|
+822	$21FA1F	14	 [Bartz] : Andemu ci !|
+823	$21FA50	49	 Cid : Cumu pudemu>attraversà u desertu ?|
+824	$21FAC6	118	 Mid : E ruvine di a cità di Gohn>sò da l'altra parte di u desertu.>Hè tuttu ciò chì ferma d'una>civilizazione scurdata.|
+825	$21FB2C	102	 U desertu di e sabbie mobili…>A sabbia s'affonda troppu>prestu.>Hè impussibule di francà lu.|
+826	$21FB79	77	 St'acellu neru… Innò ! Un chocobo>neru ? Cridia ch'elli fussinu>spariti !|
+827	$21FBB5	60	 Hè vera ! U rè di Tycoon>hè andatu in u desertu !|
+828	$21FBE9	52	 Mi dumandu s'ellu era veramente>u rè di Tycoon…|
+829	$21FC51	104	 A legenda conta chì qualcosa>di straordinariu hè piattu in u>desertu di e sabbie mobili…|
+830	$21FC7B	42	 Galuf : Hum…[FixedPause] Ùn avemu nisuna>pussibilità…|
+831	$21FCB4	57	 Cid : Aspettate !>Mid : Hè troppu prestu per>rinuncià !|
+832	$21FD10	92	 Cid : Custruiremu un ponte !>Mid : Hè risicatu, ma v'amanu>e sfide, nò ?|
+833	$21FD9C	140	 Cid : Dunque, eccu u nostru pianu :>prima, chjamemu u>Verme di rena…>Mid : Dopu, voi u cumbattite…>Cid : È eccu u vostru ponte !|
+834	$21FE24	136	 Galuf : Ùn hè micca u pianu u più>cumplicatu chì ci sia…>>>Cid : Perchè truvà una suluzione>cumplicata quandu a simplicità hè>a megliu ?|
+835	$21FE68	68	 Cid : Fate i priparativi>necessarii. Cuminciemu subitu dopu.|
+836	$21FEAA	66	 Cid : Vò à chjamà u Verme di>rena !>Mid : Site pronti ?|
+837	$21FF22	120	 Mid : Mi ne scurdava ! S'è vo>lanciate un sortilegiu nant'à u>Verme di rena, ve ne>penterete ! Bona furtuna !>Cid : Partimu !|
+838	$21FF64	66	 Mid : Bravi !>Cid : Puderete avà>attraversà u desertu !|
+839	$21FFA6	66	 [Bartz] : Pigliate cura di u chocobo>neru durante a nostra assenza,>d'accordu ?|
+840	$21FFBB	21	 Cid : Bona furtuna !|
+841	$220000	69	 Mid : Fate attenzione !|
+842	$220036	54	 [Bartz] : Devenu esse e ruvine>di cui Cid ci hà parlatu…|
+843	$22006C	54	 [Bartz] : Devenu esse e ruvine>di cui Cid ci hà parlatu…|
+844	$220098	44	 Lenna : Era…>Faris : U rè di Tycoon ?|
+845	$2200BB	35	 Lenna : Babbu !>Faris : … B… [FixedPause]Babbu…|
+846	$2200DE	35	 Lenna : Babbu !>Faris : … B… [FixedPause]Babbu…|
+847	$220178	154	 Lenna : Faris !>Faris : …>Lenna : A sapia bè ! Sì a mo>surella maiò !>Faris : Scusami… Ùn n'eru micca>sicura… Avaria duvutu parlà ti ne>più prestu…|
 848	$220197	31	 Lenna : Faris !>Faris : Lenna…|
-849	$22024A	179	 [Bartz] : Ooh… Où sommes-nous ?>Lenna : Quel endroit étrange…>Faris : Dites, où est passé>l’ancêtre ?>[Bartz] : Hein ? Il n’est pas avec>nous ?>Lenna : Nous avons dû être>séparés en tombant…|
-850	$2202B6	108	 [Bartz] : Bof, je suis sûr qu’il n’a>rien ! C’est un\52dur à cuire. Il nous>rejoindra sans doute plus tard.>Allons-y.|
-851	$22031A	100	 Galuf : Un instant ! Tu pensais>pouvoir te débarrasser de moi>aussi facilement ?>\52>[Bartz] : Euh… Désolé !|
-852	$220334	26	 [Bartz] : Qu’est-ce que c’est ?|
-853	$220344	16	 [Bartz] : Attention !|
-854	$220356	18	 Pendant ce temps…|
-855	$2203C3	109	 Cid : Il a l’air heureux d’être rentré>chez lui !>Mid : [Bartz] sera fier de nous.>Nous en avons pris grand soin !|
-856	$220467	164	 [Bartz] : Ouf… Ces trucs sont>dangereux.>>>Galuf : C’était un téléporteur…>Faris : Il a probablement été>surchargé parce qu’il n’avait pas>été utilisé depuis si longtemps…|
-857	$220481	26	 [Bartz] : C’est trop dangereux…|
-858	$2204B6	53	 Il y a un bouton sur le mur.>Appuyer sur le bouton ?|
-859	$2204EB	53	 Il y a un bouton sur le mur.>Appuyer sur le bouton ?|
-860	$22056A	127	 [Bartz] : Pfft ! [FixedPause]Rien à faire.[FixedPause]>… hum ?>Quelque chose est gravé sur le>mur.>>« Examinez les pots de fleurs dans>la salle du milieu… »|
-861	$2205BC	82	 Vous trouvez un bout de papier.>>>>>\52\52\52\52« … calepin dans la salle de>\52\52\52\52droite… »|
-862	$2205E2	38	 >  « Ha, ha, ha ! Vous m’avez cru ! »|
-863	$220653	113	 [Bartz] : Grr ! Espèce de…>Lenna : Du calme, [Bartz]…>Faris : Oui… Regarde !>Il y a un autre message…>>« Examinez l’urne… ».|
-864	$22068F	60	 >  « Huit vers le bas, quatre vers la>  droite et tirez ! »|
-865	$2206CA	59	 >\52 « Six vers le bas, quatre vers la>\52 droite et tirez ! »|
-866	$22072C	98	 [Bartz] : C’est… [FixedPause]C’est le navire>thermique ! Je croyais qu’il avait>coulé. … Oh ? Qu’est-ce que c’est ?|
-867	$22074B	31	 [Bartz] : Des hélices sur un>bateau ?|
-868	$22079F	84	 [Bartz] : Cid, Mid !>Cid : Aïe…>Mid : Quoi… [Bartz] ? Lenna, Faris,>Galuf… Que faites-vous ici ?|
-869	$220874	213	 [Bartz] : J’allais vous poser la>même question !>>>Mid : Nous sommes venus sur l’Ile>de Lunule à dos de chocobo noir>mais… Nous n’avons pas vu le trou>et nous sommes tombés…>[Bartz] : Quoi ? Nous sommes sous>l’Ile de Lunule ?|
-870	$22094B	215	 [Bartz] : Ça explique pourquoi le>navire thermique est ici…>Mid : Cet endroit a probablement>été construit par les anciens.>[Bartz] : Et le bateau à hélices ?>Mid : Papi pourra répondre à>toutes vos questions. … Où est-il>passé ?|
-871	$220962	23	 Cid : Extraordinaire !|
-872	$220988	38	 [Bartz] : Euh… Cid ?>Cid : Pas maintenant !|
-873	$2209B6	46	 Cid : … en ajustant ceci… et en>réglant cela…|
-874	$2209EB	53	 Cid : Voilà ! J’ai terminé !>[Bartz] : Tu as terminé quoi ?|
-875	$220A17	44	 Cid : La réparation de ce vaisseau,>pardi !|
-876	$220ABF	168	 [Bartz] : Cid, qu’est-ce que c’est ?>>>>Cid : C’est pourtant évident ! C’est>un vaisseau ! Magnifique ! Les>archives disaient vrai ! Je ne peux>pas croire qu’il soit intact !|
-877	$220AF9	58	 [Bartz] : Oh, c’était quoi ?>Cid : Quelque chose nous retient !|
-878	$220B24	43	 [Bartz] : Un monstre s’est accroché>à la coque !|
-879	$220B65	65	 Cid : Bravo ! Vous avez réussi !>[Bartz] : Que ça lui serve de leçon !|
-880	$220BDA	117	 Cid : Le vaisseau n’a pas trop subi>de dégâts… Nous pourrons utiliser>les pièces du navire thermique>pour le réparer.|
-881	$220C95	187	 [Bartz] : Cid…>Cid : Pas besoin de me remercier !>>>Mid : Nous resterons ici afin de>découvrir plus de détails sur le>cristal de la terre.>>Cid : Les cieux vous attendent, les>enfants ! Allons !|
-882	$220CBC	39	 Faris : Exdeath, le sorcier>maléfique…|
-883	$220CEA	46	 Lenna : Nous devons l’empêcher de>s’échapper…|
-884	$220D20	54	 Galuf : Il ne reste plus que le>cristal de la terre !|
-885	$220D49	41	 [Bartz] : Pas une seconde à>perdre ! Allons-y !|
+849	$22024A	179	 [Bartz] : Ooh… Induve simu ?>Lenna : Chì locu stranu…>Faris : Dite, induve hè passatu>l'anticu ?>[Bartz] : Hein ? Ùn hè micca cun>noi ?>Lenna : Avemu duvutu esse>separati cascendu…|
+850	$2202B6	108	 [Bartz] : Bah, sò sicuru ch'ellu ùn>hà nunda ! Hè un\52duru à cuire. Ci>ritruverà senza dubbitu più tardi.>Andemu ci.|
+851	$22031A	100	 Galuf : Un mumentu ! Cridiate>di pudè sbarazzà vi di mè>cusì facilmente ?>\52>[Bartz] : Euh… Scusa !|
+852	$220334	26	 [Bartz] : Chì ghjè ?|
+853	$220344	16	 [Bartz] : Attenti !|
+854	$220356	18	 Intantu…|
+855	$2203C3	109	 Cid : Pare cuntentu d'esse vultatu>in casa soia !>Mid : [Bartz] serà fieru di noi.>Ne avemu pigliatu gran cura !|
+856	$220467	164	 [Bartz] : Ouf… Sti cosi sò>periculosi.>>>Galuf : Era un teletrasportatore…>Faris : Hè probabilmente statu>suvraccaricatu perchè ùn era statu>adupratu dapoi tantu tempu…|
+857	$220481	26	 [Bartz] : Hè troppu periculosu…|
+858	$2204B6	53	 Ci hè un buttone nant'à u muru.>Appughjà u buttone ?|
+859	$2204EB	53	 Ci hè un buttone nant'à u muru.>Appughjà u buttone ?|
+860	$22056A	127	 [Bartz] : Pfft ! [FixedPause]Nunda à fà.[FixedPause]>… hum ?>Qualcosa hè incisa nant'à u>muru.>>« Fighjate i vasi di fiori in>la sala di u mezu… »|
+861	$2205BC	82	 Truvate un pezzu di carta.>>>>>\52\52\52\52« … carta da scrive in la sala di>\52\52\52\52diritta… »|
+862	$2205E2	38	 >  « Ha, ha, ha ! Ci site cascatu ! »|
+863	$220653	113	 [Bartz] : Grr ! O spezia di…>Lenna : Calma ti, [Bartz]…>Faris : Iè… Fighja !>Ci hè un altru messagiu…>>« Fighjate l'urna… ».|
+864	$22068F	60	 >  « Ottu in ghjò, quattru à manu>  diritta è tira ! »|
+865	$2206CA	59	 >\52 « Sei in ghjò, quattru à manu>\52 diritta è tira ! »|
+866	$22072C	98	 [Bartz] : Hè… [FixedPause]Hè u vascellu>termicu ! Cridia ch'ellu avia>colatu. … Oh ? Chì ghjè ?|
+867	$22074B	31	 [Bartz] : Eliche nant'à un>battellu ?|
+868	$22079F	84	 [Bartz] : Cid, Mid !>Cid : Aïe…>Mid : Cosa… [Bartz] ? Lenna, Faris,>Galuf… Chì fate quì ?|
+869	$220874	213	 [Bartz] : Vi vulia pone a>listessa dumanda !>>>Mid : Simu ghjunti annantu à l'Isula>di Lunule à spinu à un chocobo>neru ma… Ùn avemu vistu u foru>è simu cascati…>[Bartz] : Cosa ? Simu sottu à>l'Isula di Lunule ?|
+870	$22094B	215	 [Bartz] : Quessa spiega perchè u>vascellu termicu hè quì…>Mid : Stu locu hè prubabilmente>statu custruitu da l'antichi.>[Bartz] : È u battellu à eliche ?>Mid : Babbone puderà risponde à>tutte e vostre dumande. … Induve>hè passatu ?|
+871	$220962	23	 Cid : Straurdinariu !|
+872	$220988	38	 [Bartz] : Euh… Cid ?>Cid : Micca avà !|
+873	$2209B6	46	 Cid : … aghjustendu què… è>rigulendu quessa…|
+874	$2209EB	53	 Cid : Eccu ! Aghju finitu !>[Bartz] : Chì ai finitu ?|
+875	$220A17	44	 Cid : A riparazione di stu vascellu,>pardì !|
+876	$220ABF	168	 [Bartz] : Cid, chì ghjè ?>>>>Cid : Hè puru evidente ! Hè>un vascellu ! Magnificu ! L'archivi>dicianu vera ! Ùn possu>crede ch'ellu sia intattu !|
+877	$220AF9	58	 [Bartz] : Oh, chì era ?>Cid : Qualcosa ci tene !|
+878	$220B24	43	 [Bartz] : Un mostru s'hè appiccicatu>à a carena !|
+879	$220B65	65	 Cid : Bravi ! Ci avete riesciutu !>[Bartz] : Chì li serva di lezzione !|
+880	$220BDA	117	 Cid : U vascellu ùn hà micca troppu>patitu danni… Puderemu aduprà>i pezzi di u vascellu termicu>per riparà lu.|
+881	$220C95	187	 [Bartz] : Cid…>Cid : Ùn ci vole micca à ringrazià mi !>>>Mid : Firmaremu quì per>scopre più ditaglii nant'à u>cristallu di a terra.>>Cid : I celi v'aspettanu, zitelli !>Aiò !|
+882	$220CBC	39	 Faris : Exdeath, u stregone>maleficu…|
+883	$220CEA	46	 Lenna : Ci tocca à impedì li di>scappà…|
+884	$220D20	54	 Galuf : Ùn ferma più chè u>cristallu di a terra !|
+885	$220D49	41	 [Bartz] : Micca una siconda da>perde ! Andemu ci !|
 886	$220D4B	2	 4|
 887	$220D4D	2	 5|
-888	$220D5F	18	 Mid : Splendide !|
+888	$220D5F	18	 Mid : Splendidu !|
 889	$220D61	2	 6|
 890	$220D63	2	 7|
 891	$220D65	2	 8|
 892	$220D67	2	 9|
 893	$220D6A	3	 10|
 894	$220D6D	3	 11|
-895	$220D92	37	 Cid : Quelle merveilleuse>découverte !|
-896	$220DB0	30	 Mid : Tant de livres inédits !|
-897	$220DE2	50	 [Bartz] : Que se passe-t-il ?>Galuf : Regarde ! La ville…|
-898	$220E5B	121	 [Bartz] : Cid ! Mid ! Nous avons un>problème…>>>Cid : Ne vous inquiétez pas.>Mid : Nous avons tout vu à travers>le télescope !|
-899	$220E86	43	 Mid : Le cristal de la terre est>là-haut !|
-900	$220F42	188	 Mid : Les Ronkiens avaient amplifié>le pouvoir du cristal de la terre>pour faire voler leur cité.>>Toutefois, ils ont arrêté dès qu’ils>ont découvert que ceci pourrait>endommager le cristal.|
+895	$220D92	37	 Cid : Chì maravigliosa>scuperta !|
+896	$220DB0	30	 Mid : Tanti libri inediti !|
+897	$220DE2	50	 [Bartz] : Chì succede ?>Galuf : Fighja ! A cità…|
+898	$220E5B	121	 [Bartz] : Cid ! Mid ! Avemu un>prublema…>>>Cid : Ùn vi fate pena.>Mid : Avemu vistu tuttu cù u>telescopiu !|
+899	$220E86	43	 Mid : U cristallu di a terra hè>quassù !|
+900	$220F42	188	 Mid : I Ronchiani avianu amplificatu>u putere di u cristallu di a terra>per fà vulà a so cità.>>Eppuru, si sò firmati appena>anu scupertu chì quessa pudia>danneghjà u cristallu.|
 901	$220F85	67	 Cid : Vous devez vous dépêcher !>Quelqu’un a réactivé la machine !|
 902	$220FE6	97	 Lenna : Non… Ce n’est pas>possible… Père !>Faris : Non ! Il ne ferait jamais une>chose pareille !|
 903	$221014	46	 [Bartz] : Comment pourrons-nous>atteindre la cité ?|
