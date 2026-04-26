@@ -698,106 +698,106 @@
 698	$21D8A1	12	 Cid : Mid ?|
 699	$21D8D5	52	 Cid : Ouch ! Mid, piantala ! Chì>faci ?|
 700	$21D927	82	 Mid : Chì facciu ? È tù, vechju>strampalatu ? Ùn rinunci>mai ! Mai !|
-701	$21D9C3	156	 Cid : Mid…>Mid : Tu m’as appris à ne pas>craindre l’échec… Tu m’as appris>que si je faisais une erreur, je>devais réessayer, pas abandonner !>>>>Cid : Mid…|
-702	$21DA00	61	 Cid : Mid… … Essayer encore une>fois… … Mid ! Tu as raison !|
-703	$21DA21	33	 Mid : Bien sûr que j’ai raison !|
-704	$21DAF6	213	 Cid : Le cristal de la terre est>toujours intact !>[Bartz] : Oui, mais où est-il ?>>Cid : Je n’en sais rien. Mais nous>devons le trouver et le protéger !>Et pour ce faire…>>Mid : Nous aurons besoin du navire>thermique !|
-705	$21DB7C	134	 Cid : Oui, nous allons devoir réparer>le navire thermique… Mais sans le>cristal…>>Mid : J’ai déjà la solution, papi !>Regarde un peu !|
-706	$21DBE5	105	 Cid : Ooh, où as-tu trouvé ce livre ?>Hum… Oui, je vois… Et ensuite…>Bravo, Mid, ça devrait fonctionner !|
-707	$21DC0F	42	 Cid : Allez ! Au travail !>Mid : D’accord !|
-708	$21DC1F	16	 Mid : Dégagez !|
-709	$21DC8D	110	 Cid : Vous devrez l’excuser… Il est>très enthousiaste… Ne vous>inquiétez pas, nous nous chargeons>du navire !|
-710	$21DCA5	24	 [Bartz] : Galuf, qu’y a-t-il ?|
-711	$21DD0B	102	 Faris : Oui… Tu as l’air encore plus>bizarre que d’habitude.>Lenna : Galuf, quelque chose ne va>pas ?|
-712	$21DD23	24	 Galuf : Ma pauvre tête…|
-713	$21DD50	45	 Galuf : J’étais sur le point de me>souvenir…|
-714	$21DD5E	14	 Krile : Papi !|
+701	$21D9C3	156	 Cid : Mid…>Mid : Sì tù chì m'hai amparatu à ùn>avè paura di u fiascu… M'hai dettu>chì, s'eiu mi sbagliava, duvia>ripruvà, micca rinuncià !>>>>Cid : Mid…|
+702	$21DA00	61	 Cid : Mid… … Ripruvà una>volta di più… … Mid ! Hai ragiò !|
+703	$21DA21	33	 Mid : Benintesa ch'eiu aghju ragiò !|
+704	$21DAF6	213	 Cid : U cristallu di a terra hè>sempre intattu !>[Bartz] : Iè, ma induve hè ?>>Cid : Ùn la sò. Ma ci tocca à>truvà lu è à prutege lu !>È per quessa…>>Mid : Ci vulerà u vascellu>termicu !|
+705	$21DB7C	134	 Cid : Iè, ci tuccherà à riparà>u vascellu termicu… Ma senza u>cristallu…>>Mid : Aghju digià a suluzione, babbone !>Fighja un pocu !|
+706	$21DBE5	105	 Cid : Ooh, induve hai trovu stu libru ?>Hum… Iè, capiscu… È dopu…>Bravu, Mid, quessa duveria funziunà !|
+707	$21DC0F	42	 Cid : Aiò ! À u travagliu !>Mid : Va bè !|
+708	$21DC1F	16	 Mid : Fora d'i pedi !|
+709	$21DC8D	110	 Cid : Ci vole à scusà lu… Hè>assai entusiastu… Ùn vi>fate pena, ci occupemu noi di u>vascellu !|
+710	$21DCA5	24	 [Bartz] : Galuf, chì ci hè ?|
+711	$21DD0B	102	 Faris : Iè… Pari ancu più>stranu chè di solitu.>Lenna : Galuf, qualcosa ùn va>micca ?|
+712	$21DD23	24	 Galuf : O povera testa mea…|
+713	$21DD50	45	 Galuf : Eru guasi à ramintà mi…|
+714	$21DD5E	14	 Krile : Babbone !|
 715	$21DD6D	15	 Galuf : Krile !|
-716	$21DD86	25	 Galuf : Ouille ! Arrête !|
-717	$21DDA8	34	 Krile : Espèce de vieille baderne !|
+716	$21DD86	25	 Galuf : Ouch ! Ferma !|
+717	$21DDA8	34	 Krile : O vechju strampalatu !|
 718	$21DDC0	24	 Galuf : K…[FixedPause] Kri…[FixedPause] Krile…|
-719	$21DE09	73	 [Bartz] : Galuf ! Que t’arrive-t-il ?>Lenna : Tu te souviens de quelque>chose ?|
-720	$21DE39	48	 Galuf : Je… viens d’un autre>monde !>[Bartz] : Quoi ?|
-721	$21DF45	268	 Galuf : Je me suis téléporté ici>grâce à l’aérolithe…>>>L’être maléfique que nous avons>emprisonné sur ce monde il y a>30 ans essaie de s’échapper…>>[Bartz] : Il va s’échapper ?>Galuf : C’est exact… Le sorcier le>plus maléfique qui soit, Exdeath,>veut s’enfuir de sa prison !|
-722	$21DFD3	142	 J’en suis certain ! Le pouvoir des>quatre cristaux converge ici !>>>Très bien ! Nous pourrons utiliser>leur pouvoir pour emprisonner>Exdeath !|
-723	$21E016	67	 Galuf : Je suis venu sur ce monde>il y a 30 ans pour l’emprisonner…|
-724	$21E089	115	 Lenna : Alors… Si les quatre>cristaux sont détruits, Exdeath>pourra s’échapper ?>Galuf : Oui… Ooh… Ma pauvre tête…|
+719	$21DE09	73	 [Bartz] : Galuf ! Chì t'accade ?>Lenna : Ti ramenti di qualcosa ?|
+720	$21DE39	48	 Galuf : Eiu… vengu d'un altru>mondu !>[Bartz] : Cosa ?|
+721	$21DF45	268	 Galuf : Mi sò teletrasportatu quì>grazia à l'aerolitu…>>>L'essere maleficu chì avemu>imprigiunatu annantu à stu mondu>30 anni fà prova à scappà…>>[Bartz] : Hà da scappà ?>Galuf : Ghjustu… U più maleficu di>i stregoni, Exdeath, vole fughje da>a so prigiò !|
+722	$21DFD3	142	 Ne sò sicuru ! U putere di i>quattru cristalli cunverge quì !>>>Bene ! Puderemu aduprà u so>putere per imprigiunà>Exdeath !|
+723	$21E016	67	 Galuf : Sò venutu annantu à stu>mondu 30 anni fà per imprigiunà lu…|
+724	$21E089	115	 Lenna : Allora… S'è i quattru>cristalli sò distrutti, Exdeath>puderà scappà ?>Galuf : Iè… Ooh… O povera testa mea…|
 725	$21E095	12	 [Bartz] : Galuf !|
-726	$21E0C9	52	 Galuf : Tout est flou… Ooh… … dois>arrêter Exdeath…|
-727	$21E0E6	29	 [Bartz] : Galuf !>Galuf : Ça… ira…|
+726	$21E0C9	52	 Galuf : Hè tuttu cunfusu… Ooh… … devu>firmà Exdeath…|
+727	$21E0E6	29	 [Bartz] : Galuf !>Galuf : Va… andarà…|
 728	$21E0F6	16	 Mid : Zzz… Zzz…|
-729	$21E11D	39	 Cid : Hum ! J’ai dormi comme un>loir !|
-730	$21E173	86	 Mid : Hum ! J’ai dormi comme un>loir ! Ha, ha, ha ! Je commence à>ressembler à papi !|
-731	$21E1DB	104	 Mid : Le navire est prêt ! Nous>sommes des génies !>Cid : Voici un bateau qui peut>naviguer sans vent !|
-732	$21E2B2	215	 [Bartz] : Avec ce bateau, nous>pourrons aller trouver le cristal de>la terre !>>Cid : Nous comptons sur vous !>Mid et moi allons retourner à la>bibliothèque des anciens.>>Mid : Nous pourrons peut-être y>trouver des indices.|
-733	$21E30C	90	 Cid : Si vous avez besoin de quoi>que ce soit, faites-nous signe !>Mid : Soyez prudents !|
-734	$21E31A	14	 [Bartz] : Allons-y !|
-735	$21E38A	112	 Cid : J’ai lu et relu tous ces livres…>Je n’arrive pas à trouver où est>caché le cristal de la terre.>Sapristi !|
-736	$21E3B4	42	 Mid : Tout ça ne mène à rien !>Sapristi !|
-737	$21E3CB	23	 Cid : Oh ! Ça suffit !|
+729	$21E11D	39	 Cid : Hum ! Aghju durmitu cum'è un>ghjiri !|
+730	$21E173	86	 Mid : Hum ! Aghju durmitu cum'è un>ghjiri ! Ha, ha, ha ! Principiu à>parè babbone !|
+731	$21E1DB	104	 Mid : U vascellu hè prontu ! Simu>genii !>Cid : Eccu un battellu chì pò>navigà senza ventu !|
+732	$21E2B2	215	 [Bartz] : Cù issu battellu, puderemu>andà à circà u cristallu di>a terra !>>Cid : Contemu nantu à voi !>Mid è eiu turneremu à a>biblioteca di l'antichi.>>Mid : Puderemu forse truvà ci>indizii.|
+733	$21E30C	90	 Cid : S'è vo avete bisognu di>qualcosa, fate ci segnu !>Mid : Fate attenzione !|
+734	$21E31A	14	 [Bartz] : Andemu ci !|
+735	$21E38A	112	 Cid : Aghju lettu è rilettu tutti sti>libri… Ùn riescu à truvà induve hè>piattu u cristallu di a terra.>Cristu !|
+736	$21E3B4	42	 Mid : Quì ùn si ne cava nunda !>Cristu !|
+737	$21E3CB	23	 Cid : Oh ! Basta cusì !|
 738	$21E3DD	18	 Mid : Ha, ha, ha…|
-739	$21E434	87	 Mid : Hum… Ce livre parle d’une \B8e>en forme de croissant… Il n’y a pas>d’autres détails…|
-740	$21E45B	39	 Chercheur : Le professeur est>revenu !|
-741	$21E4C1	102	 Chercheur : Quand Cid et Mid>travaillent ensemble, rien ne peut>les arrêter ! Ils ont réponse à>tout !|
-742	$21E4F0	47	 Chercheur : Je suis l’assistant du>professeur.|
-743	$21E54C	92	 Chercheur : Mid m’a demandé de>trouver plus d’information sur une>\B8e en forme de croissant…|
-744	$21E55E	18	 [Bartz] : Il est vide !|
-745	$21E59C	62	 Il y a un bout de papier…>> «Loup solitaire a encore frappé !»|
-746	$21E5B7	27	 >Obtenu : Fouet d’éclair !|
-747	$21E5EB	52	 Il y a un levier à l’intérieur.>Activer le levier ?|
-748	$21E61F	52	 Il y a un levier à l’intérieur.>Activer le levier ?|
-749	$21E6B4	149	 Odin : Vous voulez vous mesurer à>moi ? Je n’ai pas le temps de>combattre des novices… Je vous>accorderai une minute, pas plus.>Toujours d’attaque ?|
-750	$21E6FB	71	 Odin : Vous croyez vraiment>pouvoir me vaincre en moins d’une>minute ?|
-751	$21E71A	31	 Odin : Je vous aurai prévenus…|
-752	$21E75B	65	 Odin : Le temps est écoulé !>Meilleure chance la prochaine fois !|
-753	$21E777	28	 >\52\52\52\52\52\52\52\52\52\52 Appris : Odin !|
-754	$21E78E	23	 >Vous obtenez 10 Gils !|
-755	$21E7A5	23	 >Vous obtenez 20 Gils !|
-756	$21E7BC	23	 >Vous obtenez 40 Gils !|
-757	$21E7D3	23	 >Vous obtenez 80 Gils !|
-758	$21E7EB	24	 >Vous obtenez 160 Gils !|
-759	$21E803	24	 >Vous obtenez 320 Gils !|
-760	$21E81B	24	 >Vous obtenez 640 Gils !|
-761	$21E834	25	 >Vous obtenez 1280 Gils !|
-762	$21E84D	25	 >Vous obtenez 2560 Gils !|
-763	$21E866	25	 >Vous obtenez 5120 Gils !|
-764	$21E880	26	 >Vous obtenez 10240 Gils !|
-765	$21E89A	26	 >Vous obtenez 20480 Gils !|
-766	$21E8B4	26	 >Vous obtenez 40960 Gils !|
-767	$21E901	77	 Je préfère un rythme de vie plus>lent… C’est pourquoi je suis devenu>berger.|
-768	$21E970	111	 Les chutes d’Istorie sont situées à>l’est d’ici. Elles sont magnifiques !>Une véritable merveille de la>nature !|
-769	$21E9AD	61	 Le tremblement de terre a bloqué>la route menant aux chutes.|
-770	$21E9F3	70	 J’ai trouvé un truc intéressant>en me promenant dans la>plate-bande !|
-771	$21EA52	95	 Je ne peux pas croire qu’il y ait>encore des grenouilles qui dorment>avec la chaleur qu’il fait !|
-772	$21EAEB	153	 Un monstre qui a l’apparence d’un>vieil homme rôde dans les bois à>l’est du village.>>Si vous ne faites pas attention, il>vous électrocutera en un éclair !|
-773	$21EB45	90	 Méfiez-vous du mouton qui broute>dans le coin gauche de l’enclos.>Il a un sale caractère.|
+739	$21E434	87	 Mid : Hum… Stu libru parla d'una>isula in forma di luna crescente…>Ùn ci hè altru dettu…|
+740	$21E45B	39	 Circadore : U prufessore hè>vultatu !|
+741	$21E4C1	102	 Circadore : Quandu Cid è Mid>travaglianu inseme, nunda li pò>firmà ! Anu risposta à>tuttu !|
+742	$21E4F0	47	 Circadore : Sò l'assistente di u>prufessore.|
+743	$21E54C	92	 Circadore : Mid m'hà dumandatu di>truvà più infurmazione nant'à una>isula in forma di luna crescente…|
+744	$21E55E	18	 [Bartz] : Hè viotu !|
+745	$21E59C	62	 Ci hè un pezzu di carta…>> «Lupu Sulitariu hà colpitu torna !»|
+746	$21E5B7	27	 >Pigliatu : Staffile di fulmine !|
+747	$21E5EB	52	 Ci hè una leva dentru.>Attivà a leva ?|
+748	$21E61F	52	 Ci hè una leva dentru.>Attivà a leva ?|
+749	$21E6B4	149	 Odin : Vulete misurà vi à mè ?>Ùn aghju tempu di>cumbatte contr'à i principianti… Vi>dunaraghju un minutu, micca di più.>Site sempre pronti ?|
+750	$21E6FB	71	 Odin : Cridite veramente di>pudè mi vince in menu d'un>minutu ?|
+751	$21E71A	31	 Odin : V'averaghju prevenuti…|
+752	$21E75B	65	 Odin : U tempu hè passatu !>Megliu furtuna a prossima volta !|
+753	$21E777	28	 >\52\52\52\52\52\52\52\52\52\52 Amparatu : Odin !|
+754	$21E78E	23	 >Ottenite 10 Gils !|
+755	$21E7A5	23	 >Ottenite 20 Gils !|
+756	$21E7BC	23	 >Ottenite 40 Gils !|
+757	$21E7D3	23	 >Ottenite 80 Gils !|
+758	$21E7EB	24	 >Ottenite 160 Gils !|
+759	$21E803	24	 >Ottenite 320 Gils !|
+760	$21E81B	24	 >Ottenite 640 Gils !|
+761	$21E834	25	 >Ottenite 1280 Gils !|
+762	$21E84D	25	 >Ottenite 2560 Gils !|
+763	$21E866	25	 >Ottenite 5120 Gils !|
+764	$21E880	26	 >Ottenite 10240 Gils !|
+765	$21E89A	26	 >Ottenite 20480 Gils !|
+766	$21E8B4	26	 >Ottenite 40960 Gils !|
+767	$21E901	77	 Preferiscu un ritimu di vita più>lentu… Ghjè per quessa chì sò>diventatu pastore.|
+768	$21E970	111	 E cascate d'Istorie sò situate à>levante di quì. Sò magnifiche !>Una vera maraviglia di a>natura !|
+769	$21E9AD	61	 U terramotu hà bluccatu>a strada chì porta à e cascate.|
+770	$21E9F3	70	 Aghju trovu una cosetta interessante>spasseghjendu mi in l'aiuola !|
+771	$21EA52	95	 Ùn possu crede ch'ellu ci sia>sempre rane chì dormenu cù issu>caldu !|
+772	$21EAEB	153	 Un mostru chì hà l'aspettu d'un>vechju omu roda in i boschi à>levante di u paese.>>S'è vo ùn fate micca attenzione, vi>elettrocuterà in un lampu !|
+773	$21EB45	90	 Fiate vi di a pecura chì pasce>in l'angulu manca di u recintu.>Hà un gattivu carattere.|
 774	$21EB54	15	 [Bartz] : Guili-guili…|
-775	$21EB91	61	 Ah ! Vous m’avez surprise !>J’essayais d’imiter un dresseur…|
-776	$21EBA2	17	 Mouton : Bêêêê !|
-777	$21EBBC	26	 Grenouille : Coââ ! Coââ !|
-778	$21EBEB	47	 La grenouille a laissé tomber le>sort Crapaud !|
-779	$21EC25	58	 Etes-vous les voyageurs qui>veulent protéger le cristal ?|
-780	$21EC6E	73	 Dans ce cas, cette chanson vous>sera sûrement utile pendant votre>quête !|
-781	$21EC8D	31	 >\52\52\52\52\52\52\52Appris : Lied arrêté !|
-782	$21ECF6	105	 Le Lied arrêté est une chanson>d’amour qui peut immobiliser le>cœur le plus dur, même celui d’un>monstre.|
-783	$21ED0E	24	 Oh, j’ai dû me tromper…|
-784	$21ED81	115	 Je mène une vie tranquille dans ce>petit village. J’écris des chansons>dans l’espoir qu’un jour mon cœur>sera guéri…|
-785	$21EDEB	106	 Un trésor est dissimulé derrière les>chutes ! Enfin, c’est ce que mon>arrière-arrière-grand-mère m’a>dit…|
-786	$21EE0C	33	 Encore un tremblement de terre ?|
-787	$21EE32	38	 [Bartz] : Qu’est-ce que… Mince, le>navire !|
-788	$21EE50	30	 [Bartz] : Oh non, le navire coule !|
-789	$21EECC	124	 Vous devez être épuisés !>Cette chanson pourra vous aider !>Il vous suffit de la chanter pour>que vos HP soient régénérés !|
-790	$21EEEC	32	 >\52\52\52\52\52Appris : Hymne militaire !|
-791	$21EF39	77	 Pourquoi ne pas me jouer un>morceau ? Je serai peut-être>inspiré, qui sait ?|
-792	$21EF5A	33	 Hum ! Vous manquez de pratique !|
-793	$21EF93	57	 Quelle jolie mélodie ! Je vais vous>composer une chanson !|
-794	$21EFF3	96	 >\52\52\52\52\52Appris : Menuet vaillant !>>>Si vous l’utilisez pendant le combat,>votre force augmentera !|
-795	$21F051	94	 >\52\52\52\52\52\52\52  Appris : Héro\BCue !>>>Si vous l’utilisez pendant le combat,>votre niveau augmentera !|
-796	$21F079	40	 Vous êtes devenu un excellent>pianiste !|
-797	$21F10B	146	 Galuf : Qu’est-ce que c’est ?>Lenna : Un chocobo ?>Faris : Ça ne ressemble pas aux>chocobos que je connais.>[Bartz] : Peu importe, je vais>l’attraper !|
+775	$21EB91	61	 Ah ! M'avete fatta paura !>Pruvava d'imità un addestratore…|
+776	$21EBA2	17	 Pecura : Bêêêê !|
+777	$21EBBC	26	 Rana : Coââ ! Coââ !|
+778	$21EBEB	47	 A rana hà lasciatu cascà u>sortilegiu Crapaud !|
+779	$21EC25	58	 Site i viaghjatori chì>volenu prutege u cristallu ?|
+780	$21EC6E	73	 In quellu casu, sta canzona vi>serà sicuramente utile durante a>vostra cerca !|
+781	$21EC8D	31	 >\52\52\52\52\52\52\52Amparatu : Cantu d'amore !|
+782	$21ECF6	105	 U Cantu d'amore hè una canzona>d'amore chì pò immobilizà u>core u più duru, ancu quellu d'un>mostru.|
+783	$21ED0E	24	 Oh, mi devu esse sbagliatu…|
+784	$21ED81	115	 Campu una vita tranquilla in>stu chjucu paese. Scrivu canzone>in a speranza chì un ghjornu u mo>core sia guaritu…|
+785	$21EDEB	106	 Un tesoru hè piattu daretu à e>cascate ! Almenu, hè ciò chì a mo>arcibabbona m'hà dettu…|
+786	$21EE0C	33	 Torna un terramotu ?|
+787	$21EE32	38	 [Bartz] : Chì ci hè… Mince, u>vascellu !|
+788	$21EE50	30	 [Bartz] : Oh nò, u vascellu cola !|
+789	$21EECC	124	 Duvete esse straculti !>Sta canzona vi puderia aiutà !>Basta à cantà la per fà vi>rigenerà i vostri HP !|
+790	$21EEEC	32	 >\52\52\52\52\52Amparatu : Innu militare !|
+791	$21EF39	77	 Perchè ùn mi sunate micca un>pezzu ? Mi venerà forse>l'ispirazione, quale a sà ?|
+792	$21EF5A	33	 Hum ! Vi manca sempre>pratica !|
+793	$21EF93	57	 Chì bella meludia ! Vi cumpuneraghju>una canzona !|
+794	$21EFF3	96	 >\52\52\52\52\52Amparatu : Menuettu valente !>>>S'è vo l'adupreate in battaglia,>a vostra forza crescerà !|
+795	$21F051	94	 >\52\52\52\52\52\52\52  Amparatu : Cantu d'eroe !>>>S'è vo l'adupreate in battaglia,>u vostru liveddu crescerà !|
+796	$21F079	40	 Site diventatu un eccellente>pianistu !|
+797	$21F10B	146	 Galuf : Chì ghjè ?>Lenna : Un chocobo ?>Faris : Ùn rassumiglia micca à i>chocobos ch'eiu cunnoscu.>[Bartz] : Ùn importa, u piglieraghju !|
 798	$21F115	10	 Kwoaaaa !|
-799	$21F1A4	143	 [Bartz] : Un chocobo noir !>Lenna : Oh ! Je croyais qu’ils>avaient disparu !>>[Bartz] : Il semble que non ! Les>chocobos noirs peuvent voler,>non ? Allons !|
-800	$21F246	162	 Chocobo noir : Kwoaaaa !>Galuf : Il n’a pas réussi à>s’envoler… Tu es peut-être trop>lourd.>Faris : Oh, on dirait qu’il a quelque>chose de coincé dans son gosier…|
+799	$21F1A4	143	 [Bartz] : Un chocobo neru !>Lenna : Oh ! Cridia ch'elli>fussinu spariti !>>[Bartz] : Pare di nò ! I>chocobos neri ponu vulà, nò ? Aiò !|
+800	$21F246	162	 Chocobo neru : Kwoaaaa !>Galuf : Ùn hè riesciutu à>vulà… Sì forse troppu>pesante.>Faris : Oh, pare ch'ellu abbia qualcosa>piantata in a so gola…|
 801	$21F271	43	 Chocobo noir : Kwoa… … Gargl…>Keuf, keuf !|
 802	$21F2C6	85	 Lenna : Des fragments de cristal ?>Faris : L’explosion de Karnak a dû>les éparpiller…|
 803	$21F307	65	 [Bartz] : Il ne pouvait plus voler>parce qu’il a essayé de les avaler !|
