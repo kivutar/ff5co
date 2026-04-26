@@ -1537,7 +1537,7 @@
 1537	$22C49A	3	 ...|
 1538	$22C4AF	21	 Krile : A so energia…|
 1539	$22C507	88	 Carbuncle : S'è vo site più forti>ch'è mè, mi unisceraghju à voi !>Chì ne dite ?|
-1540	$22C561	90	 Carbuncle : Mica male ! Infine !>L'aventura m'aspetta !>>>>\52\52\52\52\52\52\52\52\52\52Appris : Carbuncle !|
+1540	$22C561	90	 Carbuncle : Mica male ! Infine !>L'aventura m'aspetta !>>>>\52\52\52\52\52\52\52\52\52\52Amparatu : Carbuncle !|
 1541	$22C5CA	105	 [Bartz] : Micca torna ellu !>Gilgamesh : Ha, ha ! Circate>qualcosa ? Troppu tardi ! U>tesoru hè mio !|
 1542	$22C606	60	 Exdeath : Ùn vi immischjate micca in ciò>chì ùn vi riguarda !|
 1543	$22C636	48	 [Bartz] : Exdeath ! Ùn ti>lasceremu micca fà !|
@@ -1805,7 +1805,7 @@
 1805	$230A98	54	 Krile : Cusì ti chjami Syldra ?>Oh, chì sì bona…|
 1806	$230AB9	33	 Faris : Krile ! A vedi ?|
 1807	$230B15	92	 Krile : L'anima di Syldra dice>ch'ella vole aiutà à Faris…>Faris : Chì ?>Krile : Hè cusì dolce…|
-1808	$230B32	29	 >\52\52\52\52\52\52\52\52\52 Appris : Syldra !|
+1808	$230B32	29	 >\52\52\52\52\52\52\52\52\52 Amparatu : Syldra !|
 1809	$230B56	36	 Simu viaghjatori di u tempu chì>campanu in a fessura>interdimensionale…|
 1810	$230BAE	88	 Stu paese flotta in a>fessura interdimensionale…>u paese di Fantasmagor.|
 1811	$230C0B	93	 Ci pudete parlà…>Vuleria dì chì simu vultati>in u mondu reale… ?|
@@ -1826,7 +1826,7 @@
 1826	$2310EE	22	 Lenna : Hiryû ! Innò !|
 1827	$2310FE	16	 Lenna : Hiryû !|
 1828	$2311C8	202	 Krile : Lenna… Hiryû sapia>ch'ellu ùn li firmava guasi>più tempu da campà…>>Lenna : Allora, quand'ellu m'hà>salvata in a furesta…>Krile : Hè vinutu quì per>offre ti ciò chì li firmava>di a so vita…>Lenna : Hiryû…|
-1829	$231238	112	 Hiryû s'hè trasfurmatu in>Fenice, è hà affidatu a so>putenza è u so core à Lenna…>>>\52\52\52\52\52\52\52\52\52Appris : Fenice !|
+1829	$231238	112	 Hiryû s'hè trasfurmatu in>Fenice, è hà affidatu a so>putenza è u so core à Lenna…>>>\52\52\52\52\52\52\52\52\52Amparatu : Fenice !|
 1830	$231257	31	 Lenna : Hiryû… Ti ringraziu…|
 1831	$231275	30	 Aghju vistu un dragone, kupo !|
 1832	$2312AA	53	 U dragone si dirigia versu a torre>di a Fenice, kupo.|
@@ -1846,8 +1846,8 @@
 1846	$231614	46	 Ci vole à piglià i sorti>à listessu mumentu…|
 1847	$231636	34	 Piglialu à listessu tempu>ch'è mè !|
 1848	$231640	10	 Capitu !|
-1849	$23165C	28	 >\52\52\52\52\52\52\52\52\52\52Appris : Eclat !|
-1850	$231679	29	 >\52\52\52\52\52\52\52\52\52Appris : Sidéral !|
+1849	$23165C	28	 >\52\52\52\52\52\52\52\52\52\52Amparatu : Eclat !|
+1850	$231679	29	 >\52\52\52\52\52\52\52\52\52Amparatu : Sidéral !|
 1851	$23169D	36	 Krile : A torre…>sparisce !!|
 1852	$2316BE	33	 Lenna : Attenti…|
 1853	$231707	73	 Faris : I sorti supremi di>magia nera è di magia>bianca…|
@@ -1876,7 +1876,7 @@
 1876	$231E13	86	 \52Ne riposa unu in un locu più>prufondu chè u fondu di l'oceanu,>\52prutettu da e fiamme…|
 1877	$231E32	31	 >\52\52\52\52\52\52A terza tavuletta !|
 1878	$231E62	48	 Ci hè qualcosa di scrittu nant'à>a tavuletta…|
-1879	$231EB9	87	 Una magia sigillata in i>flussi di magma… Meteore !>>>>\52\52\52\52\52\52\52\52 Appris : Meteore !|
+1879	$231EB9	87	 Una magia sigillata in i>flussi di magma… Meteore !>>>>\52\52\52\52\52\52\52\52 Amparatu : Meteore !|
 1880	$231EC9	16	 Gru gru…|
 1881	$231EE6	29	 Exdeath ci manda… gru…|
 1882	$231F12	44	 Ci tocca à tumbà vi !>Gru, gru !|
@@ -1886,13 +1886,13 @@
 1886	$231FC2	31	 >\52\52\52\52\52 A quarta tavuletta !|
 1887	$231FE2	32	 U mostru hè statu tombu da>Léviathan !|
 1888	$232077	149	 Léviathan : A mo putenza di>l'acqua… a putenza chì lava>tuttu è purifica tuttu…>>A daraghju solu à quelli>ch'anu a forza di cumbatte>u nèant !|
-1889	$232095	30	 >\52\52\52\52\52\52\52\52Appris : Léviathan !|
+1889	$232095	30	 >\52\52\52\52\52\52\52\52Amparatu : Léviathan !|
 1890	$2320B9	36	 Sta tavuletta…[FixedPause] Ùn vi a>poss'u lascià !|
 1891	$23213E	133	 Quandu u nostru maestru Exdeath>s'impadrunirà di a putenza di u>nèant, un mondu per noi mostri>nascerà ! Ùn l'impedirete micca !|
 1892	$23214F	17	 Chocobo : Kwoa !|
 1893	$232187	56	 [Bartz] : Hè una femina.>Ùn ci pò micca purtà.|
 1894	$2321EE	103	 Bahamut : Voi chì avete rottu>u sigillu… S'è vo riescite à>vince mi, a mo putenza>serà vostra !!|
-1895	$23220A	28	 >\52\52\52\52\52\52\52\52Appris : Bahamut !|
+1895	$23220A	28	 >\52\52\52\52\52\52\52\52Amparatu : Bahamut !|
 1896	$232274	106	 [Bartz] : Glup, glup ! Ah ! Pò>esse ch'eiu tenga u fiatu…>Glup, glup ! Ma micca più di>sette minuti !|
 1897	$2322A9	53	 [Bartz] : Uff ! Aaah… Hè bona !>Possu tene ancu sette>minuti.|
 1898	$23233E	149	 A putenza di issu frammentu>di cristallu… aghju infine>riesciutu à maestrisà la !>>Ùn vi la lasceraghju micca !>Andate vi ne !|
@@ -2092,7 +2092,7 @@
 2092	$236788	113	 à chì serve di pruvà à vince>Exdeath una volta per tutte ? I>cristalli sò stati distrutti… Simu>persi !|
 2093	$236808	128	 I cristalli sò stati spartuti in dui, è u>mondu listessu hè statu spartutu in>dui… ùn ci era dunque altra manera>di sigillà u nèant ?|
 2094	$23685C	84	 Hè scrittu quì :>\52A luce nasce da u nèant.">Chì vulerà dì ?|
-2095	$2368BE	98	 Un cantu hè surtitu da stu>libru quandu l'avemu brusgiatu…>>>\52>\52\52\52\52\52Appris : Cantu di Mana !|
+2095	$2368BE	98	 Un cantu hè surtitu da stu>libru quandu l'avemu brusgiatu…>>>\52>\52\52\52\52\52Amparatu : Cantu di Mana !|
 2096	$23691D	95	 U Cantu di Mana… Sta melodia>misteriosa permette d'aumentà a>putenza magica di l'alliati.|
 2097	$23696F	82	 Cù a fusione di i mondi, e duie>metà di u Manuscrittu sigillatu anu>pussutu esse riunite.|
 2098	$236A19	170	 Vi ne pregu ! Arrestati>Exdeath ! ùn deve micca>impadrunì si di a putenza di u>nèant !>>Forse possu aiutà vi…>Vulete ch'eiu vi leghi un passaghju>di u Manuscrittu sigillatu ?|
