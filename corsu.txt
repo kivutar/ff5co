@@ -1798,106 +1798,106 @@
 1798	$23096B	42	 [Bartz] : Ùn la sò…>Ùn la sò, ma…[P5][AutoClose]|
 1799	$230984	25	 Faris : A sentu…[P3][AutoClose]|
 1800	$2309B0	44	 Lenna : Iè… qualcosa di>caldu…[P3][AutoClose]|
-1801	$2309C5	21	 Lenna : Allons-y ![P3][AutoClose]|
-1802	$2309E6	33	 Faris : Syldra ! Tu es vivante !|
-1803	$230A34	78	 [Bartz] : Qu’est-ce que tu racontes,>Faris ?>Lenna : Faris… Vois-tu quelque>chose ?|
-1804	$230A62	46	 Faris : Vous ne la voyez pas ?>Syldra est là…|
-1805	$230A98	54	 Krile : Tu t’appelles Syldra ?>Oh, comme tu es gentille…|
-1806	$230AB9	33	 Faris : Krile ! Tu peux la voir ?|
-1807	$230B15	92	 Krile : L’âme de Syldra dit qu’elle>veut aider Faris…>Faris : Quoi ?>Krile : Elle est si douce…|
+1801	$2309C5	21	 Lenna : Andemu ![P3][AutoClose]|
+1802	$2309E6	33	 Faris : Syldra ! Sì viva !|
+1803	$230A34	78	 [Bartz] : Chì dici, Faris ?>Lenna : Faris… Vedi>qualcosa ?|
+1804	$230A62	46	 Faris : Eh ?>Ma… Syldra hè culà…|
+1805	$230A98	54	 Krile : Cusì ti chjami Syldra ?>Oh, chì sì bona…|
+1806	$230AB9	33	 Faris : Krile ! A vedi ?|
+1807	$230B15	92	 Krile : L'anima di Syldra dice>ch'ella vole aiutà à Faris…>Faris : Chì ?>Krile : Hè cusì dolce…|
 1808	$230B32	29	 >\52\52\52\52\52\52\52\52\52 Appris : Syldra !|
-1809	$230B56	36	 Nous habitons entre les>dimensions…|
-1810	$230BAE	88	 Ce village est situé dans la>fissure… C’est pour cette raison>qu’il s’appelle Fantasmagor.|
-1811	$230C0B	93	 Je peux vous parler ! Cela veut-il>dire que nous sommes revenus à>l’extérieur de la fissure ?|
-1812	$230C3D	50	 Cette ville possède deux>marchands de chaque type.|
-1813	$230C8B	78	 Le temps s’est arrêté dans notre>village car il est situé entre les>dimensions.|
-1814	$230CDA	79	 Un oiseau étrange s’est aventuré>dans notre village il n’y a pas très>longtemps.|
-1815	$230D4B	113	 J’ai été témoin de la division du>monde il y a 1000 ans… C’est à ce>moment que le village s’est trouvé>coincé ici.|
-1816	$230DB7	108	 Etes-vous déjà allé à la tour du>Phénix ? On dit que les dragons>mourants peuvent s’y transformer>en Phénix.|
-1817	$230E1C	101	 Je suis certain qu’il y a un piano>quelque part dans le village…>C’est dommage que personne n’en>joue…|
-1818	$230E93	119	 Enuo le sorcier maléfique essaya>d’utiliser la puissance du néant>pour conquérir le monde mais…>Le néant l’a englouti !|
-1819	$230EF2	95	 On raconte qu’il existe des>escaliers et des monstres cachés>dans les murs de la tour du Phénix.|
-1820	$230F4E	92	 Le temps s’écoule de nouveau dans>notre village. Cela veut dire que le>néant est de retour ?|
-1821	$230FEC	158	 Un village qui apparaît et disparaît>comme un mirage dans le désert…>Où 100 ans s’écoulent en une seule>journée…>Je devrais en faire les paroles>d’une chanson !|
-1822	$231050	100	 Enuo le sorcier était immortel mais>il a sacrifié son immortalité pour>obtenir la puissance du néant.|
+1809	$230B56	36	 Simu viaghjatori di u tempu chì>campanu in a fessura>interdimensionale…|
+1810	$230BAE	88	 Stu paese flotta in a>fessura interdimensionale…>u paese di Fantasmagor.|
+1811	$230C0B	93	 Ci pudete parlà…>Vuleria dì chì simu vultati>in u mondu reale… ?|
+1812	$230C3D	50	 Ogni buttega di stu paese>hà dui mercanti.|
+1813	$230C8B	78	 Dentru à a fessura>interdimensionale, u tempu s'hè>firmatu in stu paese…|
+1814	$230CDA	79	 Un acellu stranu s'hè>smaritu sin'à quì micca tantu>tempu fà.|
+1815	$230D4B	113	 L'aghju vistu, mille anni fà…>Quandu u mondu s'hè>spartutu in dui… è u paese hè>statu aspiratu quì.|
+1816	$230DB7	108	 Sò dighjà andatu à a torre di>a Fenice ? Si dice chì i dragoni>chì ci morenu ci rinascerianu>sottu forma di Fenice.|
+1817	$230E1C	101	 Sò sicuru ch'ellu ci era un>pianuforte in qualchì locu di>u paese… Ma ùn ci hè più>nimu per sunà lu…|
+1818	$230E93	119	 Enuo, u magu maleficu chì>pruvò à impadrunì si di u mondu>cù a putenza di u nèant…>fù ellu stessu inghjuttitu da u>nèant !|
+1819	$230EF2	95	 Si dice chì e scale è i mostri di a>torre di a Fenice si piattinu>in i muri.|
+1820	$230F4E	92	 U tempu hà ripresu à scorre in>u nostru paese. Vuleria dì chì u>nèant hè di ritornu ?|
+1821	$230FEC	158	 Un paese chì apparisce è sparisce>cum'è un miraghju…>Viaghjatori chì campanu à traversu>mille anni…>Eh, ùn vi pare micca un bellu>puema ?|
+1822	$231050	100	 Enuo era immortale.>Ma in cambiu di a putenza di u>nèant, hà persu u so>corpu invulnerabile.|
 1823	$231060	16	 Lenna : Hiryû !|
-1824	$23108F	47	 Krile : Est-ce le dragon qui t’a>sauvé la vie ?|
-1825	$2310D8	73	 Lenna : Hiryû ! Qu’est-ce que tu>fais ?>Krile : Il dit qu’il veut t’aider…|
-1826	$2310EE	22	 Lenna : Hiryû ! Non !|
+1824	$23108F	47	 Krile : Hè issu dragone chì>t'hà salvatu a vita ?|
+1825	$2310D8	73	 Lenna : Hiryû ! Chì faci ?>Krile : Dice ch'ellu ti vole>aiutà…|
+1826	$2310EE	22	 Lenna : Hiryû ! Innò !|
 1827	$2310FE	16	 Lenna : Hiryû !|
-1828	$2311C8	202	 Krile : Lenna… Hiryû savait qu’il ne>lui restait plus beaucoup de>temps…>>Lenna : Alors, quand il m’a sauvée>dans la forêt…>Krile : Il est venu ici pour t’offrir>ce qu’il lui reste de sa vie…>Lenna : Hiryû…|
-1829	$231238	112	 Le dragon Hiryû s’est transformé>en Phénix ! Le Phénix offre ses>pouvoirs à Lenna.>>>\52\52\52\52\52\52\52\52\52Appris : Phénix !|
-1830	$231257	31	 Lenna : Hiryû… Je te remercie…|
-1831	$231275	30	 J’ai aperçu un dragon, kupo !|
-1832	$2312AA	53	 Le dragon se dirigeait vers la tour>du Phénix, kupo.|
-1833	$231301	87	 Les dragons qui périssent à la tour>du Phénix peuvent se transformer>en Phénix, kupo !|
-1834	$23139A	153	 Examinez les murs de la tour du>Phénix, kupo. Parfois, un escalier>apparaîtra, kupo !>>Cependant, parfois un monstre>apparaît, kupo, kupo.>Soyez prudents !|
-1835	$2313D9	63	 Bahamut, le roi des dragons, est né>sur le mont du nord, kupo.|
-1836	$231413	58	 Krile : Je peux parfois comprendre>ce que les mogs disent.|
-1837	$231471	94	 Krile : Si les sorts ne sont pas>retirés en même temps dans les>deux tours, tout va exploser ?|
-1838	$2314CF	94	 Krile : Si les sorts ne sont pas>retirés en même temps dans les>deux tours, tout va exploser ?|
-1839	$2314F7	40	 [Bartz] : Nous ferions mieux de>nous séparer…|
-1840	$23152E	55	 Divisez l’équipe en deux groupes.>De quel côté ira [Bartz] ?|
-1841	$231547	25	 De quel côté ira Lenna ?|
-1842	$231560	25	 De quel côté ira Faris ?|
-1843	$231578	24	 De quel côté ira Krile ?|
-1844	$2315A1	41	 Reformer l’équipe et sortir de la>tour ?|
-1845	$2315E6	69	 Krile : Nous devons nous séparer…>La seule issue est de l’autre côté.|
-1846	$231614	46	 Nous devons retirer les sorts au>même moment…|
-1847	$231636	34	 Prends-le en même temps que>moi !|
-1848	$231640	10	 Entendu !|
+1828	$2311C8	202	 Krile : Lenna… Hiryû sapia>ch'ellu ùn li firmava guasi>più tempu da campà…>>Lenna : Allora, quand'ellu m'hà>salvata in a furesta…>Krile : Hè vinutu quì per>offre ti ciò chì li firmava>di a so vita…>Lenna : Hiryû…|
+1829	$231238	112	 Hiryû s'hè trasfurmatu in>Fenice, è hà affidatu a so>putenza è u so core à Lenna…>>>\52\52\52\52\52\52\52\52\52Appris : Fenice !|
+1830	$231257	31	 Lenna : Hiryû… Ti ringraziu…|
+1831	$231275	30	 Aghju vistu un dragone, kupo !|
+1832	$2312AA	53	 U dragone si dirigia versu a torre>di a Fenice, kupo.|
+1833	$231301	87	 I dragoni chì morenu à a torre>di a Fenice ponu rinasce>cum'è Fenice, kupo !|
+1834	$23139A	153	 Fighjate i muri di a torre di a>Fenice, kupo. Calchì volta, ci>appariscerà una scala, kupo !>>Ma qualchì volta appariscerà>dinù un mostru, kupo, kupo.>State attenti !|
+1835	$2313D9	63	 Bahamut, rè di i dragoni, hè natu>nant'à u Monti di u Nordu, kupo.|
+1836	$231413	58	 Krile : Calchì volta possu capisce>ciò chì dicenu i mogs.|
+1837	$231471	94	 Krile : S'è i dui sorti ùn>sò micca pigliati à listessu>mumentu, tuttu salterà in aria ?|
+1838	$2314CF	94	 Krile : S'è i dui sorti ùn>sò micca pigliati à listessu>mumentu, tuttu salterà in aria ?|
+1839	$2314F7	40	 [Bartz] : Faremu megliu di>separà ci…|
+1840	$23152E	55	 Spartite a squadra in dui>gruppi.>Da chì latu anderà [Bartz] ?|
+1841	$231547	25	 Da chì latu anderà Lenna ?|
+1842	$231560	25	 Da chì latu anderà Faris ?|
+1843	$231578	24	 Da chì latu anderà Krile ?|
+1844	$2315A1	41	 Ricustituisce a squadra è sorte>da a torre ?|
+1845	$2315E6	69	 Krile : Ci vole à separà ci…>L'unicu passaghju hè da>l'altra banda.|
+1846	$231614	46	 Ci vole à piglià i sorti>à listessu mumentu…|
+1847	$231636	34	 Piglialu à listessu tempu>ch'è mè !|
+1848	$231640	10	 Capitu !|
 1849	$23165C	28	 >\52\52\52\52\52\52\52\52\52\52Appris : Eclat !|
 1850	$231679	29	 >\52\52\52\52\52\52\52\52\52Appris : Sidéral !|
-1851	$23169D	36	 Krile : La tour… Elle va disparaître !|
-1852	$2316BE	33	 Lenna : Il faut faire attention…|
-1853	$231707	73	 Faris : Les sorts les plus puissants>de magie noire et de magie>blanche…|
-1854	$231735	46	 Krile : Nous devons les prendre en>même temps.|
-1855	$231766	49	 Si nous ne le prenons pas, la tour>va exploser !|
-1856	$231769	3	 37|
-1857	$23178D	36	 Est-ce que quelque chose a>changé ?|
-1858	$2317E0	83	 Une grotte étrange est apparue à>l’ouest. On dit qu’une tortue>mutante s’y cache !|
-1859	$231834	84	 On a aperçu un bateau à hélices au>sud d’ici près de la péninsule en>forme d’oiseau…|
-1860	$231881	77	 Vous avez entendu ? On a retrouvé>la princesse de Tycoon qui avait>disparu !|
-1861	$23189C	27	 Il n’y a plus de cristaux…|
-1862	$2318D4	56	 Vous croyez que je pourrais aller>au banquet de Tycoon ?|
-1863	$231948	116	 Le château de Tycoon a disparu !>Il a été englouti par cette étrange>brume noire… Qu’est-ce que ça>peut bien être ?|
-1864	$231975	45	 Le vent ne souffle plus… L’air est>stagnant.|
-1865	$23198A	21	 Ouf… C’est fatigant…|
-1866	$2319CF	69	 J’ai perdu connaissance… Après,>tout avait changé autour du>village !|
-1867	$231A46	119	 Le capitaine de la bande de pirates>était la princesse de Tycoon ?>Incroyable ! Par contre, ça explique>quelques trucs…|
-1868	$231A75	47	 Ca fait longtemps qu’on n’a pas vu>de pirates…|
-1869	$231B6C	247	 Zok : Je ne peux pas croire que la>princesse Sarissa était le capitaine>d’une bande de pirates…>>« Faris »… Où a-t-elle pu trouver>un nom pareil ? Incroyable !>>>Il est tout de même splendide de>savoir que nos deux princesses>sont saines et sauves.|
-1870	$231BA5	57	 Zok : Faris, euh, princesse Sarissa !>Vous partez déjà ?|
-1871	$231C39	148	 Zok : Votre Altesse ! Je suis>heureux de voir que vous allez>bien.>>Quand le château a été englouti par>ces ténèbres, je me suis inquiété>pour vous…|
-1872	$231C87	78	  « Dans un temple insulaire,> caressée par le vent, une tablette> sommeille… »|
-1873	$231CA5	30	 >\52\52\52\52\52\52La deuxième tablette !|
-1874	$231D18	115	 Le portail de la tour fourchue, là>où reposent les sorts ultimes de>magie blanche et de magie noire,>s’est ouvert !|
-1875	$231DBD	165	 Krile : Il y a quelque chose d’inscrit>sur la tablette…>>>  « La tour fourchue… L’endroit où>  sommeillent les sorts ultimes de>  magie noire et de magie>  blanche… »|
-1876	$231E13	86	 \52« Au plus profond des océans,>\52enveloppée par les flammes, une>\52tablette sommeille… »|
-1877	$231E32	31	 >\52\52\52\52\52\52La troisième tablette !|
-1878	$231E62	48	 Il y a quelque chose d’inscrit sur la>tablette…|
-1879	$231EB9	87	 La magie emprisonnée dans les>flots du magma… Météore !>>>>\52\52\52\52\52\52\52\52 Appris : Météore !|
-1880	$231EC9	16	 Grouin, grouin…|
-1881	$231EE6	29	 Exdeath nous envoie… Grouin…|
-1882	$231F12	44	 Nous devons vous éliminer !>Grouin, grouin !|
-1883	$231F2F	29	 Ce sont nos ordres, grouin !|
-1884	$231F4F	32	 Grouin, grouin, grouiiiiiiiin !|
-1885	$231FA3	84	  « Dissimulée derrière le torrent,> rafra\D4hie par l’onde, une tablette> sommeille… »|
-1886	$231FC2	31	 >\52\52\52\52\52 La quatrième tablette !|
-1887	$231FE2	32	 Léviathan a éliminé le monstre !|
-1888	$232077	149	 Léviathan : Mes eaux peuvent laver>tous les péchés et purifier toute>chose… >>Seuls ceux qui peuvent combattre>le néant pourront faire appel à>moi !|
+1851	$23169D	36	 Krile : A torre…>sparisce !!|
+1852	$2316BE	33	 Lenna : Attenti…|
+1853	$231707	73	 Faris : I sorti supremi di>magia nera è di magia>bianca…|
+1854	$231735	46	 Krile : Ci vole à piglià li>à listessu tempu.|
+1855	$231766	49	 Piglia lu prestu, nanzu chì>a torre splodi !|
+1856	$231769	3	 Krile : Ghido vi chjama da u>fondu di l'oceanu ! Dice di>vene prestu ! Aiò !!|
+1857	$23178D	36	 Ùn avete micca l'impressione>chì a geugrafia sia un pocu>cambiata ?|
+1858	$2317E0	83	 Una grotta strana hè apparsa>à punente. Si dice ch'ella>piatti una tartaruga mostruosa !|
+1859	$231834	84	 Hè stata vista una nave à elica>à u sudu d'quì, vicinu à a>penisula in forma d'acellu…|
+1860	$231881	77	 L'avete intesu ? A principessa>di Tycoon ch'era sparita hè>stata ritruvata !|
+1861	$23189C	27	 Ùn ci sò più cristalli…|
+1862	$2318D4	56	 Pensate chì puderia andà anch'eiu>à u banchettu di Tycoon ?|
+1863	$231948	116	 U castellu di Tycoon hè sparitu…>Hè statu inghjuttitu da quellu>stranu bughjone neru…>Chì sarà mai ?|
+1864	$231975	45	 U ventu ùn soffia più… L'aria>ristagna.|
+1865	$23198A	21	 Ouf… Hè stancante…|
+1866	$2319CF	69	 Aghju persu cuscenza… è>quandu sò vultatu in mè, tuttu>era cambiatu intornu à u paese !|
+1867	$231A46	119	 U capu di i pirati era a>principessa di Tycoon ?>Incredibile ! Ma spiega>parechje cose…|
+1868	$231A75	47	 Hè un bellu pezzu ch'ùn si>vedenu più i pirati…|
+1869	$231B6C	247	 Zok : Ùn possu micca crede chì a>principessa Sarissa fussi u>capitanu d'una banda di pirati…>>Faris… induve sarà mai>andata à piglià un nome cusì ?>Incredibile !>>>Ma, quantunque, hè maravigliosu di>sapè chì e duie principesse>sò sane è salve.|
+1870	$231BA5	57	 Zok : Faris… euh, principessa>Sarissa ! Partite digià ?|
+1871	$231C39	148	 Zok : Altezza vostra ! Sò felice>di vede vi sana è salva.>>Quandu u castellu hè statu>inghjuttitu da e tenebre,>mi sò tantu fattu penseru per voi…|
+1872	$231C87	78	 Ne riposa unu in un tempiu>insulare, accarizzatu da u>ventu…|
+1873	$231CA5	30	 >\52\52\52\52\52\52A seconda tavuletta !|
+1874	$231D18	115	 U purtale di a torre furcata,>induve riposanu i sorti supremi>di magia bianca è nera, s'hè>apertu !|
+1875	$231DBD	165	 Krile : Ci hè qualcosa di scrittu>nantu à a tavuletta…>>>A Torre Furcata… u locu induve>riposanu i sorti supremi di>magia nera è di magia>bianca…|
+1876	$231E13	86	 \52Ne riposa unu in un locu più>prufondu chè u fondu di l'oceanu,>\52prutettu da e fiamme…|
+1877	$231E32	31	 >\52\52\52\52\52\52A terza tavuletta !|
+1878	$231E62	48	 Ci hè qualcosa di scrittu nant'à>a tavuletta…|
+1879	$231EB9	87	 Una magia sigillata in i>flussi di magma… Meteore !>>>>\52\52\52\52\52\52\52\52 Appris : Meteore !|
+1880	$231EC9	16	 Gru gru…|
+1881	$231EE6	29	 Exdeath ci manda… gru…|
+1882	$231F12	44	 Ci tocca à tumbà vi !>Gru, gru !|
+1883	$231F2F	29	 Sò i nostri ordini, gru !|
+1884	$231F4F	32	 Gru, gru, gruuuuuuuu !|
+1885	$231FA3	84	 Ne riposa l'ultimu daretu à>a cascata, prutettu da>l'acqua…|
+1886	$231FC2	31	 >\52\52\52\52\52 A quarta tavuletta !|
+1887	$231FE2	32	 U mostru hè statu tombu da>Léviathan !|
+1888	$232077	149	 Léviathan : A mo putenza di>l'acqua… a putenza chì lava>tuttu è purifica tuttu…>>A daraghju solu à quelli>ch'anu a forza di cumbatte>u nèant !|
 1889	$232095	30	 >\52\52\52\52\52\52\52\52Appris : Léviathan !|
-1890	$2320B9	36	 Cette tablette…[FixedPause] Elle m’appartient !|
-1891	$23213E	133	 Lorsqu’il aura pris le contrôle de la>puissance du néant, notre maître>créera un monde pour nous ! Vous>ne pourrez pas l’en empêcher !|
+1890	$2320B9	36	 Sta tavuletta…[FixedPause] Ùn vi a>poss'u lascià !|
+1891	$23213E	133	 Quandu u nostru maestru Exdeath>s'impadrunirà di a putenza di u>nèant, un mondu per noi mostri>nascerà ! Ùn l'impedirete micca !|
 1892	$23214F	17	 Chocobo : Kwoa !|
-1893	$232187	56	 [Bartz] : C’est une femelle. Elle ne>peut pas nous transporter.|
-1894	$2321EE	103	 Bahamut : Vous qui avez brisé le>sceau… Si vous arrivez à me>vaincre, vous pourrez faire appel à>moi !|
+1893	$232187	56	 [Bartz] : Hè una femina.>Ùn ci pò micca purtà.|
+1894	$2321EE	103	 Bahamut : Voi chì avete rottu>u sigillu… S'è vo riescite à>vince mi, a mo putenza>serà vostra !!|
 1895	$23220A	28	 >\52\52\52\52\52\52\52\52Appris : Bahamut !|
-1896	$232274	106	 [Bartz] : Gloup, gloup ! Ah ! Je peux>retenir mon souffle… Gloup, gloup !>Mais seulement pendant sept>minutes !|
-1897	$2322A9	53	 [Bartz] : Ouf ! Aaah… Ha…>C’est bon ! Encore sept minutes.|
-1898	$23233E	149	 Après deux actes, j’ai finalement>réussi à maîtriser parfaitement ce>fragment de cristal !>>Je ne vous laisserai pas l’avoir !>Partez immédiatement !|
-1899	$23235A	28	 Tss, tss… Levez le rideau !|
-1900	$23236F	21	 >\52\52\52\52\52\52\52\52\52\52\52\52\52\52 Mime|
+1896	$232274	106	 [Bartz] : Glup, glup ! Ah ! Pò>esse ch'eiu tenga u fiatu…>Glup, glup ! Ma micca più di>sette minuti !|
+1897	$2322A9	53	 [Bartz] : Uff ! Aaah… Hè bona !>Possu tene ancu sette>minuti.|
+1898	$23233E	149	 A putenza di issu frammentu>di cristallu… aghju infine>riesciutu à maestrisà la !>>Ùn vi la lasceraghju micca !>Andate vi ne !|
+1899	$23235A	28	 Tsk, tsk… Si leva u sipariu !|
+1900	$23236F	21	 >\52\52\52\52\52\52\52\52\52\52\52\52\52\52 Mimu|
 1901	$232391	34	 Cid : Ooh ! Je suis tout étourdi…|
 1902	$2324A5	276	 Mid : Papi ! Tu n’as rien ?>Cid : Je ne me sens pas bien… Mais>j’ai de bonnes nouvelles !>>Cid : Au cours de mes recherches,>j’ai découvert d’autres techniques>intéressantes… Nous pouvons>améliorer le vaisseau !>Désormais, il pourra se>transformer en sous-marin !>[Bartz] : Vraiment ?|
 1903	$2324D1	44	 Cid : Bien sûr ! Rien ne m’est>impossible !|
