@@ -1998,106 +1998,106 @@
 1998	$234238	43	 A grande furesta di Mua>prutege i sigilli.|
 1999	$23427E	70	 Exdeath hè di ritornu dopu>trenta anni di calma… L'incubu>ricumencia.|
 2000	$2342BB	61	 E driade si piattanu longu à>i sentieri di a furesta.|
-2001	$234329	110	 L’autre jour, je suis allé dans le>désert et j’ai aperçu un édifice>étrange… Qu’est-ce que ça peut>bien être ?|
-2002	$234392	105	 La légende dit qu’au fond de la>forêt de Mua, on retrouve l’arbre>gardien, celui qui protège les>sceaux.|
-2003	$2343BF	45	 Ghido est sain et sauf ? Le ciel soit>loué !|
-2004	$2343FF	64	 Je ne peux pas croire qu’Exdeath>se soit attaqué au sage Ghido…|
-2005	$234437	56	 D’où venez-vous ? Comment>êtes-vous arrivés jusqu’ici ?|
-2006	$2344B5	126	 J’étais perdu dans la forêt quand>une petite créature étrange m’a>filé un coup de main… Elle>n’arrêtait pas de dire « Kupo ! »…|
-2007	$2344EB	54	 Quelque chose d’important s’est>produit ! C’est sûr !|
-2008	$234571	134	 Les dryades sont très timides…>>>>Cependant, si vous examinez les>troncs d’arbres attentivement,>elles s’adresseront peut-être à>vous…|
-2009	$2345D1	96	 Le saviez-vous ? La forêt se>régénère peu à peu ! Même l’arbre>gardien ! C’est extraordinaire !|
-2010	$234630	95	 Vous voulez traverser le val des>dragons ? Avez-vous perdu la>tête ? Les monstres y pullulent !|
-2011	$234683	83	 Je n’arrive pas à y croire ! Vous>êtes revenus du val des dragons>sains et saufs !|
-2012	$2346B1	46	 Un temple est apparu au milieu du>grand pont !|
-2013	$2346ED	60	 Je vois… Tsuze a essayé de>protéger le cristal du feu mais…|
-2014	$234765	120	 Tsuze était mon frère cadet. Il est>allé dans l’autre monde pour>protéger le cristal du feu, mais il>n’est jamais revenu…|
-2015	$2347D3	110	 Les hordes de monstres d’Exdeath>nous attaquent sans répit… Il ne>reste presque plus personne pour>combattre.|
-2016	$2347F5	34	 Comment ? Exdeath s’est>échappé ?|
-2017	$234828	51	 Personne ne sait pourquoi les>dragons ont disparu…|
-2018	$234891	105	 L’herbe aux dragons était>possédée par un monstre ? C’est>pour cette raison que les dragons>ont disparu…|
-2019	$2348DB	74	 Le monde est en danger…>Si seulement maître Kelgar était>toujours vivant !|
-2020	$234913	56	 Personne n’est jamais revenu>vivant du val des dragons.|
-2021	$234950	61	 Maître Kelgar… Il était le plus>brave de tous les guerriers !|
-2022	$234961	17	 Mouton : Bêêêê !|
-2023	$234994	51	 Nous prions pour que vous>reveniez sains et saufs.|
-2024	$2349B4	32	 Ou-ho ! Hé-ho ! Ou-ho ! Hé-ho !|
-2025	$2349E6	50	 Près du puits, on peut entendre>une voix étrange…|
-2026	$234A23	61	 Une grenouiiiiiiiiiiille… Je veux une>grenouiiiiiiiiiiiiiille…|
-2027	$234A6B	72	 S’il vous plaît, apportez-moi une>grenouille ! Allons ! Je vous en>supplie !|
-2028	$234AE2	119	 Ooh ! Si vous me donnez 10 000 Gils>et cette grenouille, je vous donne>cette gourde en échange ! Alors ?>Marché conclu ?|
-2029	$234B05	35	 Super ! Miam ! Un morceau de roi !|
-2030	$234B18	19	 >Obtenu : Gourde !|
-2031	$234B55	61	 Asseyez-vous ! Je vous ai préparé>les spécialités de Quelbe !|
-2032	$234B63	14	 Bon appétit !|
-2033	$234B87	36	 Je suis désolé… Je n’ai plus rien !|
-2034	$234BA3	28	 Et maintenant, le dessert !|
-2035	$234BDC	57	 Maître Kelgar est malade…>Il n’aurait pas dû se surmener.|
-2036	$234C1B	63	 Une minute de silence… Les quatre>guerriers de l’aube ont péri…|
-2037	$234C89	110	 Votre Altesse ! Vous êtes saine et>sauve ! Le ciel soit loué ! Oh ? Ce>livre… Voulez-vous que je vous le>lise ?|
-2038	$234CEB	98	 Un temple sur une \B8e protégée par>le vent… Est-ce le temple sur l’\B8e>située à l’ouest de Tycoon ?|
-2039	$234D2E	67	 Nous avons apporté une urne d’eau>régénératrice du temple du vent.|
-2040	$234D91	99	 Certains racontent que la fissure>interdimensionnelle est apparue>au-dessus de Tycoon… C’est vrai ?|
-2041	$234DD0	63	 Un château est apparu à l’endroit>où Exdeath était emprisonné…|
-2042	$234E10	64	 « Derrière le torrent… »>Des torrents d’eau… Des chutes>d’eau ?|
-2043	$234E5E	78	 Il y a si longtemps que je suis>enfermée ici ! [FixedPause].>Laissez-moi vous embrasser…|
-2044	$234E9B	61	 Vous pouvez essayer de fuir, mais>vous n’irez pas bien loin…|
-2045	$234EC1	38	 Vous avez reçu le baiser de la>mort !|
-2046	$234F18	87	 Venez… Approchez…[FixedPause] Vous allez>périr des mains du souverain de ce>château, Halicarnasse !|
-2047	$234FBE	166	 Apanda : Je n’aurais pas cru que>arriveriez ici vivants…[FixedPause]>>>Peu importe, vous ne survivrez pas>En touchant ce livre, vous avez>activé le mécanisme>interdimensionnel !|
-2048	$235034	118	 Gémellia : Pas un pas de plus… Le>pouvoir du néant est scellé un peu>plus loin…[FixedPause] Je ne vous laisserai pas>l’atteindre !|
-2049	$235092	94	 Calofisteri : Cette forêt est si>paisible… Pourquoi ne pas vous y>reposer…[FixedPause] pour l’éternité !|
-2050	$2350D5	67	 Nécrophobe : Cette lumière…[FixedPause]>Je ne vous laisserai jamais l’avoir !|
-2051	$2350FA	37	 >Votre talent de pianiste s’améliore.|
-2052	$235133	57	 >\52 Vous êtes un virtuose du piano ![FixedPause]>\52 … Enfin, presque.|
-2053	$23517F	76	 Votre technique est étourdissante !>Vous avez finalement maîtrisé le>piano !|
-2054	$2351BE	63	 Exdeath : Vous en avez mis du>temps ! Vous arrivez trop tard !|
-2055	$235246	136	 Exdeath : Mouah, ha, ha… Il est>enfin à ma portée !>>>Le pouvoir qui me permettra de>contrôler l’univers entier !>Le pouvoir du néant !|
-2056	$23529B	85	 Exdeath : Mouah ha, ha, ha… Et>maintenant ! Vous allez périr à>l’intérieur du néant !|
-2057	$2352AC	17	 [Bartz] ! Relève-toi !|
-2058	$2352B9	13	 [Bartz] : … papa ?|
+2001	$234329	110	 L'altru ghjornu, sò andatu in u>desertu è ci aghju vistu un>edifiziu stranu… Chì pò esse ?|
+2002	$234392	105	 A legenda dice chì in fondu à a>furesta di Mua si trova l'arburu>guardianu, quellu chì prutege i>sigilli.|
+2003	$2343BF	45	 Ghido hè sanu è salvu ? Meno>male !|
+2004	$2343FF	64	 Ùn possu crede ch'Exdeath si sia>attaccatu ancu à u saviu Ghido…|
+2005	$234437	56	 Da induve venite ? Cumu site>ghjunti sin'à quì ?|
+2006	$2344B5	126	 Eiu mi eru persu in a furesta, è una>piccula criatura strana m'hà datu>una manu… Ùn facia chè dì :>Kupo !|
+2007	$2344EB	54	 Qualcosa d'impurtante hè>accaduta ! Ne sò sicuru !|
+2008	$234571	134	 E driade sò assai timide…>>>>Eppuru, s'è vo esaminate cù cura>i tronchi d'arburi, pò esse>ch'elle s'indirizzinu à voi…|
+2009	$2345D1	96	 A sapete ? A furesta si>rigenera pianu pianu ! Ancu l'arburu>guardianu ! Hè straordinariu !|
+2010	$234630	95	 Vulete traversà a Valle di i>dragoni ? Site impazziti ? I>mostri ci pullulanu !|
+2011	$234683	83	 Ùn ci possu crede ! Siete vultati>da a Valle di i dragoni sani>è salvi !|
+2012	$2346B1	46	 Un tempiu hè apparsu in mezu>à u Grand Pont !|
+2013	$2346ED	60	 Capiscu… Tsuze era andatu à>prutege u cristallu di u focu, ma…|
+2014	$234765	120	 Tsuze era u mo fratellu chjucu. Hè>andatu in l'altru mondu per>prutege u cristallu di u focu, ma>ùn hè mai vultatu…|
+2015	$2347D3	110	 E orde di mostri d'Exdeath ci>attaccanu senza piantà… Ùn>ferma quasi più nimu in stu paese>capace di cumbatte.|
+2016	$2347F5	34	 Cumu ? Exdeath s'hè>scappatu ?|
+2017	$234828	51	 Nimu sà perchè i dragoni sò>spariti…|
+2018	$234891	105	 L'erba di i dragoni era>pussiduta da un mostru ? Saria>tandu per quessa chì i dragoni sò>spariti…|
+2019	$2348DB	74	 U mondu hè in periculu…>S'ellu ci fussi sempre maestru>Kelgar !|
+2020	$234913	56	 Nimu hè mai vultatu vivu da a>Valle di i dragoni.|
+2021	$234950	61	 Maestru Kelgar… Era u più>curagiosu di tutti i guerrieri !|
+2022	$234961	17	 Muntone : Bèèèè !|
+2023	$234994	51	 Preghemu perchè turniate>sani è salvi.|
+2024	$2349B4	32	 Uh-ho ! Eho ! Uh-ho ! Eho !|
+2025	$2349E6	50	 Vicinu à u pozzu, si pò intende>una voce strana…|
+2026	$234A23	61	 Una ranooooochja… Vogliu una>ranooooochja…|
+2027	$234A6B	72	 Per piacè, purtatemi una>ranochja ! Aiò, vi ne pregu !|
+2028	$234AE2	119	 Ooh ! S'è vo mi date 10 000 gils è>issa ranochja, vi daraghju sta>gourda in cambiu ! Allora ? Affare>fattu ?|
+2029	$234B05	35	 Magnificu ! Gnam ! Un pezzu>di rè !|
+2030	$234B18	19	 >Pigliatu : Gourda !|
+2031	$234B55	61	 Assestate vi ! Vi aghju preparatu>a spicialità di Quelb !|
+2032	$234B63	14	 Bon'appetitu !|
+2033	$234B87	36	 Mi dispiace… Ùn aghju più>nulla !|
+2034	$234BA3	28	 È avà, u dessert !|
+2035	$234BDC	57	 Maestru Kelgar hè malatu…>Ùn duvia micca strapazzà si>cusì.|
+2036	$234C1B	63	 Un mumentu di silenziu… I>quattru Guerrieri di l'Alba sò morti…|
+2037	$234C89	110	 Altezza vostra ! Site sana è salva !>Sia ringraziatu u celu ! Oh ? Stu>libru… Vulete ch'eiu ve lu leghi ?|
+2038	$234CEB	98	 Un tempiu annantu à un'isula>prutetta da u ventu… Sarà forse>u tempiu di l'isula à punente di>Tycoon ?|
+2039	$234D2E	67	 Avemu purtatu acqua curativa>da u Tempiu di u Ventu.|
+2040	$234D91	99	 Certi dicenu chì a fessura>interdimensionale hè apparsa>à u sopra di Tycoon… Hè vera ?|
+2041	$234DD0	63	 Un castellu hè apparsu à u locu>stessu induve Exdeath era>imprigiunatu…|
+2042	$234E10	64	 Darrìere à u torrente…>Acqua chì casca… Cascate ?|
+2043	$234E5E	78	 Hè tantu tempu ch'eiu sò>chjosa quì ! [FixedPause].>Lasciate mi basgià vi…|
+2044	$234E9B	61	 Pruvate puru à fughje, ma ùn>anderete micca tantu luntanu…|
+2045	$234EC1	38	 Avete ricevutu u basgiu di>a morte !|
+2046	$234F18	87	 Venite… Avvicinate vi…[FixedPause] Murerete>di a manu di u suvranu di stu>castellu, Halicarnasse !|
+2047	$234FBE	166	 Apanda : Ùn avaria micca cridutu>ch'esciste sin'à quì vivi…[FixedPause]>>>Ma pocu importa, ùn sopravviverete>micca ! Toccendu stu libru, avete>attivatu u meccanismu>interdimensionale !|
+2048	$235034	118	 Gémellia : Basta cusì… U>putere di u nèant hè sigillatu un>pocu più in là…[FixedPause] Ùn vi>lasceraghju micca ghjunghje ci !|
+2049	$235092	94	 Calofisteri : Sta furesta hè cusì>tranquilla… Perchè ùn ci vi>riposate…[FixedPause] per l'eternità ?|
+2050	$2350D5	67	 Nécrophobe : Sta luce…[FixedPause]>Ùn vi la lasceraghju mai avè !|
+2051	$2350FA	37	 >A vostra maestria di u>pianuforte migliora.|
+2052	$235133	57	 >\52 Site un veru maestru di piano ![FixedPause]>\52 … O quasi.|
+2053	$23517F	76	 A vostra tecnica hè>straordinaria ! Avete infine>maestrisatu u pianuforte !|
+2054	$2351BE	63	 Exdeath : Ne avete messu, di tempu !>Sbarcate troppu tardi !|
+2055	$235246	136	 Exdeath : Mouah, ha, ha… Infine>l'aghju !>>>A putenza chì mi permetterà di>cuntrullà l'universu sanu !>A putenza di u nèant !|
+2056	$23529B	85	 Exdeath : Mouah ha, ha, ha… È>avà ! Pirete à l'internu di u>nèant !|
+2057	$2352AC	17	 [Bartz] ! Arzati !|
+2058	$2352B9	13	 [Bartz] : … babbu ?|
 2059	$2352CE	21	 [Bartz] : Xezat ! Kelgar !|
-2060	$2352E9	27	 Krile : Papi !>>[Bartz] : Galuf !|
-2061	$235317	46	 Galuf : Nous sommes les guerriers>de l’aube !|
-2062	$2353E9	210	 Galuf : [Bartz] ! Lenna ! Faris !>Krile ! Nous repousserons le néant !>Occupez-vous d’Exdeath !>>Seuls les guerriers de la lumière>peuvent empêcher le monde d’être>englouti par les ténèbres !>Nous comptons sur vous !|
-2063	$235439	80	 Exdeath : Comment ? Pourquoi le>pouvoir du néant disparaît-il ?>Oh, peu importe !|
-2064	$235458	31	 Lenna : Père !>>Faris : Papa !|
-2065	$235507	175	 Dorgann : Allons ![FixedPause]>>Galuf : C’est maintenant ou>jamais ![FixedPause]>Xezat : Voilà votre chance… [FixedPause]>>Kelgar : Eliminez Exdeath !>>Roi de Tycoon : A vous de jouer,>guerriers de la lumière !|
-2066	$235536	47	 [Bartz] : Exdeath ! Tu ne perds rien>pour attendre !|
-2067	$23556F	57	 Ghido : Ooh, ma pauvre tête…>>[Bartz] : Ghido ! Tu n’as rien ?|
-2068	$2355ED	126	 Ghido : Hum ! Exdeath, ce malotru !>Hum ! Vous devez l’arrêter avant>qu’il n’obtienne complètement le>pouvoir du néant…[FixedPause] Hum ?|
-2069	$235702	277	 Ghido : Hum ! Qu’est-ce que c’est ?>[Bartz] : Ce n’est que la>bibliothèque des anciens…>>Ghido : HUM ! La légendaire>bibliothèque des anciens ? Peux-tu>au moins reconnaître son>importance ?>Hum ! Bien sûr que non… Et dire>que la bibliothèque des anciens>était ici pendant tout ce temps…|
-2070	$23577E	124	 Ghido : Hum ! Suivez-moi les>enfants ! Hum ! Cette bibliothèque>contient le livre qui nous montrera>comment éliminer Exdeath !|
-2071	$23581C	158	 Chercheur : Sage Ghido !>>Ghido : Hum ! Des chercheurs de>Surgate.>Chercheur : Nous avons trouvé>l’autre moitié du manuscrit scellé !>Ghido : Hum ! Excellent !|
-2072	$235849	45	 Ghido : Hum ! Etablissons un plan>d’attaque !|
-2073	$235910	199	 Ghido : Hum ! Comme vous avez pu>le constater, nos mondes se sont>fusionnés.>>Hum ! En outre, le néant essaie de>s’échapper de la fissure>interdimensionnelle.>>[Bartz] : Nous devons à tout prix>l’arrêter !|
-2074	$235AE4	468	 Ghido : Hum ! Du calme, [Bartz] …>Hum ! Le néant n’est pas la seule>chose qui fut emprisonnée dans la>fissure il y a 1000 ans…>Hum ! Nos ancêtres y bannirent>aussi des monstres surpuissants !>Les plus maléfiques qui soient !>>Hum ! Vous ne pourriez pas les>affronter maintenant. Vous>n’auriez tout simplement aucune>chance.>[Bartz] : Alors que pouvons-nous>faire ?>>>Ghido : Hum ! Vous devrez>récupérer les armes légendaires>qui ont servi à éliminer le sorcier>Enuo il y a 1000 ans.|
-2075	$235BF9	277	 Ghido : Hum ! Le voilà qui>recommence à répéter tout ce que>je dis !>>Hum ! Oui, il y a douze armes>légendaires ! Ce sont des armes.>Elles sont même légendaires.>Et il y en a douze.>Hum ! Maintenant que nous en>avons réuni les deux moitiés, le>manuscrit scellé devrait nous>guider…|
-2076	$235CE1	232	 [Bartz] : Le manuscrit ?>>Ghido : Hum ! Il est écrit :>>>« Lorsque le pouvoir du néant>repoussera toutes les barrières… »>>« Le livre qui a dormi pendant 1000>ans parlera aux guerriers de la>lumière. »>>Une voix lasse et monotone>s’élève…|
-2077	$236062	897	 \52\52 « Après la défaite d’Enuo, nos>\52\52 armes furent scellées sous le>\52\52 château de Kuza… »>>>« Quatre tablettes sont nécessaires>pour briser les sceaux. »>>\52« Bénie par la terre et les esprits>\52ancestraux, une tablette>\52sommeille… »>> « Dans un temple insulaire,> caressée par le vent, une tablette> sommeille… »>>\52« Au plus profond des océans,>\52enveloppée par les flammes, une>\52tablette sommeille… »>> « Dissimulée derrière le torrent,> rafra\D4hie par l’onde, une tablette> sommeille… »>>>\52\52« Nos serviteurs furent scellés>\52\52avec les tablettes… »>>\52 « Si vous déplacez les tablettes,>\52 ils s’éveilleront de leur sommeil>\52 éternel. »>>>\52\52 « Les sorts ultimes de magie>\52\52 blanche et de magie noire… »>>>   « Le sort qui défie le temps et>   l’espace, Météore… »>>>« Le roi des océans, Léviathan et le>roi des dragons, Bahamut… »>>\52  « Présentez ce manuscrit à>\52  l’entrée et la voie des sceaux>\52  s’ouvrira… »|
-2078	$236078	22	 >Obtenu : Manuscrit !|
-2079	$236118	160	 Ghido : Hum ! Partez !>>>>Hum ! Vous devez récupérer les>armes légendaires avant>qu’Exdeath n’obtienne le pouvoir du>néant !>Hum ! Nous comptons tous sur>vous.|
-2080	$23621A	258	 Ghido : Hum ! Allez chercher la>première tablette !>Hum ! « Bénie par la terre et les>esprits ancestraux… » J’ai trouvé !>Il doit s’agir de la pyramide dans le>désert des sables mouvants !>Hum ! Faris, Krile… et même toi,>[Bartz].>Hum ! Vous devez sauver le>monde !|
-2081	$2362AD	147	 Ghido : Hum ! Avec l’aide des douze>armes légendaires, vous pourrez>éliminer Exdeath une fois pour>toutes !>Hum ! Vous devez protéger notre>monde !|
-2082	$2362EB	62	 Ghido : Hum ! Je vais vous lire un>passage du manuscrit scellé…|
-2083	$236390	165	 Alors, ce point sur la carte>représente la bibliothèque des>anciens…>>Et si on superpose la carte de>notre monde sur la carte de l’autre>monde… Je vois ! Fascinant !|
-2084	$236405	117	 Des monstres maléfiques ont été>aspirés dans la fissure quand les>forêts et les grottes où ils>habitaient l’ont été !|
-2085	$236467	98	 Cid et Mid sont partis pour l’\B8e de>Lunule il y a quelque temps… Ils ne>sont toujours pas revenus.|
-2086	$2364D8	113	 Est-ce que le monde va être>englouti par les ténèbres ? Nous ne>pourrons plus étudier dans de>telles conditions !|
-2087	$236555	125	 Vous dites qu’Exdeath est vraiment>un arbre et qu’il a pu se>transformer en écharde ?>Fascinant…>… Euh, oui, c’est terrible !|
-2088	$23664D	248	 J’ai lu quelque part qu’un village>s’est retrouvé coincé entre les>dimensions par erreur. On raconte>qu’on pouvait y acheter des armes>et des sorts fantastiques. Si le>néant s’est échappé de la fissure,>peut-être que le village est revenu>lui aussi…|
-2089	$236685	56	 Les quatre tablettes sont>protégées par des Gargouilles.|
-2090	$2366D9	84	 Ah… Si les deux mondes se sont>superposés, Kuza devrait être>situé à l’est de Tule.|
-2091	$236717	62	 Exdeath ne pourra pas prendre le>contrôle du néant facilement.|
-2092	$236788	113	 A quoi bon essayer de vaincre>Exdeath une fois pour toutes ? Les>cristaux ont été détruits…>Nous sommes perdus !|
-2093	$236808	128	 Les cristaux ont été divisés en>deux, tout comme le monde l’a>été… Il n’y avait donc pas d’autre>moyen d’emprisonner le néant ?|
-2094	$23685C	84	 Il est écrit ici :>\52« La lumière est issue du néant. »>Qu’est-ce que ça veut dire ?|
-2095	$2368BE	98	 Une chanson s’est échappée de ce>livre quand nous l’avons brûlé…>>>\52>\52\52\52\52\52Appris : Chant de Mana !|
-2096	$23691D	95	 Le Chant de Mana… Cette mélodie>mystérieuse permet d’augmenter>la puissance magique des alliés.|
-2097	$23696F	82	 Grâce à la fusion des mondes, les>moitiés du manuscrit scellé ont pu>être réunies.|
-2098	$236A19	170	 Je vous en supplie ! Arrêtez>Exdeath ! Il ne doit pas obtenir le>pouvoir du néant !>>Je peux peut-être vous aider…>Voulez- vous que je lise un>passage du manuscrit scellé ?|
-2099	$236A6E	85	 Exdeath : Créatures prisonnières>de la fissure interdimensionnelle !>Mes serviteurs !|
-2100	$236B32	196	 Exdeath : Des guerriers guidés par>la lumière des cristaux veulent>s’emparer des tablettes…>Eliminez-les !>Ils ne doivent pas pouvoir>récupérer les armes légendaires>qui ont détruit le grand Enuo…|
+2060	$2352E9	27	 Krile : Babbone !>>[Bartz] : Galuf !|
+2061	$235317	46	 Galuf : Simu i Guerrieri>di l'Alba !|
+2062	$2353E9	210	 Galuf : [Bartz] ! Lenna ! Faris !>Krile ! Mentre chì noi respingimu u>nèant, occupate vi d'Exdeath !>>Solu i Guerrieri di a Luce ponu>impedisce à u mondu d'esse>inghjuttitu da e tenebre !>Contemu nantu à voi !|
+2063	$235439	80	 Exdeath : Cumu ? Perchè a>putenza di u nèant sparisce ?>Bah ! Poco importa !|
+2064	$235458	31	 Lenna : Babbu !>>Faris : Babbu !|
+2065	$235507	175	 Dorgann : Aiò ![FixedPause]>>Galuf : Hè avà o mai ![FixedPause]>>Xezat : Eccu a vostra occasione…>[FixedPause]>>Kelgar : Eliminate Exdeath !>>Rè di Tycoon : à voi di ghjucà,>Guerrieri di a Luce !|
+2066	$235536	47	 [Bartz] : Exdeath ! Avà, basta !!!|
+2067	$23556F	57	 Ghido : Ooh, a mio povera testa…>>[Bartz] : Ghido ! Site bè ?|
+2068	$2355ED	126	 Ghido : Hum ! Exdeath, infame !>Hum ! Duvete arrestà lu nanzu>ch'ellu s'impadrunisca cumpletamente>di a putenza di u nèant…[FixedPause] Hum ?|
+2069	$235702	277	 Ghido : Hum ! Chì ghjè ?>[Bartz] : Hè a Biblioteca>di l'Antichi…>>Ghido : HUM ! A legendaria>Biblioteca di l'Antichi ? Sai almenu>ricunnosce a so impurtanza ?>>Hum ! Ben intesu chì nò… E pensà>ch'ella hè stata quì tuttu issu>tempu…|
+2070	$23577E	124	 Ghido : Hum ! Seguitate mi, zitelli !>Hum ! Sta biblioteca cuntene u libru>chì ci mostrerà cumu eliminà>Exdeath !|
+2071	$23581C	158	 Sapiente : Saviu Ghido !>>Ghido : Hum ! I sapienti di>Surgate.>Sapiente : Avemu trovu l'altra>mità di u Manuscrittu sigillatu !>Ghido : Hum ! Eccellente !|
+2072	$235849	45	 Ghido : Hum ! Tenimu cunsigliu di>guerra !|
+2073	$235910	199	 Ghido : Hum ! Cum'è l'avete>custatatu, i nostri mondi si sò>riuniti.>>Hum ! È dinù, u nèant prova à>scappà da a fessura>interdimensionale.>>[Bartz] : Ci tocca à arrestà lu à>tutti i costi !|
+2074	$235AE4	468	 Ghido : Hum ! Pianu, [Bartz]…>Hum ! U nèant ùn hè micca a sola>cosa ch'era stata imprigiunata in a>fessura mille anni fà…>Hum ! I nostri antenati ci anu>banditu dinù mostri d'una putenza>spropurziunata ! I più>malefichi chì ci sianu !>>Hum ! Ùn puderiate micca>affrontà li avà. Ùn averiate>assolutamente nisuna speranza.>[Bartz] : Tandu chì pudemu fà ?>>Ghido : Hum ! Vi tuccherà à>ricuperà l'arme leggendarie chì>servinu à eliminà u stregone>Enuo mille anni fà.|
+2075	$235BF9	277	 Ghido : Hum ! Eccu lu chì si>rimette à ripete tuttu ciò ch'eiu>dicu !>>Hum ! Iè, ci sò dodici arme>leggendarie ! Sò arme. Sò ancu>leggendarie. È ce ne sò dodici.>Hum ! Avà chì avemu riunitu e so>due metà, u Manuscrittu sigillatu>duverebbe guidà ci…|
+2076	$235CE1	232	 [Bartz] : U Manuscrittu ?>>Ghido : Hum ! Ci hè scrittu :>>>\52Quandu a putenza di u nèant>spingerà ind'è daretu tutte e>barriere…" >>\52U libru chì hà durmitu mille anni>parlerà à i Guerrieri di a>Luce." >>Una voce stanca è monotona>s'eleva…|
+2077	$236062	897	 \52\52\52\52\52\52\52\52\52\52 Dopu à a disfatta>\52\52\52\52\52\52\52\52\52\52 d'Enuo, avemu sigillatu>\52\52\52\52\52\52\52\52\52\52 e nostre dodici arme>\52\52\52\52\52\52\52\52\52\52 sottu à u castellu di>\52\52\52\52\52\52\52\52\52\52 Kuza…>>>Quattru tavulette sò necessarie>per rompe i sigilli.>>\52\52\52Ne riposa una cù l'anime>\52\52\52di u passatu, prutetta>\52\52\52da a terra…>> Ne riposa una in un tempiu> insulare, prutetta da u ventu…>>\52\52Ne riposa una in un locu più>\52\52prufondu chè u fondu di>\52\52l'oceanu, prutetta da e fiamme…>> Ne riposa l'ultima daretu à un> torrente, prutetta da l'acqua…>>>\52\52\52\52\52\52\52\52\52\52 Avemu sigillatu ancu>\52\52\52\52\52\52\52\52\52\52 i nostri servitori cù>\52\52\52\52\52\52\52\52\52\52 e tavulette…>>\52\52\52Se e tavulette sò spiazzate,>\52\52\52i nostri servitori si>\52\52\52svegliaranu anch'elli da u>\52\52\52so sonnu eternu…>>>\52\52\52\52\52\52\52\52\52\52 I sorti supremi di>\52\52\52\52\52\52\52\52\52\52 magia bianca è di>\52\52\52\52\52\52\52\52\52\52 magia nera…>>>   U sortilegiu chì sfida u>   tempu è u spaziu, Meteore…>>> U rè di l'oceani, Léviathan, è> u rè di i dragoni, Bahamut…>>\52\52\52Presentate stu libru à>\52\52\52l'entrata è a via versu>\52\52\52i sigilli s'aprerà…|
+2078	$236078	22	 >Pigliatu : Manuscrittu !|
+2079	$236118	160	 Ghido : Hum ! Partite !>>>>Hum ! Duvete ricuperà l'arme>leggendarie nanzu ch'Exdeath>s'impadrunisca di a putenza di u>nèant ! Hum ! Contemu tutti>nantu à voi.|
+2080	$23621A	258	 Ghido : Hum ! Andate à circà a>prima tavuletta !>Hum ! \52Ne riposa una cù l'anime>di u passatu, prutetta da a>terra…" Aghju trovu !>Deve trattà si di a piramide in u>Desertu di e Sabbie Mobili !>Hum ! Faris, Krile… è ancu tù,>[Bartz].>Hum ! Duvete salvà u>mondu !|
+2081	$2362AD	147	 Ghido : Hum ! Cù l'aiutu di e>dodici arme leggendarie, puderete>eliminà Exdeath una volta per tutte !>Hum ! Duvete prutege u nostru>mondu !|
+2082	$2362EB	62	 Ghido : Hum ! Vi leghju un>passaghju di u Manuscrittu>sigillatu…|
+2083	$236390	165	 Dunque, stu puntu nantu à a carta>rapprisenta a Biblioteca di>l'Antichi…>>È s'è no suprapunimu a carta di>u nostru mondu à quella di l'altru>mondu… Ah ! Capiscu ! Affascinante !|
+2084	$236405	117	 Ci hè scrittu quì chì fureste è>grotte malefiche, piene di mostri>spaventevuli, sò state sigillate in a>fessura interdimensionale.|
+2085	$236467	98	 Cid è Mid sò partuti per>l'isula di Lunule qualchì tempu>fà… È ùn sò ancu vultati.|
+2086	$2364D8	113	 U mondu hà da esse inghjuttitu da>e tenebre ? ùn puderemu più>studià in cundizioni simili !|
+2087	$236555	125	 Vulete dì chì Exdeath hè veramente>un arburu è ch'ellu hà pussutu>trasfurmà si in una scheggia ?>Affascinante… euh, vogliu dì,>spaventosu !|
+2088	$23664D	248	 Aghju lettu in qualchì locu ch'un>paese s'hè ritruvatu bluccatu trà e>dimensioni per sbagliu. Si conta>ch'ellu ci si pudianu cumprà arme>è sorti fantastichi. S'è u nèant hè>scappatu da a fessura, tandu forse>u paese serà vultatu anch'ellu…|
+2089	$236685	56	 E quattru tavulette sò prutette da>e Gargouille.|
+2090	$2366D9	84	 Ah… S'è i dui mondi si sò>supraposti, Kuza duverebbe>truvà si à livante di Tule.|
+2091	$236717	62	 Exdeath ùn puderà micca>s'impadrunisce cusì facilmente di a>putenza di u nèant.|
+2092	$236788	113	 à chì serve di pruvà à vince>Exdeath una volta per tutte ? I>cristalli sò stati distrutti… Simu>persi !|
+2093	$236808	128	 I cristalli sò stati spartuti in dui, è u>mondu listessu hè statu spartutu in>dui… ùn ci era dunque altra manera>di sigillà u nèant ?|
+2094	$23685C	84	 Hè scrittu quì :>\52A luce nasce da u nèant.">Chì vulerà dì ?|
+2095	$2368BE	98	 Un cantu hè surtitu da stu>libru quandu l'avemu brusgiatu…>>>\52>\52\52\52\52\52Appris : Cantu di Mana !|
+2096	$23691D	95	 U Cantu di Mana… Sta melodia>misteriosa permette d'aumentà a>putenza magica di l'alliati.|
+2097	$23696F	82	 Cù a fusione di i mondi, e duie>metà di u Manuscrittu sigillatu anu>pussutu esse riunite.|
+2098	$236A19	170	 Vi ne pregu ! Arrestati>Exdeath ! ùn deve micca>impadrunì si di a putenza di u>nèant !>>Forse possu aiutà vi…>Vulete ch'eiu vi leghi un passaghju>di u Manuscrittu sigillatu ?|
+2099	$236A6E	85	 Exdeath : Criature imprigiunate>in a fessura interdimensionale !>Miei servitori !|
+2100	$236B32	196	 Exdeath : Guerrieri guidati da a>luce di i cristalli cercanu e>tavulette antiche…>Andate, tumbate li !!>Ùn devenu micca ricuperà e>arme leggendarie chì anu distruttu>u grande Enuo…|
 2101	$236BDE	172	 Nous nous en chargerons, maître !>>>>Exdeath : Excellent ! Partez>immédiatement !>>>Débarrassez-vous d’eux alors que>je m’empare du pouvoir du néant !>Mouah ha, ha, ha, ha !|
 2102	$236C19	59	 Nous avons été prisonniers de la>fissure pendant 1000 ans…|
 2103	$236C85	108	 Lorsqu’il obtiendra le pouvoir du>néant, notre maître Exdeath>créera un nouveau monde de>ténèbres pour nous !|
