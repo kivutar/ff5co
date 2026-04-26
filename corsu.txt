@@ -598,106 +598,106 @@
 598	$21BACA	45	 Mostri anu invaditu u vascellu>termicu…|
 599	$21BADE	20	 Fermate u mutore !|
 600	$21BB18	58	 S'è vo ùn firmate micca u>mutore, u cristallu si romperà…|
-601	$21BB3A	34	 Cid : Vous en avez mis du temps !|
-602	$21BBFE	196	 Cid : J’avais raison… C’est le>moteur qui draine le pouvoir du>cristal…>[Bartz] : Le moteur ?>Cid : Oui, si nous n’arrêtons pas le>moteur au plus vite, le cristal va se>briser. Pourriez-vous le faire ?|
-603	$21BC80	130	 Cid : Vous pouvez entrer par ici,>mais prenez garde ! Des monstres>ont envahi le navire !>>Bonne chance ! Nous comptons sur>vous.|
-604	$21BCB2	50	 Cid : Arrêtez le moteur ! C’est à>vous de jouer !|
-605	$21BCE1	47	 Lenna : Votre Majesté !>[Bartz] : Que se passe-t-il ?|
-606	$21BD1E	61	 Reine de Karnak : Vous oseriez>faire obstacle à mon retour ?|
-607	$21BEAA	396	 [Bartz] : Votre Majesté !>\52>>>Reine de Karnak : J’étais sous le>contrôle d’un esprit maléfique…>Il cherche à noyer le monde dans>les ténèbres…>[Bartz] : Votre Majesté…>>>>Reine de Karnak : Les machines ne>sont pas la seule cause de la>destruction des cristaux… Une>présence maléfique essaie de>s’échapper en utilisant leur>pouvoir… Je vous en supplie,>protégez le cristal du feu… Il est>dans la salle suivante.|
-608	$21BEF1	71	 Reine de Karnak : Ne vous>inquiétez pas pour moi…>Protégez le cristal…|
-609	$21BF0D	28	 Lenna : Le cristal du feu !|
-610	$21BF4F	66	 Loup-garou : Le ciel soit loué !>Le cristal est toujours intact !|
-611	$21BF64	21	 Loup-garou : Galuf ?|
-612	$21BFE2	126	 [Bartz] : Nous ne te laisserons pas>t’emparer du cristal !>Loup-garou : Je ne suis pas votre>ennemi !>[Bartz] : C’est difficile à croire !|
-613	$21C06E	140	 Loup-garou : Galuf, dis quelque>chose ! Que t’est-il arrivé ?>>>Galuf : Tu sais qui je suis ? Oooh…>Je ne me souviens de rien…>Qui suis-je ?|
-614	$21C0CA	92	 Loup-garou : Que fais-tu ? Non !>Le cristal se brisera si tu>transfères trop de puissance !|
-615	$21C11F	85	 Et de trois… Plus qu’un, et les>sceaux seront enfin tous brisés !>Mouah ha, ha, ha !|
-616	$21C147	40	 [Bartz] : Rien à faire. Le levier est>brisé !|
-617	$21C1C2	123	 Loup-garou : Je vais essayer de>retarder l’explosion ! Fuyez ! Il ne>reste plus que le cristal de la>terre ! Protégez-le !|
-618	$21C243	129	 Loup-garou : Partez ! Si le cristal>se brise, la salle sera incendiée !>Vous devez à tout prix aller>protéger le dernier cristal !|
-619	$21C275	50	 [Bartz] : Le loup-garou !>Lenna : Nous devons l’aider !|
-620	$21C29C	39	 Loup-garou : Galuf… Je compte sur>toi…|
-621	$21C2E8	76	 Faris : Les flammes s’éteignent…>[Bartz] : Le cristal du feu a perdu>son pouvoir…|
-622	$21C34F	103	 Lenna : Le cristal s’est brisé…>Galuf : Où est le loup-garou ?>[Bartz] : Il n’a pas pu échapper aux>flammes…|
-623	$21C368	25	 Lenna : Dépêchons-nous !|
-624	$21C3F3	139	 Lenna : Le château avait été>construit grâce au pouvoir du>cristal du feu !>>[Bartz] : Alors, sans le cristal, tout>va s’effondrer et exploser ?|
-625	$21C425	50	 Lenna : Exactement ! Sortons d’ici>au plus vite !|
-626	$21C45D	56	 - Explosion dans :>>\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\5210 minutes !|
-627	$21C4AE	81	 [Bartz] : Les fragments du cristal…>Lenna : Vont-ils aussi nous>octroyer leur pouvoir ?|
-628	$21C4C5	23	 >\52\52\52\52\52\52\52\52\52\52\52\52 Dresseur|
-629	$21C4DC	23	 >\52\52\52\52\52\52\52\52\52\52\52\52 Géologue|
+601	$21BB3A	34	 Cid : Ne avete messu, di tempu !|
+602	$21BBFE	196	 Cid : Aviu ragiò… Hè u>mutore chì succhia u putere di u>cristallu…>[Bartz] : U mutore ?>Cid : Iè, s'è no ùn firmemu micca u>mutore subitu, u cristallu si>romperà. Puderiate fà la ?|
+603	$21BC80	130	 Cid : Pudete entre da quì,>ma state attenti ! I mostri>anu invaditu u vascellu !>>Bona furtuna ! Contemu nantu>à voi.|
+604	$21BCB2	50	 Cid : Firmate u mutore ! Avà>tocca à voi !|
+605	$21BCE1	47	 Lenna : Vostra Maestà !>[Bartz] : Chì succede ?|
+606	$21BD1E	61	 Regina di Karnak : Oseriate>oppone vi à u mo ritornu ?|
+607	$21BEAA	396	 [Bartz] : Vostra Maestà !>\52>>>Regina di Karnak : Eru sott'à u>cuntrollu d'un spiritu maleficu…>Prova à annegà u mondu in e>tenebre…>[Bartz] : Vostra Maestà…>>>>Regina di Karnak : E macchine ùn>sò micca a sola causa di a>distruzzione di i cristalli… Una>presenza malefica prova à>scappà aduprendu u so>putere… Vi ne supplegu,>prutegite u cristallu di u focu… Hè>in a sala accantu.|
+608	$21BEF1	71	 Regina di Karnak : Ùn vi fate micca>pena per mè…>Prutegite u cristallu…|
+609	$21BF0D	28	 Lenna : U cristallu di u focu !|
+610	$21BF4F	66	 Lupu-garou : U celu sia ludatu !>U cristallu hè sempre intattu !|
+611	$21BF64	21	 Lupu-garou : Galuf ?|
+612	$21BFE2	126	 [Bartz] : Ùn ti lasceremu micca>impadrunì ti di u cristallu !>Lupu-garou : Ùn sò micca u vostru>nemicu !>[Bartz] : Hè difficiule à crede !|
+613	$21C06E	140	 Lupu-garou : Galuf, dì qualcosa !>Chì t'hè accadutu ?>>>Galuf : Sai quale sò ? Oooh…>Ùn mi ramentu di nunda…>Quale sò ?|
+614	$21C0CA	92	 Lupu-garou : Chì faci ? Innò !>U cristallu si romperà s'è tù>li trasferisci troppu putere !|
+615	$21C11F	85	 È di trè… N'hè firmatu unu, è i>sigilli saranu infine tutti>spezzati ! Mouah ha, ha, ha !|
+616	$21C147	40	 [Bartz] : Nunda à fà. A leva hè>rotta !|
+617	$21C1C2	123	 Lupu-garou : Pruveraghju à>ritardà l'esplosione ! Fughjite ! Ùn>ferma più chè u cristallu di a>terra ! Prutegite lu !|
+618	$21C243	129	 Lupu-garou : Partite ! S'è u cristallu>si rompe, a sala serà incendiata !>Duvete à tutti i costi andà>à prutege l'ultimu cristallu !|
+619	$21C275	50	 [Bartz] : U lupu-garou !>Lenna : Ci tocca à aiutà lu !|
+620	$21C29C	39	 Lupu-garou : Galuf… Contu nantu>à tè…|
+621	$21C2E8	76	 Faris : E fiamme si spegnenu…>[Bartz] : U cristallu di u focu hà persu>u so putere…|
+622	$21C34F	103	 Lenna : U cristallu s'hè rottu…>Galuf : Induve hè u lupu-garou ?>[Bartz] : Ùn hà pussutu scappà à e>fiamme…|
+623	$21C368	25	 Lenna : Affrettemu ci !|
+624	$21C3F3	139	 Lenna : U castellu era statu>custruitu grazia à u putere di u>cristallu di u focu !>>[Bartz] : Allora, senza u cristallu,>tuttu hà da cascà è scoppià ?|
+625	$21C425	50	 Lenna : Ghjustu ! Esciamu d'quì>u più prestu pussibule !|
+626	$21C45D	56	 - Splusione ind'è :>>\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\52\5210 minuti !|
+627	$21C4AE	81	 [Bartz] : I frammenti di u cristallu…>Lenna : Ci daranu dinù u so>putere ?|
+628	$21C4C5	23	 >\52\52\52\52\52\52\52\52\52\52\52\52 Addestratore|
+629	$21C4DC	23	 >\52\52\52\52\52\52\52\52\52\52\52\52 Geomante|
 630	$21C4F2	22	 >\52\52\52\52\52\52\52\52\52\52\52\52\52\52 Ninja|
-631	$21C532	64	 Cid : Oh, si seulement je n’avais>jamais inventé cette machine…|
-632	$21C55F	45	 Cid : Tout est ma faute ! Je suis>celui qui…|
-633	$21C5AB	76	 [Bartz] : Cid !>Lenna : Professeur !>Faris : …>Galuf : Ça doit être dur pour lui…|
-634	$21C5E3	56	 Reine de Karnak : Les ténèbres…>Non ! N’approchez pas !|
-635	$21C632	79	 Nous avons ramené la reine du>navire thermique mais elle est>gravement blessée…|
-636	$21C666	52	 La reine délire depuis que nous>l’avons ramenée ici…|
-637	$21C692	44	 Nous nous sommes échappés du>château, mais…|
-638	$21C6D9	71	 La reine est à l’étage mais elle est>blessée. Le château a été détruit…|
-639	$21C720	71	 Bienvenue à Karnak, la ville qui doit>sa prospérité au cristal du feu !|
-640	$21C75B	59	 J’ai vu le professeur se diriger>vers le navire thermique.|
-641	$21C792	55	 On dirait que le feu ne réchauffe>plus la pièce… Brrr…|
-642	$21C811	127	 Mid, le petit-fils de Cid, est un des>chercheurs de la bibliothèque des>anciens. Sa soif d’apprendre>surpasse même celle de Cid !|
-643	$21C85D	76	 Le cristal s’est brisé… Le navire>thermique ne pourra plus jamais>naviguer.|
-644	$21C897	58	 Le professeur est à l’étage. Il a>l’air vraiment déprimé…|
-645	$21C8E9	82	 Le professeur est sorti d’ici tout>heureux… Je me demande ce qu’il>lui est arrivé…|
-646	$21C947	94	 [Bartz] : Cid !>Cid : Laissez-moi tranquille ! Si>seulement je n’avais jamais>inventé cette machine…|
-647	$21C99C	85	 Lenna : Professeur, ce n’est pas>votre faute…>Cid : S’il vous plaît… Laissez-moi>seul…|
+631	$21C532	64	 Cid : Oh, s'eiu ùn avessi>mai inventatu sta macchina…|
+632	$21C55F	45	 Cid : Hè tutta colpa mea ! Sò eiu>quellu chì…|
+633	$21C5AB	76	 [Bartz] : Cid !>Lenna : Prufessore !>Faris : …>Galuf : Deve esse dura per ellu…|
+634	$21C5E3	56	 Regina di Karnak : E tenebre…>Innò ! Ùn v'avvicinate micca !|
+635	$21C632	79	 Avemu riportatu a regina da u>vascellu termicu ma hè>gravamente ferita…|
+636	$21C666	52	 A regina delira dapoi chì l'avemu>purtata quì…|
+637	$21C692	44	 Simu scappati da u>castellu, ma…|
+638	$21C6D9	71	 A regina hè à u pianu supranu ma>hè ferita. U castellu hè statu>distruttu…|
+639	$21C720	71	 Benvenuti à Karnak, a cità chì deve>à u cristallu di u focu a so>pruspirità !|
+640	$21C75B	59	 Aghju vistu u prufessore andà>versu u vascellu termicu.|
+641	$21C792	55	 Pare chì u focu ùn scaldi>più a stanza… Brrr…|
+642	$21C811	127	 Mid, u nipote di Cid, hè unu di i>circadori di a biblioteca di>l'antichi. A so sete di sapè>supraneghja ancu quella di Cid !|
+643	$21C85D	76	 U cristallu s'hè rottu… U vascellu>termicu ùn puderà più mai>navigà.|
+644	$21C897	58	 U prufessore hè à u pianu supranu.>Pare veramente affannatu…|
+645	$21C8E9	82	 U prufessore hè surtitu da quì tuttu>cuntentu… Mi dumandu chì>li serà accadutu…|
+646	$21C947	94	 [Bartz] : Cid !>Cid : Lasciate mi in pace ! S'eiu>ùn avessi mai inventatu>sta macchina…|
+647	$21C99C	85	 Lenna : Prufessore, ùn hè micca>colpa vostra…>Cid : Per piacè… Lasciate mi>solu…|
 648	$21C9A4	8	 Cid : …|
-649	$21C9F6	82	 Vous avez entendu ? Ils ont>enfermé le professeur Cid dans le>donjon du château !|
-650	$21CA30	58	 Rien de mieux qu’un bon feu de>foyer pour se réchauffer !|
-651	$21CA7E	78	 Un loup-garou est sorti de>l’aérolithe ! Va-t-il vraiment venir>nous attaquer ?|
-652	$21CB09	139	 Je suis un aventurier de Jacole.>>>>Malheureusement, la route qui>mène à la bibliothèque des anciens>est bloquée et je ne peux pas>rentrer.|
-653	$21CB5C	83	 Les armes et les pièces>d’équipement fabriquées à Jacole>sont de première qualité !|
-654	$21CB89	45	 Les gardes ont arrêté un vieil>homme bizarre…|
-655	$21CBA6	29	 Mais où est donc passé Mid ?|
-656	$21CBE3	61	 Il a dit qu’il cherchait un livre…>Je ne l’ai pas revu depuis.|
-657	$21CC10	45	 Qui, Mid ? C’est le petit-fils du>professeur.|
-658	$21CC47	55	 Des monstres ont envahi le>sous-sol de la bibliothèque.|
-659	$21CCA0	89	 Bienvenue à la bibliothèque des>anciens. Vous y trouverez les plus>vieux livres au monde !|
-660	$21CCEC	76	 C’est une honte ! Les livres du>sous-sol ont été envoûtés par des>monstres !|
-661	$21CD69	125	 Voici le plus vieux livre de la>bibliothèque. Malheureusement, il>manque la moitié des pages et>personne ne peut le déchiffrer.|
-662	$21CDAE	69	 Quelque chose de très important>est écrit dans ce livre, je le sens !|
-663	$21CE16	104	 Le village de Jacole est situé au>sud d’ici. Ils ont trouvé des objets>rares dans les ruines adjacentes.|
-664	$21CE26	16	 C’est celui-là…|
-665	$21CEE4	190	 Des textes séculaires indiquent que>les cristaux possédaient autrefois>un pouvoir immense. Après cette>découverte, le professeur a>inventé une machine pour>amplifier le pouvoir des cristaux.|
-666	$21CF5F	123	 Il y a 30 ans, un monstre du nom>de Byblos est apparu près du>temple du vent.>>Il a été emprisonné sous cette>bibliothèque.|
-667	$21CFC3	100	 Je ne veux pas brûler les livres qui>ne sont pas envoûtés par un>monstre. Comment les>différencier ?|
-668	$21CFFA	55	 Autrefois, Ifrit brûlait les livres>envoûtés pour nous…|
-669	$21D05D	99	  - Les aventures d’un mage bleu ->«J’ai enfin assimilé les techniques>de l’ennemi… Rafale… Mort N5»|
-670	$21D0D2	117	 \52\52\52\52- Le journal du pérégrin ->«Je crois que je vais offrir ce>bâton étrange à l’homme que j’ai>rencontré à Tycoon…»|
-671	$21D0FC	42	 Mid est sain et sauf ! Quel>soulagement !|
-672	$21D147	75	 Mid est parti précipitamment… Il a>dit qu’il allait retrouver le>professeur.|
-673	$21D16C	37	 Mid est parti… Il avait l’air agité…|
-674	$21D1B3	71	 Mid marmonnait quelque chose à>propos du professeur quand il est>parti…|
+649	$21C9F6	82	 L'avete intesu ? Anu>chjosu u prufessore Cid in u>carceru di u castellu !|
+650	$21CA30	58	 Nunda di megliu chè un bon focu>di caminu per scaldà si !|
+651	$21CA7E	78	 Un lupu-garou hè surtitu di>l'aerolitu ! Venerà>veramente à attaccà ci ?|
+652	$21CB09	139	 Sò un avventurieru di Jacole.>>>>Sfurtunatamente, a strada chì>porta à a biblioteca di l'antichi>hè bluccata è ùn possu>micca vultà in casa.|
+653	$21CB5C	83	 L'arme è i pezzi>d'equipagiu fabbricati à Jacole>sò di prima qualità !|
+654	$21CB89	45	 E guardie anu arrestatu un vechju>omu stranu…|
+655	$21CBA6	29	 Ma induve serà passatu Mid ?|
+656	$21CBE3	61	 Hà dettu ch'ellu circava un libru…>Ùn l'aghju più rivistu dapoi.|
+657	$21CC10	45	 Quale, Mid ? Hè u nipote di u>prufessore.|
+658	$21CC47	55	 I mostri anu invaditu u>sottuterra di a biblioteca.|
+659	$21CCA0	89	 Benvenuti à a biblioteca di>l'antichi. Ci truverete i più>vechji libri di u mondu !|
+660	$21CCEC	76	 Hè una vergogna ! I libri di u>sottuterra sò stati stregati da i>mostri !|
+661	$21CD69	125	 Eccu u più vechju libru di a>biblioteca. Sfurtunatamente, ci>manca a metà di e pagine è>nimu u pò decifrà.|
+662	$21CDAE	69	 Ci hè qualcosa di assai impurtante>scrittu in stu libru, a sentu !|
+663	$21CE16	104	 U paese di Jacole hè situatu à u>sudu di quì. Anu trovu oggetti>rari in e ruvine accantu.|
+664	$21CE26	16	 Hè quellu quì…|
+665	$21CEE4	190	 Testi assai antichi indicanu chì>i cristalli pussidavanu una volta>un putere immensu. Dopu à sta>scuperta, u prufessore hà>inventatu una macchina per>amplificà u putere di i cristalli.|
+666	$21CF5F	123	 Trenta anni fà, un mostru di nome>Byblos hè apparsu vicinu à u>tempiu di u ventu.>>Hè statu imprigiunatu sottu à sta>biblioteca.|
+667	$21CFC3	100	 Ùn vogliu micca brusgià i libri chì>ùn sò micca stregati da un>mostru. Cumu fà a>difarenza ?|
+668	$21CFFA	55	 Nanzu, Ifrit brusgiava i libri>stregati per noi…|
+669	$21D05D	99	  - L'avventure d'un magu turchinu ->«Aghju infine assimilatu e tecniche>di u nemicu… Rafale… Mort N5»|
+670	$21D0D2	117	 \52\52\52\52- U ghjurnale di u pellegrinu ->«Pensu ch'offreraghju stu>bastone stranu à l'omu ch'aghju>incontru à Tycoon…»|
+671	$21D0FC	42	 Mid hè salvu è sanu ! Chì>sullievu !|
+672	$21D147	75	 Mid hè partutu in furia… Hà>dettu ch'ellu andava à ritruvà u>prufessore.|
+673	$21D16C	37	 Mid hè partutu… Paria agitatu…|
+674	$21D1B3	71	 Mid murmurava qualcosa à>prupositu di u prufessore quand'ellu>hè partutu…|
 675	$21D1BB	8	 [Bartz] : ???|
-676	$21D1E8	45	 Etagère : Mouah ha, ha ! Personne>ne passe !|
-677	$21D20F	39	 Etagère : Ah ! Ifrit !>Pardonnez-moi !|
-678	$21D25B	76	 Ifrit : Je m’appelle Ifrit… Je suis>prisonnier de ce livre depuis des>années…|
-679	$21D29E	67	 Si vous voulez faire appel à moi,>vous devrez d’abord me vaincre !|
-680	$21D2BA	28	 >\52\52\52\52\52\52\52\52\52\52Appris : Ifrit !|
-681	$21D304	74	 [Bartz] : Oh !>Lenna : Mid ?>Galuf : Attention ! J’ai un mauvais>pressentiment.|
-682	$21D320	28	 Chercheur : Mid ! Te voilà !|
-683	$21D3F4	212	 Mid : Hein ? Je vous avais pourtant>dit de ne pas me déranger !>[Bartz] : Ne me dis pas que tu n’as>rien entendu !>Mid : Entendu quoi ? Oh, il y a eu>quelques bruissements tout à>l’heure… C’est de ça dont vous>parlez ?|
-684	$21D443	79	 [Bartz] : !!>Lenna : …>Galuf : Quel étrange garçon…>Faris : Il plaisante, pas vrai ?|
-685	$21D489	70	 Mid : Bon ! Je devrais rentrer. Vous>venez ? Je connais un raccourci.|
-686	$21D506	125	 Chercheur : Mid ! Tu n’as rien ?>Chercheur : Merci d’avoir retrouvé>Mid !>>Chercheur : Nous sommes si>heureux de te revoir !|
-687	$21D52F	41	 Mid : Hein ? Vous êtes venus me>sauver ?|
-688	$21D59B	108	 Mid : Je ne sais pas trop si j’étais>vraiment en danger, mais… je vous>remercie. Ah, j’oubliais ! Regardez !|
-689	$21D623	136	 Mid : J’ai trouvé un livre>extraordinaire !>>>Avec ces instructions, nous>pourrons réparer le navire>thermique sans utiliser le cristal !|
-690	$21D6A4	129	 Mid : Je dois aller avertir papi Cid>immédiatement !>[Bartz] : Cid ?>>Mid : Oh, vous avez entendu parler>de lui ? C’est mon grand-père.|
-691	$21D710	108	 Mid : Papi est un génie ! Rien ne>peut l’arrêter ! Il n’abandonne>jamais avant d’avoir trouvé la>solution !|
-692	$21D763	83	 Faris : Il était peut-être comme ça>avant, mais…>Mid : Qu’est-ce que tu racontes ?|
-693	$21D7BB	88	 Faris : On dirait bien qu’il a jeté>l’éponge…>Mid : Comment ? Jamais il>n’abandonnerait !|
-694	$21D7D2	23	 Lenna : Mid, attends !|
-695	$21D839	103	 [Bartz] : Cid !>Cid : …>Lenna : Mid n’est pas ici ?>>Faris : Cid ! Ce n’est pas le moment>de se désespérer !|
-696	$21D888	79	 Cid : Fichez-moi la paix ! Ne perdez>pas votre temps avec un empoté>comme moi.|
-697	$21D895	13	 Mid : Papi !|
+676	$21D1E8	45	 Scaffale : Mouah ha, ha ! Nimu>passa !|
+677	$21D20F	39	 Scaffale : Ah ! Ifrit !>Perdunatemi !|
+678	$21D25B	76	 Ifrit : Mi chjamu Ifrit… Sò>prigiuneru di stu libru dapoi anni…|
+679	$21D29E	67	 S'è vo vulete fà appellu à mè,>duverete prima vince mi !|
+680	$21D2BA	28	 >\52\52\52\52\52\52\52\52\52\52Amparatu : Ifrit !|
+681	$21D304	74	 [Bartz] : Oh !>Lenna : Mid ?>Galuf : Attenti ! Aghju un gattivu>presentimentu.|
+682	$21D320	28	 Circadore : Mid ! Eccu ti !|
+683	$21D3F4	212	 Mid : Hein ? Vi avia puru>dettu di ùn mi disturbà !>[Bartz] : Ùn mi dì chì ùn hai>intesu nunda !>Mid : Intesu chì ? Oh, c'era>qualchi frusciu pocu fà… Hè di>quessa chì parlate ?|
+684	$21D443	79	 [Bartz] : !!>Lenna : …>Galuf : Chì zitellu stranu…>Faris : Scherza, nò ?|
+685	$21D489	70	 Mid : Bon ! Duvarebbe vultà.>Venite ? Cunnoscu una scorciatoia.|
+686	$21D506	125	 Circadore : Mid ! Ùn t'hè nunda ?>Circadore : Grazie d'avè ritruvatu>Mid !>>Circadore : Semu tantu>felici di ritruvà ti !|
+687	$21D52F	41	 Mid : Hein ? Siete venuti à>salvà mi ?|
+688	$21D59B	108	 Mid : Ùn sò tantu s'eiu era>veramente in periculu, ma… vi>ringraziu. Ah, mi scurdava ! Fighjate !|
+689	$21D623	136	 Mid : Aghju trovu un libru>straordinariu !>>>Cù ste istruzzioni, puderemu>riparà u vascellu>termicu senza aduprà u cristallu !|
+690	$21D6A4	129	 Mid : Devu andà à avvisà babbone>Cid subitu !>[Bartz] : Cid ?>>Mid : Oh, avete intesu parlà>di ellu ? Hè u mo missiavu.|
+691	$21D710	108	 Mid : Babbone hè un geniu ! Nunda>u pò firmà ! Ùn rinuncia>mai nanzu d'avè trovu a>soluzione !|
+692	$21D763	83	 Faris : Era forse cusì nanzu,>ma…>Mid : Chì voli dì ?|
+693	$21D7BB	88	 Faris : Pare ch'ellu abbia>ghjittatu a spugna…>Mid : Cumu ? Ùn rinuncerebbe>mai !|
+694	$21D7D2	23	 Lenna : Mid, aspetta !|
+695	$21D839	103	 [Bartz] : Cid !>Cid : …>Lenna : Mid ùn hè micca quì ?>>Faris : Cid ! Ùn hè micca u mumentu>di disperà si !|
+696	$21D888	79	 Cid : Lasciate mi in pace ! Ùn>perdite u vostru tempu cù un>impiastru cum'è mè.|
+697	$21D895	13	 Mid : Babbone !|
 698	$21D8A1	12	 Cid : Mid ?|
-699	$21D8D5	52	 Cid : Ouille ! Mid, arrête ! Qu’est-ce>que tu fais ?|
-700	$21D927	82	 Mid : Ce que je fais ? Et toi, vieille>baderne ? Tu n’abandonnes>jamais ! Jamais !|
+699	$21D8D5	52	 Cid : Ouch ! Mid, piantala ! Chì>faci ?|
+700	$21D927	82	 Mid : Chì facciu ? È tù, vechju>strampalatu ? Ùn rinunci>mai ! Mai !|
 701	$21D9C3	156	 Cid : Mid…>Mid : Tu m’as appris à ne pas>craindre l’échec… Tu m’as appris>que si je faisais une erreur, je>devais réessayer, pas abandonner !>>>>Cid : Mid…|
 702	$21DA00	61	 Cid : Mid… … Essayer encore une>fois… … Mid ! Tu as raison !|
 703	$21DA21	33	 Mid : Bien sûr que j’ai raison !|
