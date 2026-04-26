@@ -22,7 +22,7 @@
 22	$2103DC	19	 Lenna : Babbu !>[P2][AutoClose]|
 23	$21049F	195	 Lenna : Duvete andà ci>veramente ?[P2][AutoClose]>>>Rè di Tycoon : Lenna, pruteggi u>castellu in a mo assenza. Qualunque>sia ciò ch'accadi, prumettimi chì>ùn circherai micca di seguitammi.[P4][AutoClose]>Lenna : Ma…\52\52\52[P4][AutoClose]|
 24	$210521	130	 Rè di Tycoon : U ventu mughja>stranamente…>Devu andà à u tempiu di u ventu>è assicurammi ch'ùn sia accadutu>nunda à u cristallu.[P4][AutoClose]|
-25	$210599	120	 Lenna : Iè, a sentu anch'eiu. Ma>ùn hè micca prudente d'andà ci>solu…>Rè di Tycoon : ùn t'inchietà.>Andarà tuttu bè.[P4][AutoClose]|
+25	$210599	120	 Lenna : Iè, a sentu anch'eiu. Ma>ùn hè micca prudente d'andà ci>solu…>Rè di Tycoon : ùn ti ne fà.>Andarà tuttu bè.[P4][AutoClose]|
 26	$2105BA	33	 Faris : U ventu s'hè piantatu…[P2][AutoClose]|
 27	$2105E0	38	 Vechju omu : Mi devu>spiccià ![P2][AutoClose]|
 28	$210614	52	 Lenna : U ventu… S'hè piantatu ![FixedPause]>Innò ! Babbu ![P2][AutoClose]|
