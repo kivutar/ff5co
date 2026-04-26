@@ -398,106 +398,106 @@
 398	$217B9E	52	 U cristallu hè sparitu avà...|
 399	$217BF5	87	 Hè vera chì u cristallu di>Tycoon s'hè rottu ?|
 400	$217C69	116	 Cum'è à Tycoon, u nostru>cristallu s'hè rottu.>>>Si dice chì ci sò altri dui>cristalli in u mondu, ma ùn>sò induve si trovanu...|
-401	$217CB8	79	 La tour de Wolse est située au>nord d’ici. C’est de là que provient>notre eau.|
-402	$217D15	93	 Karnak est située sur le continent>ouest… Comment a-t-il pu se>rendre jusqu’ici sans bateau ?|
-403	$217D85	112	 C’est un Garula. Il vit dans la forêt>près d’ici mais il est plutôt timide,>alors ne soyez pas méchant avec>lui.|
-404	$217DBF	58	 Je vous déteste ! Vous avez été>méchant avec mon Garula !|
-405	$217E00	65	 Les eaux pures de notre cité nous>protègent contre les monstres.|
-406	$217E5F	95	 Sans le cristal, notre eau n’a plus>de pouvoir…>Nous allons devoir protéger la ville>nous-mêmes.|
-407	$217E79	26	 Grenouille : Coââ ! Coââ !|
-408	$217E9C	35	 Grenouille : Nager, c’est le pied !|
-409	$217ECB	47	 Grâce à ses eaux pures, Wolse est>invincible !|
-410	$217F04	57	 Ecoutez bien ! Si vous rencontrez>un Garkimasra, fuyez !|
-411	$217F5B	87	 J’ai entendu dire qu’il y a des>trésors fabuleux cachés dans les>catacombes du château…|
-412	$217FAF	84	 On raconte que la déesse de la>glace, Shiva, sommeille quelque>part dans le château…|
-413	$217FE3	52	 Un aérolithe s’est écrasé près de la>tour de Wolse !|
-414	$218015	50	 Hé ! Vous ! Ça vous dirait de me>laisser sortir ?|
-415	$218029	20	 Oh ! Quelle chance !|
-416	$218088	95	 Je suis Loup solitaire, célèbre>voleur à la tire, héros des gredins !>Allez, faites-moi sortir !|
-417	$2180F6	110	 Une autre évasion miraculeuse de>Loup solitaire, le célèbre voleur à>la tire ! Je vous revaudrai ça !>A plus !|
-418	$2180FC	6	 Zut !|
+401	$217CB8	79	 A nordu c'hè a torra di Wolse.>Hè da culà chì vene tutta>l'acqua di a cità.|
+402	$217D15	93	 Karnak hè nant'à u cuntinente>di punente… Cumu hà fattu à>ghjunghje sin'à quì senza battellu ?|
+403	$217D85	112	 Questu hè Garula. Vive in a>furesta vicinu à quì, ma hè>piuttostu timidu, allora ùn li>fate micca male.|
+404	$217DBF	58	 Vi detestu ! Site stati>cattivi cù u mo Garula !|
+405	$217E00	65	 L'acque pure di a nostra cità ci>prutegenu da i mostri.|
+406	$217E5F	95	 Senza u cristallu, a nostra acqua>ùn hà più putere…>Avà ci tocca à prutege a cità>noi stessi.|
+407	$217E79	26	 Rana : Craa ! Craa !|
+408	$217E9C	35	 Rana : Elli sì ch'elli stanu bè, e>rane !|
+409	$217ECB	47	 Cù a prutezzione di l'acque pure,>Wolse hè invincibile !|
+410	$217F04	57	 State à sente bè ! S'è vo>incuntrate un Garkimasra,>fughjite !|
+411	$217F5B	87	 Aghju intesu dì chì ci sò tesori>fabulosi piattati in e>catacombe di u castellu…|
+412	$217FAF	84	 Si conta chì a dea di u>ghjacciu, Shiva, dormi in qualchì>locu di stu castellu…|
+413	$217FE3	52	 Un aerolitu hè cascatu vicinu à a>torra di Wolse !|
+414	$218015	50	 Ehi, voi ! Mi vulteriate à>lascià sorte da quì ?|
+415	$218029	20	 Oh ! Chì furtuna !|
+416	$218088	95	 Eiu sò Lupu Sulitariu, famosu>latru, eroe di i malandrini !>Aiò, fatemi sorte !|
+417	$2180F6	110	 Un'altra evasione miraculosa di>Lupu Sulitariu, u famosu>latru ! Vi la renderaghju !>À dopu !|
+418	$2180FC	6	 Avaru !|
 419	$218105	9	 [Bartz] : Ah !|
-420	$218148	67	 [Bartz] : Ouf… Elle était rouillée…>J’ai eu peur qu’on reste coincés>ici !|
-421	$21817E	54	 [Bartz] : Il est dingue… On devrait>le laisser enfermé ici.|
-422	$2181AE	48	 Même un roi magnanime doit punir>les criminels…|
-423	$218224	118	 Quelle barbe ! Ces livres ne>contiennent pas les informations>nécessaires pour terminer mes>recherches sur le cristal !|
-424	$218295	113	 La bibliothèque des anciens est>située à l’ouest d’ici. Si seulement>j’avais accès aux ouvrages qu’elle>contient !|
-425	$21832C	151	 Ce livre raconte que ce sont les>eaux purifiées par le cristal qui>gardent Shiva prisonnière.>>Si vous ne me croyez pas, vous>n’avez qu’à lire ce livre !|
-426	$218373	71	 Notre eau est purifiée par le>cristal de la tour située au nord>d’ici.|
-427	$218393	32	 Bienvenue au château de Wolse !|
-428	$2183B9	38	 Le roi est parti examiner>l’aérolithe.|
-429	$21840B	82	 Notre prison est remplie de>vauriens de la pire espèce.>Ne vous en approchez pas !|
-430	$218474	105	 Je suis Shiva, la déesse de la>glace… Si vous voulez faire appel à>moi, vous devrez d’abord me>vaincre !|
-431	$218490	28	 >\52\52\52\52\52\52\52\52\52 Appris : Shiva !|
-432	$2184E4	84	 Roi de Wolse : Votre Altesse !>Quel plaisir de vous revoir !>Lenna : Votre Majesté.|
-433	$2185CA	230	 Lenna : Je viens vous présenter>une requête. Je vous en supplie !>Arrêtez d’amplifier le pouvoir du>cristal de l’eau !>Roi de Wolse : Ho, ho ! Mais vous>savez bien que cela m’est>impossible ! La prospérité de mon>royaume en dépend.|
-434	$218668	158	 Lenna : Votre Majesté, si vous ne>le faites pas, le cristal se brisera !>>>Roi de Wolse : Hum.. [FixedPause]J’ai entendu>parler de ce qui est arrivé au>cristal du vent…|
-435	$21872D	197	 Roi de Wolse : Cependant… Rien ne>prouve que la même chose se>produira avec le cristal de l’eau.>De plus, je suis certain que mes>sujets protesteraient contre>l’arrêt de l’amplification du cristal.|
-436	$21875E	49	 [Bartz] : Nous n’avons pas le temps>de discuter ainsi…|
-437	$218783	37	 [Bartz] : Mince ! Qu’est-ce qui se>passe ?|
-438	$2187EF	108	 Soldat : Votre Majesté ! Un>aérolithe vient de s’écraser près>de la tour de Wolse !>Roi de Wolse : Comment ?|
-439	$218853	100	 Roi de Wolse : Rassemblez la garde>immédiatement ! Rendons-nous à>la tour !>Soldat : A vos ordres !|
-440	$2188D8	133	 Roi de Wolse : Veuillez m’excuser.>Vous pouvez comprendre la>sévérité de la situation.>>Nous continuerons notre discussion>plus tard.|
-441	$2188F1	25	 Roi de Wolse : Partons !|
-442	$218994	163	 Un Garula s’est subitement>décha\BBé et s’est précipité dans la>tour… Nous n’avons pas pu>l’arrêter. Le roi l’a poursuivi… et>un guerrier inconnu l’a ensuite>suivi.|
-443	$2189CA	54	 Les Garulas ne sont pourtant pas>agressifs de nature…|
-444	$218A17	77	 Roi de Wolse : Le Garula est>là-haut… Je vous en supplie…>Sauvez le cristal !|
-445	$218A33	28	 >\52\52\52\52\52\52\52\52 Il a rendu l’âme…|
-446	$218A86	83	 Chevalier : On te manipule,>c’est ça ? Je ne te laisserai pas>détruire le cristal !|
-447	$218A96	16	 [Bartz] : Attention !|
-448	$218ABD	39	 Lenna : Regardez !>Faris : Le cristal…|
-449	$218AF4	55	 Lenna : Nous sommes arrivés trop>tard…>Chevalier : Aah…|
-450	$218B13	31	 Chevalier : Ooh… … Sire Galuf !|
-451	$218B7F	108	 Galuf : Qui, moi ? Tu sais qui je>suis ?>Chevalier : Sire Galuf… Je n’ai pas…>pu le protéger… Pardonnez-moi…|
-452	$218BD8	89	 Galuf : Tiens bon ! Dis-moi qui je>suis !>Chevalier : Le cristal du feu…>Protégez… [FixedPause]Aaah…|
-453	$218C3D	101	 Faris : Les fragments du cristal>brillent…>[Bartz] : Tu crois qu’ils vont aussi>nous octroyer leur pouvoir ?|
-454	$218C54	23	 >\52\52\52\52\52\52\52\52\52\52\52Mage rouge|
-455	$218C6A	22	 >\52\52\52\52\52\52\52\52\52\52\52\52\52Berserk|
-456	$218C83	25	 >\52\52\52\52\52\52\52\52\52 Chevalier mage|
-457	$218C9C	25	 >\52\52\52\52\52\52\52\52\52   Mage Chrono|
-458	$218CB3	23	 >\52\52\52\52\52\52\52\52\52\52\52\52 Invokeur|
-459	$218CEA	55	 [Bartz] : Que se passe-t-il ?>>>>Faris : La tour s’effondre !|
+420	$218148	67	 [Bartz] : Ouf… Era arrugginita…>Aghju avutu paura di firmà>chjosi quì !|
+421	$21817E	54	 [Bartz] : Hè scemu… Ci vuleria>à lasciallu chjosu quì.|
+422	$2181AE	48	 Ancu un rè magnanimu deve>punì i criminali…|
+423	$218224	118	 Uf… Cù sti libri quì ùn possu>micca fà avanzà e mio>ricerche nant'à u cristallu !|
+424	$218295	113	 A biblioteca di l'antichi hè>situata à punente di quì. S'è>solu pudia avè accessu à i so>libri !|
+425	$21832C	151	 Stu libru dice chì Shiva hè>tenuta prigiunera da l'acque>purificate da u cristallu.>>S'è ùn mi cridite micca, ùn>avete chè à leghje lu !|
+426	$218373	71	 A nostra acqua hè purificata da u>cristallu di a torra situata à u>nordu di quì.|
+427	$218393	32	 Benvenuti à u castellu di Wolse !|
+428	$2183B9	38	 U rè hè partutu à esaminà>l'aerolitu.|
+429	$21840B	82	 A nostra prigiò hè piena di>mascalzoni di a peghju razza.>Ùn vi ci avvicinate micca !|
+430	$218474	105	 Eiu sò Shiva, dea di u>ghjacciu… S'è vo vulete fà>appellu à mè, duverete prima>vince mi !|
+431	$218490	28	 >\52\52\52\52\52\52\52\52\52 Amparatu : Shiva !|
+432	$2184E4	84	 Rè di Wolse : Vostra Altezza !>Chì piacè di ritruvà vi !>Lenna : Vostra Maestà.|
+433	$2185CA	230	 Lenna : Sò venuta à fà vi>una dumanda. Vi ne supplegu !>Smettite d'amplificà u putere di>u cristallu di l'acqua !>Rè di Wolse : Ho, ho ! Ma sapete>bè chì mi hè impussibile ! A>pruspirità di u mo regnu ne>dipende.|
+434	$218668	158	 Lenna : Vostra Maestà, s'è vo ùn>lu fate micca, u cristallu si>romperà !>>>Rè di Wolse : Hum.. [FixedPause]Aghju intesu>parlà di ciò ch'ellu hè>accadutu à u cristallu di u ventu…|
+435	$21872D	197	 Rè di Wolse : Eppuru… Nunda ùn>prova chì a listessa cosa>accaderà à u cristallu di l'acqua.>È in più, sò sicuru chì i mio>sudditi pruisterianu contr'à>l'arrestu di l'amplificazione.|
+436	$21875E	49	 [Bartz] : Ùn avemu micca tempu>da discorre cusì…|
+437	$218783	37	 [Bartz] : Mince ! Chì succede ?|
+438	$2187EF	108	 Suldatu : Vostra Maestà ! Un>aerolitu hè appena cascatu>vicinu à a torra di Wolse !>Rè di Wolse : Cumu ?|
+439	$218853	100	 Rè di Wolse : Adunate a guardia>subitu ! Andemu à a torra !>Suldatu : À i vostri ordini !|
+440	$2188D8	133	 Rè di Wolse : Vogliate mi>scusà. Pudete capisce a>gravità di a situazione.>>Ripiglieremu sta discussione>più tardi.|
+441	$2188F1	25	 Rè di Wolse : Partemu !|
+442	$218994	163	 Un Garula s'hè d'un colpu>scatinatu è s'hè lampatu in a>torra… Ùn avemu pussutu>firmà lu. U rè li hè corsu>daretu… è un guerrieru scunnisciutu>l'hà seguitatu ancu ellu.|
+443	$2189CA	54	 I Garula ùn sò micca aggressivi>di natura…|
+444	$218A17	77	 Rè di Wolse : U Garula hè>quassù… Vi ne supplegu…>Salvate u cristallu !|
+445	$218A33	28	 >\52\52\52\52\52\52\52\52 Hè mortu…|
+446	$218A86	83	 Cavaliere : Hè manipulatu,>cusì ? Ùn lu lasciaraghju micca>distrughje u cristallu !|
+447	$218A96	16	 [Bartz] : Attenti !|
+448	$218ABD	39	 Lenna : Fighjate !>Faris : U cristallu…|
+449	$218AF4	55	 Lenna : Simu ghjunti troppu>tardi…>Cavaliere : Aah…|
+450	$218B13	31	 Cavaliere : Ooh… … Sire Galuf !|
+451	$218B7F	108	 Galuf : Quale, eiu ? Sai quale>sò ?>Cavaliere : Sire Galuf… Ùn aghju micca…>pussutu prutege lu… Perdunatemi…|
+452	$218BD8	89	 Galuf : Teni bonu ! Dimmi quale>sò !>Cavaliere : U cristallu di u focu…>Prutegite lu… [FixedPause]Aaah…|
+453	$218C3D	101	 Faris : I frammenti di u cristallu>splendenu…>[Bartz] : Credite ch'elli anu da>dà ci dinù u so putere ?|
+454	$218C54	23	 >\52\52\52\52\52\52\52\52\52\52\52 Magu rossu|
+455	$218C6A	22	 >\52\52\52\52\52\52\52\52\52\52\52\52\52 Berserker|
+456	$218C83	25	 >\52\52\52\52\52\52\52\52\52 Cavaliere magu|
+457	$218C9C	25	 >\52\52\52\52\52\52\52\52\52   Magu di u tempu|
+458	$218CB3	23	 >\52\52\52\52\52\52\52\52\52\52\52\52 Invucadore|
+459	$218CEA	55	 [Bartz] : Chì succede ?>>>>Faris : A torra s'affonda !|
 460	$218CFB	17	 Faris : Syldra !|
-461	$218D1B	32	 Faris : Syldra ! Tu es en vie !|
-462	$218D5F	68	 Lenna : Syldra… Tu as utilisé tes>dernières forces pour nous>sauver…|
-463	$218D9D	62	 Faris : Quoi ? Syldra ! Non !>Je ne te laisserai pas mourir !|
-464	$218DB4	23	 Lenna : Syldra… Merci…|
+461	$218D1B	32	 Faris : Syldra ! Site viva !|
+462	$218D5F	68	 Lenna : Syldra… Hai usatu e to>ultime forze per salvà ci…|
+463	$218D9D	62	 Faris : Cosa ? Syldra ! Innò !>Ùn ti lasciaraghju micca more !|
+464	$218DB4	23	 Lenna : Syldra… Grazie…|
 465	$218DC6	18	 Faris : … Syldra…|
-466	$218E91	203	 Soldat de Karnak : J’étais en train>d’explorer l’aérolithe qui s’est>écrasé près de Karnak quand>soudain… … j’ai été téléporté>jusqu’ici ! Au fait, où suis-je ?>Comment vais-je pouvoir rentrer>chez moi ?|
-467	$218ECE	61	 Je ne peux pas croire que le cristal>de l’eau se soit brisé…|
-468	$218F16	72	 Le roi s’est fait attaquer par un>Garula… Il se repose dans sa>chambre.|
-469	$218F98	130	 Le soldat de Karnak qui est sorti>de l’aérolithe au nord d’ici n’arrête>pas de divaguer… C’est quoi, un>système de téléportation ?|
-470	$218FEF	87	 Nous avons ramené le soldat>blessé de Karnak au château.>Il se repose dans la caserne.|
-471	$2190D0	225	 Roi de Wolse : Votre Altesse…>Vous aviez raison… Ooh…>Lenna : Votre Majesté !>Vous devez vous reposer…>Roi de Wolse : Dépêchez-vous !>Karnak utilise une machine>semblable à la nôtre pour amplifier>le pouvoir du cristal du feu…|
-472	$21912E	94	 Roi de Wolse : Un aérolithe s’est>aussi écrasé près de Karnak…>Il n’y a pas de temps à perdre…|
-473	$219143	21	 Roi de Wolse : Oooh…|
-474	$2191CC	137	 Votre Altesse… Puisque vous avez>retrouvé Hiryû, vous devriez>peut-être rentrer à Tycoon…>>Tout le monde doit s’inquiéter à>votre sujet.|
-475	$2191FA	46	 Je vous en prie, obéissez aux>ordres du roi !|
-476	$219234	58	 Lenna : [Bartz] !>Galuf : A-t-il réussi ? Il s’est…>[FixedPause]téléporté ?|
-477	$219249	21	 Lenna : Suivons-le !|
-478	$2192AF	102	 Galuf : Tout ceci… me semble>familier… Ce chevalier dans la tour>de Wolse me connaissait…>Qui suis-je ?|
-479	$2192E9	58	 [Bartz] : Hum… Il n’y a pas assez>d’énergie pour se téléporter…|
-480	$219327	62	 Le ciel soit loué ! Vous êtes saine et>sauve, votre Altesse !|
-481	$219340	25	 Le chancelier vous mande.|
-482	$219381	65	 Le banquet bat son plein. Quoi, vous>n’entendez pas le vacarme ?|
-483	$219391	16	 Votre Altesse !|
+466	$218E91	203	 Suldatu di Karnak : Eru in trenu>d'esplorà l'aerolitu chì era>cascatu vicinu à Karnak quand'à>d'un colpu… … sò statu>teletrasportatu sin'à quì ! Ma à>dì la franca, induve sò ? Cumu>aghju da fà per vultà in casa ?|
+467	$218ECE	61	 Ùn possu micca crede chì u>cristallu di l'acqua si sia>rottu…|
+468	$218F16	72	 U rè hè statu attaccatu da un>Garula… Si riposa in a so>stanza.|
+469	$218F98	130	 U suldatu di Karnak surtitu da>l'aerolitu à u nordu d'quì ùn>face chè divagà… Chì ghjè, stu>sistema di teletrasportu ?|
+470	$218FEF	87	 Avemu purtatu u suldatu feritu>di Karnak à u castellu.>Si riposa in a caserna.|
+471	$2190D0	225	 Rè di Wolse : Vostra Altezza…>Aviate ragiò… Ooh…>Lenna : Vostra Maestà !>Duvete ripusà vi…>Rè di Wolse : Affrettate vi !>Karnak usa una macchina>simile à a nostra per amplificà>u putere di u cristallu di u focu…|
+472	$21912E	94	 Rè di Wolse : Un aerolitu hè>cascatu dinù vicinu à Karnak…>Ùn ci hè tempu da perde…|
+473	$219143	21	 Rè di Wolse : Oooh…|
+474	$2191CC	137	 Vostra Altezza… Postu chì>avete ritrovu Hiryû, duveriate>forse vultà à Tycoon…>>Tutti si devenu fà pena per voi.|
+475	$2191FA	46	 Vi ne supplegu, ubbidite à>l'ordini di u rè !|
+476	$219234	58	 Lenna : [Bartz] !>Galuf : C'hà riesciutu ? S'hè…>[FixedPause]teletrasportatu ?|
+477	$219249	21	 Lenna : Seguimu lu !|
+478	$2192AF	102	 Galuf : Tuttu què… mi pare>famigliare… Stu cavaliere in a>torra di Wolse mi cunniscia…>Quale sò eiu ?|
+479	$2192E9	58	 [Bartz] : Hum… Ùn ci hè>micca abbastanza energia per>teletrasportà si…|
+480	$219327	62	 U celu sia ludatu ! Site sana è>salva, Vostra Altezza !|
+481	$219340	25	 U cancelliere vi manda à chjamà.|
+482	$219381	65	 U banchettu batte sempre u so>pienu. Chì, ùn sentite micca u>baccanu ?|
+483	$219391	16	 Vostra Altezza !|
 484	$219393	2	 2|
-485	$2193A8	21	 Oh ! Votre Altesse !|
+485	$2193A8	21	 Oh ! Vostra Altezza !|
 486	$2193AA	2	 3|
-487	$21958D	483	 Chancelier : Votre Altesse !>Lenna : Je suis désolée de vous>avoir causé du souci.>>Chancelier : L’important est que>vous soyez rentrée saine et sauve>au palais ! La garde a été affaiblie>par les attaques incessantes des>monstres, mais grâce à vous, nos>hommes reprendront courage.>>>Lenna : Pardonnez-moi… Je ne>peux pas rester ici.>>>Chancelier : Mais, votre Altesse !>Qu’adviendra-t-il de notre>royaume ?>>Lenna : Ce n’est pas que notre>royaume qui est en péril, mais le>monde entier !|
-488	$2195BA	45	 Lenna : Aussi… Mon père est>toujours vivant…|
-489	$219602	72	 Chancelier : Entendu. Nous>protégerons le royaume jusqu’à>votre retour !|
-490	$219654	82	 Lenna : Que la garde demeure>inébranlable jusqu’à ce que je>revienne avec le roi.|
-491	$21969E	74	 Chancelier : Passerez-vous au>moins la nuit au château ?>Lenna : Bien sûr.|
+487	$21958D	483	 Cancelliere : Vostra Altezza !>Lenna : Mi dispiace d'avè vi>cagionatu tantu penseru.>>Cancelliere : L'impurtante hè chì>site vultata sana è salva>à u palazzu ! A guardia hè stata>indebulita da l'attacchi incessanti>di i mostri, ma grazia à voi, i nostri>omi ripiglieranu curagiu.>>>Lenna : Perdunatemi… Ùn possu>micca firmà quì.>>>Cancelliere : Ma, Vostra Altezza !>Chì ne serà di u nostru>regnu ?>>Lenna : Ùn hè solu u nostru>regnu chì hè in periculu, ma u>mondu sanu !|
+488	$2195BA	45	 Lenna : È in più… U mo babbu>hè sempre vivu…|
+489	$219602	72	 Cancelliere : Capitu. Noi>prutegeremu u regnu sin'à>u vostru ritornu !|
+490	$219654	82	 Lenna : Chì a guardia fermi>salda sin'à ch'eiu vultessi>cù u rè.|
+491	$21969E	74	 Cancelliere : Passerete à u>menu a notte à u castellu ?>Lenna : Benintesa.|
 492	$2196AE	16	 Lenna : Faris ?|
-493	$2196FA	76	 Faris : Oh ![FixedPause] Ah, c’est toi, Lenna. Il se>fait tard, tu devrais te reposer.|
-494	$219797	157	 Lenna : Oui, tu es bien Sarissa, ma>sœur a\BBée !>>>Faris : Mais qu’est-ce que tu>racontes ? Comment pourrais-je>être ta sœur ? C’est ridicule !>Lenna : Mais…|
-495	$2197EE	87	 Faris : Un boucanier comme moi ne>pourrait jamais être un prince,>euh, une princesse !|
-496	$21980A	28	 Lenna : Mais ton pendentif…|
+493	$2196FA	76	 Faris : Oh ![FixedPause] Ah, sì tù, Lenna.>Si face tardi, duveresti>ripusà ti.|
+494	$219797	157	 Lenna : Iè, sì propiu Sarissa, a mo>surella maiò !>>>Faris : Ma chì dici ? Cumu>puderaghju esse a to surella ? Hè>assurdu !>Lenna : Ma…|
+495	$2197EE	87	 Faris : Una bucaniera cum'è mè ùn>puderia mai esse un principe,>euh, una principessa !|
+496	$21980A	28	 Lenna : Ma u to pendente…|
 497	$219826	28	 [Bartz] : !>>>>[Bartz] : … Zzz>… Hein ?|
-498	$219893	109	 Lenna : Hi, hi, hi !>Galuf : Mais qu’est-ce que tu fais,>petit ?>>Faris : Je crois qu’il lui manque une>case…|
-499	$2198AC	25	 Faris : Lenna, tu dors ?|
-500	$2199AE	258	 Lenna : Non… Qu’y a-t-il ?>Faris : C’est étrange… J’étais si>jeune quand le bateau a chaviré…>J’avais vraiment tout oublié de ma>vie avant l’accident.>>>>Lenna : Faris… Sarissa…>Faris : Mais cet endroit… Je… Je>m’en souviens… Je retrouve peu à>peu la mémoire…|
+498	$219893	109	 Lenna : Hi, hi, hi !>Galuf : Ma chì faci,>chjucu ?>>Faris : Credu ch'ellu li manca una>rotella…|
+499	$2198AC	25	 Faris : Lenna, dormi ?|
+500	$2199AE	258	 Lenna : Innò… Chì ci hè ?>Faris : Hè stranu… Eru tantu>chjuca quandu u battellu hà>capighjatu… Aviu scurdatu>cumpletamente a mio vita d'prima>di l'accidente.>>>>Lenna : Faris… Sarissa…>Faris : Ma stu locu… Eiu… Eiu>mi ne ramentu… Ritrovu à pocu>à pocu a memoria…|
 501	$2199CC	30	 Sarissa : Soin… Soin2… Soin3…|
 502	$219AA2	214	 Jénica : C’est assez pour>aujourd’hui.>Sarissa : Ouf ! Je suis épuisée !>>Jénica : La reine aimerait que vous>alliez border la princesse Lenna>dans son lit. Je vais corriger vos>devoirs. Allons !>Sarissa : D’accord !|
 503	$219AEC	74	 Jénica : N’oubliez pas de revenir ici>sans tra\BBer !>Sarissa : Oui ! \AEZut…\AF|
