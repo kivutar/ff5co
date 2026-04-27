@@ -635,7 +635,7 @@ sub normalize_menu_shop {
     $decoded =~ s/^Equipar$/Equiper/g;
     $decoded =~ s/^Por favor asigne cada$/Veuillez assigner chaque/g;
     $decoded =~ s/^comando a al menos un botón$/commande à au moins un bouton/g;
-    $decoded =~ s/^\[TAB3\](?:\[TAB1\]){8}\[DialogueGil\]$/[AperçuCouleur]/g;
+    $decoded =~ s/^\[TAB3\](?:\[TAB1\]){8}\[DialogueGil\]$/[ColorPreview]/g;
     return $decoded;
 }
 
