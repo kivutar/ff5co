@@ -1,490 +1,384 @@
-0	$200000	8	\A9\18lQ\BFA5\E7
-1	$200008	8	\EA\EA\EA\EA\C9\E3tt\04
-2	$200010	8	9t\2C\C1\E8\C6Q\D0
-3	$200018	5	\EB9'\2C\C1
-4	$200020	8	oo\A9\05x\BCx\BA
-5	$200028	3	\C8\C8L
-6	$200030	8	7:\B9\38\40\48[TAB3]'
-7	$200038	8	\38\40[TAB3][TAB3]\18Z\38\40
-8	$200040	7	\AAI'\38\40aL
-9	$200048	0	
-10	$200050	5	Goblin
-11	$200058	8	  Killer
-12	$200060	8	 BeeNut 
-13	$200068	8	Eater St
-14	$200070	7	ray Cat
-15	$200078	8	Steel Ba
-16	$200080	7	t Dearo
-17	$200088	8	    Stro
-18	$200090	8	per   Bla
-19	$200098	8	ck Goblin
-20	$2000A0	8	White Sna
-21	$2000A8	8	keMold W
-22	$2000B0	8	ind Mani
-23	$2000B8	8	WizardMa
-24	$2000C0	7	gic Pot
-25	$2000C8	6	Sucker
-26	$2000D0	8	  Octora
-27	$2000D8	8	ken Gatl
-28	$2000E0	8	ings  Bi
-29	$2000E8	5	ghorn
-30	$2000F0	4	Tatu
-31	$2000F8	8	  Bander
-32	$200100	8	 S. Galu
-33	$200108	8	ra    Sk
-34	$200110	6	eleton
-35	$200118	8	Carcurse
-36	$200120	8	r Undead
-37	$200128	8	RuskPsyc
-38	$200130	8	hoHeadRo
-39	$200138	8	ckGarter
-40	$200140	8	Gala Cat
-41	$200148	8	  Cockat
-42	$200150	8	riceBloc
-43	$200158	8	ks    El
-44	$200160	6	f Toad
-45	$200168	8	IceSoldi
-46	$200170	8	erRikald
-47	$200178	8	MageWyve
-48	$200180	8	rn    Pa
-49	$200188	6	dosule
-50	$200190	6	Byblos
-51	$200198	7	  Aegil
-52	$2001A0	7	    Zuu
-53	$2001A8	8	      Wil
-54	$2001B0	6	d Nack
-55	$2001B8	8	GrassTur
-56	$2001C0	8	tleSilent 
-57	$2001C8	8	Bee Mithr
-58	$2001D0	8	il DrgnRa
-59	$2001D8	3	muh
-60	$2001E0	8	Crew Dus
-61	$2001E8	8	t Polterg
-62	$2001F0	8	eistMoto
-63	$2001F8	8	r TrapDe
-64	$200200	6	feater
-65	$200208	8	Garkimas
-66	$200210	8	raSergea
-67	$200218	8	nt  Sorc
-68	$200220	8	erer  Ka
-69	$200228	4	rnak
-70	$200230	5	Gigas
-71	$200238	8	  Page 3
-72	$200240	8	2   Page
-73	$200248	8	 64   Pa
-74	$200250	6	ge 128
-75	$200258	8	Page 256
-76	$200260	7	  Ifrit
-77	$200268	8	    Bomb
-78	$200270	8	      Tw
-79	$200278	8	inLizard
-80	$200280	8	BioSoldi
-81	$200288	8	erCresce
-82	$200290	8	nt  Blac
-83	$200298	8	kFlameSt
-84	$2002A0	8	oneGolem
-85	$2002A8	8	MiniDrag
-86	$2002B0	8	onProtot
-87	$2002B8	8	ype D.Ch
-88	$2002C0	8	imera Sa
-89	$2002C8	8	nd Porky
-90	$2002D0	8	Sand Kill
-91	$2002D8	8	erSand B
-92	$2002E0	8	ear Ra M
-93	$2002E8	8	age   Lo
-94	$2002F0	8	nkaKnght
-95	$2002F8	8	StonedMa
-96	$200300	8	skWhirl D
-97	$200308	8	emonLami
-98	$200310	8	a     Ar
-99	$200318	8	chaeToad
-100	$200320	7	Hyudora
-101	$200328	7	  Hydra
-102	$200330	8	    Wate
-103	$200338	8	r BuzzTo
-104	$200340	5	rrent
-105	$200348	8	Rock Bra
-106	$200350	8	inTarant
-107	$200358	8	ula Jail
-108	$200360	8	 Bear Lu
-109	$200368	5	nenta
-110	$200370	6	Dilure
-111	$200378	8	  Faerie
-112	$200380	8	 OrcDevo
-113	$200388	8	urer  Ma
-114	$200390	6	ndrake
-115	$200398	5	Kuzar
-116	$2003A0	8	  Cactus
-117	$2003A8	8	    Sand
-118	$2003B0	8	 CrawlSh
-119	$2003B8	8	ieldDrgn
-120	$2003C0	8	Blood Sli
-121	$2003C8	8	meAcroph
-122	$2003D0	8	ese Moog
-123	$2003D8	8	lEaterLo
-124	$2003E0	4	pros
-125	$2003E8	8	Skull Eat
-126	$2003F0	8	erAquath
-127	$2003F8	8	one Were
-128	$200400	8	snake Co
-129	$200408	4	nago
-130	$200410	8	Ridicule
-131	$200418	8	  Andagr
-132	$200420	8	andaDrip
-133	$200428	8	py    Li
-134	$200430	4	kaon
-135	$200438	8	BoneDrag
-136	$200440	8	onSting E
-137	$200448	8	agleZomb
-138	$200450	8	ieDrgnGo
-139	$200458	3	lem
-140	$200460	4	Neon
-141	$200468	8	  Magnet
-142	$200470	8	es  Wall 
-143	$200478	8	KnightTr
-144	$200480	6	aveler
-145	$200488	7	Tricker
-146	$200490	8	  Gravid
-147	$200498	8	o   Zigg
-148	$2004A0	8	urat  Cu
-149	$2004A8	8	re Beast
-150	$2004B0	8	Land Tur
-151	$2004B8	8	tleBold M
-152	$2004C0	8	ani Shoa
-153	$2004C8	8	t     Mi
-154	$2004D0	6	niMage
-155	$2004D8	8	GajraGaj
-156	$2004E0	8	riMammon
-157	$2004E8	7	    Imp
-158	$2004F0	8	      Wy
-159	$2004F8	2	rm
-160	$200500	8	TwinLiza
-161	$200508	8	rdBlind W
-162	$200510	8	olf Arag
-163	$200518	8	e     Wa
-164	$200520	7	ll Mage
-165	$200528	8	Magic Dr
-166	$200530	8	gnDarkWi
-167	$200538	8	zardAdam
-168	$200540	8	aGolemBa
-169	$200548	8	ndelKuar
-170	$200550	8	Motordri
-171	$200558	8	veBlueDr
-172	$200560	8	agonRed 
-173	$200568	8	DragonYe
-174	$200570	8	llow Drgn
-175	$200578	6	Sleepy
-176	$200580	8	  Treema
-177	$200588	8	n   Hedg
-178	$200590	8	ehog  Py
-179	$200598	4	thon
-180	$2005A0	6	Shadow
-181	$2005A8	8	  Elm Gi
-182	$2005B0	7	gas Pao
-183	$2005B8	8	      Ra
-184	$2005C0	6	diator
-185	$2005C8	8	Metamorp
-186	$2005D0	8	haUnknow
-187	$2005D8	8	n   Dese
-188	$2005E0	8	rtpedeBa
-189	$2005E8	5	rette
-190	$2005F0	6	Sekmet
-191	$2005F8	8	  BlandL
-192	$200600	8	amiaPyra
-193	$200608	8	 LayerNi
-194	$200610	2	le
-195	$200618	8	Archaesa
-196	$200620	8	urZephyr
-197	$200628	8	ZoneExde
-198	$200630	8	thSoulSl
-199	$200638	2	ug
-200	$200640	8	GloomWid
-201	$200648	8	owMukare
-202	$200650	8	    Ixec
-203	$200658	8	rator Ow
-204	$200660	6	azoral
-205	$200668	8	ShdwDanc
-206	$200670	8	erCursed
-207	$200678	8	 OneSlow
-208	$200680	8	nin   Ti
-209	$200688	6	nyMage
-210	$200690	8	Dim Mast
-211	$200698	8	erBoneDr
-212	$2006A0	8	agonFlar
-213	$2006A8	8	e     Du
-214	$2006B0	8	elKnight
-215	$2006B8	3	Ion
-216	$2006C0	8	  Berser
-217	$2006C8	8	ker Zomb
-218	$2006D0	8	ieDrgnDr
-219	$2006D8	3	uid
-220	$2006E0	8	Iron Dre
-221	$2006E8	8	ssStatue
-222	$2006F0	8	    Blizz
-223	$2006F8	8	ard   Is
-224	$200700	7	teritos
-225	$200708	7	Spizner
-226	$200710	8	  Unknow
-227	$200718	8	n   Unkn
-228	$200720	8	own   Un
-229	$200728	5	known
-230	$200730	7	Unknown
-231	$200738	8	  Mercur
-232	$200740	8	yBatCora
-233	$200748	8	l     To
-234	$200750	5	nberi
-235	$200758	8	Gel Wate
-236	$200760	8	r Fall G
-237	$200768	8	uardAlcu
-238	$200770	8	mia   Re
-239	$200778	8	d Dragon
-240	$200780	5	Hydra
-241	$200788	8	  BoneDr
-242	$200790	8	agonGren
-243	$200798	8	ade   Sw
-244	$2007A0	8	rdDancer
-245	$2007A8	8	Bardande
-246	$2007B0	8	lsDoomDe
-247	$2007B8	8	alerAnku
-248	$2007C0	8	 HegguAm
-249	$2007C8	4	mona
-250	$2007D0	8	Land Cra
-251	$2007D8	8	wlChamcu
-252	$2007E0	8	bia Bella
-253	$2007E8	8	 DonnaCh
-254	$2007F0	4	erie
-255	$2007F8	8	White Fla
-256	$200800	8	meMossFu
-257	$200808	8	ngusOrca
-258	$200810	8	t     Ir
-259	$200818	8	on Giant
-260	$200820	8	Death Cl
-261	$200828	8	awK.Behe
-262	$200830	8	mothFarf
-263	$200838	8	arerroNe
-264	$200840	8	cromancr
-265	$200848	5	Ninja
-266	$200850	8	  Great 
-267	$200858	8	DrgnAvis
-268	$200860	8	DragonGo
-269	$200868	8	rchimera
-270	$200870	8	LevelChe
-271	$200878	8	ckMind M
-272	$200880	8	age Fury
-273	$200888	8	      Th
-274	$200890	3	ing
-275	$200898	5	Mover
-276	$2008A0	8	  CrysDr
-277	$2008A8	8	agonAche
-278	$2008B0	8	lone  Bo
-279	$2008B8	7	dyguard
-280	$2008C0	8	Gilgamesh
-281	$2008C8	8	  Sahagi
-282	$2008D0	8	n   Th.A
-283	$2008D8	8	nemoneSe
-284	$2008E0	6	a Avis
-285	$2008E8	7	Corvette
-286	$2008F0	7	  Armon
-287	$2008F8	8	    SeaS
-288	$200900	8	corpioSil
-289	$200908	4	vune
-290	$200910	8	Gel Fish
-291	$200918	8	  Giant 
-292	$200920	8	Bird Sea 
-293	$200928	8	Devil St
-294	$200930	6	ingray
-295	$200938	4	????
-296	$200940	7	  Golem
-297	$200948	8	    Chim
-298	$200950	8	era   Sh
-299	$200958	3	iva
-300	$200960	5	Ifrit
-301	$200968	7	  Ramuh
-302	$200970	8	    Gala
-303	$200978	8	 Cat  Wy
-304	$200980	4	vern
-305	$200988	8	Elf Toad
-306	$200990	8	  Crew D
-307	$200998	8	ust Whirl
-308	$2009A0	8	 DemonZo
-309	$2009A8	8	mbieDrgn
-310	$2009B0	8	D.Chimer
-311	$2009B8	8	a AdamaG
-312	$2009C0	8	olemZigg
-313	$2009C8	8	urat  Lo
-314	$2009D0	8	nkaKnght
-315	$2009D8	8	BioSoldi
-316	$2009E0	8	erLunent
-317	$2009E8	8	a   Tote
-318	$2009F0	8	 Avis Be
-319	$2009F8	6	lfegor
-320	$200A00	3	Imp
-321	$200A08	8	  Owazor
-322	$200A10	8	al  Gark
-323	$200A18	8	imasraGa
-324	$200A20	8	bbldegak
-325	$200A28	8	Gil Turtl
-326	$200A30	7	e Omega
-327	$200A38	8	    Big 
-328	$200A40	4	Boss
-329	$200A48	0	
-330	$200A50	8	WingRapt
-331	$200A58	8	orWingRa
-332	$200A60	8	ptorKarl
-333	$200A68	8	abos  Tw
-334	$200A70	8	in Tania
-335	$200A78	5	Siren
-336	$200A80	7	  Siren
-337	$200A88	8	    Forz
-338	$200A90	8	a     Ma
-339	$200A98	4	gisa
-340	$200AA0	6	Galura
-341	$200AA8	8	  LiquiF
-342	$200AB0	8	lameLiqu
-343	$200AB8	8	iFlameLi
-344	$200AC0	8	quiFlame
-345	$200AC8	8	Commande
-346	$200AD0	8	r Sandwo
-347	$200AD8	8	rm  Hole
-348	$200AE0	0	
-349	$200AE8	0	
-350	$200AF0	8	AdamanTi
-351	$200AF8	8	MiFlameg
-352	$200B00	8	un  Rock
-353	$200B08	8	et    Ex
-354	$200B10	5	death
-355	$200B18	8	Sol Cann
-356	$200B20	8	onArchae
-357	$200B28	8	AvisArch
-358	$200B30	8	aeAvisAr
-359	$200B38	8	chaeAvis
-360	$200B40	8	ArchaeAv
-361	$200B48	8	isArchae
-362	$200B50	8	AvisChim
-363	$200B58	8	.BrainTi
-364	$200B60	3	tan
-365	$200B68	8	Puroboro
-366	$200B70	8	s Abduct
-367	$200B78	8	or  Gilg
-368	$200B80	8	amesh Fi
-369	$200B88	5	shman
-370	$200B90	8	FlyingKi
-371	$200B98	8	llrLil'Cha
-372	$200BA0	8	riotNeoG
-373	$200BA8	8	alura Gi
-374	$200BB0	7	lgamesh
-375	$200BB8	8	Tyrasaur
-376	$200BC0	7	usShiva
-377	$200BC8	8	    Abdu
-378	$200BD0	8	ctor  Hir
-379	$200BD8	8	yuuPlant
-380	$200BE0	8	HiryuuFlo
-381	$200BE8	8	wrHiryuuF
-382	$200BF0	8	lowrHiryu
-383	$200BF8	8	uFlowrHir
-384	$200C00	8	yuuFlowr
-385	$200C08	8	HiryuuFlo
-386	$200C10	8	wrGilgam
-387	$200C18	8	esh Enki
-388	$200C20	8	dou   At
-389	$200C28	3	mos
-390	$200C30	0	
-391	$200C38	0	
-392	$200C40	0	
-393	$200C48	0	
-394	$200C50	0	
-395	$200C58	8	Carbunkl
-396	$200C60	8	e Meruge
-397	$200C68	8	ne  Gilg
-398	$200C70	8	amesh Ex
-399	$200C78	5	death
-400	$200C80	7	Antlion
-401	$200C88	7	  Mummy
-402	$200C90	8	    Aspi
-403	$200C98	8	s     Ma
-404	$200CA0	8	chinHead
-405	$200CA8	8	Merugene
-406	$200CB0	8	  Meruge
-407	$200CB8	8	ne  Meru
-408	$200CC0	8	gene  Me
-409	$200CC8	6	rugene
-410	$200CD0	4	Odin
-411	$200CD8	8	  Gargoy
-412	$200CE0	8	le  Trit
-413	$200CE8	8	on    Ne
-414	$200CF0	6	regeid
-415	$200CF8	6	Phobos
-416	$200D00	8	  Omnisc
-417	$200D08	8	ientMino
-418	$200D10	8	taurosLe
-419	$200D18	7	viathan
-420	$200D20	7	Stalker
-421	$200D28	6	  Gogo
-422	$200D30	8	    Baha
-423	$200D38	8	mut   Ju
-424	$200D40	7	ra Avis
-425	$200D48	8	Halicarna
-426	$200D50	8	soExdeat
-427	$200D58	8	h   NeoE
-428	$200D60	8	xdeathNe
-429	$200D68	8	oExdeath
-430	$200D70	6	Goblin
-431	$200D78	8	  Iron C
-432	$200D80	8	law Serg
-433	$200D88	8	eant  Ka
-434	$200D90	4	rnak
-435	$200D98	8	Crayclaw
-436	$200DA0	8	  NeoGob
-437	$200DA8	8	lin Calo
-438	$200DB0	8	\A5steriAp
-439	$200DB8	8	ocalypse
-440	$200DC0	8	Catastro
-441	$200DC8	8	phNecrof
-442	$200DD0	8	obiaTwin
-443	$200DD8	8	 TaniaLa
-444	$200DE0	6	uncher
-445	$200DE8	8	Launcher
-446	$200DF0	8	  Gilgam
-447	$200DF8	8	esh Carb
-448	$200E00	8	unkle Gr
-449	$200E08	8	andMummy
-450	$200E10	6	Apanda
-451	$200E18	8	  Alte R
-452	$200E20	8	oiteInvi
-453	$200E28	8	sible Ab
-454	$200E30	6	ductor
-455	$200E38	8	BandelKu
-456	$200E40	8	arLiquiF
-457	$200E48	8	lameKuza
-458	$200E50	8	r     So
-459	$200E58	8	l Cannon
-460	$200E60	7	Pantera
-461	$200E68	8	  Shinry
-462	$200E70	8	uu  Barr
-463	$200E78	3	ier
-464	$200E80	0	
-465	$200E88	0	
-466	$200E90	0	
-467	$200E98	0	
-468	$200EA0	0	
-469	$200EA8	0	
-470	$200EB0	7	Chocobo
-471	$200EB8	8	  FatCho
-472	$200EC0	8	coboSylp
-473	$200EC8	8	h     Re
-474	$200ED0	4	mora
-475	$200ED8	5	Shiva
-476	$200EE0	7	  Ramuh
-477	$200EE8	8	    Ifri
-478	$200EF0	8	t     Ti
-479	$200EF8	3	tan
-480	$200F00	5	Golem
-481	$200F08	7	  Shoat
-482	$200F10	8	    Carb
-483	$200F18	8	unkle Sy
-484	$200F20	4	ldra
-485	$200F28	4	Odin
-486	$200F30	8	  Phoeni
-487	$200F38	8	x   Levi
-488	$200F40	8	athan Ba
-489	$200F48	5	hamut
+0	$200050	5	Goblin
+1	$20005A	10	Killer Bee
+2	$200064	9	Nut Eater
+3	$20006E	9	Stray Cat
+4	$200078	9	Steel Bat
+5	$200082	5	Dearo
+6	$20008C	7	Stroper
+7	$200096	10	Black Goblin
+8	$2000A0	10	White Snake
+9	$2000AA	9	Mold Wind
+10	$2000B4	10	ManiWizard
+11	$2000BE	9	Magic Pot
+12	$2000C8	6	Sucker
+13	$2000D2	9	Octoraken
+14	$2000DC	8	Gatlings
+15	$2000E6	7	Bighorn
+16	$2000F0	4	Tatu
+17	$2000FA	9	Bander S.
+18	$200104	6	Galura
+19	$20010E	8	Skeleton
+20	$200118	9	Carcurser
+21	$200122	10	UndeadRusk
+22	$20012C	10	PsychoHead
+23	$200136	10	RockGarter
+24	$200140	8	Gala Cat
+25	$20014A	10	Cockatrice
+26	$200154	6	Blocks
+27	$20015E	8	Elf Toad
+28	$200168	10	IceSoldier
+29	$200172	10	RikaldMage
+30	$20017C	6	Wyvern
+31	$200186	8	Padosule
+32	$200190	6	Byblos
+33	$20019A	5	Aegil
+34	$2001A4	3	Zuu
+35	$2001AE	8	Wild Nack
+36	$2001B8	10	GrassTurtle
+37	$2001C2	9	Silent Bee
+38	$2001CC	10	Mithril Drgn
+39	$2001D6	5	Ramuh
+40	$2001E0	9	Crew Dust
+41	$2001EA	10	Poltergeist
+42	$2001F4	10	Motor Trap
+43	$2001FE	8	Defeater
+44	$200208	10	Garkimasra
+45	$200212	8	Sergeant
+46	$20021C	8	Sorcerer
+47	$200226	6	Karnak
+48	$200230	5	Gigas
+49	$20023A	7	Page 32
+50	$200244	7	Page 64
+51	$20024E	8	Page 128
+52	$200258	8	Page 256
+53	$200262	5	Ifrit
+54	$20026C	4	Bomb
+55	$200276	10	TwinLizard
+56	$200280	10	BioSoldier
+57	$20028A	8	Crescent
+58	$200294	10	BlackFlame
+59	$20029E	10	StoneGolem
+60	$2002A8	10	MiniDragon
+61	$2002B2	9	Prototype
+62	$2002BC	9	D.Chimera
+63	$2002C6	10	Sand Porky
+64	$2002D0	10	Sand Killer
+65	$2002DA	9	Sand Bear
+66	$2002E4	7	Ra Mage
+67	$2002EE	10	LonkaKnght
+68	$2002F8	10	StonedMask
+69	$200302	10	Whirl Demon
+70	$20030C	5	Lamia
+71	$200316	10	ArchaeToad
+72	$200320	7	Hyudora
+73	$20032A	5	Hydra
+74	$200334	10	Water Buzz
+75	$20033E	7	Torrent
+76	$200348	10	Rock Brain
+77	$200352	9	Tarantula
+78	$20035C	9	Jail Bear
+79	$200366	7	Lunenta
+80	$200370	6	Dilure
+81	$20037A	10	Faerie Orc
+82	$200384	8	Devourer
+83	$20038E	8	Mandrake
+84	$200398	5	Kuzar
+85	$2003A2	6	Cactus
+86	$2003AC	10	Sand Crawl
+87	$2003B6	10	ShieldDrgn
+88	$2003C0	10	Blood Slime
+89	$2003CA	9	Acrophese
+90	$2003D4	10	MooglEater
+91	$2003DE	6	Lopros
+92	$2003E8	10	Skull Eater
+93	$2003F2	9	Aquathone
+94	$2003FC	9	Weresnake
+95	$200406	6	Conago
+96	$200410	8	Ridicule
+97	$20041A	10	Andagranda
+98	$200424	6	Drippy
+99	$20042E	6	Likaon
+100	$200438	10	BoneDragon
+101	$200442	10	Sting Eagle
+102	$20044C	10	ZombieDrgn
+103	$200456	5	Golem
+104	$200460	4	Neon
+105	$20046A	8	Magnetes
+106	$200474	10	Wall Knight
+107	$20047E	8	Traveler
+108	$200488	7	Tricker
+109	$200492	7	Gravido
+110	$20049C	8	Ziggurat
+111	$2004A6	10	Cure Beast
+112	$2004B0	10	Land Turtle
+113	$2004BA	9	Bold Mani
+114	$2004C4	5	Shoat
+115	$2004CE	8	MiniMage
+116	$2004D8	10	GajraGajri
+117	$2004E2	6	Mammon
+118	$2004EC	3	Imp
+119	$2004F6	4	Wyrm
+120	$200500	10	TwinLizard
+121	$20050A	9	Blind Wolf
+122	$200514	5	Arage
+123	$20051E	9	Wall Mage
+124	$200528	10	Magic Drgn
+125	$200532	10	DarkWizard
+126	$20053C	10	AdamaGolem
+127	$200546	10	BandelKuar
+128	$200550	10	Motordrive
+129	$20055A	10	BlueDragon
+130	$200564	10	Red Dragon
+131	$20056E	10	Yellow Drgn
+132	$200578	6	Sleepy
+133	$200582	7	Treeman
+134	$20058C	8	Hedgehog
+135	$200596	6	Python
+136	$2005A0	6	Shadow
+137	$2005AA	9	Elm Gigas
+138	$2005B4	3	Pao
+139	$2005BE	8	Radiator
+140	$2005C8	10	Metamorpha
+141	$2005D2	7	Unknown
+142	$2005DC	10	Desertpede
+143	$2005E6	7	Barette
+144	$2005F0	6	Sekmet
+145	$2005FA	10	BlandLamia
+146	$200604	10	Pyra Layer
+147	$20060E	4	Nile
+148	$200618	10	Archaesaur
+149	$200622	10	ZephyrZone
+150	$20062C	10	ExdethSoul
+151	$200636	4	Slug
+152	$200640	10	GloomWidow
+153	$20064A	6	Mukare
+154	$200654	9	Ixecrator
+155	$20065E	8	Owazoral
+156	$200668	10	ShdwDancer
+157	$200672	10	Cursed One
+158	$20067C	7	Slownin
+159	$200686	8	TinyMage
+160	$200690	10	Dim Master
+161	$20069A	10	BoneDragon
+162	$2006A4	5	Flare
+163	$2006AE	10	DuelKnight
+164	$2006B8	3	Ion
+165	$2006C2	9	Berserker
+166	$2006CC	10	ZombieDrgn
+167	$2006D6	5	Druid
+168	$2006E0	10	Iron Dress
+169	$2006EA	6	Statue
+170	$2006F4	7	Blizzard
+171	$2006FE	9	Isteritos
+172	$200708	7	Spizner
+173	$200712	7	Unknown
+174	$20071C	7	Unknown
+175	$200726	7	Unknown
+176	$200730	7	Unknown
+177	$20073A	10	MercuryBat
+178	$200744	5	Coral
+179	$20074E	7	Tonberi
+180	$200758	9	Gel Water
+181	$200762	10	Fall Guard
+182	$20076C	7	Alcumia
+183	$200776	10	Red Dragon
+184	$200780	5	Hydra
+185	$20078A	10	BoneDragon
+186	$200794	7	Grenade
+187	$20079E	10	SwrdDancer
+188	$2007A8	10	Bardandels
+189	$2007B2	10	DoomDealer
+190	$2007BC	10	Anku Heggu
+191	$2007C6	6	Ammona
+192	$2007D0	10	Land Crawl
+193	$2007DA	9	Chamcubia
+194	$2007E4	10	Bella Donna
+195	$2007EE	6	Cherie
+196	$2007F8	10	White Flame
+197	$200802	10	MossFungus
+198	$20080C	5	Orcat
+199	$200816	10	Iron Giant
+200	$200820	10	Death Claw
+201	$20082A	10	K.Behemoth
+202	$200834	10	Farfarerro
+203	$20083E	10	Necromancr
+204	$200848	5	Ninja
+205	$200852	10	Great Drgn
+206	$20085C	10	AvisDragon
+207	$200866	10	Gorchimera
+208	$200870	10	LevelCheck
+209	$20087A	9	Mind Mage
+210	$200884	4	Fury
+211	$20088E	5	Thing
+212	$200898	5	Mover
+213	$2008A2	10	CrysDragon
+214	$2008AC	8	Achelone
+215	$2008B6	9	Bodyguard
+216	$2008C0	8	Gilgamesh
+217	$2008CA	7	Sahagin
+218	$2008D4	10	Th.Anemone
+219	$2008DE	8	Sea Avis
+220	$2008E8	7	Corvette
+221	$2008F2	5	Armon
+222	$2008FC	10	SeaScorpio
+223	$200906	6	Silvune
+224	$200910	8	Gel Fish
+225	$20091A	9	Giant Bird
+226	$200924	9	Sea Devil
+227	$20092E	8	Stingray
+228	$200938	4	????
+229	$200942	5	Golem
+230	$20094C	7	Chimera
+231	$200956	5	Shiva
+232	$200960	5	Ifrit
+233	$20096A	5	Ramuh
+234	$200974	8	Gala Cat
+235	$20097E	6	Wyvern
+236	$200988	8	Elf Toad
+237	$200992	9	Crew Dust
+238	$20099C	10	Whirl Demon
+239	$2009A6	10	ZombieDrgn
+240	$2009B0	9	D.Chimera
+241	$2009BA	10	AdamaGolem
+242	$2009C4	8	Ziggurat
+243	$2009CE	10	LonkaKnght
+244	$2009D8	10	BioSoldier
+245	$2009E2	7	Lunenta
+246	$2009EC	9	Tote Avis
+247	$2009F6	8	Belfegor
+248	$200A00	3	Imp
+249	$200A0A	8	Owazoral
+250	$200A14	10	Garkimasra
+251	$200A1E	10	Gabbldegak
+252	$200A28	9	Gil Turtle
+253	$200A32	5	Omega
+254	$200A3C	8	Big Boss
+255	$200A46	0	
+256	$200A50	10	WingRaptor
+257	$200A5A	10	WingRaptor
+258	$200A64	8	Karlabos
+259	$200A6E	10	Twin Tania
+260	$200A78	5	Siren
+261	$200A82	5	Siren
+262	$200A8C	5	Forza
+263	$200A96	6	Magisa
+264	$200AA0	6	Galura
+265	$200AAA	10	LiquiFlame
+266	$200AB4	10	LiquiFlame
+267	$200ABE	10	LiquiFlame
+268	$200AC8	9	Commander
+269	$200AD2	8	Sandworm
+270	$200ADC	4	Hole
+271	$200AE6	0	
+272	$200AF0	10	AdamanTiMi
+273	$200AFA	8	Flamegun
+274	$200B04	6	Rocket
+275	$200B0E	7	Exdeath
+276	$200B18	10	Sol Cannon
+277	$200B22	10	ArchaeAvis
+278	$200B2C	10	ArchaeAvis
+279	$200B36	10	ArchaeAvis
+280	$200B40	10	ArchaeAvis
+281	$200B4A	10	ArchaeAvis
+282	$200B54	10	Chim.Brain
+283	$200B5E	5	Titan
+284	$200B68	9	Puroboros
+285	$200B72	8	Abductor
+286	$200B7C	9	Gilgamesh
+287	$200B86	7	Fishman
+288	$200B90	10	FlyingKillr
+289	$200B9A	10	Lil'Chariot
+290	$200BA4	9	NeoGalura
+291	$200BAE	9	Gilgamesh
+292	$200BB8	10	Tyrasaurus
+293	$200BC2	5	Shiva
+294	$200BCC	8	Abductor
+295	$200BD6	10	HiryuuPlant
+296	$200BE0	10	HiryuuFlowr
+297	$200BEA	10	HiryuuFlowr
+298	$200BF4	10	HiryuuFlowr
+299	$200BFE	10	HiryuuFlowr
+300	$200C08	10	HiryuuFlowr
+301	$200C12	9	Gilgamesh
+302	$200C1C	7	Enkidou
+303	$200C26	5	Atmos
+304	$200C30	0	
+305	$200C3A	0	
+306	$200C44	0	
+307	$200C4E	0	
+308	$200C58	9	Carbunkle
+309	$200C62	8	Merugene
+310	$200C6C	9	Gilgamesh
+311	$200C76	7	Exdeath
+312	$200C80	7	Antlion
+313	$200C8A	5	Mummy
+314	$200C94	5	Aspis
+315	$200C9E	10	MachinHead
+316	$200CA8	8	Merugene
+317	$200CB2	8	Merugene
+318	$200CBC	8	Merugene
+319	$200CC6	8	Merugene
+320	$200CD0	4	Odin
+321	$200CDA	8	Gargoyle
+322	$200CE4	6	Triton
+323	$200CEE	8	Neregeid
+324	$200CF8	6	Phobos
+325	$200D02	10	Omniscient
+326	$200D0C	10	Minotauros
+327	$200D16	9	Leviathan
+328	$200D20	7	Stalker
+329	$200D2A	4	Gogo
+330	$200D34	7	Bahamut
+331	$200D3E	9	Jura Avis
+332	$200D48	10	Halicarnaso
+333	$200D52	7	Exdeath
+334	$200D5C	10	NeoExdeath
+335	$200D66	10	NeoExdeath
+336	$200D70	6	Goblin
+337	$200D7A	9	Iron Claw
+338	$200D84	8	Sergeant
+339	$200D8E	6	Karnak
+340	$200D98	8	Crayclaw
+341	$200DA2	9	NeoGoblin
+342	$200DAC	10	Calofisteri
+343	$200DB6	10	Apocalypse
+344	$200DC0	10	Catastroph
+345	$200DCA	10	Necrofobia
+346	$200DD4	10	Twin Tania
+347	$200DDE	8	Launcher
+348	$200DE8	8	Launcher
+349	$200DF2	9	Gilgamesh
+350	$200DFC	9	Carbunkle
+351	$200E06	10	GrandMummy
+352	$200E10	6	Apanda
+353	$200E1A	10	Alte Roite
+354	$200E24	9	Invisible
+355	$200E2E	8	Abductor
+356	$200E38	10	BandelKuar
+357	$200E42	10	LiquiFlame
+358	$200E4C	5	Kuzar
+359	$200E56	10	Sol Cannon
+360	$200E60	7	Pantera
+361	$200E6A	8	Shinryuu
+362	$200E74	7	Barrier
+363	$200E7E	0	
+364	$200E88	0	
+365	$200E92	0	
+366	$200E9C	0	
+367	$200EA6	0	
+368	$200EB0	7	Chocobo
+369	$200EBA	10	FatChocobo
+370	$200EC4	5	Sylph
+371	$200ECE	6	Remora
+372	$200ED8	5	Shiva
+373	$200EE2	5	Ramuh
+374	$200EEC	5	Ifrit
+375	$200EF6	5	Titan
+376	$200F00	5	Golem
+377	$200F0A	5	Shoat
+378	$200F14	9	Carbunkle
+379	$200F1E	6	Syldra
+380	$200F28	4	Odin
+381	$200F32	7	Phoenix
+382	$200F3C	9	Leviathan
+383	$200F46	7	Bahamut

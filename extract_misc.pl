@@ -310,15 +310,17 @@ my %b2c_monster_en = (
     "96" => " ",
     "97" => "li",
     "98" => "ll",
+    "99" => "'",
     "A4" => "ti",
+    "A5" => "fi",
+    "A6" => "Bla",
+    "A7" => "",
+    "A8" => "pel",
+    "AC" => "if",
     "AD" => "lt",
     "AE" => "tl",
     "AF" => "ir",
     "B0" => "tt",
-);
-
-my %b2c_monster_en_words = (
-    "A6A7" => "Bla",
 );
 
 my %b2c_monster_fr = (
@@ -329,6 +331,7 @@ my %b2c_monster_fr = (
 );
 
 my %b2c_monster_fr_words = (
+    "AFB4" => "ble",
     "D7D8" => "ir",
     "D9AC" => "l",
 );
@@ -1036,16 +1039,13 @@ sub dump_support_abilities_battle {
 }
 
 sub dump_monster_names {
-    my ($filename, $start, $end) = @_;
+    my ($filename, $start, $count, $width) = @_;
     my @lines = ();
-    my $width = 8;
-    my $count = int((($end - $start) + 1) / $width);
     my %table = %decode_table;
     my %words = ();
 
     if ($mode eq "en") {
         %table = (%table, %b2c_monster_en);
-        %words = %b2c_monster_en_words;
     } else {
         %table = (%table, %b2c_monster_fr);
         %words = %b2c_monster_fr_words;
@@ -1081,7 +1081,7 @@ sub dump_monster_names {
     print "$path ($count entries)\n";
 }
 
-dump_monster_names("monster_names.txt",         0x200000, 0x200F4F);
+dump_monster_names("monster_names.txt",         0x200050, 384, 10);
 dump_ability_names("ability_names.txt",         0x201150, 0x2013EF);
 dump_fixed("area_headings.txt",                 0x270000, 0x2708FF, 8);
 dump_effect_names("effect_names.txt",           0x270900, 0x270F8F);
