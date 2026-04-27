@@ -202,6 +202,24 @@ my %b2c_effect_en = (
     "C5" => "-",
 );
 
+my %b2c_item_en = (
+    "94" => "li",
+    "96" => " ",
+    "97" => "li",
+    "98" => "ll",
+    "A4" => "ti",
+    "AF" => "ir",
+    "C5" => "-",
+);
+
+my %b2c_item_fr = (
+    "94" => "i",
+    "95" => "n",
+    "9B" => "ï",
+    "AC" => " n",
+    "BC" => "î",
+);
+
 my $mode = "fr";
 my $rom = "ff5fr.sfc";
 
@@ -545,8 +563,14 @@ sub dump_item_names_menu {
     my @lines = ();
     my $offset = $start;
     my $index = 0;
-    my %icon_markers = map { $_ => 1 } qw(BE BF E3 E7 E8 E9 EA EB EC ED EE EF F0 F1 F2 F3 F4);
-    my %table = (%decode_table, "94" => "i", "95" => "n");
+    my %icon_markers = map { $_ => 1 } qw(AD AE BE BF C6 E3 E7 E8 E9 EA EB EC ED EE EF F0 F1 F2 F3 F4);
+    my %table = %decode_table;
+
+    if ($mode eq "en") {
+        %table = (%table, %b2c_item_en);
+    } elsif ($mode eq "fr" || $mode eq "co") {
+        %table = (%table, %b2c_item_fr);
+    }
 
     while ($offset + 9 <= $end + 1) {
         my $record = substr($bytes, $offset, 9);
@@ -559,6 +583,25 @@ sub dump_item_names_menu {
             my $hex = sprintf("%02X", $b);
             $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
         }
+
+        if ($mode eq "en") {
+            $decoded =~ s/^Orihalcn$/Orihalcon/;
+            $decoded =~ s/^KillerBow$/Killer Bow/;
+            $decoded =~ s/^Full Moon$/Full Moon/;
+            $decoded =~ s/^AntiMagic$/AntiMagic/;
+            $decoded =~ s/^L-Hand$/L-Hand/;
+            $decoded =~ s/^R-Hand$/R-Hand/;
+            $decoded =~ s/^\\ADem0+$/Dummy/;
+        } else {
+            $decoded =~ s/^Gaïa$/Gaïa/;
+            $decoded =~ s/^Yoïchi$/Yoïchi/;
+            $decoded =~ s/^Chaîne$/Chaîne/;
+            $decoded =~ s/^Aig\. noir$/Aig. noir/;
+            $decoded =~ s/^Chaînne$/Chaîne/;
+            $decoded =~ s/^Main I$/Main G/;
+            $decoded =~ s/^Dummy\\AF$/Dummy/;
+        }
+
         push @lines, join("\t", $index++, sprintf('$%06X', $offset), length($trimmed), $decoded);
         $offset += 9;
     }
