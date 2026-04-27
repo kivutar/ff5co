@@ -367,6 +367,14 @@ my %b2c_monster_fr_words = (
     "D9AC" => "l",
 );
 
+my %b2c_monster_specialties_en = (
+    "96" => " ",
+);
+
+my %b2c_monster_specialties_fr = (
+    "52" => " ",
+);
+
 my $mode = "fr";
 my $rom = "ff5fr.sfc";
 
@@ -400,6 +408,8 @@ sub output_path {
         character_names.txt
         concepts_misc.txt
         job_names.txt
+        monster_specialties.txt
+        rare_items.txt
         shop_names.txt
         song_names.txt
     );
@@ -418,8 +428,6 @@ sub output_path {
         menu_ability_text.txt
         menu_shop.txt
         monster_names.txt
-        monster_specialties.txt
-        rare_items.txt
         support_abilities_battle.txt
     );
 
@@ -583,6 +591,7 @@ sub normalize_menu_shop {
         $decoded =~ s/equEquipped/equipped/g;
         $decoded =~ s/Equip "Optimum'/Equip "Optimum"/g;
         $decoded =~ s/Don't move!!/Don't move!/g;
+        $decoded =~ s/^\[TAB3\](?:\[TAB1\]){8}\[DialogueGil\]$/[ColorPreview]/g;
         $decoded =~ s/([!?])'+$/$1/g;
         $decoded =~ s/button\.+/button./g;
         return $decoded;
@@ -605,6 +614,7 @@ sub normalize_menu_shop {
     $decoded =~ s/Fonds insuffisants’/Fonds insuffisants !/g;
     $decoded =~ s/Vous,là-bas’/Vous, là-bas !/g;
     $decoded =~ s/Pas un geste’/Pas un geste !/g;
+    $decoded =~ s/^\[TAB3\](?:\[TAB1\]){8}\[DialogueGil\]$/[AperçuCouleur]/g;
     return $decoded;
 }
 
@@ -817,6 +827,91 @@ sub dump_song_names {
             $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
         }
 
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($count entries)\n";
+}
+
+sub normalize_monster_specialty {
+    my ($mode, $decoded) = @_;
+    $decoded =~ s/  +/ /g;
+    $decoded =~ s/^ +//;
+    $decoded =~ s/ +$//;
+    return $decoded;
+}
+
+sub dump_monster_specialties {
+    my ($filename, $start, $count, $width) = @_;
+    my @lines = ();
+    my %table = %decode_table;
+
+    if ($mode eq "en") {
+        %table = (%table, %b2c_monster_specialties_en);
+    } else {
+        %table = (%table, %b2c_monster_specialties_fr);
+    }
+
+    for (my $i = 0; $i < $count; $i++) {
+        my $offset = $start + ($i * $width);
+        my $record = substr($bytes, $offset, $width);
+        my $trimmed = trim_record($record);
+        my @raw = unpack("C*", $trimmed);
+        my $decoded = "";
+
+        for my $b (@raw) {
+            my $hex = sprintf("%02X", $b);
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        $decoded = normalize_monster_specialty($mode, $decoded);
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($count entries)\n";
+}
+
+sub normalize_rare_item {
+    my ($mode, $index, $decoded) = @_;
+
+    if ($mode eq "en") {
+        $decoded =~ s/\[Key\]Castle/Castle Key/;
+        $decoded =~ s/\[Key\]Torna Canal/Torna Canal Key/;
+        $decoded =~ s/First  Tablet/First Tablet/;
+        $decoded =~ s/Third  Tablet/Third Tablet/;
+    }
+
+    return $decoded;
+}
+
+sub dump_rare_items {
+    my ($filename, $start, $count, $width) = @_;
+    my @lines = ();
+    my %table = %decode_table;
+
+    if ($mode eq "en") {
+        %table = (%table, %b2c_item_en, "AE" => "tl", "BC" => "[Key]");
+    } else {
+        %table = (%table, %b2c_item_fr);
+    }
+
+    for (my $i = 0; $i < $count; $i++) {
+        my $offset = $start + ($i * $width);
+        my $record = substr($bytes, $offset, $width);
+        my $trimmed = trim_record($record);
+        my @raw = unpack("C*", $trimmed);
+        my $decoded = "";
+
+        for my $b (@raw) {
+            my $hex = sprintf("%02X", $b);
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        $decoded = normalize_rare_item($mode, $i, $decoded);
         push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
     }
 
@@ -1320,6 +1415,16 @@ sub dump_monster_names {
             $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
         }
 
+        if ($mode eq "en") {
+            $decoded =~ s/^ManiWizard$/Mani Wizard/;
+            $decoded =~ s/^UndeadRusk$/Undead Rusk/;
+            $decoded =~ s/^IceSoldier$/Ice Soldier/;
+            $decoded =~ s/^RikaldMage$/Rikald Mage/;
+            $decoded =~ s/^LonkaKnght$/Lonka Knight/;
+        } else {
+            $decoded =~ s/^PasDeSeul$/Pas de Seul/;
+        }
+
         push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
     }
 
@@ -1334,8 +1439,8 @@ dump_offset_span_table("area_headings.txt",     0x107000, 164, 0x270000, 2304);
 dump_effect_names("effect_names.txt",           0x270900, 0x270F8F);
 dump_magic_names_battle_menu("magic_names_battle_menu.txt", 0x270F90, 0x27177F);
 dump_fixed_count("magic_names_battle_messages.txt", 0x271780, 169, 24);
-dump_fixed_count_with_extra("rare_items.txt",   0x273568, 24, 13, ($mode eq "en" ? \%b2c_item_en : \%b2c_item_fr));
-dump_fixed_count("monster_specialties.txt",     0x273700, 64, 16);
+dump_rare_items("rare_items.txt",               0x273568, 24, 13);
+dump_monster_specialties("monster_specialties.txt", 0x273700, 64, 16);
 dump_battle_record_text("battle_record_text.txt", 0x275800, 5, 17);
 dump_offset_table_strings("item_descriptions.txt", 0x114000, 0x80, 0x110000, 0x00);
 dump_fixed_count_with_extra("item_names_battle.txt", 0x275860, 256, 24, ($mode eq "en" ? \%b2c_item_en : \%b2c_item_fr));

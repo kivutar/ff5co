@@ -16,6 +16,8 @@ Current `ok` set:
 - `shop_names.txt`
 - `character_names.txt`
 - `concepts_misc.txt`
+- `monster_specialties.txt`
+- `rare_items.txt`
 - `song_names.txt`
 
 Current `partial` set:
@@ -25,11 +27,9 @@ Current `partial` set:
 - `battle_record_text.txt`
 - `blue_magic_names.txt`
 - `menu_shop.txt`
-- `rare_items.txt`
 - `item_names_battle.txt`
 - `item_names_menu.txt`
 - `monster_names.txt`
-- `monster_specialties.txt`
 - `effect_names.txt`
 - `item_descriptions.txt`
 - `magic_names_field_menu.txt`

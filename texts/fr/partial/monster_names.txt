@@ -29,7 +29,7 @@
 28	$200168	6	Soldat
 29	$200172	5	Vizir
 30	$20017C	6	Draken
-31	$200186	9	PasDeSeul
+31	$200186	9	Pas de Seul
 32	$200190	6	Byblos
 33	$20019A	6	Aiguil
 34	$2001A4	2	Zu

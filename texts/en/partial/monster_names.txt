@@ -8,7 +8,7 @@
 7	$200096	10	Black Goblin
 8	$2000A0	10	White Snake
 9	$2000AA	9	Mold Wind
-10	$2000B4	10	ManiWizard
+10	$2000B4	10	Mani Wizard
 11	$2000BE	9	Magic Pot
 12	$2000C8	6	Sucker
 13	$2000D2	9	Octoraken
@@ -19,15 +19,15 @@
 18	$200104	6	Galura
 19	$20010E	8	Skeleton
 20	$200118	9	Carcurser
-21	$200122	10	UndeadRusk
+21	$200122	10	Undead Rusk
 22	$20012C	10	PsychoHead
 23	$200136	10	RockGarter
 24	$200140	8	Gala Cat
 25	$20014A	10	Cockatrice
 26	$200154	6	Blocks
 27	$20015E	8	Elf Toad
-28	$200168	10	IceSoldier
-29	$200172	10	RikaldMage
+28	$200168	10	Ice Soldier
+29	$200172	10	Rikald Mage
 30	$20017C	6	Wyvern
 31	$200186	8	Padosule
 32	$200190	6	Byblos
@@ -65,7 +65,7 @@
 64	$2002D0	10	Sand Killer
 65	$2002DA	9	Sand Bear
 66	$2002E4	7	Ra Mage
-67	$2002EE	10	LonkaKnght
+67	$2002EE	10	Lonka Knight
 68	$2002F8	10	StonedMask
 69	$200302	10	Whirl Demon
 70	$20030C	5	Lamia
@@ -241,7 +241,7 @@
 240	$2009B0	9	D.Chimera
 241	$2009BA	10	AdamaGolem
 242	$2009C4	8	Ziggurat
-243	$2009CE	10	LonkaKnght
+243	$2009CE	10	Lonka Knight
 244	$2009D8	10	BioSoldier
 245	$2009E2	7	Lunenta
 246	$2009EC	9	Tote Avis

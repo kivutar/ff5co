@@ -1,6 +1,6 @@
 0	$273568	8	Bracelet
 1	$273575	11	Memento Bag
-2	$273582	6	\BCCas\AEe
+2	$273582	6	Castle Key
 3	$27358F	0	
 4	$27359C	0	
 5	$2735A9	0	
@@ -8,7 +8,7 @@
 7	$2735C3	0	
 8	$2735D0	7	Pendant
 9	$2735DD	7	Pendant
-10	$2735EA	12	\BCTorna Canal
+10	$2735EA	12	Torna Canal Key
 11	$2735F7	12	Hiryuu Plant
 12	$273604	4	Bell
 13	$273611	10	Adamantite
@@ -16,9 +16,9 @@
 15	$27362B	10	Echo Plant
 16	$273638	12	Elder Branch
 17	$273645	11	Sealed Book
-18	$273652	13	First  Tablet
+18	$273652	13	First Tablet
 19	$27365F	13	Second Tablet
-20	$27366C	13	Third  Tablet
+20	$27366C	13	Third Tablet
 21	$273679	13	Fourth Tablet
 22	$273686	9	World Map
 23	$273693	8	Splinter
