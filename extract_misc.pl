@@ -374,6 +374,7 @@ sub output_path {
         ability_names.txt
         effect_names.txt
         item_names_battle.txt
+        item_descriptions.txt
         item_names_menu.txt
         magic_names_battle_menu.txt
         magic_names_battle_messages.txt
@@ -593,26 +594,23 @@ sub dump_menu_shop {
     print "$path ($index entries)\n";
 }
 
-sub dump_pointer_table {
-    my ($filename, $pointer_offset, $pointer_count, $text_offset) = @_;
-    my @offsets = ();
+sub dump_offset_table_strings {
+    my ($filename, $pointer_offset, $pointer_count, $base_offset, $eol_byte) = @_;
     my @lines = ();
-
     for (my $i = 0; $i < $pointer_count; $i++) {
         my $raw = substr($bytes, $pointer_offset + ($i * 2), 2);
-        push @offsets, unpack("v", $raw);
-    }
+        my $start = unpack("v", $raw);
+        my $offset = $base_offset + $start;
+        my $record = "";
+        my $j = $offset;
 
-    my $limit = length($bytes) - $text_offset;
+        while ($j < length($bytes)) {
+            my $byte = substr($bytes, $j, 1);
+            last if ord($byte) == $eol_byte;
+            $record .= $byte;
+            $j++;
+        }
 
-    for (my $i = 0; $i < $pointer_count; $i++) {
-        my $start = $offsets[$i];
-        my $next = $i + 1 < $pointer_count ? $offsets[$i + 1] : $limit;
-        my $length = $next - $start;
-        my $offset = $text_offset + $start;
-        my $record = substr($bytes, $offset, $length);
-        $record =~ s/\x00+$//s;
-        $record =~ s/\xFF+$//s;
         my $decoded = decode($record);
         push @lines, join("\t", $i, sprintf('$%06X', $offset), length($record), $decoded);
     }
@@ -1089,7 +1087,7 @@ dump_magic_names_battle_menu("magic_names_battle_menu.txt", 0x270F90, 0x27177F);
 dump_fixed("magic_names_battle_messages.txt",   0x271780, 0x27275F, 16);
 dump_fixed("rare_items.txt",                    0x273560, 0x2736FF, 16);
 dump_fixed("monster_specialties.txt",           0x273700, 0x273AF0, 16);
-dump_pointer_table("item_descriptions.txt",     0x275100, 0x80, 0x275200);
+dump_offset_table_strings("item_descriptions.txt", 0x114000, 0x80, 0x110000, 0x00);
 dump_fixed("item_names_battle.txt",             0x275860, 0x27705F, 16);
 dump_support_abilities_battle("support_abilities_battle.txt", 0x277060, 0x27739F);
 

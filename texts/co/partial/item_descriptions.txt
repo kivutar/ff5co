@@ -1,0 +1,128 @@
+0	$114100	1	 
+1	$114102	12	Rend des HP.
+2	$11410F	12	Rend des MP.
+3	$11411C	27	Rend tous les HP>et les MP.
+4	$114138	20	Ranime un allié K-O.
+5	$11414D	15	Soigne Crapaud.
+6	$11415D	14	Soigne Zombie.
+7	$11416C	34	Un ingrédient utilisé>en alchimie.
+8	$11418F	14	Soigne Poison.
+9	$11419E	14	Soigne Cécité.
+10	$1141AD	15	Soigne Fossile.
+11	$1141BD	12	Soigne Mini.
+12	$1141CA	35	Invoque un Esper>pendant le combat.
+13	$1141EE	46	A l\D6air libre.Rend des>HP et des MP à l\D6éq.\A4e.
+14	$11421D	30	Commande ’Boire.>HP augmentés.
+15	$11423C	35	Commande ’Boire.>Attaque augmentée.
+16	$114260	38	Commande ’Boire.>Effets du sort Turbo.
+17	$114287	35	Commande ’Boire.>Défense augmentée.
+18	$1142AB	40	Commande ’Boire.>Sta\B1stiques augmentées.
+19	$1142D4	43	A utiliser pour apprendre>cette invocation.
+20	$114300	37	Commande ’Lancer.>Dégats aux ennemis.
+21	$114326	23	2 mains:O.K>Lame M.:O.K
+22	$11433E	11	Lame M.:O.K
+23	$11434A	43	Double la puissance de>la commande ’Sauter.
+24	$114376	31	Arrière:Atq.normale>2 Mains:O.K
+25	$114396	14	2 mains:O.K \E9\BF
+26	$1143A5	13	2 mains:O.K \EA
+27	$1143B3	41	Deux mains seulement.>Arrière:Atq.normale
+28	$1143DD	31	Réduit de moitié les MP>requis.
+29	$1143FD	35	A plus de chance de>voler un objet.
+30	$114421	43	Puissance des sorts>élémentaires augmentée.
+31	$11444D	37	Puissance des sorts>sacrés augmentée.
+32	$114473	40	Protège contre Zombie>et Vieillissement.
+33	$11449C	42	Annule la plupart des>altérations d\D6états.
+34	$1144C7	48	Absorbe l\D6eau,résiste au>feu et craint l\D6éclair.
+35	$1144F8	19	Arrière:Atq.normale
+36	$11450C	32	Augmente la puissance>des mains.
+37	$11452D	40	A plus de chance de>contròler un ennemi.
+38	$114556	39	A plus de chance de>capturer un ennemi.
+39	$11457E	0	
+40	$11457F	0	
+41	$114580	44	MP req.\AC pour effectuer>des coups critiques.
+42	$1145AD	26	Diminue les HP du>porteur.
+43	$1145C8	33	Cause l\D6altération>d\D6état Zombie.
+44	$1145EA	41	Annule la protection>contre les attaques.
+45	$114614	45	Cause les mìmes effets>que le sort Châtiment.
+46	$114642	0	
+47	$114643	0	
+48	$114644	0	
+49	$114645	0	
+50	$114646	0	
+51	$114647	0	
+52	$114648	0	
+53	$114649	0	
+54	$11464A	0	
+55	$11464B	0	
+56	$11464C	0	
+57	$11464D	0	
+58	$11464E	0	
+59	$11464F	0	
+60	$114650	0	
+61	$114651	0	
+62	$114652	0	
+63	$114653	0	
+64	$114654	0	
+65	$114655	0	
+66	$114656	0	
+67	$114657	0	
+68	$114658	0	
+69	$114659	0	
+70	$11465A	0	
+71	$11465B	0	
+72	$11465C	0	
+73	$11465D	0	
+74	$11465E	0	
+75	$11465F	0	
+76	$114660	0	
+77	$114661	0	
+78	$114662	0	
+79	$114663	0	
+80	$114664	0	
+81	$114665	0	
+82	$114666	0	
+83	$114667	0	
+84	$114668	0	
+85	$114669	0	
+86	$11466A	0	
+87	$11466B	0	
+88	$11466C	0	
+89	$11466D	0	
+90	$11466E	0	
+91	$11466F	0	
+92	$114670	0	
+93	$114671	0	
+94	$114672	0	
+95	$114673	0	
+96	$114674	0	
+97	$114675	0	
+98	$114676	0	
+99	$114677	0	
+100	$114678	0	
+101	$114679	0	
+102	$11467A	0	
+103	$11467B	0	
+104	$11467C	0	
+105	$11467D	0	
+106	$11467E	0	
+107	$11467F	0	
+108	$114680	0	
+109	$114681	0	
+110	$114682	0	
+111	$114683	0	
+112	$114684	0	
+113	$114685	0	
+114	$114686	0	
+115	$114687	0	
+116	$114688	0	
+117	$114689	0	
+118	$11468A	0	
+119	$11468B	0	
+120	$11468C	0	
+121	$11468D	0	
+122	$11468E	0	
+123	$11468F	0	
+124	$114690	0	
+125	$114691	0	
+126	$114692	0	
+127	$114693	1	 

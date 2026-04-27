@@ -1,0 +1,128 @@
+0	$114100	0	
+1	$114101	11	Restores\96HP
+2	$11410D	11	Restores\96MP
+3	$114119	25	Completely\96restores\96HP/MP
+4	$114133	20	Recovers\96the\96wounded
+5	$114148	19	Cures\96\AAFrog'\96status
+6	$11415C	21	Cures\96\AAZombie'\96status
+7	$114172	20	Ingredient\96for\96\AAMix'
+8	$114187	21	Cures\96\AAPoison'\96status
+9	$11419D	23	Cures\96\AADarkness'\96status
+10	$1141B5	20	Cures\96\AAStone'\96status
+11	$1141CA	19	Cures\96\AAMini'\96status
+12	$1141DE	33	Summons\96an\96Esper>Use\96during\96ba\B0le
+13	$114200	30	Rest\96a\96night\96to\96recover>health
+14	$11421F	23	\AADrink'\96\C5\96double\96max\96HP
+15	$114237	28	\AADrink'\96\C5\96raise\96attack>power
+16	$114254	33	\AADrink'\96\C5\96cause\96effect>of\96\AAHaste'
+17	$114276	29	\AADrink'\96\C5\96raise\96defense>power
+18	$114294	26	\AADrink'\96\C5\96raise\96all>powers
+19	$1142AF	42	Use\96at\96menu\96screen\96to>learn\96an\96Esper\96spell
+20	$1142DA	29	\AAThrow'\96to\96damage\96all>enemies
+21	$1142F8	33	\AADouble\96Grip'\96OK>\AAMagic\96Sword'\96OK
+22	$11431A	16	\AAMagic\96Sword'\96OK
+23	$11432B	29	\AAJump'\96to\96double\96attack>power
+24	$114349	28	Back\96row\96OK>\AADouble\96Grip'\96OK
+25	$114366	16	\AADouble\96Grip'\96OK
+26	$114377	16	\AADouble\96Grip'\96OK
+27	$114388	30	\AADouble\96Grip'\96only>Back\96row\96OK
+28	$1143A7	28	Halves\96MP\96cost\96during>battle
+29	$1143C4	17	Improves\96\AASteal'!
+30	$1143D6	44	Improves\96fire/ice/bolt>earth\96magic\96strength!
+31	$114403	16	Improves\96\AAHoly'!
+32	$114414	21	Prevents\96Zombie/Aging
+33	$11442A	29	Prevents\96most\96status>ailments
+34	$114448	45	Absorb\96water,\96nullify>flame,\96weak\96vs.\96thunder
+35	$114476	11	Back\96row\96OK
+36	$114482	17	Improves\96\AABrawl'!
+37	$114494	23	Improves\96\AAControl'\96rate
+38	$1144AC	35	Becomes\96easier\96to\96\AACatch'>monsters!
+39	$1144D0	35	\AAYour\96bravery\96praised>for\96victory.'
+40	$1144F4	53	\AAYour\96wisdom\96and\96bravery>preva\94ed\96over\96the\96Ancients.'
+41	$11452A	38	Uses\96MP\96for\96its\96power>\AADouble\96Grip'\96OK
+42	$114551	21	Steadily\96decreases\96HP
+43	$114567	13	Undead\96armor!
+44	$114575	28	A\96Shield\96that\96does\96not>evade
+45	$114592	35	A\96ring\96lain\96with\96a>curse\96of\96\AADoom'!
+46	$1145B6	0	
+47	$1145B7	0	
+48	$1145B8	0	
+49	$1145B9	0	
+50	$1145BA	0	
+51	$1145BB	0	
+52	$1145BC	0	
+53	$1145BD	0	
+54	$1145BE	0	
+55	$1145BF	0	
+56	$1145C0	0	
+57	$1145C1	0	
+58	$1145C2	0	
+59	$1145C3	0	
+60	$1145C4	0	
+61	$1145C5	0	
+62	$1145C6	0	
+63	$1145C7	0	
+64	$1145C8	0	
+65	$1145C9	0	
+66	$1145CA	0	
+67	$1145CB	0	
+68	$1145CC	0	
+69	$1145CD	0	
+70	$1145CE	0	
+71	$1145CF	0	
+72	$1145D0	0	
+73	$1145D1	0	
+74	$1145D2	0	
+75	$1145D3	0	
+76	$1145D4	0	
+77	$1145D5	0	
+78	$1145D6	0	
+79	$1145D7	0	
+80	$1145D8	0	
+81	$1145D9	0	
+82	$1145DA	0	
+83	$1145DB	0	
+84	$1145DC	0	
+85	$1145DD	0	
+86	$1145DE	0	
+87	$1145DF	0	
+88	$1145E0	0	
+89	$1145E1	0	
+90	$1145E2	0	
+91	$1145E3	0	
+92	$1145E4	0	
+93	$1145E5	0	
+94	$1145E6	0	
+95	$1145E7	0	
+96	$1145E8	0	
+97	$1145E9	0	
+98	$1145EA	0	
+99	$1145EB	0	
+100	$1145EC	0	
+101	$1145ED	0	
+102	$1145EE	0	
+103	$1145EF	0	
+104	$1145F0	0	
+105	$1145F1	0	
+106	$1145F2	0	
+107	$1145F3	0	
+108	$1145F4	0	
+109	$1145F5	0	
+110	$1145F6	0	
+111	$1145F7	0	
+112	$1145F8	0	
+113	$1145F9	0	
+114	$1145FA	0	
+115	$1145FB	0	
+116	$1145FC	0	
+117	$1145FD	0	
+118	$1145FE	0	
+119	$1145FF	0	
+120	$114600	0	
+121	$114601	0	
+122	$114602	0	
+123	$114603	0	
+124	$114604	0	
+125	$114605	0	
+126	$114606	0	
+127	$114607	0	
