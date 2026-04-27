@@ -398,6 +398,7 @@ sub output_path {
     my $filename = shift;
     my %ok = map { $_ => 1 } qw(
         character_names.txt
+        concepts_misc.txt
         job_names.txt
         shop_names.txt
     );
@@ -406,7 +407,6 @@ sub output_path {
         area_headings.txt
         battle_record_text.txt
         blue_magic_names.txt
-        concepts_misc.txt
         effect_names.txt
         item_names_battle.txt
         item_descriptions.txt

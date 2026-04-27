@@ -15,6 +15,7 @@ Current `ok` set:
 - `job_names.txt`
 - `shop_names.txt`
 - `character_names.txt`
+- `concepts_misc.txt`
 
 Current `partial` set:
 
@@ -22,7 +23,6 @@ Current `partial` set:
 - `area_headings.txt`
 - `battle_record_text.txt`
 - `blue_magic_names.txt`
-- `concepts_misc.txt`
 - `menu_shop.txt`
 - `rare_items.txt`
 - `item_names_battle.txt`
