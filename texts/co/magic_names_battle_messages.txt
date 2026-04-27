@@ -1,0 +1,254 @@
+0	$271780	14	Menuet\52vaillant
+1	$271790	16	        Etude\52ra
+2	$2717A0	4	pide
+3	$2717B0	14	Hymne\52militaire
+4	$2717C0	16	        Chant\52de
+5	$2717D0	5	\52Mana
+6	$2717E0	7	Héro\BCue
+7	$2717F0	15	        Requiem
+8	$271800	0	
+9	$271810	11	Lied\52arrìté
+10	$271820	16	        Aria\52séd
+11	$271830	7	uisante
+12	$271840	4	Ruée
+13	$271850	12	        Alizé
+14	$271860	0	
+15	$271870	7	Piranha
+16	$271880	16	        Transcen
+17	$271890	7	dantale
+18	$2718A0	11	Fulguration
+19	$2718B0	16	        Divine\52c
+20	$2718C0	6	omédie
+21	$2718D0	13	Colère\52de\52Ga\CA
+22	$2718E0	15	        Muraille
+23	$2718F0	0	
+24	$271900	12	\B5il\52diabolique
+25	$271910	16	        Eclat\52du
+26	$271920	6	\52rubis
+27	$271930	5	Orage
+28	$271940	16	        Zantetsu
+29	$271950	3	ken
+30	$271960	12	Terre\52brûlée
+31	$271970	15	        Tsunami
+32	$271980	0	
+33	$271990	10	Mega\52Eclat
+34	$2719A0	16	        Gros\52cho
+35	$2719B0	4	cobo
+36	$2719C0	7	Gungnir
+37	$2719D0	16	        Terre\52br
+38	$2719E0	4	ûlée
+39	$2719F0	13	Lance\52Saignée
+40	$271A00	16	        Lance\52As
+41	$271A10	4	pire
+42	$271A20	6	Eggman
+43	$271A30	12	        Lyre
+44	$271A40	0	
+45	$271A50	13	Lyre\52onirique
+46	$271A60	16	        Lyre\52de\52
+47	$271A70	5	Lamia
+48	$271A80	13	Lyre\52d’Apollon
+49	$271A90	16	        Item\52maœ
+50	$271AA0	1	c
+51	$271AB0	5	Valse
+52	$271AC0	12	        Jazz
+53	$271AD0	0	
+54	$271AE0	5	Tango
+55	$271AF0	15	        Blindage
+56	$271B00	0	
+57	$271B10	14	Danse\52du\52sabre
+58	$271B20	16	        Aura\52de\52
+59	$271B30	5	glace
+60	$271B40	10	Entortiller
+61	$271B50	16	        Attaquer
+62	$271B60	0	
+63	$271B70	16	Attaque\52spéciale
+64	$271B80	16	        Châtimen
+65	$271B90	1	t
+66	$271BA0	8	Roulette
+67	$271BB0	13	        Bulles
+68	$271BC0	0	
+69	$271BD0	7	Mort\52N5
+70	$271BE0	16	        Demi2\52N4
+71	$271BF0	0	
+72	$271C00	8	Déclin\52N2
+73	$271C10	16	        Eclat\52N3
+74	$271C20	0	
+75	$271C30	7	Coasser
+76	$271C40	14	        Liliput
+77	$271C50	0	
+78	$271C60	5	Flash
+79	$271C70	15	        Fatigue
+80	$271C80	0	
+81	$271C90	5	Flûte
+82	$271CA0	15	        Lacérer
+83	$271CB0	0	
+84	$271CC0	6	Rafale
+85	$271CD0	15	        Rafale2
+86	$271CE0	0	
+87	$271CF0	7	Rafale3
+88	$271D00	15	        Brasier
+89	$271D10	0	
+90	$271D20	5	Poing
+91	$271D30	13	        Ombre
+92	$271D40	0	
+93	$271D50	8	Défense-
+94	$271D60	16	        Don\52vita
+95	$271D70	1	l
+96	$271D80	7	Illusion
+97	$271D90	15	        Vampire
+98	$271DA0	0	
+99	$271DB0	6	Maillet
+100	$271DC0	14	        Mother
+101	$271DD0	0	
+102	$271DE0	8	Kamikaze
+103	$271DF0	11	        ???
+104	$271E00	0	
+105	$271E10	11	1000\52épines
+106	$271E20	15	        Mistral
+107	$271E30	0	
+108	$271E40	6	Missile
+109	$271E50	15	        Coâââ\52!
+110	$271E60	0	
+111	$271E70	10	Niveau\52bas
+112	$271E80	13	        Fuite
+113	$271E90	0	
+114	$271EA0	7	Wendigo
+115	$271EB0	14	        Byblos
+116	$271EC0	0	
+117	$271ED0	11	Sens\52unique
+118	$271EE0	16	        Grande\52c
+119	$271EF0	4	roix
+120	$271F00	5	Delta
+121	$271F10	16	        Antimiss
+122	$271F20	2	ile
+123	$271F30	11	Fluctuation
+124	$271F40	16	        Régénéra
+125	$271F50	4	tion
+126	$271F60	16	Rafale\52cinglante
+127	$271F70	16	        Invincib
+128	$271F80	4	ilité
+129	$271F90	7	Ciblage
+130	$271FA0	13	        100\52G
+131	$271FB0	0	
+132	$271FC0	11	Invisibilité
+133	$271FD0	16	        Faucheus
+134	$271FE0	1	e
+135	$271FF0	11	Remontrance
+136	$272000	15	        Blaster
+137	$272010	0	
+138	$272020	7	Picorer
+139	$272030	16	        Etreinte
+140	$272040	0	
+141	$272050	5	Spore
+142	$272060	15	        Haleine
+143	$272070	0	
+144	$272080	13	Danse\52de\52mort
+145	$272090	16	        Poudre\52z
+146	$2720A0	5	ombie
+147	$2720B0	14	Haleine\52zombie
+148	$2720C0	14	        Esprit
+149	$2720D0	0	
+150	$2720E0	9	Séduction
+151	$2720F0	16	        Entortill
+152	$272100	2	er
+153	$272110	11	Vent\52prisme
+154	$272120	16	        Pirouett
+155	$272130	1	e
+156	$272140	11	Rayon\52gamma
+157	$272150	16	        Trou\52bla
+158	$272160	2	nc
+159	$272170	5	Epine
+160	$272180	16	        Maelstro
+161	$272190	1	m
+162	$2721A0	2	Os
+163	$2721B0	16	        Ficelage
+164	$2721C0	0	
+165	$2721D0	9	Digestion
+166	$2721E0	16	        Rocketop
+167	$2721F0	4	oing
+168	$272200	7	Ypérite
+169	$272210	16	        Almagest
+170	$272220	1	e
+171	$272230	15	Sables\52mouvants
+172	$272240	13	        Rayon
+173	$272250	0	
+174	$272260	8	Engelure
+175	$272270	15	        Blizzard
+176	$272280	0	
+177	$272290	5	Givre
+178	$2722A0	16	        Electroc
+179	$2722B0	5	ution
+180	$2722C0	8	Secousse
+181	$2722D0	16	        Zantetsu
+182	$2722E0	3	ken
+183	$2722F0	12	Raz-de-marée
+184	$272300	16	        Méga\52Ecl
+185	$272310	2	at
+186	$272320	10	Dissonance
+187	$272330	12	        Toile
+188	$272340	0	
+189	$272350	5	Mucus
+190	$272360	14	        Séisme
+191	$272370	0	
+192	$272380	8	Attaquer
+193	$272390	16	        Traiteme
+194	$2723A0	2	nt
+195	$2723B0	7	Bunshin
+196	$2723C0	16	        Coup\52de\52
+197	$2723D0	4	vent
+198	$2723E0	7	Flammes
+199	$2723F0	16	        Tonnerre
+200	$272400	0	
+201	$272410	12	Onde\52de\52choc
+202	$272420	16	        Déflagra
+203	$272430	4	tion
+204	$272440	8	Guérison
+205	$272450	16	        Sénescen
+206	$272460	2	ce
+207	$272470	10	Giga\52Eclat
+208	$272480	15	        Ceindre
+209	$272490	0	
+210	$2724A0	9	Trou\52noir
+211	$2724B0	16	        Possessi
+212	$2724C0	2	on
+213	$2724D0	8	Polarité
+214	$2724E0	14	        Aimant
+215	$2724F0	0	
+216	$272500	6	Reflet
+217	$272510	14	        Sauter
+218	$272520	0	
+219	$272530	6	Portail
+220	$272540	15	        Ouragan
+221	$272550	0	
+222	$272560	9	Jettatura
+223	$272570	15	        \E3Objets
+224	$272580	0	
+225	$272590	7	\E3Objets
+226	$2725A0	15	        \E3Objets
+227	$2725B0	0	
+228	$2725C0	7	Sangsue
+229	$2725D0	16	        Nuage\52ob
+230	$2725E0	4	scur
+231	$2725F0	11	Congélation
+232	$272600	16	        Brume\52né
+233	$272610	5	faste
+234	$272620	6	Fusion
+235	$272630	16	        Vent\52inf
+236	$272640	5	ernal
+237	$272650	13	Onde\52du\52chaos
+238	$272660	13	        Fléau
+239	$272670	0	
+240	$272680	10	Corps\52noir
+241	$272690	16	        Apocalyp
+242	$2726A0	2	se
+243	$2726B0	3	Gaz
+244	$2726C0	15	        \E3Objets
+245	$2726D0	0	
+246	$2726E0	7	\E3Objets
+247	$2726F0	15	        \E3Objets
+248	$272700	0	
+249	$272710	7	\E3Objets
+250	$272720	15	        \E3Objets
+251	$272730	0	
+252	$272740	0	
+253	$272750	16	        Exp\D8\AAìn\52

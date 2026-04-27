@@ -1,0 +1,63 @@
+0	$273700	13	Coup\52critique
+1	$273710	5	Epine
+2	$273720	8	Incisive
+3	$273730	5	Queue
+4	$273740	6	Griffe
+5	$273750	5	Pince
+6	$273760	16	Sceptre       \52\52
+7	$273770	16	Huit\52bras     \52\52
+8	$273780	8	Dix\52bras
+9	$273790	5	Corne
+10	$2737A0	4	Elan
+11	$2737B0	13	Coup\52d’épaule
+12	$2737C0	6	Ecaille
+13	$2737D0	8	Plongeon
+14	$2737E0	8	Nageoire
+15	$2737F0	9	Tentacule
+16	$273800	6	Langue
+17	$273810	7	Morsure
+18	$273820	5	Coude
+19	$273830	5	Hache
+20	$273840	12	Coup\52de\52tête
+21	$273850	13	Griffe\52droite
+22	$273860	5	Tacle
+23	$273870	5	Gifle
+24	$273880	5	Lance
+25	$273890	3	Aile
+26	$2738A0	6	Feinte
+27	$2738B0	13	Coup\52de\52genou
+28	$2738C0	14	Attaque\52psyché
+29	$2738D0	4	Croc
+30	$2738E0	14	Coup\52invisible
+31	$2738F0	6	Piqûre
+32	$273900	16	Direct\52du\52gauche
+33	$273910	7	Moulinet
+34	$273920	12	Coup\52de\52pied
+35	$273930	10	Mineuchi \52
+36	$273940	8	Pression
+37	$273950	8	Coup\52bas
+38	$273960	9	Aéropoing
+39	$273970	10	Coup\52élevé
+40	$273980	7	Ecraser
+41	$273990	7	Taloche
+42	$2739A0	11	Compression
+43	$2739B0	6	Forage
+44	$2739C0	7	Torsion
+45	$2739D0	4	Faux
+46	$2739E0	8	Yagyûryû
+47	$2739F0	11	Egratignure
+48	$273A00	4	Coin
+49	$273A10	7	Enlacer
+50	$273A20	9	Renverser
+51	$273A30	8	Gangrène
+52	$273A40	7	Rayon \52
+53	$273A50	7	Riposte
+54	$273A60	6	Vacuum
+55	$273A70	7	Couteau
+56	$273A80	6	Vacuum
+57	$273A90	0	
+58	$273AA0	0	
+59	$273AB0	12	Poudre\52Déclin
+60	$273AC0	14	Poudre\52Arsenic
+61	$273AD0	13	Poudre\52Cécité
+62	$273AE0	14	Poudre\52Acinèse

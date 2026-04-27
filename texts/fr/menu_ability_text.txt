@@ -1,0 +1,33 @@
+0	$116200	8	Equiper\F1
+1	$116208	8	Equiper\F3
+2	$116210	8	Equiper\C1
+3	$116218	8	Equiper\E3
+4	$116220	8	Equiper\E8
+5	$116228	8	Equiper\EA
+6	$116230	8	Eq.\A4er\E9\BF
+7	$116238	8	Equiper\ED
+8	$116240	8	Equiper\EF
+9	$116248	8	Equiper\EE
+10	$116250	8	Roublard
+11	$116258	6	HP\E210\CD
+12	$116260	6	HP\E220\CD
+13	$116268	6	HP\E230\CD
+14	$116270	6	MP\E210\CD
+15	$116278	6	MP\E230\CD
+16	$116280	7	Pugilat
+17	$116288	7	2 mains
+18	$116290	7	2 armes
+19	$116298	8	Médecine
+20	$1162A0	7	Couvrir
+21	$1162A8	7	Riposte
+22	$1162B0	7	Blocage
+23	$1162B8	8	Assimiler
+24	$1162C0	8	Blindage
+25	$1162C8	8	Férocité
+26	$1162D0	8	Vigilance
+27	$1162D8	8	In\A6ia\B1ve
+28	$1162E0	8	\B5il lynx
+29	$1162E8	8	Vélocité
+30	$1162F0	8	Détec\B1on
+31	$1162F8	8	Equiper\EB
+32	$116300	6	Sprint

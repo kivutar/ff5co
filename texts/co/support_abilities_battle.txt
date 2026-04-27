@@ -1,0 +1,52 @@
+0	$277060	15	Equiper\F6Bouclier
+1	$277070	16	        Equiper\F6
+2	$277080	6	Armure
+3	$277090	13	Equiper\F6Ruban
+4	$2770A0	16	        Equiper\F6
+5	$2770B0	4	Epée
+6	$2770C0	13	Equiper\F6Lance
+7	$2770D0	16	        Equiper\F6
+8	$2770E0	6	Katana
+9	$2770F0	13	Equiper\F6Hache
+10	$277100	16	        Equiper\F6
+11	$277110	3	Arc
+12	$277120	13	Equiper\F6Fouet
+13	$277130	16	        Equiper\F6
+14	$277140	5	Harpe
+15	$277150	8	Roublard
+16	$277160	15	        HP\F6\E210\CD
+17	$277170	0	
+18	$277180	7	HP\F6\E220\CD
+19	$277190	15	        HP\F6\E230\CD
+20	$2771A0	0	
+21	$2771B0	7	MP\F6\E210\CD
+22	$2771C0	15	        MP\F6\E230\CD
+23	$2771D0	0	
+24	$2771E0	6	Pugilat
+25	$2771F0	15	        2\F6mains
+26	$277200	0	
+27	$277210	7	2\F6armes
+28	$277220	16	        Médecine
+29	$277230	0	
+30	$277240	7	Couvrir
+31	$277250	15	        Riposte
+32	$277260	0	
+33	$277270	7	Blocage
+34	$277280	16	        Assimiler
+35	$277290	0	
+36	$2772A0	7	Blindage
+37	$2772B0	16	        Férocité
+38	$2772C0	0	
+39	$2772D0	8	Vigilance
+40	$2772E0	16	        Initiati
+41	$2772F0	2	ve
+42	$277300	7	\B5il\F6lynx
+43	$277310	16	        Vélocité
+44	$277320	0	
+45	$277330	9	Détection
+46	$277340	16	        Equiper\F6
+47	$277350	8	Sceptres
+48	$277360	6	Sprint
+49	$277370	0	
+50	$277380	0	
+51	$277390	0	

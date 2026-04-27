@@ -1,0 +1,288 @@
+0	$270000	8	????Crys
+1	$270008	8	tal Room
+2	$270010	7	InnItem
+3	$270018	8	ShopWeap
+4	$270020	8	on ShopA
+5	$270028	8	rmor Sho
+6	$270030	8	pWeapon/
+7	$270038	8	Armor Sh
+8	$270040	7	opMagic
+9	$270048	8	ShopTave
+10	$270050	8	rnHallGr
+11	$270058	8	and Hall
+12	$270060	8	Throne R
+13	$270068	8	oomStora
+14	$270070	8	geRoofto
+15	$270078	8	pBalcony
+16	$270080	8	JailB8B7
+17	$270088	8	B6B5B4B3
+18	$270090	8	B2B11F2F
+19	$270098	8	3F4F5F6F
+20	$2700A0	8	7F8F9F10
+21	$2700A8	8	F11F12F1
+22	$2700B0	8	3F14F15F
+23	$2700B8	8	16F17F18
+24	$2700C0	8	F19F20F2
+25	$2700C8	8	1F22F23F
+26	$2700D0	8	24F25F26
+27	$2700D8	8	F27F28F2
+28	$2700E0	8	9F30FFir
+29	$2700E8	8	st Level
+30	$2700F0	8	Second L
+31	$2700F8	8	evelThir
+32	$270100	8	d LevelF
+33	$270108	8	ourth Le
+34	$270110	8	velFifth
+35	$270118	8	 LevelSi
+36	$270120	8	xth Leve
+37	$270128	8	lFirst R
+38	$270130	8	oomSecon
+39	$270138	8	d RoomTh
+40	$270140	8	ird Room
+41	$270148	8	Fourth R
+42	$270150	8	oomFifth
+43	$270158	8	 RoomSix
+44	$270160	8	th RoomW
+45	$270168	8	ind Crys
+46	$270170	8	talWater
+47	$270178	8	 Crystal
+48	$270180	8	Fire Cry
+49	$270188	8	stalEart
+50	$270190	8	h Crysta
+51	$270198	8	lWind Sh
+52	$2701A0	8	rineWind
+53	$2701A8	8	 ShrineP
+54	$2701B0	8	hoenix T
+55	$2701B8	8	owerPhoe
+56	$2701C0	8	nix Towe
+57	$2701C8	8	rFork To
+58	$2701D0	7	werFork
+59	$2701D8	8	TowerWhi
+60	$2701E0	8	te Tower
+61	$2701E8	8	White To
+62	$2701F0	8	wer \C5 1F
+63	$2701F8	8	Black To
+64	$270200	8	werBlack
+65	$270208	8	 Tower \C5
+66	$270210	8	 1FCastl
+67	$270218	8	e Tycoon
+68	$270220	8	Castle T
+69	$270228	7	ycoon \C5
+70	$270230	8	1FHiryuu
+71	$270238	8	's Tower
+72	$270240	8	Meteor a
+73	$270248	8	t Tycoon
+74	$270250	8	Castle W
+75	$270258	8	orusCast
+76	$270260	8	le Worus
+77	$270268	8	 \C5 1FCas
+78	$270270	8	tle Woru
+79	$270278	8	s \C5 B1Ca
+80	$270280	8	stle Wor
+81	$270288	8	us \C5 Wat
+82	$270290	8	er Tower
+83	$270298	8	WorusWor
+84	$2702A0	8	us Tower
+85	$2702A8	8	Meteor a
+86	$2702B0	8	t WorusC
+87	$2702B8	8	astle Ka
+88	$2702C0	8	rnakCast
+89	$2702C8	8	le Karna
+90	$2702D0	8	k \C5 1FCa
+91	$2702D8	8	stle Kar
+92	$2702E0	8	nak \C5 B1
+93	$2702E8	8	KarnakMe
+94	$2702F0	7	teor at
+95	$2702F8	8	KarnakSt
+96	$270300	8	eamshipS
+97	$270308	8	teamship
+98	$270310	8	 \C5 Power
+99	$270318	8	 RoomExd
+100	$270320	8	eath Cas
+101	$270328	8	tleBarri
+102	$270330	8	er Tower
+103	$270338	8	Castle B
+104	$270340	8	alCastle
+105	$270348	8	 Bal \C5 1
+106	$270350	7	FCastle
+107	$270358	8	Bal \C5 B1
+108	$270360	8	Castle S
+109	$270368	8	urgateCa
+110	$270370	8	stle Sur
+111	$270378	8	gate \C5 1
+112	$270380	7	FCastle
+113	$270388	7	Surgate
+114	$270390	8	\C5 B1Cast
+115	$270398	8	le Surga
+116	$2703A0	8	te \C5 Lib
+117	$2703A8	8	raryBlan
+118	$2703B0	7	kSealed
+119	$2703B8	8	Castle K
+120	$2703C0	8	uzarBlan
+121	$2703C8	8	kTuleZok
+122	$2703D0	8	k's Hous
+123	$2703D8	8	eCarwenL
+124	$2703E0	8	ixIstory
+125	$2703E8	8	Istory F
+126	$2703F0	8	allsAnci
+127	$2703F8	8	ent Libr
+128	$270400	8	aryCresc
+129	$270408	8	entCresc
+130	$270410	8	ent Isla
+131	$270418	8	nd \C5 B1C
+132	$270420	7	rescent
+133	$270428	8	Island \C5
+134	$270430	8	 Undergr
+135	$270438	8	ound Han
+136	$270440	8	garRuine
+137	$270448	8	d CityMe
+138	$270450	7	teor at
+139	$270458	8	the Ruin
+140	$270460	8	sLonka R
+141	$270468	8	uinsJaco
+142	$270470	8	leCave o
+143	$270478	8	f Jacole
+144	$270480	8	RugorMua
+145	$270488	8	Great Fo
+146	$270490	7	rest of
+147	$270498	8	MuaElder
+148	$2704A0	7	 Tree \C5
+149	$2704A8	8	Interior
+150	$2704B0	8	Moogle V
+151	$2704B8	8	illageKe
+152	$2704C0	8	lbKelgar
+153	$2704C8	8	's House
+154	$2704D0	7	Town of
+155	$2704D8	8	MirageDe
+156	$2704E0	8	velopmen
+157	$2704E8	8	t Villag
+158	$2704F0	7	eSecret
+159	$2704F8	8	CavePira
+160	$270500	8	tes' Hid
+161	$270508	8	eoutPira
+162	$270510	8	te ShipT
+163	$270518	8	orna Can
+164	$270520	8	alShip G
+165	$270528	8	raveyard
+166	$270530	8	Great Tr
+167	$270538	8	enchGuid
+168	$270540	8	o's Cave
+169	$270548	8	West Val
+170	$270550	8	leyDeath
+171	$270558	8	 ValleyN
+172	$270560	8	orth Mou
+173	$270568	8	ntainNor
+174	$270570	8	th Mount
+175	$270578	8	ain \C5 Su
+176	$270580	8	mmitHiry
+177	$270588	8	uu Valle
+178	$270590	8	yQuicksa
+179	$270598	8	nd Deser
+180	$2705A0	8	tPyramid
+181	$2705A8	8	Cleft of
+182	$2705B0	8	 Dimensi
+183	$2705B8	8	onChocob
+184	$2705C0	8	o Forest
+185	$2705C8	8	Black Ch
+186	$2705D0	8	ocobo Fo
+187	$2705D8	8	restAirs
+188	$2705E0	8	hipZeza'
+189	$2705E8	8	s ShipBi
+190	$2705F0	8	g Bridge
+191	$2705F8	8	Beginner
+192	$270600	8	's House
+193	$270608	7	Lenna's
+194	$270610	8	RoomKing
+195	$270618	8	's RoomS
+196	$270620	7	olitary
+197	$270628	8	Island T
+198	$270630	8	empleBar
+199	$270638	8	d's Hous
+200	$270640	8	eQueen's
+201	$270648	8	 RoomSea
+202	$270650	8	led Room
+203	$270658	8	Elder Tr
+204	$270660	8	eeUnderg
+205	$270668	8	round Ri
+206	$270670	8	verip Gr
+207	$270678	8	aveyardG
+208	$270680	8	reat Tre
+209	$270688	8	nchGuido
+210	$270690	8	's Shrin
+211	$270698	8	eWest Va
+212	$2706A0	8	lleyDeat
+213	$2706A8	8	h Valley
+214	$2706B0	8	North Mo
+215	$2706B8	8	untainNo
+216	$2706C0	8	rth Moun
+217	$2706C8	8	tain \C5 S
+218	$2706D0	8	ummitVal
+219	$2706D8	8	ley of t
+220	$2706E0	8	he Hiryu
+221	$2706E8	8	uQuicksa
+222	$2706F0	8	nd Deser
+223	$2706F8	8	tPyramid
+224	$270700	8	Cleft of
+225	$270708	8	 Dimensi
+226	$270710	8	onChocob
+227	$270718	8	o Forest
+228	$270720	8	Black Ch
+229	$270728	8	ocobo Fo
+230	$270730	8	restAirs
+231	$270738	8	hipZeza'
+232	$270740	8	s ShipBi
+233	$270748	8	g Bridge
+234	$270750	8	Beginner
+235	$270758	8	's House
+236	$270760	7	Lenna's
+237	$270768	8	RoomKing
+238	$270770	8	's RoomS
+239	$270778	7	olitary
+240	$270780	8	Island T
+241	$270788	8	empleTro
+242	$270790	8	ubador's
+243	$270798	8	 HouseQu
+244	$2707A0	8	een's Ro
+245	$2707A8	8	omRoom o
+246	$2707B0	8	f the Se
+247	$2707B8	8	alOldest
+248	$2707C0	8	 TreeUnd
+249	$2707C8	8	erground
+250	$2707D0	8	 River\45\4E
+251	$2707D8	1	\44
+252	$2707E0	0	
+253	$2707E8	0	
+254	$2707F0	0	
+255	$2707F8	0	
+256	$270800	0	
+257	$270808	0	
+258	$270810	0	
+259	$270818	0	
+260	$270820	0	
+261	$270828	0	
+262	$270830	0	
+263	$270838	0	
+264	$270840	0	
+265	$270848	0	
+266	$270850	0	
+267	$270858	0	
+268	$270860	0	
+269	$270868	0	
+270	$270870	0	
+271	$270878	0	
+272	$270880	0	
+273	$270888	0	
+274	$270890	0	
+275	$270898	0	
+276	$2708A0	0	
+277	$2708A8	0	
+278	$2708B0	0	
+279	$2708B8	0	
+280	$2708C0	0	
+281	$2708C8	0	
+282	$2708D0	0	
+283	$2708D8	0	
+284	$2708E0	0	
+285	$2708E8	0	
+286	$2708F0	0	
+287	$2708F8	0	

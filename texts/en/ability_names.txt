@@ -1,0 +1,42 @@
+0	$201150	16	       Other  It
+1	$201160	16	em   Row    Def.
+2	$201170	15	   Fight  Guard
+3	$201180	16	 Kick   BuildUpM
+4	$201190	16	antra Escape Ste
+5	$2011A0	15	al  CaptureJump
+6	$2011B0	14	  DrgnSwdSmoke
+7	$2011C0	16	Image  Throw  Sw
+8	$2011D0	16	dSlapGilTossSlas
+9	$2011E0	13	h  AnimalsAim
+10	$2011F0	16	 X\C5FightConjureO
+11	$201200	16	bserveAnalyzeTam
+12	$201210	16	e   ControlCatch
+13	$201220	16	  ReleaseCombine
+14	$201230	16	Drink  Pray   Re
+15	$201240	16	vive TerrainDumm
+16	$201250	14	y01Hide   Show
+17	$201260	16	 Dummy02Sing   F
+18	$201270	16	lirt  Dance  Mim
+19	$201280	16	ic  MgcSwrdMgcSw
+20	$201290	16	rdMgcSwrdMgcSwrd
+21	$2012A0	16	MgcSwrdMgcSwrdWh
+22	$2012B0	16	ite  White  Whit
+23	$2012C0	15	e  White  White
+24	$2012D0	16	 White  Black  B
+25	$2012E0	16	lack  Black  Bla
+26	$2012F0	16	ck  Black  Black
+27	$201300	14	  Dimen  Dimen
+28	$201310	16	Dimen  Dimen  Di
+29	$201320	16	men  Dimen  Summ
+30	$201330	16	on Summon Summon
+31	$201340	16	 Summon Summon R
+32	$201350	16	ed    Red    Red
+33	$201360	15	    X\C5MagicBlue
+34	$201370	0	
+35	$201380	16	Dummy01Dummy02Du
+36	$201390	16	mmy03Dummy04Dumm
+37	$2013A0	16	y05Dummy06Dummy0
+38	$2013B0	16	7Dummy08Dummy09D
+39	$2013C0	16	ummy10Dummy11Dum
+40	$2013D0	16	my12Dummy13Dummy
+41	$2013E0	16	14Dummy15Dummy16

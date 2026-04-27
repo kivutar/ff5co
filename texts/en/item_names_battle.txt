@@ -1,0 +1,384 @@
+0	$275860	0	
+1	$275870	13	        Empty
+2	$275880	0	
+3	$275890	5	Knife
+4	$2758A0	14	        Dagger
+5	$2758B0	0	
+6	$2758C0	14	Mythril\96Dagger
+7	$2758D0	13	        Kunai
+8	$2758E0	0	
+9	$2758F0	11	Mage\96Masher
+10	$275900	16	        Guardian
+11	$275910	0	
+12	$275920	7	Kodachi
+13	$275930	16	        Orihalco
+14	$275940	8	n\96Dagger
+15	$275950	10	Air\96Lancet
+16	$275960	16	        Assassin
+17	$275970	7	\96Dagger
+18	$275980	15	Hardened\96Dagger
+19	$275990	16	        Broad\96Sw
+20	$2759A0	3	ord
+21	$2759B0	13	Regal\96Cutlass
+22	$2759C0	16	        Mythril\96
+23	$2759D0	5	Sword
+24	$2759E0	11	Coral\96Sword
+25	$2759F0	16	        Ancient\96
+26	$275A00	5	Sword
+27	$275A10	4	Epee
+28	$275A20	16	        Slumber\96
+29	$275A30	5	Sword
+30	$275A40	8	Defender
+31	$275A50	16	        Exca\97bur
+32	$275A60	0	
+33	$275A70	8	Ragnarok
+34	$275A80	15	        Javelin
+35	$275A90	0	
+36	$275AA0	5	Spear
+37	$275AB0	16	        Mythril\96
+38	$275AC0	5	Spear
+39	$275AD0	7	Trident
+40	$275AE0	16	        Wind\96Spe
+41	$275AF0	2	ar
+42	$275B00	8	Partisan
+43	$275B10	15	        Gungnir
+44	$275B20	0	
+45	$275B30	12	Double\96Lance
+46	$275B40	16	        Holy\96Spe
+47	$275B50	2	ar
+48	$275B60	13	Dragoon\96Spear
+49	$275B70	16	        Battle\96A
+50	$275B80	2	xe
+51	$275B90	14	Mythril\96Hammer
+52	$275BA0	16	        Ogre\96Axe
+53	$275BB0	0	
+54	$275BC0	10	War\96Hammer
+55	$275BD0	16	        Venom\96Ax
+56	$275BE0	1	e
+57	$275BF0	12	Earth\96Hammer
+58	$275C00	16	        Rune\96Axe
+59	$275C10	0	
+60	$275C20	13	Thor's\96Hammer
+61	$275C30	14	        Katana
+62	$275C40	0	
+63	$275C50	8	AirBlade
+64	$275C60	16	        Kotetsu\96
+65	$275C70	5	Sword
+66	$275C80	11	Bizen\96Sword
+67	$275C90	16	        Forged\96S
+68	$275CA0	4	word
+69	$275CB0	8	Murasame
+70	$275CC0	16	        Masamune
+71	$275CD0	0	
+72	$275CE0	13	Tempest\96Sword
+73	$275CF0	11	        Rod
+74	$275D00	0	
+75	$275D10	8	Fire\96Rod
+76	$275D20	15	        Ice\96Rod
+77	$275D30	0	
+78	$275D40	11	Thunder\96Rod
+79	$275D50	16	        Venom\96Ro
+80	$275D60	1	d
+81	$275D70	11	Lillith\96Rod
+82	$275D80	16	        Wizard\96R
+83	$275D90	2	od
+84	$275DA0	5	Staff
+85	$275DB0	16	        Mythril\96
+86	$275DC0	5	Staff
+87	$275DD0	11	Power\96Staff
+88	$275DE0	16	        Healing\96
+89	$275DF0	5	Staff
+90	$275E00	11	Light\96Staff
+91	$275E10	16	        Sage\96Sta
+92	$275E20	2	ff
+93	$275E30	16	Staff\96of\96Judgeme
+94	$275E40	16	nt      Fire\96Bow
+95	$275E50	0	
+96	$275E60	7	Ice\96Bow
+97	$275E70	16	        Thunder\96
+98	$275E80	3	Bow
+99	$275E90	12	Darkness\96Bow
+100	$275EA0	16	        Ki\98er\96Bo
+101	$275EB0	1	w
+102	$275EC0	9	Elven\96Bow
+103	$275ED0	16	        Yoichi\96B
+104	$275EE0	2	ow
+105	$275EF0	13	Artemis's\96Bow
+106	$275F00	16	        Silver\96H
+107	$275F10	3	arp
+108	$275F20	10	Dream\96Harp
+109	$275F30	16	        Lamia\96Ha
+110	$275F40	2	rp
+111	$275F50	11	Apollo\96Harp
+112	$275F60	12	        Whip
+113	$275F70	0	
+114	$275F80	10	Chain\96Whip
+115	$275F90	16	        Thunder\96
+116	$275FA0	4	Whip
+117	$275FB0	10	Flame\96Whip
+118	$275FC0	16	        Dragon\96W
+119	$275FD0	3	hip
+120	$275FE0	14	Giyaman's\96Bell
+121	$275FF0	16	        Earth\96Be
+122	$276000	2	ll
+123	$276010	9	Rune\96Bell
+124	$276020	16	        Tinker\96B
+125	$276030	3	ell
+126	$276040	5	Sabre
+127	$276050	16	        Drain\96Sw
+128	$276060	3	ord
+129	$276070	9	Rune\96Edge
+130	$276080	16	        Flame\96To
+131	$276090	5	ungue
+132	$2760A0	9	Ice\96Brand
+133	$2760B0	16	        Full\96Moo
+134	$2760C0	1	n
+135	$2760D0	8	Shuriken
+136	$2760E0	16	        Pinwheel
+137	$2760F0	0	
+138	$276100	8	Exca\94ber
+139	$276110	16	        Beastkil
+140	$276120	3	ler
+141	$276130	5	Flail
+142	$276140	16	        Morning\96
+143	$276150	4	Star
+144	$276160	10	Wonder\96Rod
+145	$276170	16	        Brave\96Bl
+146	$276180	3	ade
+147	$276190	4	Soot
+148	$2761A0	16	        Chicken\96
+149	$2761B0	5	Knife
+150	$2761C0	10	Rising\96Sun
+151	$2761D0	16	        Silver\96B
+152	$2761E0	2	ow
+153	$2761F0	8	Gale\96Bow
+154	$276200	16	        Anti\C5Mag
+155	$276210	6	ic\96Bow
+156	$276220	10	Aviskiller
+157	$276230	16	        Doom\96Axe
+158	$276240	0	
+159	$276250	11	Giant's\96Axe
+160	$276260	16	        Man\96Eate
+161	$276270	1	r
+162	$276280	13	Thief's\96Knife
+163	$276290	16	        Dancing\96
+164	$2762A0	6	Dagger
+165	$2762B0	8	Enhancer
+166	$2762C0	16	        Left\96Han
+167	$2762D0	1	d
+168	$2762E0	9	Reft\96Hand
+169	$2762F0	16	        Item0000
+170	$276300	0	
+171	$276310	8	Item0000
+172	$276320	16	        Item0000
+173	$276330	0	
+174	$276340	8	Item0000
+175	$276350	16	        Item0000
+176	$276360	0	
+177	$276370	8	Item0000
+178	$276380	16	        Item0000
+179	$276390	0	
+180	$2763A0	8	Item0000
+181	$2763B0	16	        Item0000
+182	$2763C0	0	
+183	$2763D0	8	Item0000
+184	$2763E0	16	        Item0000
+185	$2763F0	0	
+186	$276400	8	Item0000
+187	$276410	16	        Item0000
+188	$276420	0	
+189	$276430	8	Item0000
+190	$276440	16	        Item0000
+191	$276450	0	
+192	$276460	0	
+193	$276470	16	        Leather\96
+194	$276480	6	Shield
+195	$276490	13	Bronze\96Shield
+196	$2764A0	16	        Iron\96Shi
+197	$2764B0	3	eld
+198	$2764C0	14	Mythril\96Shield
+199	$2764D0	16	        Gold\96Shi
+200	$2764E0	3	eld
+201	$2764F0	12	Aegis\96Shield
+202	$276500	16	        Diamond\96
+203	$276510	6	Shield
+204	$276520	14	Crystal\96Shield
+205	$276530	16	        Leather\96
+206	$276540	6	Helmet
+207	$276550	13	Bronze\96Helmet
+208	$276560	16	        Iron\96Hel
+209	$276570	3	met
+210	$276580	14	Mythril\96Helmet
+211	$276590	16	        Gold\96Hel
+212	$2765A0	3	met
+213	$2765B0	14	Diamond\96Helmet
+214	$2765C0	16	        Crystal\96
+215	$2765D0	6	Helmet
+216	$2765E0	10	Plumed\96Hat
+217	$2765F0	15	        Tricorn
+218	$276600	0	
+219	$276610	9	Magus\96Hat
+220	$276620	15	        Circlet
+221	$276630	0	
+222	$276640	12	Gold\96Hairpin
+223	$276650	14	        Ribbon
+224	$276660	0	
+225	$276670	7	Bandana
+226	$276680	16	        Green\96Be
+227	$276690	3	ret
+228	$2766A0	9	Dark\96Hood
+229	$2766B0	16	        Lamia's\96
+230	$2766C0	5	Tiara
+231	$2766D0	15	Leather\96Clothes
+232	$2766E0	16	        Bronze\96A
+233	$2766F0	4	rmor
+234	$276700	10	Iron\96Armor
+235	$276710	16	        Mythril\96
+236	$276720	5	Armor
+237	$276730	10	Gold\96Armor
+238	$276740	16	        Diamond\96
+239	$276750	5	Armor
+240	$276760	13	Crystal\96Armor
+241	$276770	16	        Copper\96A
+242	$276780	4	rmor
+243	$276790	13	Training\96Suit
+244	$2767A0	16	        Silver\96A
+245	$2767B0	4	rmor
+246	$2767C0	12	Stealth\96Robe
+247	$2767D0	16	        Diamond\96
+248	$2767E0	5	Plate
+249	$2767F0	9	Dark\96Suit
+250	$276800	16	        Cotton\96S
+251	$276810	3	uit
+252	$276820	9	Silk\96Robe
+253	$276830	16	        Gaia\96Gea
+254	$276840	1	r
+255	$276850	14	Bard's\96Clothes
+256	$276860	16	        Lumina\96S
+257	$276870	3	uit
+258	$276880	10	Black\96Suit
+259	$276890	16	        White\96Su
+260	$2768A0	2	it
+261	$2768B0	11	Mirage\96Vest
+262	$2768C0	16	        Guard\96Ri
+263	$2768D0	2	ng
+264	$2768E0	11	Thief\96Glove
+265	$2768F0	16	        Giant's\96
+266	$276900	5	Glove
+267	$276910	8	Elf\96Cape
+268	$276920	16	        Cursed\96R
+269	$276930	3	ing
+270	$276940	7	Glasses
+271	$276950	16	        Running\96
+272	$276960	5	Shoes
+273	$276970	13	Mythril\96Glove
+274	$276980	16	        Silver\96R
+275	$276990	3	ing
+276	$2769A0	12	Diamond\96Ring
+277	$2769B0	16	        Strength
+278	$2769C0	5	\96Suit
+279	$2769D0	10	Power\96Ring
+280	$2769E0	16	        Angel\96Su
+281	$2769F0	2	it
+282	$276A00	10	Angel\96Ring
+283	$276A10	16	        Flame\96Ri
+284	$276A20	2	ng
+285	$276A30	10	Coral\96Ring
+286	$276A40	16	        Bone\96Mai
+287	$276A50	1	l
+288	$276A60	13	Leather\96Shoes
+289	$276A70	16	        Kaiser\96K
+290	$276A80	7	nuckles
+291	$276A90	8	Gauntlet
+292	$276AA0	16	        Tiger\96Ma
+293	$276AB0	2	sk
+294	$276AC0	12	Flame\96Shield
+295	$276AD0	16	        Corna\96Ja
+296	$276AE0	1	r
+297	$276AF0	12	Genji\96Shield
+298	$276B00	16	        Genji\96He
+299	$276B10	4	lmet
+300	$276B20	11	Genji\96Armor
+301	$276B30	16	        Genji\96Gl
+302	$276B40	3	ove
+303	$276B50	9	Wall\96Ring
+304	$276B60	15	        Coronet
+305	$276B70	0	
+306	$276B80	8	Thornlet
+307	$276B90	16	        Ice\96Shie
+308	$276BA0	2	ld
+309	$276BB0	13	Cursed\96Shield
+310	$276BC0	16	        Rainbow\96
+311	$276BD0	4	Suit
+312	$276BE0	9	Red\96Shoes
+313	$276BF0	16	        \E3Item000
+314	$276C00	1	0
+315	$276C10	9	\E3Item0000
+316	$276C20	16	        \E3Item000
+317	$276C30	1	0
+318	$276C40	9	\E3Item0000
+319	$276C50	16	        \E3Item000
+320	$276C60	1	0
+321	$276C70	9	\E3Item0000
+322	$276C80	16	        \E3Item000
+323	$276C90	1	0
+324	$276CA0	9	\E3Item0000
+325	$276CB0	16	        \E3Item000
+326	$276CC0	1	0
+327	$276CD0	9	\E3Item0000
+328	$276CE0	16	        \E3Item000
+329	$276CF0	1	0
+330	$276D00	9	\E3Item0000
+331	$276D10	16	        \E3Item000
+332	$276D20	1	0
+333	$276D30	9	\E3Item0000
+334	$276D40	16	        \E3Item000
+335	$276D50	1	0
+336	$276D60	6	Potion
+337	$276D70	16	        Hi\C5Potio
+338	$276D80	1	n
+339	$276D90	5	Ether
+340	$276DA0	14	        Elixir
+341	$276DB0	0	
+342	$276DC0	12	Phoenix\96Down
+343	$276DD0	16	        Maiden's
+344	$276DE0	5	\96Kiss
+345	$276DF0	8	Revivify
+346	$276E00	16	        Turtle\96S
+347	$276E10	4	hell
+348	$276E20	8	Antidote
+349	$276E30	15	        Eyedrop
+350	$276E40	0	
+351	$276E50	11	Dragon\96Fang
+352	$276E60	16	        Dark\96Mat
+353	$276E70	3	ter
+354	$276E80	4	Soft
+355	$276E90	16	        Luck\96Ma\98
+356	$276EA0	2	et
+357	$276EB0	5	Dummy
+358	$276EC0	16	        Magic\96La
+359	$276ED0	2	mp
+360	$276EE0	4	Tent
+361	$276EF0	13	        Cabin
+362	$276F00	0	
+363	$276F10	11	Giant\96Drink
+364	$276F20	16	        Power\96Dr
+365	$276F30	3	ink
+366	$276F40	11	Speed\96Drink
+367	$276F50	16	        Protect\96
+368	$276F60	5	Drink
+369	$276F70	10	Hero\96Drink
+370	$276F80	16	        Dragon\96C
+371	$276F90	4	rest
+372	$276FA0	11	Omega\96Medal
+373	$276FB0	13	        Ramuh
+374	$276FC0	0	
+375	$276FD0	5	Shoat
+376	$276FE0	13	        Golem
+377	$276FF0	0	
+378	$277000	12	Flame\96Scroll
+379	$277010	16	        Water\96Sc
+380	$277020	4	roll
+381	$277030	14	Thunder\96Scroll
+382	$277040	15	        by\96RPGe
+383	$277050	0	

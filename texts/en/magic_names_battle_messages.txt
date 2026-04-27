@@ -1,0 +1,254 @@
+0	$271780	10	Power\96Song
+1	$271790	16	        Speed\96So
+2	$2717A0	2	ng
+3	$2717B0	13	Vitality\96Song
+4	$2717C0	16	        Magic\96So
+5	$2717D0	2	ng
+6	$2717E0	9	Hero\96Song
+7	$2717F0	15	        Requiem
+8	$271800	0	
+9	$271810	9	Love\96Song
+10	$271820	16	        Charm\96So
+11	$271830	2	ng
+12	$271840	12	Chocobo\96Kick
+13	$271850	16	        Whisperi
+14	$271860	7	ng\96Wind
+15	$271870	8	Latch\96On
+16	$271880	16	        Diamond\96
+17	$271890	4	Dust
+18	$2718A0	16	Bolt\96of\96Judgemen
+19	$2718B0	16	t       Hellfire
+20	$2718C0	0	
+21	$2718D0	16	Rage\96of\96the\96Eart
+22	$2718E0	16	h       Earth\96Wa
+23	$2718F0	2	ll
+24	$271900	11	Demon's\96Eye
+25	$271910	16	        Ruby\96Lig
+26	$271920	2	ht
+27	$271930	12	Thunderstorm
+28	$271940	16	        True\96Edg
+29	$271950	1	e
+30	$271960	16	Fire\96of\96Resurrec
+31	$271970	16	tion    Big\96Wave
+32	$271980	0	
+33	$271990	10	Mega\96Flare
+34	$2719A0	16	        Fat\96Choc
+35	$2719B0	3	obo
+36	$2719C0	7	Gungnir
+37	$2719D0	16	        Fire\96of\96
+38	$2719E0	12	Resurrection
+39	$2719F0	14	Dragon\96Sword\961
+40	$271A00	16	        Dragon\96S
+41	$271A10	6	word\962
+42	$271A20	8	Egg\96Chop
+43	$271A30	16	        ItemMagi
+44	$271A40	3	c05
+45	$271A50	11	ItemMagic06
+46	$271A60	16	        ItemMagi
+47	$271A70	3	c07
+48	$271A80	11	ItemMagic08
+49	$271A90	16	        ItemMagi
+50	$271AA0	3	c09
+51	$271AB0	13	Mystery\96Waltz
+52	$271AC0	16	        Jitterbu
+53	$271AD0	6	g\96Duet
+54	$271AE0	14	Tempting\96Tango
+55	$271AF0	16	        Magic\96Ba
+56	$271B00	5	rrier
+57	$271B10	11	Sword\96Dance
+58	$271B20	16	        Ice\96Aura
+59	$271B30	0	
+60	$271B40	8	Entangle
+61	$271B50	13	        Fight
+62	$271B60	0	
+63	$271B70	9	Specialty
+64	$271B80	15	        Condemn
+65	$271B90	0	
+66	$271BA0	8	Roulette
+67	$271BB0	16	        Aqua\96Rak
+68	$271BC0	1	e
+69	$271BD0	8	L.5\96Doom
+70	$271BE0	16	        L.4\96Quar
+71	$271BF0	3	ter
+72	$271C00	7	L.2\96Old
+73	$271C10	16	        L.3\96Flar
+74	$271C20	1	e
+75	$271C30	9	Frog\96Song
+76	$271C40	16	        Tiny\96Son
+77	$271C50	1	g
+78	$271C60	5	Flash
+79	$271C70	16	        Time\96Sli
+80	$271C80	1	p
+81	$271C90	10	Moon\96Flute
+82	$271CA0	16	        Death\96Cl
+83	$271CB0	2	aw
+84	$271CC0	4	Aero
+85	$271CD0	13	        Aero2
+86	$271CE0	0	
+87	$271CF0	5	Aero3
+88	$271D00	16	        Emission
+89	$271D10	0	
+90	$271D20	12	Goblin\96Punch
+91	$271D30	16	        Dark\96Sho
+92	$271D40	2	ck
+93	$271D50	9	Guard\96Off
+94	$271D60	14	        Fusion
+95	$271D70	0	
+96	$271D80	10	Mind\96Blast
+97	$271D90	15	        Vampire
+98	$271DA0	0	
+99	$271DB0	12	Magic\96Hammer
+100	$271DC0	16	        Big\96Guar
+101	$271DD0	1	d
+102	$271DE0	8	Exploder
+103	$271DF0	12	        ????
+104	$271E00	0	
+105	$271E10	8	Blowfish
+106	$271E20	16	        White\96Wi
+107	$271E30	2	nd
+108	$271E40	7	Missile
+109	$271E50	16	        Kurururu
+110	$271E60	1	!
+111	$271E70	10	Level\96Down
+112	$271E80	14	        Escape
+113	$271E90	0	
+114	$271EA0	14	Stalker\96Attack
+115	$271EB0	16	        Byblos\96A
+116	$271EC0	5	ttack
+117	$271ED0	7	No\96Clue
+118	$271EE0	16	        Grand\96Cr
+119	$271EF0	3	oss
+120	$271F00	12	Delta\96Attack
+121	$271F10	16	        Intercep
+122	$271F20	10	tor\96Rocket
+123	$271F30	14	Barrier\96Change
+124	$271F40	16	        Regenera
+125	$271F50	4	tion
+126	$271F60	10	Wind\96Slash
+127	$271F70	16	        No\C5Damag
+128	$271F80	7	e\96Magic
+129	$271F90	9	Targeting
+130	$271FA0	16	        Gravity\96
+131	$271FB0	3	100
+132	$271FC0	8	Darkness
+133	$271FD0	16	        Reaper's
+134	$271FE0	6	\96Sword
+135	$271FF0	10	Punishment
+136	$272000	15	        Blaster
+137	$272010	0	
+138	$272020	4	Beak
+139	$272030	11	        Hug
+140	$272040	0	
+141	$272050	5	Spore
+142	$272060	16	        Poison\96B
+143	$272070	5	reath
+144	$272080	16	Dance\96of\96the\96Dea
+145	$272090	16	d       Zombie\96P
+146	$2720A0	5	owder
+147	$2720B0	13	Zombie\96Breath
+148	$2720C0	14	        Spirit
+149	$2720D0	0	
+150	$2720E0	6	Allure
+151	$2720F0	16	        Entangle
+152	$272100	0	
+153	$272110	12	Rainbow\96Wind
+154	$272120	16	        Strange\96
+155	$272130	5	Dance
+156	$272140	16	Electromagnetic\96
+157	$272150	16	Field   White\96Ho
+158	$272160	2	le
+159	$272170	6	Needle
+160	$272180	16	        Maelstro
+161	$272190	1	m
+162	$2721A0	4	Bone
+163	$2721B0	16	        Tailscre
+164	$2721C0	1	w
+165	$2721D0	12	Stomach\96Acid
+166	$2721E0	16	        Rocket\96P
+167	$2721F0	4	unch
+168	$272200	12	Mustard\96Bomb
+169	$272210	16	        Almagest
+170	$272220	0	
+171	$272230	9	Quicksand
+172	$272240	16	        Atomic\96R
+173	$272250	2	ay
+174	$272260	10	Mini\96Blaze
+175	$272270	16	        Snowstor
+176	$272280	1	m
+177	$272290	5	Blaze
+178	$2722A0	16	        Electric
+179	$2722B0	6	\96Shock
+180	$2722C0	12	Earth\96Shaker
+181	$2722D0	16	        True\96Edg
+182	$2722E0	1	e
+183	$2722F0	10	Tidal\96Wave
+184	$272300	16	        Mega\96Fla
+185	$272310	2	re
+186	$272320	10	Sonic\96Wave
+187	$272330	14	        Thread
+188	$272340	0	
+189	$272350	5	Mucus
+190	$272360	13	        Quake
+191	$272370	0	
+192	$272380	5	Fight
+193	$272390	16	        Medicine
+194	$2723A0	0	
+195	$2723B0	5	Image
+196	$2723C0	16	        Breath\96W
+197	$2723D0	3	ing
+198	$2723E0	5	Flame
+199	$2723F0	15	        Thunder
+200	$272400	0	
+201	$272410	10	Surge\96Beam
+202	$272420	16	        Explosio
+203	$272430	1	n
+204	$272440	6	Remedy
+205	$272450	16	        Valiant\96
+206	$272460	6	Attack
+207	$272470	10	Giga\96Flare
+208	$272480	14	        Circle
+209	$272490	0	
+210	$2724A0	8	Wormhole
+211	$2724B0	15	        Possess
+212	$2724C0	0	
+213	$2724D0	6	Dynamo
+214	$2724E0	14	        Magnet
+215	$2724F0	0	
+216	$272500	16	Reverse\96Polarity
+217	$272510	12	        Jump
+218	$272520	0	
+219	$272530	6	X\C5Zone
+220	$272540	16	        Hurrican
+221	$272550	1	e
+222	$272560	11	Demon's\96Eye
+223	$272570	13	        \E3Item
+224	$272580	0	
+225	$272590	5	\E3Item
+226	$2725A0	13	        \E3Item
+227	$2725B0	0	
+228	$2725C0	9	Terminate
+229	$2725D0	16	        Valiant\96
+230	$2725E0	6	Attack
+231	$2725F0	4	Howl
+232	$272600	14	        Circle
+233	$272610	0	
+234	$272620	8	Wormhole
+235	$272630	15	        Possess
+236	$272640	0	
+237	$272650	10	Pole\96Shift
+238	$272660	14	        Magnet
+239	$272670	0	
+240	$272680	16	Reverse\96Polarity
+241	$272690	12	        Jump
+242	$2726A0	0	
+243	$2726B0	8	Hold\96Gas
+244	$2726C0	13	        \E3Item
+245	$2726D0	0	
+246	$2726E0	5	\E3Item
+247	$2726F0	13	        \E3Item
+248	$272700	0	
+249	$272710	5	\E3Item
+250	$272720	13	        \E3Item
+251	$272730	0	
+252	$272740	0	
+253	$272750	0	

@@ -1,0 +1,288 @@
+0	$111380	0	
+1	$111388	8	 Main nu
+2	$111390	8	e \E7Coute
+3	$111398	8	au \E7Dagu
+4	$1113A0	8	e   \E7Mit
+5	$1113A8	8	hril \E7Ku
+6	$1113B0	8	nai   \E7P
+7	$1113B8	8	oignard\E7
+8	$1113C0	6	Parade
+9	$1113C8	8	\E7Kodachi
+10	$1113D0	8	 \E7Cuivre
+11	$1113D8	8	  \E7Eolie
+12	$1113E0	8	nne\E7Assa
+13	$1113E8	8	ssÇç\E7Kat
+14	$1113F0	8	ana  \E3Cl
+15	$1113F8	8	aymore\E3L
+16	$111400	8	ongue  \E3
+17	$111408	7	Mithril
+18	$111410	7	\E3Corail
+19	$111418	8	 \E3Glaive
+20	$111420	8	  \E3Spath
+21	$111428	8	e  \E3Sabr
+22	$111430	8	e   \E3Jug
+23	$111438	8	ement\E3Ex
+24	$111440	8	calibur\E3R
+25	$111448	8	agnarok\E8
+26	$111450	5	Lance
+27	$111458	8	\E8Javelot
+28	$111460	8	 \E8Mithri
+29	$111468	8	l \E8Tride
+30	$111470	8	nt \E8Zéph
+31	$111478	8	yr  \E8Par
+32	$111480	8	tisan\E8Sa
+33	$111488	8	gaie  \BEA
+34	$111490	8	ngon   \E8
+35	$111498	6	Sacrée
+36	$1114A0	7	\E8Dragon
+37	$1114A8	8	 \E9Cognée
+38	$1114B0	8	  \E9Marte
+39	$1114B8	8	au \E9Hach
+40	$1114C0	8	oir \BFMas
+41	$1114C8	8	se   \E9To
+42	$1114D0	8	xique \BFG
+43	$1114D8	8	a!a    \E9
+44	$1114E0	7	Runique
+45	$1114E8	8	\BFMjollni
+46	$1114F0	8	r\EAAshura
+47	$1114F8	8	  \EAKazek
+48	$111500	8	iri\EAKote
+49	$111508	8	tsu \EAOsa
+50	$111510	8	fune \EASa
+51	$111518	8	mourai\EAM
+52	$111520	8	urasame\EA
+53	$111528	8	Masamune
+54	$111530	8	\EAMurakum
+55	$111538	8	o\EBSceptr
+56	$111540	6	e \EBFeu
+57	$111548	8	   \EBGlac
+58	$111550	8	e   \EBEcl
+59	$111558	8	air  \EBVe
+60	$111560	8	nin   \EBL
+61	$111568	8	ilith  \EB
+62	$111570	5	Magus
+63	$111578	6	\ECBâton
+64	$111580	8	 \ECMithri
+65	$111588	8	l \ECGourd
+66	$111590	8	in \ECCadu
+67	$111598	8	cée \ECLum
+68	$1115A0	8	ière \ECSa
+69	$1115A8	8	ge    \ECD
+70	$1115B0	8	amoclès\ED
+71	$1115B8	3	Feu
+72	$1115C0	6	\EDGlace
+73	$1115C8	8	 \EDEclair
+74	$1115D0	8	  \EDArc n
+75	$1115D8	8	oir\EDEsca
+76	$1115E0	8	rpe \EDArc
+77	$1115E8	8	 elfe\EDYo
+78	$1115F0	8	!chi  \EDA
+79	$1115F8	8	rtémis \EE
+80	$111600	4	Lyre
+81	$111608	8	\EEOniriqu
+82	$111610	7	e\EELamia
+83	$111618	8	  \EEApoll
+84	$111620	8	on \EFFoue
+85	$111628	8	t   \EFCha
+86	$111630	8	\BCne  \EFFo
+87	$111638	8	udre  \EFF
+88	$111640	8	eu     \EF
+89	$111648	6	Dragon
+90	$111650	7	\F0Cloche
+91	$111658	6	 \F0Ga!a
+92	$111660	8	  \F0Caril
+93	$111668	8	lon\F0Clar
+94	$111670	8	ine \E7Rap
+95	$111678	8	ière \E3Sa
+96	$111680	8	nguine\E3R
+97	$111688	8	unique \E3
+98	$111690	3	Feu
+99	$111698	6	\E3Glace
+100	$1116A0	8	 \BELunair
+101	$1116A8	8	e \C6Shuri
+102	$1116B0	8	ken\C6Fuma
+103	$1116B8	8	 Sh.\E3Exc
+104	$1116C0	8	alipur\EFTu
+105	$1116C8	8	eur   \BEP
+106	$1116D0	8	lombée \BE
+107	$1116D8	8	Goupillon
+108	$1116E0	7	\EBOlorin
+109	$1116E8	7	 \E3Brave
+110	$1116F0	7	  \BESuie
+111	$1116F8	8	   \E7Cisa
+112	$111700	8	ille\BESol
+113	$111708	8	aire \EDAr
+114	$111710	8	gent  \EDO
+115	$111718	8	uragan \ED
+116	$111720	7	Runique
+117	$111728	8	\EDArc coi
+118	$111730	8	 \E9Avicid
+119	$111738	8	e \E9Titan
+120	$111740	8	   \E7Barb
+121	$111748	8	are \E7Lup
+122	$111750	8	in   \E7Da
+123	$111758	8	nsante\E3A
+124	$111760	8	ig.\ACoirM
+125	$111768	5	ain I
+126	$111770	6	Main D
+127	$111778	8	 \AEDummy\AF
+128	$111780	8	  \AEDummy
+129	$111788	8	\AF  \AEDumm
+130	$111790	8	y\AF  \AEDum
+131	$111798	8	my\AF  \AEDu
+132	$1117A0	8	mmy\AF  \AED
+133	$1117A8	8	ummy\AF  \AE
+134	$1117B0	6	Dummy\AF
+135	$1117B8	7	\AEDummy\AF
+136	$1117C0	8	 \AEDummy\AF
+137	$1117C8	8	  \AEDummy
+138	$1117D0	8	\AF  \AEDumm
+139	$1117D8	8	y\AF  \AEDum
+140	$1117E0	8	my\AF  \AEDu
+141	$1117E8	8	mmy\AF  \AED
+142	$1117F0	8	ummy\AF  \AE
+143	$1117F8	6	Dummy\AF
+144	$111800	0	
+145	$111808	8	 \F1Pavois
+146	$111810	6	  \F1Ecu
+147	$111818	8	   \F1Bouc
+148	$111820	8	lier\F1Mit
+149	$111828	8	hril \F1Or
+150	$111830	8	      \F1A
+151	$111838	8	egis   \F1
+152	$111840	7	Diamant
+153	$111848	8	\F1Cristal
+154	$111850	8	 \F2Casque
+155	$111858	8	  \F2Heaum
+156	$111860	8	e  \F2Arme
+157	$111868	8	t   \F2Mit
+158	$111870	8	hril \F2Or
+159	$111878	8	      \F2D
+160	$111880	8	iamant \F2
+161	$111888	7	Cristal
+162	$111890	8	\F2Chapeau
+163	$111898	7	 \F2Toque
+164	$1118A0	8	  \F2Mitre
+165	$1118A8	8	   \F2Diad
+166	$1118B0	8	ème \F2Epi
+167	$1118B8	8	ngle \C1Ru
+168	$1118C0	8	ban   \F2T
+169	$1118C8	8	urban  \F2
+170	$1118D0	5	Béret
+171	$1118D8	8	\F2Capucho
+172	$1118E0	7	n\F2Tiare
+173	$1118E8	8	  \F3Cuira
+174	$1118F0	8	sse\F3Armu
+175	$1118F8	8	re  \F3Fer
+176	$111900	8	     \F3Mi
+177	$111908	8	thril \F3O
+178	$111910	8	r      \F3
+179	$111918	7	Diamant
+180	$111920	8	\F3Cristal
+181	$111928	8	 \F3Cuivre
+182	$111930	8	  \C3Kimon
+183	$111938	8	o  \F3Arge
+184	$111940	8	nt  \C3Nin
+185	$111948	8	ja   \F3Co
+186	$111950	8	tte   \C3C
+187	$111958	8	ostume \C3
+188	$111960	4	Robe
+189	$111968	5	\C3Soie
+190	$111970	8	 \C3Tuniqu
+191	$111978	8	e \C3Surpl
+192	$111980	8	is \C3Lumi
+193	$111988	8	ère \C3Noi
+194	$111990	8	re   \C3Bl
+195	$111998	8	anche \C3V
+196	$1119A0	8	este   \F4
+197	$1119A8	5	Bague
+198	$1119B0	5	\CCGant
+199	$1119B8	8	 \CCMoufle
+200	$1119C0	7	  \F4Cape
+201	$1119C8	8	   \F4Maud
+202	$1119D0	8	it  \F4Lun
+203	$1119D8	8	ettes\BDSa
+204	$1119E0	8	ndale \CCM
+205	$1119E8	8	ithril \CC
+206	$1119F0	6	Argent
+207	$1119F8	8	\CCDiamant
+208	$111A00	7	 \C3Force
+209	$111A08	8	  \F4Force
+210	$111A10	8	let\C3Aube
+211	$111A18	8	    \F4Ann
+212	$111A20	8	eau  \F4Ro
+213	$111A28	8	uge   \F4C
+214	$111A30	8	orail  \F3
+215	$111A38	8	Cotte os
+216	$111A40	8	\BDMocassi
+217	$111A48	8	n\CAJointu
+218	$111A50	8	re\CCGante
+219	$111A58	8	let\F2Masq
+220	$111A60	8	ue  \F1Feu
+221	$111A68	8	     \D2Go
+222	$111A70	8	urde  \F1G
+223	$111A78	8	enji   \F2
+224	$111A80	5	Genji
+225	$111A88	6	\F3Genji
+226	$111A90	7	 \CCGenji
+227	$111A98	8	  \F4Refle
+228	$111AA0	8	t  \F2Cour
+229	$111AA8	8	onne\F2Epi
+230	$111AB0	8	nes  \F1Gl
+231	$111AB8	8	ace   \F1S
+232	$111AC0	8	ang    \C3
+233	$111AC8	6	Prisme
+234	$111AD0	8	\BDChausso
+235	$111AD8	8	n\AEDummy\AF
+236	$111AE0	8	  \AEDummy
+237	$111AE8	8	\AF  \AEDumm
+238	$111AF0	8	y\AF  \AEDum
+239	$111AF8	8	my\AF  \AEDu
+240	$111B00	8	mmy\AF  \AED
+241	$111B08	8	ummy\AF  \AE
+242	$111B10	6	Dummy\AF
+243	$111B18	7	\AEDummy\AF
+244	$111B20	8	 \AEDummy\AF
+245	$111B28	8	  \AEDummy
+246	$111B30	8	\AF  \AEDumm
+247	$111B38	8	y\AF  \AEDum
+248	$111B40	8	my\AF  \AEDu
+249	$111B48	8	mmy\AF  \AED
+250	$111B50	8	ummy\AF  \AE
+251	$111B58	6	Dummy\AF
+252	$111B60	6	Potion
+253	$111B68	8	 Potion\E2
+254	$111B70	7	  Ether
+255	$111B78	8	   Elixi
+256	$111B80	8	r   Q.Ph
+257	$111B88	8	énix Bai
+258	$111B90	8	ser   Ea
+259	$111B98	8	u bén\A6eC
+260	$111BA0	7	arapace
+261	$111BA8	8	Antidote
+262	$111BB0	8	 Collyre
+263	$111BB8	6	  Dent
+264	$111BC0	8	   H-Esp
+265	$111BC8	8	ace Défi
+266	$111BD0	8	jeur Cla
+267	$111BD8	8	que   \AED
+268	$111BE0	8	ummy\AF  L
+269	$111BE8	4	ampe
+270	$111BF0	6	\C0Tente
+271	$111BF8	8	 \C0Pavill
+272	$111C00	8	on\C2Sirop
+273	$111C08	8	   \C2Nect
+274	$111C10	8	ar  \C2Boi
+275	$111C18	8	sson \C2Ti
+276	$111C20	8	sane  \C2C
+277	$111C28	8	ocktailB
+278	$111C30	5	lason
+279	$111C38	8	Médaille
+280	$111C40	6	 Ramuh
+281	$111C48	8	  Catobl
+282	$111C50	8	ep.Golem
+283	$111C58	8	    \C8Kat
+284	$111C60	8	on   \C8Su
+285	$111C68	8	iton  \C8R
+286	$111C70	8	aijin  .
+287	$111C78	6	noise.

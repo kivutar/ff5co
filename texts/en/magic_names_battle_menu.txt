@@ -1,0 +1,127 @@
+0	$270F90	16	\C4Power      \C4Spe
+1	$270FA0	16	ed      \C4Vitalit
+2	$270FB0	10	y   \C4Magic
+3	$270FC0	16	\C4Hero       \C4Req
+4	$270FD0	13	uiem    \C4Love
+5	$270FE0	10	    \C4Charm
+6	$270FF0	16	Chocobo\96KickWhis
+7	$271000	16	per\96WindLatch\96On
+8	$271010	16	    Diamond\96Dust
+9	$271020	16	Judgement   Hell
+10	$271030	16	\96Blazes Earth\96Ra
+11	$271040	13	ge  Earth\96Wa\98
+12	$271050	16	Demon\96Eye   Ruby
+13	$271060	16	\96Light  Thunders
+14	$271070	13	tormTrue\96Edge
+15	$271080	16	ResurrectionClea
+16	$271090	16	n\96Sweep Mega\96Fla
+17	$2710A0	15	re  Fat\96Chocobo
+18	$2710B0	16	Gungn\AF      Resu
+19	$2710C0	16	rrectionDragon\96S
+20	$2710D0	16	wd\961Dragon\96Swd\962
+21	$2710E0	16	Egg\96Chop    \ADemM
+22	$2710F0	16	agic05  \ADemMagic
+23	$271100	14	06  \ADemMagic07
+24	$271110	16	\ADemMagic08  \ADemM
+25	$271120	16	agic09  Mystery\96
+26	$271130	12	Wa\ADzJ\95terbug
+27	$271140	16	Temptation  Magi
+28	$271150	16	cBarrierSword\96Da
+29	$271160	12	nce Ice\96Aura
+30	$271170	16	Entangle    Figh
+31	$271180	16	t       Specialt
+32	$271190	11	y   Condemn
+33	$2711A0	16	Roulette    Aqua
+34	$2711B0	16	\96Rake   L.5\96Doom
+35	$2711C0	13	    L.4\96Qrter
+36	$2711D0	16	L.2\96Old     L.3\96
+37	$2711E0	16	Flare   Frog\96Son
+38	$2711F0	13	g   Tiny\96Song
+39	$271200	16	Flash       Time
+40	$271210	16	\96Slip   MoonFlut
+41	$271220	13	e   DeathClaw
+42	$271230	16	Aero        Aero
+43	$271240	13	2       Aero3
+44	$271250	12	    Emission
+45	$271260	16	Gb\97nPunch   Dark
+46	$271270	16	Shock   Guard\96Of
+47	$271280	10	f   Fusion
+48	$271290	16	MindBlast   Vamp
+49	$2712A0	16	\AFe      MgcHamme
+50	$2712B0	13	r   Big\96Guard
+51	$2712C0	16	Exploder    ????
+52	$2712D0	16	        Blowfish
+53	$2712E0	13	    Wh\95e\96Wind
+54	$2712F0	16	Missile     Kuru
+55	$271300	16	ruru!   LevelDow
+56	$271310	10	n   Escape
+57	$271320	16	Stalker\96Att.Bybl
+58	$271330	15	os\96Att. No\96Clue
+59	$271340	15	    Grand\96Cross
+60	$271350	16	De\ADa\96A\B0ack  Inte
+61	$271360	16	rceptor BarrierC
+62	$271370	15	hng.Regenera\A4on
+63	$271380	16	Gale\96Cut    No\C5D
+64	$271390	16	mg\96MagicTarge\A4ng
+65	$2713A0	14	    Grav\95y\96100
+66	$2713B0	16	Darkness    Reap
+67	$2713C0	16	er\96SwordPunishme
+68	$2713D0	11	nt  Blaster
+69	$2713E0	15	Beak        Hug
+70	$2713F0	13	        Spore
+71	$271400	16	    PoisonBreath
+72	$271410	16	Dead\96Dance  Zomb
+73	$271420	16	iePowderZombieBr
+74	$271430	8	eathSp\AF\95
+75	$271440	16	A\98ure       Enta
+76	$271450	16	ngle    Rainbow\96
+77	$271460	16	WindStrangeDance
+78	$271470	16	Magne\A4cFieldWh\95e
+79	$271480	14	\96Hole   Needle
+80	$271490	13	    Maelstrom
+81	$2714A0	16	Bone        Ta\94s
+82	$2714B0	16	crew    Stomach\96
+83	$2714C0	16	AcidRocket\96Punch
+84	$2714D0	16	Mustard\96BombAlma
+85	$2714E0	16	gest    Quicksan
+86	$2714F0	14	d   Atomic\96Ray
+87	$271500	16	Pet\95\96Blaze  Snow
+88	$271510	13	storm   Blaze
+89	$271520	15	    Elec.\96Shock
+90	$271530	16	Earth\96ShakerTrue
+91	$271540	16	\96Edge   Tidal\96Wa
+92	$271550	14	ve  Mega\96Flare
+93	$271560	16	Sonic\96Wave  Thre
+94	$271570	13	ad      Mucus
+95	$271580	9	    Quake
+96	$271590	16	Fight       Medi
+97	$2715A0	13	cine    Image
+98	$2715B0	15	    Breath\96Wing
+99	$2715C0	16	Flame       Thun
+100	$2715D0	16	der     Surge\96Be
+101	$2715E0	13	am  Explosion
+102	$2715F0	16	Remedy      Va\97a
+103	$271600	16	nt\96Atak Giga\96Fla
+104	$271610	9	re  C\AFcle
+105	$271620	16	Wormhole    Poss
+106	$271630	14	ess     Dynamo
+107	$271640	10	    Magnet
+108	$271650	16	Rev.Polar\95y Jump
+109	$271660	14	        Degeon
+110	$271670	13	    Hurricane
+111	$271680	16	Demon's\96Eye \E3\ADem
+112	$271690	12	        \E3\ADem
+113	$2716A0	8	    \E3\ADem
+114	$2716B0	16	Terminate   Va\97a
+115	$2716C0	12	nt\96Atak Howl
+116	$2716D0	9	    C\AFcle
+117	$2716E0	16	Wormhole    Poss
+118	$2716F0	16	ess     Pole\96Sh\AC
+119	$271700	10	t   Magnet
+120	$271710	16	Rev.Polar\95y Jump
+121	$271720	16	        Hold\96Gas
+122	$271730	8	    \E3\ADem
+123	$271740	16	\E3\ADem        \E3\ADem
+124	$271750	12	        \E3\ADem
+125	$271760	8	    \E3\ADem
+126	$271770	0	

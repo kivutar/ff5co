@@ -1,0 +1,52 @@
+0	$277060	13	Equip\96Shields
+1	$277070	16	        Equip\96Ar
+2	$277080	3	mor
+3	$277090	13	Equip\96Ribbons
+4	$2770A0	16	        Equip\96Sw
+5	$2770B0	4	ords
+6	$2770C0	12	Equip\96Spears
+7	$2770D0	16	        Equip\96Ka
+8	$2770E0	5	tanas
+9	$2770F0	10	Equip\96Axes
+10	$277100	16	        Equip\96Bo
+11	$277110	2	ws
+12	$277120	11	Equip\96Whips
+13	$277130	16	        Equip\96Ha
+14	$277140	3	rps
+15	$277150	10	Agility\96Up
+16	$277160	16	        HP\96Up\9610
+17	$277170	1	\CD
+18	$277180	9	HP\96Up\9620\CD
+19	$277190	16	        HP\96Up\9630
+20	$2771A0	1	\CD
+21	$2771B0	9	MP\96Up\9610\CD
+22	$2771C0	16	        MP\96Up\9630
+23	$2771D0	1	\CD
+24	$2771E0	5	Brawl
+25	$2771F0	16	        Double\96G
+26	$277200	3	rip
+27	$277210	13	2\C5handed\96Grip
+28	$277220	16	        Medicine
+29	$277230	0	
+30	$277240	5	Cover
+31	$277250	15	        Counter
+32	$277260	0	
+33	$277270	5	Evade
+34	$277280	16	        Spell\96Le
+35	$277290	6	arning
+36	$2772A0	7	Barrier
+37	$2772B0	15	        Berserk
+38	$2772C0	0	
+39	$2772D0	7	Caution
+40	$2772E0	13	        Alert
+41	$2772F0	0	
+42	$277300	12	See\96Passages
+43	$277310	16	        Damage\96F
+44	$277320	4	loor
+45	$277330	12	See\96Pitfalls
+46	$277340	16	        Equip\96Ro
+47	$277350	2	ds
+48	$277360	4	Dash
+49	$277370	0	
+50	$277380	0	
+51	$277390	0	
