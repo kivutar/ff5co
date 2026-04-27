@@ -12,31 +12,30 @@ Layout:
 Current `ok` set:
 
 - `dialog.txt`
+- `ability_names.txt`
+- `area_headings.txt`
+- `battle_record_text.txt`
 - `job_names.txt`
 - `shop_names.txt`
 - `character_names.txt`
 - `concepts_misc.txt`
+- `effect_names.txt`
 - `item_names_battle.txt`
+- `item_descriptions.txt`
+- `item_names_menu.txt`
+- `magic_names_battle_menu.txt`
 - `magic_names_battle_messages.txt`
 - `magic_names_field_menu.txt`
+- `menu_shop.txt`
+- `menu_ability_text.txt`
 - `monster_specialties.txt`
+- `monster_names.txt`
 - `rare_items.txt`
 - `song_names.txt`
 - `blue_magic_names.txt`
+- `support_abilities_battle.txt`
 
 Current `partial` set:
-
-- `ability_names.txt`
-- `area_headings.txt`
-- `battle_record_text.txt`
-- `menu_shop.txt`
-- `item_names_menu.txt`
-- `monster_names.txt`
-- `effect_names.txt`
-- `item_descriptions.txt`
-- `magic_names_battle_menu.txt`
-- `menu_ability_text.txt`
-- `support_abilities_battle.txt`
 
 Current `broken` set:
 

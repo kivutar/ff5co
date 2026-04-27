@@ -432,30 +432,30 @@ make_path("$output_dir/ok", "$output_dir/partial", "$output_dir/broken");
 sub output_path {
     my $filename = shift;
     my %ok = map { $_ => 1 } qw(
-        blue_magic_names.txt
-        character_names.txt
-        concepts_misc.txt
-        item_names_battle.txt
-        job_names.txt
-        magic_names_battle_messages.txt
-        magic_names_field_menu.txt
-        monster_specialties.txt
-        rare_items.txt
-        shop_names.txt
-        song_names.txt
-    );
-    my %partial = map { $_ => 1 } qw(
         ability_names.txt
         area_headings.txt
         battle_record_text.txt
+        blue_magic_names.txt
+        character_names.txt
+        concepts_misc.txt
         effect_names.txt
+        item_names_battle.txt
         item_descriptions.txt
         item_names_menu.txt
+        job_names.txt
         magic_names_battle_menu.txt
+        magic_names_battle_messages.txt
+        magic_names_field_menu.txt
         menu_ability_text.txt
         menu_shop.txt
+        monster_specialties.txt
         monster_names.txt
+        rare_items.txt
+        shop_names.txt
+        song_names.txt
         support_abilities_battle.txt
+    );
+    my %partial = map { $_ => 1 } qw(
     );
 
     return "$output_dir/ok/$filename" if $ok{$filename};
