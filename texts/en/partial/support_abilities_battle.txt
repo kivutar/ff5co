@@ -1,0 +1,33 @@
+0	$277060	13	Equip Shields
+1	$277078	11	Equip Armor
+2	$277090	13	Equip Ribbons
+3	$2770A8	12	Equip Swords
+4	$2770C0	12	Equip Spears
+5	$2770D8	13	Equip Katanas
+6	$2770F0	10	Equip Axes
+7	$277108	10	Equip Bows
+8	$277120	11	Equip Whips
+9	$277138	11	Equip Harps
+10	$277150	10	Agility Up
+11	$277168	9	HP Up 10%
+12	$277180	9	HP Up 20%
+13	$277198	9	HP Up 30%
+14	$2771B0	9	MP Up 10%
+15	$2771C8	9	MP Up 30%
+16	$2771E0	5	Brawl
+17	$2771F8	11	Double Grip
+18	$277210	13	2-handed Grip
+19	$277228	8	Medicine
+20	$277240	5	Cover
+21	$277258	7	Counter
+22	$277270	5	Evade
+23	$277288	14	Spell Learning
+24	$2772A0	7	Barrier
+25	$2772B8	7	Berserk
+26	$2772D0	7	Caution
+27	$2772E8	5	Alert
+28	$277300	12	See Passages
+29	$277318	12	Damage Floor
+30	$277330	12	See Pitfalls
+31	$277348	10	Equip Rods
+32	$277360	4	Dash

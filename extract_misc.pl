@@ -291,6 +291,19 @@ my %b2c_magic_field_fr_words = (
     "E5B8" => "cla",
 );
 
+my %b2c_support_battle_en = (
+    "C5" => "-",
+    "CD" => "%",
+    "96" => " ",
+);
+
+my %b2c_support_battle_fr = (
+    "B5" => "œ",
+    "CD" => "%",
+    "E2" => "+",
+    "F6" => " ",
+);
+
 my $mode = "fr";
 my $rom = "ff5fr.sfc";
 
@@ -336,6 +349,7 @@ sub output_path {
         menu_shop.txt
         monster_specialties.txt
         rare_items.txt
+        support_abilities_battle.txt
     );
 
     return "$output_dir/ok/$filename" if $ok{$filename};
@@ -923,6 +937,74 @@ sub dump_magic_names_field_menu {
     print "$path (" . scalar(@lines) . " entries)\n";
 }
 
+sub dump_support_abilities_battle {
+    my ($filename, $start, $end) = @_;
+    my @lines = ();
+    my $width = 8;
+    my $offset = $start;
+    my $index = 0;
+    my %table = %decode_table;
+
+    if ($mode eq "en") {
+        %table = (%table, %b2c_support_battle_en);
+    } elsif ($mode eq "fr" || $mode eq "co") {
+        %table = (%table, %b2c_support_battle_fr);
+    }
+
+    my $current = "";
+    my $current_start = $offset;
+    my $current_len = 0;
+
+    while ($offset + $width <= $end + 1) {
+        my $record = substr($bytes, $offset, $width);
+        my @raw = unpack("C*", $record);
+        my $is_empty = !grep { $_ != 0xFF } @raw;
+
+        if ($is_empty) {
+            if ($current ne "") {
+                $current =~ s/^ +//;
+                $current =~ s/ +$//;
+                push @lines, join("\t", $index++, sprintf('$%06X', $current_start), $current_len, $current);
+                $current = "";
+                $current_len = 0;
+            }
+            $offset += $width;
+            next;
+        }
+
+        if ($current eq "") {
+            $current_start = $offset;
+        }
+
+        my $decoded = "";
+        my $trimmed = trim_record($record);
+        for my $b (unpack("C*", $trimmed)) {
+            my $hex = sprintf("%02X", $b);
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        if ($mode eq "en") {
+            $decoded =~ s/^2-handed Grip$/2-handed Grip/;
+        } else {
+            $decoded =~ s/^œil lynx$/Œil lynx/;
+        }
+
+        $current .= $decoded;
+        $current_len += length($trimmed);
+        $offset += $width;
+    }
+
+    if ($current ne "") {
+        $current =~ s/^ +//;
+        $current =~ s/ +$//;
+        push @lines, join("\t", $index++, sprintf('$%06X', $current_start), $current_len, $current);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path (" . scalar(@lines) . " entries)\n";
+}
+
 dump_fixed("monster_names.txt",                 0x200000, 0x200F4F, 16);
 dump_ability_names("ability_names.txt",         0x201150, 0x2013EF);
 dump_fixed("area_headings.txt",                 0x270000, 0x2708FF, 8);
@@ -933,7 +1015,7 @@ dump_fixed("rare_items.txt",                    0x273560, 0x2736FF, 16);
 dump_fixed("monster_specialties.txt",           0x273700, 0x273AF0, 16);
 dump_pointer_table("item_descriptions.txt",     0x275100, 0x80, 0x275200);
 dump_fixed("item_names_battle.txt",             0x275860, 0x27705F, 16);
-dump_fixed("support_abilities_battle.txt",      0x277060, 0x27739F, 16);
+dump_support_abilities_battle("support_abilities_battle.txt", 0x277060, 0x27739F);
 
 dump_menu_shop("menu_shop.txt",                 0x272F00, 0x2733FF);
 dump_item_names_menu("item_names_menu.txt",     0x111380, 0x111C7F);
