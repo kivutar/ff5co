@@ -28,7 +28,7 @@
 27	$272F9E	6	Main-D
 28	$272FA5	6	Main-G
 29	$272FAC	6	2 mains
-30	$272FB3	4	Tìte
+30	$272FB3	4	Tête
 31	$272FB8	5	Corps
 32	$272FBE	7	Access.
 33	$272FC6	5	Force
@@ -136,4 +136,4 @@
 135	$273386	7	Equipar
 136	$27338E	4	Eqp:
 137	$273398	21	Por favor asigne cada
-138	$2733AE	27	comando a al menos un botìn
+138	$2733AE	27	comando a al menos un botón

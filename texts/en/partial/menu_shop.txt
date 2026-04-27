@@ -11,23 +11,23 @@
 10	$272F3E	5	Stats
 11	$272F44	5	Config
 12	$272F4A	4	Save
-13	$272F4F	4	TIME
+13	$272F4F	4	Time
 14	$272F54	5	:
 15	$272F5A	2	Gil
-16	$272F5D	4	Form
-17	$272F62	3	Use
+16	$272F5D	4	Form.
+17	$272F62	3	Use.
 18	$272F66	0	
 19	$272F67	9	Can equip
-20	$272F71	5	LEVEL
+20	$272F71	5	Level
 21	$272F77	3	
-22	$272F7B	5	ability
+22	$272F7B	5	Ability
 23	$272F81	1	/
 24	$272F83	6	Optimum
 25	$272F8A	3	All
-26	$272F8E	3	Rmv
+26	$272F8E	3	Remove
 27	$272F92	6	R.Hand
 28	$272F99	6	L.Hand
-29	$272FA0	6	2-Hand
+29	$272FA0	6	2-Handed
 30	$272FA7	4	Head
 31	$272FAC	4	Body
 32	$272FB1	4	Relic
@@ -73,7 +73,7 @@
 72	$27310A	11	MP Cost:
 73	$273116	5	Menu
 74	$27311C	4	Load
-75	$273121	7	finished
+75	$273121	7	Finished
 76	$273129	0	
 77	$27312A	5	Reset
 78	$273130	4	ABC
@@ -105,7 +105,7 @@
 104	$27327B	7	Reequip
 105	$273283	24	Controller  Normal Custom
 106	$27329C	3	Exit
-107	$2732A0	12	Single Multi
+107	$2732A0	12	Single/Multi
 108	$2732AD	5	Color
 109	$2732B3	1	R
 110	$2732B5	1	G
@@ -120,7 +120,7 @@
 119	$2732E6	1	L
 120	$2732E8	1	R
 121	$2732EA	6	SELECT
-122	$2732F1	24	Act.UndoMenuMap Row Defense
+122	$2732F1	24	Act. Undo Menu Map Row Defense
 123	$27330A	5	Catch
 124	$273310	10	Short Menu
 125	$27331B	4	This
@@ -134,6 +134,6 @@
 133	$273346	16	Attach abilities
 134	$273357	15	Equip Optimum'
 135	$273367	12	Please equip
-136	$273374	9	Eqp:
+136	$273374	9	Equip:
 137	$27337E	26	Please assign each command
 138	$273399	23	to at least one button.

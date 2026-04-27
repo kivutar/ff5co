@@ -35,7 +35,7 @@
 34	$1144C7	48	Absorbe l\D6eau,résiste au>feu et craint l\D6éclair.
 35	$1144F8	19	Arrière:Atq.normale
 36	$11450C	32	Augmente la puissance>des mains.
-37	$11452D	40	A plus de chance de>contròler un ennemi.
+37	$11452D	40	A plus de chance de>contrôler un ennemi.
 38	$114556	39	A plus de chance de>capturer un ennemi.
 39	$11457E	0	
 40	$11457F	0	
@@ -43,7 +43,7 @@
 42	$1145AD	26	Diminue les HP du>porteur.
 43	$1145C8	33	Cause l\D6altération>d\D6état Zombie.
 44	$1145EA	41	Annule la protection>contre les attaques.
-45	$114614	45	Cause les mìmes effets>que le sort Châtiment.
+45	$114614	45	Cause les mêmes effets>que le sort Châtiment.
 46	$114642	0	
 47	$114643	0	
 48	$114644	0	

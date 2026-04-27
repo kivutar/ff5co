@@ -1,0 +1,169 @@
+0	$271780	10	Power Song
+1	$271798	10	Speed Song
+2	$2717B0	13	Vitality Song
+3	$2717C8	10	Magic Song
+4	$2717E0	9	Hero Song
+5	$2717F8	7	Requiem
+6	$271810	9	Love Song
+7	$271828	10	Charm Song
+8	$271840	12	Chocobo Kick
+9	$271858	15	Whispering Wind
+10	$271870	8	Latch On
+11	$271888	12	Diamond Dust
+12	$2718A0	17	Bolt of Judgement
+13	$2718B8	8	Hellfire
+14	$2718D0	17	Rage of the Earth
+15	$2718E8	10	Earth Wall
+16	$271900	11	Demon's Eye
+17	$271918	10	Ruby Light
+18	$271930	12	Thunderstorm
+19	$271948	9	True Edge
+20	$271960	20	Fire of Resurrection
+21	$271978	8	Big Wave
+22	$271990	10	Mega Flare
+23	$2719A8	11	Fat Chocobo
+24	$2719C0	7	Gungnir
+25	$2719D8	20	Fire of Resurrection
+26	$2719F0	14	Dragon Sword 1
+27	$271A08	14	Dragon Sword 2
+28	$271A20	8	Egg Chop
+29	$271A38	11	ItemMagic05
+30	$271A50	11	ItemMagic06
+31	$271A68	11	ItemMagic07
+32	$271A80	11	ItemMagic08
+33	$271A98	11	ItemMagic09
+34	$271AB0	13	Mystery Waltz
+35	$271AC8	14	Jitterbug Duet
+36	$271AE0	14	Tempting Tango
+37	$271AF8	13	Magic Barrier
+38	$271B10	11	Sword Dance
+39	$271B28	8	Ice Aura
+40	$271B40	8	Entangle
+41	$271B58	5	Fight
+42	$271B70	9	Specialty
+43	$271B88	7	Condemn
+44	$271BA0	8	Roulette
+45	$271BB8	9	Aqua Rake
+46	$271BD0	8	L.5 Doom
+47	$271BE8	11	L.4 Quarter
+48	$271C00	7	L.2 Old
+49	$271C18	9	L.3 Flare
+50	$271C30	9	Frog Song
+51	$271C48	9	Tiny Song
+52	$271C60	5	Flash
+53	$271C78	9	Time Slip
+54	$271C90	10	Moon Flute
+55	$271CA8	10	Death Claw
+56	$271CC0	4	Aero
+57	$271CD8	5	Aero2
+58	$271CF0	5	Aero3
+59	$271D08	8	Emission
+60	$271D20	12	Goblin Punch
+61	$271D38	10	Dark Shock
+62	$271D50	9	Guard Off
+63	$271D68	6	Fusion
+64	$271D80	10	Mind Blast
+65	$271D98	7	Vampire
+66	$271DB0	12	Magic Hammer
+67	$271DC8	9	Big Guard
+68	$271DE0	8	Exploder
+69	$271DF8	4	????
+70	$271E10	8	Blowfish
+71	$271E28	10	White Wind
+72	$271E40	7	Missile
+73	$271E58	9	Kurururu!
+74	$271E70	10	Level Down
+75	$271E88	6	Escape
+76	$271EA0	14	Stalker Attack
+77	$271EB8	13	Byblos Attack
+78	$271ED0	7	No Clue
+79	$271EE8	11	Grand Cross
+80	$271F00	12	Delta Attack
+81	$271F18	18	Interceptor Rocket
+82	$271F30	14	Barrier Change
+83	$271F48	12	Regeneration
+84	$271F60	10	Wind Slash
+85	$271F78	15	No-Damage Magic
+86	$271F90	9	Targeting
+87	$271FA8	11	Gravity 100
+88	$271FC0	8	Darkness
+89	$271FD8	14	Reaper's Sword
+90	$271FF0	10	Punishment
+91	$272008	7	Blaster
+92	$272020	4	Beak
+93	$272038	3	Hug
+94	$272050	5	Spore
+95	$272068	13	Poison Breath
+96	$272080	17	Dance of the Dead
+97	$272098	13	Zombie Powder
+98	$2720B0	13	Zombie Breath
+99	$2720C8	6	Spirit
+100	$2720E0	6	Allure
+101	$2720F8	8	Entangle
+102	$272110	12	Rainbow Wind
+103	$272128	13	Strange Dance
+104	$272140	21	Electromagnetic Field
+105	$272158	10	White Hole
+106	$272170	6	Needle
+107	$272188	9	Maelstrom
+108	$2721A0	4	Bone
+109	$2721B8	9	Tailscrew
+110	$2721D0	12	Stomach Acid
+111	$2721E8	12	Rocket Punch
+112	$272200	12	Mustard Bomb
+113	$272218	8	Almagest
+114	$272230	9	Quicksand
+115	$272248	10	Atomic Ray
+116	$272260	10	Mini Blaze
+117	$272278	9	Snowstorm
+118	$272290	5	Blaze
+119	$2722A8	14	Electric Shock
+120	$2722C0	12	Earth Shaker
+121	$2722D8	9	True Edge
+122	$2722F0	10	Tidal Wave
+123	$272308	10	Mega Flare
+124	$272320	10	Sonic Wave
+125	$272338	6	Thread
+126	$272350	5	Mucus
+127	$272368	5	Quake
+128	$272380	5	Fight
+129	$272398	8	Medicine
+130	$2723B0	5	Image
+131	$2723C8	11	Breath Wing
+132	$2723E0	5	Flame
+133	$2723F8	7	Thunder
+134	$272410	10	Surge Beam
+135	$272428	9	Explosion
+136	$272440	6	Remedy
+137	$272458	14	Valiant Attack
+138	$272470	10	Giga Flare
+139	$272488	6	Circle
+140	$2724A0	8	Wormhole
+141	$2724B8	7	Possess
+142	$2724D0	6	Dynamo
+143	$2724E8	6	Magnet
+144	$272500	16	Reverse Polarity
+145	$272518	4	Jump
+146	$272530	6	X-Zone
+147	$272548	9	Hurricane
+148	$272560	11	Demon's Eye
+149	$272578	5	Item
+150	$272590	5	Item
+151	$2725A8	5	Item
+152	$2725C0	9	Terminate
+153	$2725D8	14	Valiant Attack
+154	$2725F0	4	Howl
+155	$272608	6	Circle
+156	$272620	8	Wormhole
+157	$272638	7	Possess
+158	$272650	10	Pole Shift
+159	$272668	6	Magnet
+160	$272680	16	Reverse Polarity
+161	$272698	4	Jump
+162	$2726B0	8	Hold Gas
+163	$2726C8	5	Item
+164	$2726E0	5	Item
+165	$2726F8	5	Item
+166	$272710	5	Item
+167	$272728	5	Item
+168	$272740	0	

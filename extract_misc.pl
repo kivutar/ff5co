@@ -375,6 +375,33 @@ my %b2c_monster_specialties_fr = (
     "52" => " ",
 );
 
+my %b2c_item_battle_en = (
+    %b2c_item_en,
+);
+
+my %b2c_item_battle_fr = (
+    %b2c_item_fr,
+    "52" => " ",
+    "BB" => "în",
+    "CA" => "ïa",
+    "AE" => "",
+    "AF" => "",
+    "E2" => "+",
+);
+
+my %b2c_magic_battle_messages_en = (
+    %b2c_magic_field_en,
+    "96" => " ",
+);
+
+my %b2c_magic_battle_messages_fr = (
+    %b2c_magic_field_fr,
+    "52" => " ",
+    "BC" => "ïq",
+    "B5" => "œ",
+    "CA" => "ïa",
+);
+
 my $mode = "fr";
 my $rom = "ff5fr.sfc";
 
@@ -390,10 +417,10 @@ if (defined $ARGV[0]) {
 }
 
 my %decode_table = %b2c;
-if ($mode eq "fr") {
+if ($mode eq "fr" || $mode eq "co") {
+    # Misc tables in ff5co.sfc are still largely inherited from the French ROM,
+    # so decode them with the French table for readability.
     %decode_table = (%decode_table, %b2c_fr);
-} elsif ($mode eq "co") {
-    %decode_table = (%decode_table, %b2c_co);
 }
 
 my $bytes = read_binary($rom);
@@ -407,7 +434,9 @@ sub output_path {
     my %ok = map { $_ => 1 } qw(
         character_names.txt
         concepts_misc.txt
+        item_names_battle.txt
         job_names.txt
+        magic_names_battle_messages.txt
         monster_specialties.txt
         rare_items.txt
         shop_names.txt
@@ -419,11 +448,9 @@ sub output_path {
         battle_record_text.txt
         blue_magic_names.txt
         effect_names.txt
-        item_names_battle.txt
         item_descriptions.txt
         item_names_menu.txt
         magic_names_battle_menu.txt
-        magic_names_battle_messages.txt
         magic_names_field_menu.txt
         menu_ability_text.txt
         menu_shop.txt
@@ -571,6 +598,13 @@ sub normalize_menu_shop {
     if ($mode eq "en") {
         $decoded =~ s/^ +//;
         $decoded =~ s/ +$//;
+        $decoded =~ s/^TIME$/Time/g;
+        $decoded =~ s/^Form$/Form./g;
+        $decoded =~ s/^Use$/Use./g;
+        $decoded =~ s/^LEVEL$/Level/g;
+        $decoded =~ s/^ability$/Ability/g;
+        $decoded =~ s/^Rmv$/Remove/g;
+        $decoded =~ s/^2-Hand$/2-Handed/g;
         $decoded =~ s/Opiptimum/Optimum/g;
         $decoded =~ s/Opipmum/Optimum/g;
         $decoded =~ s/Strgth\./Strength/g;
@@ -594,6 +628,10 @@ sub normalize_menu_shop {
         $decoded =~ s/^\[TAB3\](?:\[TAB1\]){8}\[DialogueGil\]$/[ColorPreview]/g;
         $decoded =~ s/([!?])'+$/$1/g;
         $decoded =~ s/button\.+/button./g;
+        $decoded =~ s/^finished$/Finished/g;
+        $decoded =~ s/^Single Multi$/Single\/Multi/g;
+        $decoded =~ s/^Act\.UndoMenuMap Row Defense$/Act. Undo Menu Map Row Defense/g;
+        $decoded =~ s/^Eqp:$/Equip:/g;
         return $decoded;
     }
 
@@ -733,6 +771,7 @@ sub dump_fixed_with_extra {
         my $record = substr($bytes, $offset, $width);
         my $trimmed = trim_record($record);
         my @raw = unpack("C*", $trimmed);
+        shift @raw if @raw && $raw[0] == 0xE3;
         my $decoded = "";
 
         for my $b (@raw) {
@@ -758,6 +797,7 @@ sub dump_fixed_count_with_extra {
         my $record = substr($bytes, $offset, $width);
         my $trimmed = trim_record($record);
         my @raw = unpack("C*", $trimmed);
+        shift @raw if @raw && $raw[0] == 0xE3;
         my $decoded = "";
 
         for my $b (@raw) {
@@ -820,6 +860,7 @@ sub dump_song_names {
         my $record = substr($bytes, $offset, $width);
         my $trimmed = trim_record($record);
         my @raw = unpack("C*", $trimmed);
+        shift @raw if @raw && $raw[0] == 0xE3;
         my $decoded = "";
 
         for my $b (@raw) {
@@ -841,6 +882,94 @@ sub normalize_monster_specialty {
     $decoded =~ s/^ +//;
     $decoded =~ s/ +$//;
     return $decoded;
+}
+
+sub normalize_item_name_battle {
+    my ($mode, $decoded) = @_;
+
+    if ($mode eq "en") {
+        $decoded =~ s/^Reft Hand$/Right Hand/;
+        $decoded =~ s/^Item0000$/Dummy/;
+        return $decoded;
+    }
+
+    $decoded =~ s/^Main G +$/Main G/;
+    $decoded =~ s/^Main D +$/Main D/;
+    return $decoded;
+}
+
+sub dump_item_names_battle {
+    my ($filename, $start, $count, $width) = @_;
+    my @lines = ();
+    my %table = %decode_table;
+
+    if ($mode eq "en") {
+        %table = (%table, %b2c_item_battle_en);
+    } else {
+        %table = (%table, %b2c_item_battle_fr);
+    }
+
+    for (my $i = 0; $i < $count; $i++) {
+        my $offset = $start + ($i * $width);
+        my $record = substr($bytes, $offset, $width);
+        my $trimmed = trim_record($record);
+        my @raw = unpack("C*", $trimmed);
+        shift @raw if @raw && $raw[0] == 0xE3;
+        my $decoded = "";
+
+        for my $b (@raw) {
+            my $hex = sprintf("%02X", $b);
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        $decoded = normalize_item_name_battle($mode, $decoded);
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($count entries)\n";
+}
+
+sub normalize_magic_name_battle_message {
+    my ($mode, $decoded) = @_;
+    return $decoded if $mode eq "en";
+    $decoded =~ s/œil diabolique/Œil diabolique/;
+    $decoded =~ s/Item maœc/Item magic/;
+    return $decoded;
+}
+
+sub dump_magic_names_battle_messages {
+    my ($filename, $start, $count, $width) = @_;
+    my @lines = ();
+    my %table = %decode_table;
+
+    if ($mode eq "en") {
+        %table = (%table, %b2c_magic_battle_messages_en);
+    } else {
+        %table = (%table, %b2c_magic_battle_messages_fr);
+    }
+
+    for (my $i = 0; $i < $count; $i++) {
+        my $offset = $start + ($i * $width);
+        my $record = substr($bytes, $offset, $width);
+        my $trimmed = trim_record($record);
+        my @raw = unpack("C*", $trimmed);
+        shift @raw if @raw && $raw[0] == 0xE3;
+        my $decoded = "";
+
+        for my $b (@raw) {
+            my $hex = sprintf("%02X", $b);
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        $decoded = normalize_magic_name_battle_message($mode, $decoded);
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($count entries)\n";
 }
 
 sub dump_monster_specialties {
@@ -1438,12 +1567,12 @@ dump_ability_names("ability_names.txt",         0x201150, 0x2013EF);
 dump_offset_span_table("area_headings.txt",     0x107000, 164, 0x270000, 2304);
 dump_effect_names("effect_names.txt",           0x270900, 0x270F8F);
 dump_magic_names_battle_menu("magic_names_battle_menu.txt", 0x270F90, 0x27177F);
-dump_fixed_count("magic_names_battle_messages.txt", 0x271780, 169, 24);
+dump_magic_names_battle_messages("magic_names_battle_messages.txt", 0x271780, 169, 24);
 dump_rare_items("rare_items.txt",               0x273568, 24, 13);
 dump_monster_specialties("monster_specialties.txt", 0x273700, 64, 16);
 dump_battle_record_text("battle_record_text.txt", 0x275800, 5, 17);
 dump_offset_table_strings("item_descriptions.txt", 0x114000, 0x80, 0x110000, 0x00);
-dump_fixed_count_with_extra("item_names_battle.txt", 0x275860, 256, 24, ($mode eq "en" ? \%b2c_item_en : \%b2c_item_fr));
+dump_item_names_battle("item_names_battle.txt", 0x275860, 256, 24);
 dump_support_abilities_battle("support_abilities_battle.txt", 0x277060, 33, 24);
 
 dump_menu_shop("menu_shop.txt",                 0x00F987, 0x270000, 139);

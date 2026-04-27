@@ -18,7 +18,7 @@
 17	$273810	7	Morsure
 18	$273820	5	Coude
 19	$273830	5	Hache
-20	$273840	12	Coup de tìte
+20	$273840	12	Coup de tête
 21	$273850	13	Griffe droite
 22	$273860	5	Tacle
 23	$273870	5	Gifle

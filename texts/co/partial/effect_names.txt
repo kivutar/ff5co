@@ -81,7 +81,7 @@
 80	$270E00	6	Lierre
 81	$270E10	7	Sirocco
 82	$270E20	15	Sables mouvants
-83	$270E30	16	Tempìte de sable
+83	$270E30	16	Tempête de sable
 84	$270E40	3	Erg
 85	$270E50	7	Tsunami
 86	$270E60	15	Tourbillon marin

@@ -9,8 +9,8 @@
 8	$27003D	7	Taverne
 9	$270044	11	Antichambre
 10	$27004F	11	Grande salle
-11	$27005A	13	Salle du tròne
-12	$270067	8	Entrepòt
+11	$27005A	13	Salle du trône
+12	$270067	8	Entrepôt
 13	$27006F	4	Toit
 14	$270073	6	Balcon
 15	$270079	6	Prison
@@ -117,7 +117,7 @@
 116	$270497	23	Bibliothèque des anciens
 117	$2704AE	6	Lunule
 118	$2704B4	19	Ile de Lunule - SS1
-119	$2704C7	24	Ile de Lunule - Entrepòt
+119	$2704C7	24	Ile de Lunule - Entrepôt
 120	$2704DF	25	Ruines de la ville de Gohn
 121	$2704F8	16	Aérolithe de Gohn
 122	$270508	15	Ruines de Ronka
@@ -125,7 +125,7 @@
 124	$27051D	16	Grotte de Jacole
 125	$27052D	6	Rugole
 126	$270533	3	Mua
-127	$270536	19	Grande forìt de Mua
+127	$270536	19	Grande forêt de Mua
 128	$270549	13	Arbre gardien
 129	$270556	15	Village des mogs
 130	$270565	6	Quelbe
@@ -147,8 +147,8 @@
 146	$270659	26	Désert des sables mouvants
 147	$270673	15	Pyramide de Mua
 148	$270682	26	Fissure interdimensionnelle
-149	$27069C	18	Forìt des chocobos
-150	$2706AE	21	Forìt du chocobo noir
+149	$27069C	18	Forêt des chocobos
+150	$2706AE	21	Forêt du chocobo noir
 151	$2706C3	8	Vaisseau
 152	$2706CB	15	Flotte de Xezat
 153	$2706DA	10	Grand pont
@@ -157,7 +157,7 @@
 156	$270704	14	Chambre du roi
 157	$270712	16	Temple insulaire
 158	$270722	15	Maison du barde
-159	$270731	13	Salle du tròne
+159	$270731	13	Salle du trône
 160	$27073E	15	Salle des sceaux
 161	$27074D	13	Arbre gardien
 162	$27075A	19	Rivière souterraine

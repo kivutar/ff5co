@@ -1,0 +1,256 @@
+0	$275860	0	
+1	$275878	5	Empty
+2	$275890	5	Knife
+3	$2758A8	6	Dagger
+4	$2758C0	14	Mythril Dagger
+5	$2758D8	5	Kunai
+6	$2758F0	11	Mage Masher
+7	$275908	8	Guardian
+8	$275920	7	Kodachi
+9	$275938	16	Orihalcon Dagger
+10	$275950	10	Air Lancet
+11	$275968	15	Assassin Dagger
+12	$275980	15	Hardened Dagger
+13	$275998	11	Broad Sword
+14	$2759B0	13	Regal Cutlass
+15	$2759C8	13	Mythril Sword
+16	$2759E0	11	Coral Sword
+17	$2759F8	13	Ancient Sword
+18	$275A10	4	Epee
+19	$275A28	13	Slumber Sword
+20	$275A40	8	Defender
+21	$275A58	8	Excalibur
+22	$275A70	8	Ragnarok
+23	$275A88	7	Javelin
+24	$275AA0	5	Spear
+25	$275AB8	13	Mythril Spear
+26	$275AD0	7	Trident
+27	$275AE8	10	Wind Spear
+28	$275B00	8	Partisan
+29	$275B18	7	Gungnir
+30	$275B30	12	Double Lance
+31	$275B48	10	Holy Spear
+32	$275B60	13	Dragoon Spear
+33	$275B78	10	Battle Axe
+34	$275B90	14	Mythril Hammer
+35	$275BA8	8	Ogre Axe
+36	$275BC0	10	War Hammer
+37	$275BD8	9	Venom Axe
+38	$275BF0	12	Earth Hammer
+39	$275C08	8	Rune Axe
+40	$275C20	13	Thor's Hammer
+41	$275C38	6	Katana
+42	$275C50	8	AirBlade
+43	$275C68	13	Kotetsu Sword
+44	$275C80	11	Bizen Sword
+45	$275C98	12	Forged Sword
+46	$275CB0	8	Murasame
+47	$275CC8	8	Masamune
+48	$275CE0	13	Tempest Sword
+49	$275CF8	3	Rod
+50	$275D10	8	Fire Rod
+51	$275D28	7	Ice Rod
+52	$275D40	11	Thunder Rod
+53	$275D58	9	Venom Rod
+54	$275D70	11	Lillith Rod
+55	$275D88	10	Wizard Rod
+56	$275DA0	5	Staff
+57	$275DB8	13	Mythril Staff
+58	$275DD0	11	Power Staff
+59	$275DE8	13	Healing Staff
+60	$275E00	11	Light Staff
+61	$275E18	10	Sage Staff
+62	$275E30	18	Staff of Judgement
+63	$275E48	8	Fire Bow
+64	$275E60	7	Ice Bow
+65	$275E78	11	Thunder Bow
+66	$275E90	12	Darkness Bow
+67	$275EA8	9	Killer Bow
+68	$275EC0	9	Elven Bow
+69	$275ED8	10	Yoichi Bow
+70	$275EF0	13	Artemis's Bow
+71	$275F08	11	Silver Harp
+72	$275F20	10	Dream Harp
+73	$275F38	10	Lamia Harp
+74	$275F50	11	Apollo Harp
+75	$275F68	4	Whip
+76	$275F80	10	Chain Whip
+77	$275F98	12	Thunder Whip
+78	$275FB0	10	Flame Whip
+79	$275FC8	11	Dragon Whip
+80	$275FE0	14	Giyaman's Bell
+81	$275FF8	10	Earth Bell
+82	$276010	9	Rune Bell
+83	$276028	11	Tinker Bell
+84	$276040	5	Sabre
+85	$276058	11	Drain Sword
+86	$276070	9	Rune Edge
+87	$276088	13	Flame Toungue
+88	$2760A0	9	Ice Brand
+89	$2760B8	9	Full Moon
+90	$2760D0	8	Shuriken
+91	$2760E8	8	Pinwheel
+92	$276100	8	Excaliber
+93	$276118	11	Beastkiller
+94	$276130	5	Flail
+95	$276148	12	Morning Star
+96	$276160	10	Wonder Rod
+97	$276178	11	Brave Blade
+98	$276190	4	Soot
+99	$2761A8	13	Chicken Knife
+100	$2761C0	10	Rising Sun
+101	$2761D8	10	Silver Bow
+102	$2761F0	8	Gale Bow
+103	$276208	14	Anti-Magic Bow
+104	$276220	10	Aviskiller
+105	$276238	8	Doom Axe
+106	$276250	11	Giant's Axe
+107	$276268	9	Man Eater
+108	$276280	13	Thief's Knife
+109	$276298	14	Dancing Dagger
+110	$2762B0	8	Enhancer
+111	$2762C8	9	Left Hand
+112	$2762E0	9	Right Hand
+113	$2762F8	8	Dummy
+114	$276310	8	Dummy
+115	$276328	8	Dummy
+116	$276340	8	Dummy
+117	$276358	8	Dummy
+118	$276370	8	Dummy
+119	$276388	8	Dummy
+120	$2763A0	8	Dummy
+121	$2763B8	8	Dummy
+122	$2763D0	8	Dummy
+123	$2763E8	8	Dummy
+124	$276400	8	Dummy
+125	$276418	8	Dummy
+126	$276430	8	Dummy
+127	$276448	8	Dummy
+128	$276460	0	
+129	$276478	14	Leather Shield
+130	$276490	13	Bronze Shield
+131	$2764A8	11	Iron Shield
+132	$2764C0	14	Mythril Shield
+133	$2764D8	11	Gold Shield
+134	$2764F0	12	Aegis Shield
+135	$276508	14	Diamond Shield
+136	$276520	14	Crystal Shield
+137	$276538	14	Leather Helmet
+138	$276550	13	Bronze Helmet
+139	$276568	11	Iron Helmet
+140	$276580	14	Mythril Helmet
+141	$276598	11	Gold Helmet
+142	$2765B0	14	Diamond Helmet
+143	$2765C8	14	Crystal Helmet
+144	$2765E0	10	Plumed Hat
+145	$2765F8	7	Tricorn
+146	$276610	9	Magus Hat
+147	$276628	7	Circlet
+148	$276640	12	Gold Hairpin
+149	$276658	6	Ribbon
+150	$276670	7	Bandana
+151	$276688	11	Green Beret
+152	$2766A0	9	Dark Hood
+153	$2766B8	13	Lamia's Tiara
+154	$2766D0	15	Leather Clothes
+155	$2766E8	12	Bronze Armor
+156	$276700	10	Iron Armor
+157	$276718	13	Mythril Armor
+158	$276730	10	Gold Armor
+159	$276748	13	Diamond Armor
+160	$276760	13	Crystal Armor
+161	$276778	12	Copper Armor
+162	$276790	13	Training Suit
+163	$2767A8	12	Silver Armor
+164	$2767C0	12	Stealth Robe
+165	$2767D8	13	Diamond Plate
+166	$2767F0	9	Dark Suit
+167	$276808	11	Cotton Suit
+168	$276820	9	Silk Robe
+169	$276838	9	Gaia Gear
+170	$276850	14	Bard's Clothes
+171	$276868	11	Lumina Suit
+172	$276880	10	Black Suit
+173	$276898	10	White Suit
+174	$2768B0	11	Mirage Vest
+175	$2768C8	10	Guard Ring
+176	$2768E0	11	Thief Glove
+177	$2768F8	13	Giant's Glove
+178	$276910	8	Elf Cape
+179	$276928	11	Cursed Ring
+180	$276940	7	Glasses
+181	$276958	13	Running Shoes
+182	$276970	13	Mythril Glove
+183	$276988	11	Silver Ring
+184	$2769A0	12	Diamond Ring
+185	$2769B8	13	Strength Suit
+186	$2769D0	10	Power Ring
+187	$2769E8	10	Angel Suit
+188	$276A00	10	Angel Ring
+189	$276A18	10	Flame Ring
+190	$276A30	10	Coral Ring
+191	$276A48	9	Bone Mail
+192	$276A60	13	Leather Shoes
+193	$276A78	15	Kaiser Knuckles
+194	$276A90	8	Gauntlet
+195	$276AA8	10	Tiger Mask
+196	$276AC0	12	Flame Shield
+197	$276AD8	9	Corna Jar
+198	$276AF0	12	Genji Shield
+199	$276B08	12	Genji Helmet
+200	$276B20	11	Genji Armor
+201	$276B38	11	Genji Glove
+202	$276B50	9	Wall Ring
+203	$276B68	7	Coronet
+204	$276B80	8	Thornlet
+205	$276B98	10	Ice Shield
+206	$276BB0	13	Cursed Shield
+207	$276BC8	12	Rainbow Suit
+208	$276BE0	9	Red Shoes
+209	$276BF8	9	Dummy
+210	$276C10	9	Dummy
+211	$276C28	9	Dummy
+212	$276C40	9	Dummy
+213	$276C58	9	Dummy
+214	$276C70	9	Dummy
+215	$276C88	9	Dummy
+216	$276CA0	9	Dummy
+217	$276CB8	9	Dummy
+218	$276CD0	9	Dummy
+219	$276CE8	9	Dummy
+220	$276D00	9	Dummy
+221	$276D18	9	Dummy
+222	$276D30	9	Dummy
+223	$276D48	9	Dummy
+224	$276D60	6	Potion
+225	$276D78	9	Hi-Potion
+226	$276D90	5	Ether
+227	$276DA8	6	Elixir
+228	$276DC0	12	Phoenix Down
+229	$276DD8	13	Maiden's Kiss
+230	$276DF0	8	Revivify
+231	$276E08	12	Turtle Shell
+232	$276E20	8	Antidote
+233	$276E38	7	Eyedrop
+234	$276E50	11	Dragon Fang
+235	$276E68	11	Dark Matter
+236	$276E80	4	Soft
+237	$276E98	10	Luck Mallet
+238	$276EB0	5	Dummy
+239	$276EC8	10	Magic Lamp
+240	$276EE0	4	Tent
+241	$276EF8	5	Cabin
+242	$276F10	11	Giant Drink
+243	$276F28	11	Power Drink
+244	$276F40	11	Speed Drink
+245	$276F58	13	Protect Drink
+246	$276F70	10	Hero Drink
+247	$276F88	12	Dragon Crest
+248	$276FA0	11	Omega Medal
+249	$276FB8	5	Ramuh
+250	$276FD0	5	Shoat
+251	$276FE8	5	Golem
+252	$277000	12	Flame Scroll
+253	$277018	12	Water Scroll
+254	$277030	14	Thunder Scroll
+255	$277048	7	by RPGe

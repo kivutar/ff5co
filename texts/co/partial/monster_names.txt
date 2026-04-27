@@ -1,5 +1,5 @@
 0	$200050	7	Gobelin
-1	$20005A	5	Guìpe
+1	$20005A	5	Guêpe
 2	$200064	8	Noisette
 3	$20006E	9	Chat noir
 4	$200078	10	Rhinolophe
@@ -64,7 +64,7 @@
 63	$2002C6	7	Actinie
 64	$2002D0	5	Tueur
 65	$2002DA	4	Ours
-66	$2002E4	7	Mage Rì
+66	$2002E4	7	Mage Rê
 67	$2002EE	7	Ronkien
 68	$2002F8	6	Masque
 69	$200302	8	Eventail
@@ -82,7 +82,7 @@
 81	$20037A	9	Orque-fée
 82	$200384	8	Dévoreur
 83	$20038E	10	Mandragore
-84	$200398	9	Bìte Kuza
+84	$200398	9	Bête Kuza
 85	$2003A2	9	Porc-épic
 86	$2003AC	8	Annélide
 87	$2003B6	9	Boucligon
@@ -130,7 +130,7 @@
 129	$20055A	9	Drag.Bleu
 130	$200564	10	Drag.Rouge
 131	$20056E	10	Drag.Jaune
-132	$200578	6	Rìveur
+132	$200578	6	Rêveur
 133	$200582	10	Tronc noir
 134	$20058C	8	Hérisson
 135	$200596	6	Python
@@ -313,7 +313,7 @@
 312	$200C80	10	Fourmilion
 313	$200C8A	5	Momie
 314	$200C94	6	Vipère
-315	$200C9E	8	Mécatìte
+315	$200C9E	8	Mécatête
 316	$200CA8	8	Mélusine
 317	$200CB2	8	Mélusine
 318	$200CBC	8	Mélusine
@@ -356,7 +356,7 @@
 355	$200E2E	9	Ravisseur
 356	$200E38	5	Cœurl
 357	$200E42	10	Liq.ïee feu
-358	$200E4C	9	Bìte Kuza
+358	$200E4C	9	Bête Kuza
 359	$200E56	5	Canon
 360	$200E60	8	Panthère
 361	$200E6A	7	Shinryû

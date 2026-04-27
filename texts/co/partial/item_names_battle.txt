@@ -1,43 +1,43 @@
 0	$275860	0	
-1	$275878	8	Main\52nue
+1	$275878	8	Main nue
 2	$275890	7	Couteau
 3	$2758A8	5	Dague
-4	$2758C0	15	Dague\52de\52mithril
+4	$2758C0	15	Dague de mithril
 5	$2758D8	5	Kunai
 6	$2758F0	8	Poignard
-7	$275908	15	Dague\52de\52parade
+7	$275908	15	Dague de parade
 8	$275920	7	Kodachi
-9	$275938	18	Poignard\52de\52cuivre
-10	$275950	13	Dague\52éolienne
+9	$275938	18	Poignard de cuivre
+10	$275950	13	Dague éolienne
 11	$275968	9	Assassine
 12	$275980	6	Katana
 13	$275998	8	Claymore
-14	$2759B0	11	Epée\52longue
-15	$2759C8	14	Epée\52de\52mithril
-16	$2759E0	13	Lame\52de\52corail
+14	$2759B0	11	Epée longue
+15	$2759C8	14	Epée de mithril
+16	$2759E0	13	Lame de corail
 17	$2759F8	6	Glaive
 18	$275A10	6	Spathe
 19	$275A28	5	Sabre
-20	$275A40	16	Epée\52du\52jugement
+20	$275A40	16	Epée du jugement
 21	$275A58	8	Excalibur
 22	$275A70	8	Ragnarok
 23	$275A88	5	Lance
 24	$275AA0	7	Javelot
-25	$275AB8	15	Lance\52de\52mithril
+25	$275AB8	15	Lance de mithril
 26	$275AD0	7	Trident
-27	$275AE8	12	Lance\52zéphyr
+27	$275AE8	12	Lance zéphyr
 28	$275B00	8	Partisan
 29	$275B18	6	Sagaie
 30	$275B30	5	Angon
-31	$275B48	12	Lance\52sacrée
-32	$275B60	15	Lance\52du\52dragon
+31	$275B48	12	Lance sacrée
+32	$275B60	15	Lance du dragon
 33	$275B78	6	Cognée
 34	$275B90	7	Marteau
 35	$275BA8	7	Hachoir
 36	$275BC0	5	Masse
-37	$275BD8	13	Hache\52toxique
-38	$275BF0	14	Marteau\52de\52Ga\CA
-39	$275C08	13	Hache\52runique
+37	$275BD8	13	Hache toxique
+38	$275BF0	14	Marteau de Gaïa
+39	$275C08	13	Hache runique
 40	$275C20	7	Mjollnir
 41	$275C38	6	Ashura
 42	$275C50	8	Kazekiri
@@ -48,100 +48,100 @@
 47	$275CC8	8	Masamune
 48	$275CE0	8	Murakumo
 49	$275CF8	7	Sceptre
-50	$275D10	14	Sceptre\52de\52feu
-51	$275D28	16	Sceptre\52de\52glace
-52	$275D40	16	Sceptre\52d’éclair
-53	$275D58	15	Sceptre\52à\52venin
-54	$275D70	16	Sceptre\52de\52Lilith
-55	$275D88	13	Sceptre\52magus
+50	$275D10	14	Sceptre de feu
+51	$275D28	16	Sceptre de glace
+52	$275D40	16	Sceptre d’éclair
+53	$275D58	15	Sceptre à venin
+54	$275D70	16	Sceptre de Lilith
+55	$275D88	13	Sceptre magus
 56	$275DA0	5	Bâton
-57	$275DB8	15	Bâton\52de\52mithril
+57	$275DB8	15	Bâton de mithril
 58	$275DD0	7	Gourdin
 59	$275DE8	7	Caducée
-60	$275E00	16	Bâton\52de\52lumière
-61	$275E18	13	Bâton\52de\52sage
+60	$275E00	16	Bâton de lumière
+61	$275E18	13	Bâton de sage
 62	$275E30	8	Damoclès
-63	$275E48	10	Arc\52de\52feu
-64	$275E60	12	Arc\52de\52glace
-65	$275E78	15	Arc\52de\52l’éclair
-66	$275E90	8	Arc\52noir
+63	$275E48	10	Arc de feu
+64	$275E60	12	Arc de glace
+65	$275E78	15	Arc de l’éclair
+66	$275E90	8	Arc noir
 67	$275EA8	7	Escarpe
-68	$275EC0	8	Arc\52elfe
-69	$275ED8	13	Arc\52de\52Yoichi
-70	$275EF0	13	Arc\52d’Artémis
+68	$275EC0	8	Arc elfe
+69	$275ED8	13	Arc de Yoichi
+70	$275EF0	13	Arc d’Artémis
 71	$275F08	4	Lyre
-72	$275F20	13	Lyre\52onirique
-73	$275F38	13	Lyre\52de\52Lamia
-74	$275F50	13	Lyre\52d’Apollon
+72	$275F20	13	Lyre onirique
+73	$275F38	13	Lyre de Lamia
+74	$275F50	13	Lyre d’Apollon
 75	$275F68	5	Fouet
-76	$275F80	13	Fouet\52à\52cha\BBe
-77	$275F98	14	Fouet\52d’éclair
-78	$275FB0	12	Fouet\52de\52feu
-79	$275FC8	15	Fouet\52du\52dragon
+76	$275F80	13	Fouet à chaîne
+77	$275F98	14	Fouet d’éclair
+78	$275FB0	12	Fouet de feu
+79	$275FC8	15	Fouet du dragon
 80	$275FE0	6	Cloche
-81	$275FF8	14	Cloche\52de\52Gaia
+81	$275FF8	14	Cloche de Gaia
 82	$276010	7	Carillon
 83	$276028	7	Clarine
 84	$276040	7	Rapière
-85	$276058	13	Epée\52sanguine
-86	$276070	12	Epée\52runique
-87	$276088	11	Epée\52de\52feu
-88	$2760A0	13	Epée\52de\52glace
-89	$2760B8	15	Chakram\52lunaire
+85	$276058	13	Epée sanguine
+86	$276070	12	Epée runique
+87	$276088	11	Epée de feu
+88	$2760A0	13	Epée de glace
+89	$2760B8	15	Chakram lunaire
 90	$2760D0	8	Shuriken
-91	$2760E8	13	Fuma\52shuriken
+91	$2760E8	13	Fuma shuriken
 92	$276100	8	Excalipur
 93	$276118	5	Tueur
 94	$276130	7	Plombée
 95	$276148	8	Goupillon
-96	$276160	16	Sceptre\52d’Olorin
-97	$276178	15	Lame\52des\52braves
+96	$276160	16	Sceptre d’Olorin
+97	$276178	15	Lame des braves
 98	$276190	4	Suie
 99	$2761A8	7	Cisaille
-100	$2761C0	15	Chakram\52solaire
-101	$2761D8	12	Arc\52d’argent
-102	$2761F0	16	Arc\52de\52l’ouragan
-103	$276208	7	Arc\52coi
+100	$2761C0	15	Chakram solaire
+101	$2761D8	12	Arc d’argent
+102	$2761F0	16	Arc de l’ouragan
+103	$276208	7	Arc coi
 104	$276220	7	Avicide
 105	$276238	7	Fatalité
-106	$276250	16	Hache\52des\52titans
-107	$276268	15	Couteau\52barbare
+106	$276250	16	Hache des titans
+107	$276268	15	Couteau barbare
 108	$276280	5	Lupin
-109	$276298	14	Dague\52dansante
+109	$276298	14	Dague dansante
 110	$2762B0	9	Aiguisoir
-111	$2762C8	9	Main\52G\52\52\52
-112	$2762E0	9	Main\52D\52\52\52
-113	$2762F8	7	\AEDummy\AF
-114	$276310	7	\AEDummy\AF
-115	$276328	7	\AEDummy\AF
-116	$276340	7	\AEDummy\AF
-117	$276358	7	\AEDummy\AF
-118	$276370	7	\AEDummy\AF
-119	$276388	7	\AEDummy\AF
-120	$2763A0	7	\AEDummy\AF
-121	$2763B8	7	\AEDummy\AF
-122	$2763D0	7	\AEDummy\AF
-123	$2763E8	7	\AEDummy\AF
-124	$276400	7	\AEDummy\AF
-125	$276418	7	\AEDummy\AF
-126	$276430	7	\AEDummy\AF
-127	$276448	7	\AEDummy\AF
+111	$2762C8	9	Main G
+112	$2762E0	9	Main D
+113	$2762F8	7	Dummy
+114	$276310	7	Dummy
+115	$276328	7	Dummy
+116	$276340	7	Dummy
+117	$276358	7	Dummy
+118	$276370	7	Dummy
+119	$276388	7	Dummy
+120	$2763A0	7	Dummy
+121	$2763B8	7	Dummy
+122	$2763D0	7	Dummy
+123	$2763E8	7	Dummy
+124	$276400	7	Dummy
+125	$276418	7	Dummy
+126	$276430	7	Dummy
+127	$276448	7	Dummy
 128	$276460	0	
 129	$276478	6	Pavois
 130	$276490	3	Ecu
 131	$2764A8	7	Bouclier
 132	$2764C0	6	Mithril
-133	$2764D8	12	Bouclier\52d’or
-134	$2764F0	15	Bouclier\52d’Aegis
-135	$276508	17	Pavois\52de\52diamant
-136	$276520	18	Bouclier\52de\52cristal
+133	$2764D8	12	Bouclier d’or
+134	$2764F0	15	Bouclier d’Aegis
+135	$276508	17	Pavois de diamant
+136	$276520	18	Bouclier de cristal
 137	$276538	6	Casque
 138	$276550	6	Heaume
 139	$276568	5	Armet
-140	$276580	15	Armet\52de\52mithril
-141	$276598	10	Armet\52d’or
-142	$2765B0	16	Armet\52de\52diamant
-143	$2765C8	17	Casque\52de\52cristal
+140	$276580	15	Armet de mithril
+141	$276598	10	Armet d’or
+142	$2765B0	16	Armet de diamant
+143	$2765C8	17	Casque de cristal
 144	$2765E0	7	Chapeau
 145	$2765F8	5	Toque
 146	$276610	5	Mitre
@@ -154,81 +154,81 @@
 153	$2766B8	5	Tiare
 154	$2766D0	8	Cuirasse
 155	$2766E8	6	Armure
-156	$276700	13	Armure\52de\52fer
-157	$276718	16	Armure\52de\52mithril
-158	$276730	11	Armure\52d’or
-159	$276748	17	Armure\52de\52diamant
-160	$276760	17	Armure\52de\52cristal
-161	$276778	15	Cotte\52de\52cuivre
+156	$276700	13	Armure de fer
+157	$276718	16	Armure de mithril
+158	$276730	11	Armure d’or
+159	$276748	17	Armure de diamant
+160	$276760	17	Armure de cristal
+161	$276778	15	Cotte de cuivre
 162	$276790	6	Kimono
-163	$2767A8	14	Cotte\52d’argent
-164	$2767C0	16	Tunique\52de\52ninja
+163	$2767A8	14	Cotte d’argent
+164	$2767C0	16	Tunique de ninja
 165	$2767D8	5	Cotte
 166	$2767F0	7	Costume
 167	$276808	4	Robe
-168	$276820	12	Robe\52de\52soie
+168	$276820	12	Robe de soie
 169	$276838	7	Tunique
 170	$276850	6	Surplis
-171	$276868	15	Robe\52de\52lumière
-172	$276880	10	Robe\52noire
-173	$276898	12	Robe\52blanche
+171	$276868	15	Robe de lumière
+172	$276880	10	Robe noire
+173	$276898	12	Robe blanche
 174	$2768B0	5	Veste
 175	$2768C8	5	Bague
 176	$2768E0	4	Gant
 177	$2768F8	6	Moufle
 178	$276910	4	Cape
-179	$276928	13	Anneau\52maudit
+179	$276928	13	Anneau maudit
 180	$276940	8	Lunettes
 181	$276958	7	Sandale
-182	$276970	14	Gant\52de\52mithril
-183	$276988	17	Brassard\52d’argent
-184	$2769A0	19	Brassard\52de\52diamant
-185	$2769B8	14	Veste\52de\52force
+182	$276970	14	Gant de mithril
+183	$276988	17	Brassard d’argent
+184	$2769A0	19	Brassard de diamant
+185	$2769B8	14	Veste de force
 186	$2769D0	8	Forcelet
 187	$2769E8	4	Aube
 188	$276A00	6	Anneau
-189	$276A18	11	Bague\52rouge
-190	$276A30	15	Anneau\52de\52corail
-191	$276A48	10	Cotte\52d’os
+189	$276A18	11	Bague rouge
+190	$276A30	15	Anneau de corail
+191	$276A48	10	Cotte d’os
 192	$276A60	8	Mocassin
 193	$276A78	8	Jointure
 194	$276A90	8	Gantelet
 195	$276AA8	6	Masque
-196	$276AC0	14	Bouclier\52de\52feu
+196	$276AC0	14	Bouclier de feu
 197	$276AD8	6	Gourde
-198	$276AF0	16	Bouclier\52de\52Genji
-199	$276B08	15	Casque\52de\52Genji
-200	$276B20	15	Armure\52de\52Genji
-201	$276B38	13	Gant\52de\52Genji
-202	$276B50	15	Bague\52du\52reflet
+198	$276AF0	16	Bouclier de Genji
+199	$276B08	15	Casque de Genji
+200	$276B20	15	Armure de Genji
+201	$276B38	13	Gant de Genji
+202	$276B50	15	Bague du reflet
 203	$276B68	8	Couronne
-204	$276B80	17	Couronne\52d’épines
-205	$276B98	16	Bouclier\52de\52glace
-206	$276BB0	15	Bouclier\52de\52sang
-207	$276BC8	11	Robe\52prisme
+204	$276B80	17	Couronne d’épines
+205	$276B98	16	Bouclier de glace
+206	$276BB0	15	Bouclier de sang
+207	$276BC8	11	Robe prisme
 208	$276BE0	8	Chausson
-209	$276BF8	7	\AEDummy\AF
-210	$276C10	7	\AEDummy\AF
-211	$276C28	7	\AEDummy\AF
-212	$276C40	7	\AEDummy\AF
-213	$276C58	7	\AEDummy\AF
-214	$276C70	7	\AEDummy\AF
-215	$276C88	7	\AEDummy\AF
-216	$276CA0	7	\AEDummy\AF
-217	$276CB8	7	\AEDummy\AF
-218	$276CD0	7	\AEDummy\AF
-219	$276CE8	7	\AEDummy\AF
-220	$276D00	7	\AEDummy\AF
-221	$276D18	7	\AEDummy\AF
-222	$276D30	7	\AEDummy\AF
-223	$276D48	7	\AEDummy\AF
+209	$276BF8	7	Dummy
+210	$276C10	7	Dummy
+211	$276C28	7	Dummy
+212	$276C40	7	Dummy
+213	$276C58	7	Dummy
+214	$276C70	7	Dummy
+215	$276C88	7	Dummy
+216	$276CA0	7	Dummy
+217	$276CB8	7	Dummy
+218	$276CD0	7	Dummy
+219	$276CE8	7	Dummy
+220	$276D00	7	Dummy
+221	$276D18	7	Dummy
+222	$276D30	7	Dummy
+223	$276D48	7	Dummy
 224	$276D60	6	Potion
-225	$276D78	7	Potion\E2
+225	$276D78	7	Potion+
 226	$276D90	5	Ether
 227	$276DA8	5	Elixir
-228	$276DC0	15	Queue\52de\52Phénix
+228	$276DC0	15	Queue de Phénix
 229	$276DD8	6	Baiser
-230	$276DF0	10	Eau\52bénite
+230	$276DF0	10	Eau bénite
 231	$276E08	8	Carapace
 232	$276E20	8	Antidote
 233	$276E38	6	Collyre
@@ -236,7 +236,7 @@
 235	$276E68	8	H-Espace
 236	$276E80	8	Défijeur
 237	$276E98	6	Claque
-238	$276EB0	7	\AEDummy\AF
+238	$276EB0	7	Dummy
 239	$276EC8	5	Lampe
 240	$276EE0	5	Tente
 241	$276EF8	7	Pavillon
