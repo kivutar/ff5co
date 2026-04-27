@@ -1,5 +1,5 @@
-0	$275800	17	Total\52combates:[DialogueItem]>
-1	$275811	17	Total\52enemigos:[DialogueAbility]>
-2	$275822	17	\52\52\52\52Exp.\52Media:\14>
-3	$275833	17	\52\52\05\03Tesoros\52\CD:[DialogueGil]\CD>
-4	$275844	16	     Guardados:\13
+0	$275800	16	Total combates:[TotalBattles]
+1	$275811	16	Total enemigos:[EnemiesKilled]
+2	$275822	16	Exp. Media:[AverageExp]
+3	$275833	16	Tesoros %:[TreasureRate]%
+4	$275844	16	Guardados:[TimesSaved]

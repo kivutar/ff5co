@@ -323,6 +323,18 @@ my %b2c_menu_ability_fr = (
     "E2" => "+",
 );
 
+my %b2c_battle_record = (
+    "03" => "",
+    "05" => "",
+    "10" => "[TreasureRate]",
+    "11" => "[TotalBattles]",
+    "12" => "[EnemiesKilled]",
+    "13" => "[TimesSaved]",
+    "14" => "[AverageExp]",
+    "CD" => "%",
+    "CF" => ":",
+);
+
 my %b2c_monster_en = (
     "94" => "il",
     "95" => "it",
@@ -744,6 +756,37 @@ sub dump_fixed_count_with_extra {
         }
 
         push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($count entries)\n";
+}
+
+sub dump_battle_record_text {
+    my ($filename, $start, $count, $width) = @_;
+    my @lines = ();
+    my %table = (%decode_table, %b2c_battle_record);
+    %table = (%table, %b2c_effect_fr) if $mode eq "fr" || $mode eq "co";
+
+    for (my $i = 0; $i < $count; $i++) {
+        my $offset = $start + ($i * $width);
+        my $record = substr($bytes, $offset, $width);
+        $record =~ s/[\x00\x01\xFF]+$//s;
+        my @raw = unpack("C*", $record);
+        my $decoded = "";
+
+        for my $b (@raw) {
+            my $hex = sprintf("%02X", $b);
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        $decoded =~ s/  +/ /g;
+        $decoded =~ s/ +:/:/g;
+        $decoded =~ s/^ +//;
+        $decoded =~ s/ +$//;
+
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($record), $decoded);
     }
 
     my $path = output_path($filename);
@@ -1210,7 +1253,7 @@ dump_magic_names_battle_menu("magic_names_battle_menu.txt", 0x270F90, 0x27177F);
 dump_fixed_count("magic_names_battle_messages.txt", 0x271780, 169, 24);
 dump_fixed_count_with_extra("rare_items.txt",   0x273568, 24, 13, ($mode eq "en" ? \%b2c_item_en : \%b2c_item_fr));
 dump_fixed_count("monster_specialties.txt",     0x273700, 64, 16);
-dump_fixed_count("battle_record_text.txt",      0x275800, 5, 17);
+dump_battle_record_text("battle_record_text.txt", 0x275800, 5, 17);
 dump_offset_table_strings("item_descriptions.txt", 0x114000, 0x80, 0x110000, 0x00);
 dump_fixed_count_with_extra("item_names_battle.txt", 0x275860, 256, 24, ($mode eq "en" ? \%b2c_item_en : \%b2c_item_fr));
 dump_support_abilities_battle("support_abilities_battle.txt", 0x277060, 33, 24);

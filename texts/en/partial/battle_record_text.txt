@@ -1,5 +1,5 @@
-0	$275800	17	Total Battles \CF[DialogueItem]>
-1	$275811	17	Enemies Killed\CF[DialogueAbility]>
-2	$275822	17	Average Exp.  \CF\14>
-3	$275833	17	Treasure \CD\05\03 \CF[DialogueGil]\CD>
-4	$275844	16	Times Saved   \CF\13
+0	$275800	16	Total Battles:[TotalBattles]
+1	$275811	16	Enemies Killed:[EnemiesKilled]
+2	$275822	16	Average Exp.:[AverageExp]
+3	$275833	16	Treasure %:[TreasureRate]%
+4	$275844	16	Times Saved:[TimesSaved]
