@@ -143,7 +143,7 @@
 142	$2005DC	8	Scorpion
 143	$2005E6	7	Barrett
 144	$2005F0	7	Sekhmet
-145	$2005FA	10	ReÇç Lamia
+145	$2005FA	10	Reine Lamia
 146	$200604	10	Rajiformes
 147	$20060E	9	Lithograph
 148	$200618	10	Archéosaur

@@ -432,11 +432,13 @@ make_path("$output_dir/ok", "$output_dir/partial", "$output_dir/broken");
 sub output_path {
     my $filename = shift;
     my %ok = map { $_ => 1 } qw(
+        blue_magic_names.txt
         character_names.txt
         concepts_misc.txt
         item_names_battle.txt
         job_names.txt
         magic_names_battle_messages.txt
+        magic_names_field_menu.txt
         monster_specialties.txt
         rare_items.txt
         shop_names.txt
@@ -446,12 +448,10 @@ sub output_path {
         ability_names.txt
         area_headings.txt
         battle_record_text.txt
-        blue_magic_names.txt
         effect_names.txt
         item_descriptions.txt
         item_names_menu.txt
         magic_names_battle_menu.txt
-        magic_names_field_menu.txt
         menu_ability_text.txt
         menu_shop.txt
         monster_names.txt
@@ -628,6 +628,8 @@ sub normalize_menu_shop {
         $decoded =~ s/^\[TAB3\](?:\[TAB1\]){8}\[DialogueGil\]$/[ColorPreview]/g;
         $decoded =~ s/([!?])'+$/$1/g;
         $decoded =~ s/button\.+/button./g;
+        $decoded =~ s/^EMPTY$/Empty/g;
+        $decoded =~ s/^Equip Optimum$/Equip Optimum/g;
         $decoded =~ s/^finished$/Finished/g;
         $decoded =~ s/^Single Multi$/Single\/Multi/g;
         $decoded =~ s/^Act\.UndoMenuMap Row Defense$/Act. Undo Menu Map Row Defense/g;
@@ -652,6 +654,17 @@ sub normalize_menu_shop {
     $decoded =~ s/Fonds insuffisants’/Fonds insuffisants !/g;
     $decoded =~ s/Vous,là-bas’/Vous, là-bas !/g;
     $decoded =~ s/Pas un geste’/Pas un geste !/g;
+    $decoded =~ s/^Utili$/Util./g;
+    $decoded =~ s/^Cargar$/Charger/g;
+    $decoded =~ s/^Completado$/Terminé/g;
+    $decoded =~ s/^activa$/Actif/g;
+    $decoded =~ s/^configurer jugadores$/Configurer joueurs/g;
+    $decoded =~ s/^configurer joypad$/Configurer manette/g;
+    $decoded =~ s/^Eqp\.Auto   optimo  Vac!o$/Eqp.Auto   optimum  Vide/g;
+    $decoded =~ s/^Salir$/Sortir/g;
+    $decoded =~ s/^Equipar$/Equiper/g;
+    $decoded =~ s/^Por favor asigne cada$/Veuillez assigner chaque/g;
+    $decoded =~ s/^comando a al menos un botón$/commande à au moins un bouton/g;
     $decoded =~ s/^\[TAB3\](?:\[TAB1\]){8}\[DialogueGil\]$/[AperçuCouleur]/g;
     return $decoded;
 }
@@ -1053,19 +1066,22 @@ sub normalize_blue_magic_name {
     my ($mode, $decoded) = @_;
 
     if ($mode eq "en") {
+        $decoded =~ s/^AquaRake$/Aqua Rake/;
         $decoded =~ s/^FrogSong$/Frog Song/;
         $decoded =~ s/^TinySong$/Tiny Song/;
-        $decoded =~ s/^MoonFlut$/MoonFlute/;
-        $decoded =~ s/^DethClaw$/DeathClaw/;
-        $decoded =~ s/^GblinPnch$/GoblinPunch/;
-        $decoded =~ s/^DrkShock$/DarkShock/;
+        $decoded =~ s/^MoonFlut$/Moon Flute/;
+        $decoded =~ s/^DethClaw$/Death Claw/;
+        $decoded =~ s/^GblinPnch$/Goblin Punch/;
+        $decoded =~ s/^DrkShock$/Dark Shock/;
         $decoded =~ s/^GuardOff$/Guard Off/;
-        $decoded =~ s/^MindBlst$/MindBlast/;
+        $decoded =~ s/^MindBlst$/Mind Blast/;
+        $decoded =~ s/^MghtyGrd$/Mighty Guard/;
         $decoded =~ s/^WhiteWind$/White Wind/;
         return $decoded;
     }
 
     $decoded =~ s/^Coûûû’$/Bouhou…/;
+    $decoded =~ s/^1000 ép\.$/1000 épines/;
     return $decoded;
 }
 
@@ -1330,6 +1346,16 @@ sub normalize_magic_field_entry {
     $decoded =~ s/ +$//;
 
     if ($mode eq "en") {
+        $decoded =~ s/^Antdt$/Antidote/;
+        $decoded =~ s/^Bersk$/Berserk/;
+        $decoded =~ s/^Dis\\A8\\A9$/Dispel/;
+        $decoded =~ s/^Qrter$/Quarter/;
+        $decoded =~ s/^Hast2$/Haste2/;
+        $decoded =~ s/^Chocob$/Chocobo/;
+        $decoded =~ s/^Crbnkl$/Carbuncle/;
+        $decoded =~ s/^Phenix$/Phoenix/;
+        $decoded =~ s/^Levia$/Leviathan/;
+        $decoded =~ s/^Bahm$/Bahamut/;
         $decoded =~ s/^Sylph $/Sylph/;
         $decoded =~ s/^Shiva $/Shiva/;
         $decoded =~ s/^Ramuh $/Ramuh/;
@@ -1353,9 +1379,12 @@ sub normalize_magic_field_entry {
     $decoded =~ s/^M!étéîte$/Météo/;
     $decoded =~ s/^Météîte$/Météo/;
     $decoded =~ s/^Célrité$/Célérité/;
+    $decoded =~ s/^Choco\.$/Chocobo/;
+    $decoded =~ s/^Sylph\.$/Sylphe/;
     $decoded =~ s/^Catob\.Ah$/Catob. Ah/;
     $decoded =~ s/^Syldra$/Syldra/;
-    $decoded =~ s/^Baha$/Baha/;
+    $decoded =~ s/^Lévia\.$/Léviathan/;
+    $decoded =~ s/^Baha$/Bahamut/;
     return $decoded;
 }
 
@@ -1547,11 +1576,23 @@ sub dump_monster_names {
         if ($mode eq "en") {
             $decoded =~ s/^ManiWizard$/Mani Wizard/;
             $decoded =~ s/^UndeadRusk$/Undead Rusk/;
+            $decoded =~ s/^PsychoHead$/Psycho Head/;
+            $decoded =~ s/^RockGarter$/Rock Garter/;
             $decoded =~ s/^IceSoldier$/Ice Soldier/;
             $decoded =~ s/^RikaldMage$/Rikald Mage/;
+            $decoded =~ s/^TwinLizard$/Twin Lizard/;
+            $decoded =~ s/^BioSoldier$/Bio Soldier/;
+            $decoded =~ s/^BlackFlame$/Black Flame/;
+            $decoded =~ s/^MiniDragon$/Mini Dragon/;
             $decoded =~ s/^LonkaKnght$/Lonka Knight/;
+            $decoded =~ s/^StonedMask$/Stoned Mask/;
+            $decoded =~ s/^ShieldDrgn$/Shield Dragon/;
+            $decoded =~ s/^MooglEater$/Moogle Eater/;
+            $decoded =~ s/^BoneDragon$/Bone Dragon/;
+            $decoded =~ s/^ZombieDrgn$/Zombie Dragon/;
         } else {
             $decoded =~ s/^PasDeSeul$/Pas de Seul/;
+            $decoded =~ s/^ReÇç Lamia$/Reine Lamia/;
         }
 
         push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);

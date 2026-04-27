@@ -20,8 +20,8 @@
 19	$20010E	8	Skeleton
 20	$200118	9	Carcurser
 21	$200122	10	Undead Rusk
-22	$20012C	10	PsychoHead
-23	$200136	10	RockGarter
+22	$20012C	10	Psycho Head
+23	$200136	10	Rock Garter
 24	$200140	8	Gala Cat
 25	$20014A	10	Cockatrice
 26	$200154	6	Blocks
@@ -53,12 +53,12 @@
 52	$200258	8	Page 256
 53	$200262	5	Ifrit
 54	$20026C	4	Bomb
-55	$200276	10	TwinLizard
-56	$200280	10	BioSoldier
+55	$200276	10	Twin Lizard
+56	$200280	10	Bio Soldier
 57	$20028A	8	Crescent
-58	$200294	10	BlackFlame
+58	$200294	10	Black Flame
 59	$20029E	10	StoneGolem
-60	$2002A8	10	MiniDragon
+60	$2002A8	10	Mini Dragon
 61	$2002B2	9	Prototype
 62	$2002BC	9	D.Chimera
 63	$2002C6	10	Sand Porky
@@ -66,7 +66,7 @@
 65	$2002DA	9	Sand Bear
 66	$2002E4	7	Ra Mage
 67	$2002EE	10	Lonka Knight
-68	$2002F8	10	StonedMask
+68	$2002F8	10	Stoned Mask
 69	$200302	10	Whirl Demon
 70	$20030C	5	Lamia
 71	$200316	10	ArchaeToad
@@ -85,10 +85,10 @@
 84	$200398	5	Kuzar
 85	$2003A2	6	Cactus
 86	$2003AC	10	Sand Crawl
-87	$2003B6	10	ShieldDrgn
+87	$2003B6	10	Shield Dragon
 88	$2003C0	10	Blood Slime
 89	$2003CA	9	Acrophese
-90	$2003D4	10	MooglEater
+90	$2003D4	10	Moogle Eater
 91	$2003DE	6	Lopros
 92	$2003E8	10	Skull Eater
 93	$2003F2	9	Aquathone
@@ -98,9 +98,9 @@
 97	$20041A	10	Andagranda
 98	$200424	6	Drippy
 99	$20042E	6	Likaon
-100	$200438	10	BoneDragon
+100	$200438	10	Bone Dragon
 101	$200442	10	Sting Eagle
-102	$20044C	10	ZombieDrgn
+102	$20044C	10	Zombie Dragon
 103	$200456	5	Golem
 104	$200460	4	Neon
 105	$20046A	8	Magnetes
@@ -118,7 +118,7 @@
 117	$2004E2	6	Mammon
 118	$2004EC	3	Imp
 119	$2004F6	4	Wyrm
-120	$200500	10	TwinLizard
+120	$200500	10	Twin Lizard
 121	$20050A	9	Blind Wolf
 122	$200514	5	Arage
 123	$20051E	9	Wall Mage
@@ -159,12 +159,12 @@
 158	$20067C	7	Slownin
 159	$200686	8	TinyMage
 160	$200690	10	Dim Master
-161	$20069A	10	BoneDragon
+161	$20069A	10	Bone Dragon
 162	$2006A4	5	Flare
 163	$2006AE	10	DuelKnight
 164	$2006B8	3	Ion
 165	$2006C2	9	Berserker
-166	$2006CC	10	ZombieDrgn
+166	$2006CC	10	Zombie Dragon
 167	$2006D6	5	Druid
 168	$2006E0	10	Iron Dress
 169	$2006EA	6	Statue
@@ -183,7 +183,7 @@
 182	$20076C	7	Alcumia
 183	$200776	10	Red Dragon
 184	$200780	5	Hydra
-185	$20078A	10	BoneDragon
+185	$20078A	10	Bone Dragon
 186	$200794	7	Grenade
 187	$20079E	10	SwrdDancer
 188	$2007A8	10	Bardandels
@@ -237,12 +237,12 @@
 236	$200988	8	Elf Toad
 237	$200992	9	Crew Dust
 238	$20099C	10	Whirl Demon
-239	$2009A6	10	ZombieDrgn
+239	$2009A6	10	Zombie Dragon
 240	$2009B0	9	D.Chimera
 241	$2009BA	10	AdamaGolem
 242	$2009C4	8	Ziggurat
 243	$2009CE	10	Lonka Knight
-244	$2009D8	10	BioSoldier
+244	$2009D8	10	Bio Soldier
 245	$2009E2	7	Lunenta
 246	$2009EC	9	Tote Avis
 247	$2009F6	8	Belfegor

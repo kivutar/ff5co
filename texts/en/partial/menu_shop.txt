@@ -88,7 +88,7 @@
 87	$273171	4	Exit
 88	$273176	8	Treasure
 89	$27317F	8	You have
-90	$273188	5	EMPTY
+90	$273188	5	Empty
 91	$27318E	8	New Game
 92	$273197	22	Bat. Mode   Active  Wait
 93	$2731AE	19	Two Player Configure

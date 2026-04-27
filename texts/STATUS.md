@@ -18,22 +18,22 @@ Current `ok` set:
 - `concepts_misc.txt`
 - `item_names_battle.txt`
 - `magic_names_battle_messages.txt`
+- `magic_names_field_menu.txt`
 - `monster_specialties.txt`
 - `rare_items.txt`
 - `song_names.txt`
+- `blue_magic_names.txt`
 
 Current `partial` set:
 
 - `ability_names.txt`
 - `area_headings.txt`
 - `battle_record_text.txt`
-- `blue_magic_names.txt`
 - `menu_shop.txt`
 - `item_names_menu.txt`
 - `monster_names.txt`
 - `effect_names.txt`
 - `item_descriptions.txt`
-- `magic_names_field_menu.txt`
 - `magic_names_battle_menu.txt`
 - `menu_ability_text.txt`
 - `support_abilities_battle.txt`

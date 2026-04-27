@@ -15,7 +15,7 @@
 14	$272F5F	3	:
 15	$272F65	2	Gil
 16	$272F68	5	Form.
-17	$272F6E	5	Utili
+17	$272F6E	5	Util.
 18	$272F74	0	
 19	$272F75	10	Equipement
 20	$272F80	6	NIVEAU
@@ -72,9 +72,9 @@
 71	$273107	6	Chants
 72	$27310E	6	MP:
 73	$273115	0	
-74	$273116	6	Cargar
-75	$27311D	10	Completado
-76	$273128	6	activa
+74	$273116	6	Charger
+75	$27311D	10	Terminé
+76	$273128	6	Actif
 77	$27312F	5	Reset
 78	$273135	3	ABC
 79	$273139	3	abc
@@ -91,7 +91,7 @@
 90	$273189	4	Vide
 91	$27318E	11	Nouveau jeu
 92	$27319A	24	Mode       Activé  Attente
-93	$2731B3	19	configurer jugadores
+93	$2731B3	19	Configurer joueurs
 94	$2731C7	10	Vit.Combat
 95	$2731D2	9	Affichage
 96	$2731DC	11	Rapide Lent
@@ -101,10 +101,10 @@
 100	$273223	22	Son        Stéréo Mono
 101	$27323A	16	C-Pad 1  C-Pad 2
 102	$27324B	24	Curseur    Auto   Mémor.
-103	$273264	16	configurer joypad
-104	$273275	23	Eqp.Auto   optimo  Vac!o
+103	$273264	16	Configurer manette
+104	$273275	23	Eqp.Auto   optimum  Vide
 105	$27328D	23	Manette    Normal Conf.
-106	$2732A5	4	Salir
+106	$2732A5	4	Sortir
 107	$2732AA	13	Simple Multip.
 108	$2732B8	7	Couleur
 109	$2732C0	1	R
@@ -133,7 +133,7 @@
 132	$273357	8	Terminer
 133	$273360	17	Choix des talents
 134	$273372	19	Equipement optimisé
-135	$273386	7	Equipar
+135	$273386	7	Equiper
 136	$27338E	4	Eqp:
-137	$273398	21	Por favor asigne cada
-138	$2733AE	27	comando a al menos un botón
+137	$273398	21	Veuillez assigner chaque
+138	$2733AE	27	commande à au moins un bouton
