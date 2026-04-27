@@ -1,0 +1,96 @@
+0	$201150	0	
+1	$201157	5	Autre
+2	$20115E	6	Objets
+3	$201165	7	Changer
+4	$20116C	5	Parer
+5	$201173	7	Attaquer
+6	$20117A	7	Défense
+7	$201181	7	Toucher
+8	$201188	7	Méditer
+9	$20118F	6	Chakra
+10	$201196	4	Fuir
+11	$20119D	5	Voler
+12	$2011A4	6	Piller
+13	$2011AB	6	Sauter
+14	$2011B2	6	Ryûken
+15	$2011B9	6	Kemuri
+16	$2011C0	7	Bunshin
+17	$2011C7	6	Lancer
+18	$2011CE	4	Coup
+19	$2011D5	6	Argent
+20	$2011DC	7	Iainuki
+21	$2011E3	7	Animaux
+22	$2011EA	5	Viser
+23	$2011F1	5	Volée
+24	$2011F8	5	Appel
+25	$2011FF	7	Analyse
+26	$201206	7	Scruter
+27	$20120D	7	Apaiser
+28	$201214	7	Contrôle
+29	$20121B	7	Capture
+30	$201222	7	Libérer
+31	$201229	7	Alchimie
+32	$201230	5	Boire
+33	$201237	6	Guérir
+34	$20123E	7	Ranimer
+35	$201245	7	Terrain
+36	$20124C	7	Dummy01
+37	$201253	7	Cacher
+38	$20125A	7	Revenir
+39	$201261	7	Dummy02
+40	$201268	7	Chanter
+41	$20126F	7	œillade
+42	$201276	6	Danser
+43	$20127D	5	Mimer
+44	$201284	7	Lame M.
+45	$20128B	7	Lame M.
+46	$201292	7	Lame M.
+47	$201299	7	Lame M.
+48	$2012A0	7	Lame M.
+49	$2012A7	7	Lame M.
+50	$2012AE	7	Blanche
+51	$2012B5	7	Blanche
+52	$2012BC	7	Blanche
+53	$2012C3	7	Blanche
+54	$2012CA	7	Blanche
+55	$2012D1	7	Blanche
+56	$2012D8	5	Noire
+57	$2012DF	5	Noire
+58	$2012E6	5	Noire
+59	$2012ED	5	Noire
+60	$2012F4	5	Noire
+61	$2012FB	5	Noire
+62	$201302	6	Chrono
+63	$201309	6	Chrono
+64	$201310	6	Chrono
+65	$201317	6	Chrono
+66	$20131E	6	Chrono
+67	$201325	6	Chrono
+68	$20132C	6	Espers
+69	$201333	6	Espers
+70	$20133A	6	Espers
+71	$201341	6	Espers
+72	$201348	6	Espers
+73	$20134F	5	Rouge
+74	$201356	5	Rouge
+75	$20135D	5	Rouge
+76	$201364	6	Double
+77	$20136B	5	Bleue
+78	$201372	7	
+79	$201379	7	
+80	$201380	7	Dummy01
+81	$201387	7	Dummy02
+82	$20138E	7	Dummy03
+83	$201395	7	Dummy04
+84	$20139C	7	Dummy05
+85	$2013A3	7	Dummy06
+86	$2013AA	7	Dummy07
+87	$2013B1	7	Dummy08
+88	$2013B8	7	Dummy09
+89	$2013BF	7	Dummy10
+90	$2013C6	7	Dummy11
+91	$2013CD	7	Dummy12
+92	$2013D4	7	Dummy13
+93	$2013DB	7	Dummy14
+94	$2013E2	7	Dummy15
+95	$2013E9	7	Dummy16

@@ -1,6 +1,6 @@
 0	$270900	8	Echigoya
 1	$270910	7	Ecureuil
-2	$270920	16	Essaim\52d’abeilles
+2	$270920	16	Essaim d’abeilles
 3	$270930	9	Rossignol
 4	$270940	10	Polatouche
 5	$270950	6	Faucon
@@ -9,54 +9,54 @@
 8	$270980	7	Licorne
 9	$270990	7	Paution
 10	$2709A0	6	Potion
-11	$2709B0	10	Eau\52vitale
-12	$2709C0	8	Potion\52X
+11	$2709B0	10	Eau vitale
+12	$2709C0	8	Potion X
 13	$2709D0	5	Elixir
 14	$2709E0	12	Résurrection
 15	$2709F0	6	Baiser
 16	$270A00	5	Ether
 17	$270A10	11	Neutralisant
-18	$270A20	12	Vue\52parfaite
-19	$270A30	16	Puissance\52dragon
-20	$270A40	14	Potion\52obscure
+18	$270A20	12	Vue parfaite
+19	$270A30	16	Puissance dragon
+20	$270A40	14	Potion obscure
 21	$270A50	7	Potion\E2
 22	$270A60	10	Demi-élixir
 23	$270A70	8	Triéther
-24	$270A80	7	Spare\521
+24	$270A80	7	Spare 1
 25	$270A90	13	Réincarnation
-26	$270AA0	15	Baiser\52de\52Lilith
+26	$270AA0	15	Baiser de Lilith
 27	$270AB0	9	Antivenin
 28	$270AC0	7	Antifeu
-29	$270AD0	13	Mur\52du\52dragon
-30	$270AE0	12	Ether\52sombre
+29	$270AD0	13	Mur du dragon
+30	$270AE0	12	Ether sombre
 31	$270AF0	7	Paution
-32	$270B00	10	Mélange\5223
-33	$270B10	10	Mélange\5224
-34	$270B20	13	Sirop\52vitalité
-35	$270B30	12	Elixir\52sombre
-36	$270B40	15	Queue\52de\52Phénix
-37	$270B50	15	Bouche\52à\52bouche
-38	$270B60	15	Barrière\52vitale
+32	$270B00	10	Mélange 23
+33	$270B10	10	Mélange 24
+34	$270B20	13	Sirop vitalité
+35	$270B30	12	Elixir sombre
+36	$270B40	15	Queue de Phénix
+37	$270B50	15	Bouche à bouche
+38	$270B60	15	Barrière vitale
 39	$270B70	6	Remède
 40	$270B80	10	Anti-glace
 41	$270B90	11	Anti-éclair
-42	$270BA0	14	Peau\52de\52dragon
-43	$270BB0	14	Potion\52mortelle
-44	$270BC0	11	Baiser\52béni
-45	$270BD0	14	Baiser\52Succube
-46	$270BE0	16	Baume\52Lévitation
-47	$270BF0	15	Baiser\52de\52Lamia
-48	$270C00	16	Baiser\52de\52dragon
-49	$270C10	14	Baiser\52crapaud
-50	$270C20	10	Eau\52bénite
-51	$270C30	16	Cidre\52de\52Bacchus
-52	$270C40	15	Force\52de\52Samson
+42	$270BA0	14	Peau de dragon
+43	$270BB0	14	Potion mortelle
+44	$270BC0	11	Baiser béni
+45	$270BD0	14	Baiser Succube
+46	$270BE0	16	Baume Lévitation
+47	$270BF0	15	Baiser de Lamia
+48	$270C00	16	Baiser de dragon
+49	$270C10	14	Baiser crapaud
+50	$270C20	10	Eau bénite
+51	$270C30	16	Cidre de Bacchus
+52	$270C40	15	Force de Samson
 53	$270C50	16	Puis.élémentaire
-54	$270C60	14	Haleine\52sacrée
+54	$270C60	14	Haleine sacrée
 55	$270C70	7	Paution
-56	$270C80	13	Potion\52Armure
-57	$270C90	15	Soupe\52de\52tortue
-58	$270CA0	9	Jus\52Turbo
+56	$270C80	13	Potion Armure
+57	$270C90	15	Soupe de tortue
+58	$270CA0	9	Jus Turbo
 59	$270CB0	7	Paution
 60	$270CC0	6	T.N.T.
 61	$270CD0	8	Antidote
@@ -64,37 +64,37 @@
 63	$270CF0	7	Haleine
 64	$270D00	6	Toxine
 65	$270D10	6	Collyre
-66	$270D20	13	Soupir\52sombre
-67	$270D30	10	Gaz\52sombre
-68	$270D40	14	Haleine\52dragon
-69	$270D50	15	Haleine\52obscure
-70	$270D60	13	Matière\52noire
-71	$270D70	7	Spare\522
-72	$270D80	7	Spare\523
+66	$270D20	13	Soupir sombre
+67	$270D30	10	Gaz sombre
+68	$270D40	14	Haleine dragon
+69	$270D50	15	Haleine obscure
+70	$270D60	13	Matière noire
+71	$270D70	7	Spare 2
+72	$270D80	7	Spare 3
 73	$270D90	10	Bourrasque
 74	$270DA0	6	Séisme
-75	$270DB0	16	Rafale\52cinglante
+75	$270DB0	16	Rafale cinglante
 76	$270DC0	7	Tornade
 77	$270DD0	9	Brindilles
-78	$270DE0	14	Feuilles\52mortes
-79	$270DF0	15	Troncs\52d’arbres
+78	$270DE0	14	Feuilles mortes
+79	$270DF0	15	Troncs d’arbres
 80	$270E00	6	Lierre
 81	$270E10	7	Sirocco
-82	$270E20	15	Sables\52mouvants
-83	$270E30	16	Tempìte\52de\52sable
+82	$270E20	15	Sables mouvants
+83	$270E30	16	Tempìte de sable
 84	$270E40	3	Erg
 85	$270E50	7	Tsunami
-86	$270E60	15	Tourbillon\52marin
-87	$270E70	14	Vague\52sismique
-88	$270E80	14	Vague\52sismique
+86	$270E60	15	Tourbillon marin
+87	$270E70	14	Vague sismique
+88	$270E80	14	Vague sismique
 89	$270E90	10	Ectoplasme
-90	$270EA0	9	Feu\52follet
+90	$270EA0	9	Feu follet
 91	$270EB0	8	Marécage
-92	$270EC0	13	Brume\52toxique
+92	$270EC0	13	Brume toxique
 93	$270ED0	7	Cascade
 94	$270EE0	10	Stalactite
 95	$270EF0	6	Eboulis
-96	$270F00	12	Bang\52sonique
+96	$270F00	12	Bang sonique
 97	$270F10	7	\AEDummy\AF
 98	$270F20	7	\AEDummy\AF
 99	$270F30	7	\AEDummy\AF
