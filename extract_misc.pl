@@ -304,6 +304,25 @@ my %b2c_support_battle_fr = (
     "F6" => " ",
 );
 
+my %b2c_menu_ability_en = (
+    "96" => " ",
+    "A4" => "ti",
+    "C5" => "-",
+    "CD" => "%",
+    "E2" => "+",
+);
+
+my %b2c_menu_ability_fr = (
+    "A3" => "p",
+    "A4" => "ip",
+    "A6" => "it",
+    "B0" => "il",
+    "B1" => "ti",
+    "B5" => "œ",
+    "CD" => "%",
+    "E2" => "+",
+);
+
 my %b2c_monster_en = (
     "94" => "il",
     "95" => "it",
@@ -380,6 +399,7 @@ sub output_path {
         magic_names_battle_menu.txt
         magic_names_battle_messages.txt
         magic_names_field_menu.txt
+        menu_ability_text.txt
         menu_shop.txt
         monster_names.txt
         monster_specialties.txt
@@ -1067,6 +1087,57 @@ sub dump_support_abilities_battle {
     print "$path (" . scalar(@lines) . " entries)\n";
 }
 
+sub dump_menu_ability_text {
+    my ($filename, $start, $count, $width) = @_;
+    my @lines = ();
+    my %table = %decode_table;
+
+    if ($mode eq "en") {
+        %table = (%table, %b2c_menu_ability_en);
+    } elsif ($mode eq "fr" || $mode eq "co") {
+        %table = (%table, %b2c_menu_ability_fr);
+    }
+
+    for (my $i = 0; $i < $count; $i++) {
+        my $offset = $start + ($i * $width);
+        my $record = substr($bytes, $offset, $width);
+        my $trimmed = trim_record($record);
+        my $decoded = "";
+
+        for my $b (unpack("C*", $trimmed)) {
+            my $hex = sprintf("%02X", $b);
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        if ($mode eq "en") {
+            $decoded =~ s/^Equip (.+)$/Equip $1/;
+            $decoded =~ s/^HP\+10%$/HP +10%/;
+            $decoded =~ s/^HP\+20%$/HP +20%/;
+            $decoded =~ s/^HP\+30%$/HP +30%/;
+            $decoded =~ s/^MP\+10%$/MP +10%/;
+            $decoded =~ s/^MP\+30%$/MP +30%/;
+            $decoded =~ s/^Dbl Grip$/Dbl Grip/;
+            $decoded =~ s/^2-Handed$/2-Handed/;
+            $decoded =~ s/^Preemptiv$/Preemptive/;
+            $decoded =~ s/^DmgFloor$/Damage Floor/;
+        } else {
+            $decoded =~ s/^HP\+10%$/HP +10%/;
+            $decoded =~ s/^HP\+20%$/HP +20%/;
+            $decoded =~ s/^HP\+30%$/HP +30%/;
+            $decoded =~ s/^MP\+10%$/MP +10%/;
+            $decoded =~ s/^MP\+30%$/MP +30%/;
+            $decoded =~ s/^Initive$/Initiative/;
+            $decoded =~ s/^œil lynx$/Œil lynx/;
+        }
+
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($count entries)\n";
+}
+
 sub dump_monster_names {
     my ($filename, $start, $count, $width) = @_;
     my @lines = ();
@@ -1129,4 +1200,4 @@ dump_fixed("shop_names.txt",                    0x112D00, 0x112D3F, 8);
 dump_fixed("character_names.txt",               0x115500, 0x11551D, 6);
 dump_fixed("job_names.txt",                     0x115600, 0x1156AF, 8);
 dump_fixed("support_abilities_menu.txt",        0x115800, 0x1159DF, 8);
-dump_fixed("menu_ability_text.txt",             0x116200, 0x116307, 8);
+dump_menu_ability_text("menu_ability_text.txt", 0x116200, 33, 8);
