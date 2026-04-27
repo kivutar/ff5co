@@ -23,6 +23,7 @@ Current `partial` set:
 - `rare_items.txt`
 - `item_names_battle.txt`
 - `item_names_menu.txt`
+- `monster_names.txt`
 - `monster_specialties.txt`
 - `effect_names.txt`
 - `magic_names_field_menu.txt`
@@ -34,7 +35,6 @@ Current `broken` set:
 
 - `area_headings.txt`
 - `menu_ability_text.txt`
-- `monster_names.txt`
 - `support_abilities_menu.txt`
 - `item_descriptions.txt`
 
@@ -42,4 +42,4 @@ Notes:
 
 - `texts/jp/ok/dialog.txt` is the only Japanese extract currently available.
 - `extract_misc.pl` is still a first-pass extractor for non-dialog regions.
-- The next most useful cleanup targets are `monster_names.txt`, `support_abilities_menu.txt`, and `item_descriptions.txt`.
+- The next most useful cleanup targets are `support_abilities_menu.txt` and `item_descriptions.txt`.

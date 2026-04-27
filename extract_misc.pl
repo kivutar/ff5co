@@ -304,6 +304,35 @@ my %b2c_support_battle_fr = (
     "F6" => " ",
 );
 
+my %b2c_monster_en = (
+    "94" => "il",
+    "95" => "it",
+    "96" => " ",
+    "97" => "li",
+    "98" => "ll",
+    "A4" => "ti",
+    "AD" => "lt",
+    "AE" => "tl",
+    "AF" => "ir",
+    "B0" => "tt",
+);
+
+my %b2c_monster_en_words = (
+    "A6A7" => "Bla",
+);
+
+my %b2c_monster_fr = (
+    "52" => " ",
+    "A6" => "it",
+    "B0" => "il",
+    "B2" => "li",
+);
+
+my %b2c_monster_fr_words = (
+    "D7D8" => "ir",
+    "D9AC" => "l",
+);
+
 my $mode = "fr";
 my $rom = "ff5fr.sfc";
 
@@ -347,6 +376,7 @@ sub output_path {
         magic_names_battle_messages.txt
         magic_names_field_menu.txt
         menu_shop.txt
+        monster_names.txt
         monster_specialties.txt
         rare_items.txt
         support_abilities_battle.txt
@@ -1005,7 +1035,53 @@ sub dump_support_abilities_battle {
     print "$path (" . scalar(@lines) . " entries)\n";
 }
 
-dump_fixed("monster_names.txt",                 0x200000, 0x200F4F, 16);
+sub dump_monster_names {
+    my ($filename, $start, $end) = @_;
+    my @lines = ();
+    my $width = 8;
+    my $count = int((($end - $start) + 1) / $width);
+    my %table = %decode_table;
+    my %words = ();
+
+    if ($mode eq "en") {
+        %table = (%table, %b2c_monster_en);
+        %words = %b2c_monster_en_words;
+    } else {
+        %table = (%table, %b2c_monster_fr);
+        %words = %b2c_monster_fr_words;
+    }
+
+    for (my $i = 0; $i < $count; $i++) {
+        my $offset = $start + ($i * $width);
+        my $record = substr($bytes, $offset, $width);
+        my $trimmed = trim_record($record);
+        my @raw = unpack("C*", $trimmed);
+        my $decoded = "";
+
+        for (my $j = 0; $j < @raw; $j++) {
+            my $hex = sprintf("%02X", $raw[$j]);
+
+            if ($j + 1 < @raw) {
+                my $pair = $hex . sprintf("%02X", $raw[$j + 1]);
+                if (exists $words{$pair}) {
+                    $decoded .= $words{$pair};
+                    $j++;
+                    next;
+                }
+            }
+
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($count entries)\n";
+}
+
+dump_monster_names("monster_names.txt",         0x200000, 0x200F4F);
 dump_ability_names("ability_names.txt",         0x201150, 0x2013EF);
 dump_fixed("area_headings.txt",                 0x270000, 0x2708FF, 8);
 dump_effect_names("effect_names.txt",           0x270900, 0x270F8F);

@@ -1,0 +1,490 @@
+0	$200000	8	œ\18lQ\BFA5\E7
+1	$200008	8	\EA\EA\EA\EA’\E3il\04
+2	$200010	8	9t\2C\C1\E8\C6Q«
+3	$200018	5	\EB9é\2C\C1
+4	$200020	8	ooœ\05x\BCxïe
+5	$200028	3	\C8\C8L
+6	$200030	8	7!\B9\38\40\48[TAB3]é
+7	$200038	8	\38\40[TAB3][TAB3]\18Z\38\40
+8	$200040	7	\AAIé\38\40aL
+9	$200048	0	
+10	$200050	7	Gobelin
+11	$200058	7	  Guêpe
+12	$200060	8	    Nois
+13	$200068	8	ette  Ch
+14	$200070	7	at noir
+15	$200078	8	Rhinolop
+16	$200080	7	heCrabe
+17	$200088	8	    Stro
+18	$200090	8	par   Lu
+19	$200098	8	tin noir
+20	$2000A0	7	Serpent
+21	$2000A8	8	  Moldwy
+22	$2000B0	8	nd  Bouf
+23	$2000B8	8	fon   Ur
+24	$2000C0	2	ne
+25	$2000C8	6	Poulpe
+26	$2000D0	8	  Octokr
+27	$2000D8	8	akenAcan
+28	$2000E0	8	thor  En
+29	$2000E8	5	corné
+30	$2000F0	5	Tatou
+31	$2000F8	8	  Loup r
+32	$200100	8	ougeGaru
+33	$200108	8	la    Sq
+34	$200110	7	uelette
+35	$200118	8	Calcussu
+36	$200120	8	l Pétraz
+37	$200128	8	ombiPsyc
+38	$200130	8	ho    Li
+39	$200138	8	mace roc
+40	$200140	8	Gaélicha
+41	$200148	8	t Gallus
+42	$200150	8	    Tomb
+43	$200158	8	e     Cr
+44	$200160	5	apaud
+45	$200168	6	Soldat
+46	$200170	7	  Vizir
+47	$200178	8	    Drak
+48	$200180	8	en    Pa
+49	$200188	7	sDeSeul
+50	$200190	6	Byblos
+51	$200198	8	  Aiguil
+52	$2001A0	6	    Zu
+53	$2001A8	8	      Na
+54	$2001B0	2	kk
+55	$2001B8	6	Tortue
+56	$2001C0	8	  Frelon
+57	$2001C8	8	    Mith
+58	$2001D0	8	rigon Ra
+59	$2001D8	3	muh
+60	$2001E0	7	Spectre
+61	$2001E8	8	  Esprit
+62	$2001F0	8	    Pièg
+63	$2001F8	8	e     Va
+64	$200200	7	inqueur
+65	$200208	8	Garkimas
+66	$200210	8	raSergen
+67	$200218	8	t   Sorc
+68	$200220	8	ier   Ca
+69	$200228	6	bonakk
+70	$200230	5	Gigas
+71	$200238	8	  Page 3
+72	$200240	8	2   Page
+73	$200248	8	 64   Pa
+74	$200250	6	ge 128
+75	$200258	8	Page 256
+76	$200260	7	  Ifrit
+77	$200268	8	    Bomb
+78	$200270	8	o     Do
+79	$200278	8	ublézard
+80	$200280	8	Bio-sold
+81	$200288	8	atFauche
+82	$200290	7	ur  Feu
+83	$200298	8	noir  Go
+84	$2002A0	7	lem roc
+85	$2002A8	8	Minidrag
+86	$2002B0	8	onProtot
+87	$2002B8	8	ype Chim
+88	$2002C0	8	ère   Ac
+89	$2002C8	5	tinie
+90	$2002D0	5	Tueur
+91	$2002D8	6	  Ours
+92	$2002E0	8	    Mage
+93	$2002E8	8	 Rê   Ro
+94	$2002F0	5	nkien
+95	$2002F8	6	Masque
+96	$200300	8	  Eventa
+97	$200308	8	il  Lami
+98	$200310	8	a     Ar
+99	$200318	8	chéopaud
+100	$200320	5	Hydre
+101	$200328	7	  Hydre
+102	$200330	8	\AF\B4uePois
+103	$200338	8	son   Tr
+104	$200340	4	éant
+105	$200348	8	Ombre fe
+106	$200350	8	u Tarent
+107	$200358	8	ule Griz
+108	$200360	8	zli   Tu
+109	$200368	7	nnelier
+110	$200370	6	Dyrule
+111	$200378	8	  Orque-
+112	$200380	8	fée Dévo
+113	$200388	8	reur  Ma
+114	$200390	8	ndragore
+115	$200398	8	Bête Kuz
+116	$2003A0	8	a Porc-é
+117	$2003A8	8	pic Anné
+118	$2003B0	8	lide  Bo
+119	$2003B8	7	ucligon
+120	$2003C0	7	Flambos
+121	$2003C8	8	  Acroph
+122	$2003D0	8	yse Mang
+123	$2003D8	8	e-mog Lo
+124	$2003E0	4	pros
+125	$2003E8	8	Crânopha
+126	$2003F0	8	geAquaép
+127	$2003F8	8	inesBasi
+128	$200400	8	lic   Co
+129	$200408	5	rnago
+130	$200410	8	Ridicule
+131	$200418	8	  Spiron
+132	$200420	8	auteTaup
+133	$200428	8	e     Ly
+134	$200430	4	caon
+135	$200438	8	Dragon o
+136	$200440	7	s Aigle
+137	$200448	8	    Draz
+138	$200450	8	ombie Go
+139	$200458	3	lem
+140	$200460	4	Néon
+141	$200468	8	  Magnét
+142	$200470	8	ite Chev
+143	$200478	8	alier Pé
+144	$200480	6	régrin
+145	$200488	7	Piégeur
+146	$200490	8	  Gravim
+147	$200498	8	age G.Zi
+148	$2004A0	8	gguratLa
+149	$2004A8	8	pin soin
+150	$2004B0	8	Géotortu
+151	$2004B8	8	e Déchir
+152	$2004C0	8	eur Cato
+153	$2004C8	8	blepasMi
+154	$2004D0	6	nimage
+155	$2004D8	8	Gelagelé
+156	$2004E0	8	e Mammon
+157	$2004E8	8	    Diab
+158	$2004F0	8	lotin Vo
+159	$2004F8	5	uivre
+160	$200500	8	Gémellia
+161	$200508	6	  Loup
+162	$200510	8	    Nécr
+163	$200518	8	olapinMa
+164	$200520	8	geReflet
+165	$200528	8	Magidrag
+166	$200530	8	onDémoni
+167	$200538	8	ste Adag
+168	$200540	8	olem  Cœ
+169	$200548	3	url
+170	$200550	8	Poing fe
+171	$200558	8	r Drag.B
+172	$200560	8	leu Drag
+173	$200568	8	.RougeDr
+174	$200570	8	ag.Jaune
+175	$200578	6	Rêveur
+176	$200580	7	  Tronc
+177	$200588	8	noirHéri
+178	$200590	8	sson  Py
+179	$200598	4	thon
+180	$2005A0	5	Ombre
+181	$2005A8	7	  Gigas
+182	$2005B0	7	ormePao
+183	$2005B8	8	      As
+184	$2005C0	8	pic noir
+185	$2005C8	8	Métamorp
+186	$2005D0	8	heInconn
+187	$2005D8	8	u   Scor
+188	$2005E0	8	pion  Ba
+189	$2005E8	5	rrett
+190	$2005F0	7	Sekhmet
+191	$2005F8	8	  ReÇç L
+192	$200600	8	amiaRaji
+193	$200608	8	formesLit
+194	$200610	7	hograph
+195	$200618	8	Archéosa
+196	$200620	8	urZéphyr
+197	$200628	8	a   AmeE
+198	$200630	8	xdeathLi
+199	$200638	4	mace
+200	$200640	5	Veuve
+201	$200648	8	  Mucare
+202	$200650	8	    Bour
+203	$200658	8	reau  Ha
+204	$200660	4	rpie
+205	$200668	7	Danseur
+206	$200670	7	  Damné
+207	$200678	8	    Rigi
+208	$200680	8	lame  Pe
+209	$200688	8	tit mage
+210	$200690	8	Chronoma
+211	$200698	8	geDragon
+212	$2006A0	8	 os Gran
+213	$2006A8	8	d mageBr
+214	$2006B0	6	etteur
+215	$2006B8	8	MusclesF
+216	$2006C0	8	erBerser
+217	$2006C8	8	k   Draz
+218	$2006D0	8	ombie Dr
+219	$2006D8	4	uide
+220	$2006E0	8	Carapaci
+221	$2006E8	8	erStatue
+222	$2006F0	8	    Taur
+223	$2006F8	8	eau   Ly
+224	$200700	4	thos
+225	$200708	6	Spizna
+226	$200710	8	  Inconn
+227	$200718	8	u   Inco
+228	$200720	8	nnu   In
+229	$200728	5	connu
+230	$200730	7	Inconnu
+231	$200738	8	  Noctul
+232	$200740	8	e   Cora
+233	$200748	8	il    To
+234	$200750	6	mberry
+235	$200758	8	Gel aque
+236	$200760	8	uxBagarr
+237	$200768	8	eur Alch
+238	$200770	8	ymia  Dr
+239	$200778	8	ag.rouge
+240	$200780	8	HydreBle
+241	$200788	8	ueDragon
+242	$200790	8	 os Bomb
+243	$200798	8	o noirDa
+244	$2007A0	8	nseLames
+245	$2007A8	8	Baldande
+246	$2007B0	8	rsMalemo
+247	$2007B8	8	rt  Ankh
+248	$2007C0	8	eg    Am
+249	$2007C8	6	monite
+250	$2007D0	8	Annélide
+251	$2007D8	8	  Nymphe
+252	$2007E0	8	tte Part
+253	$2007E8	8	hénopeCh
+254	$2007F0	4	érie
+255	$2007F8	8	Feu blan
+256	$200800	8	c Mycose
+257	$200808	8	    Hect
+258	$200810	8	oculusEk
+259	$200818	7	arissor
+260	$200820	6	Griffe
+261	$200828	8	  Roi Bé
+262	$200830	8	hém.Farf
+263	$200838	8	arelloNé
+264	$200840	7	cromant
+265	$200848	5	Ninja
+266	$200850	8	  Dragon
+267	$200858	8	    Drac
+268	$200860	8	oeibisRh
+269	$200868	3	yos
+270	$200870	8	Vér.nive
+271	$200878	8	auFlagel
+272	$200880	8	leurEumé
+273	$200888	8	nide  Cr
+274	$200890	7	istelle
+275	$200898	5	Bille
+276	$2008A0	8	  Dracri
+277	$2008A8	8	stalAché
+278	$2008B0	8	lone  Yo
+279	$2008B8	5	jimbo
+280	$2008C0	8	Gilgames
+281	$2008C8	8	h Sahuag
+282	$2008D0	8	in  Aném
+283	$2008D8	8	one   Ib
+284	$2008E0	8	is marin
+285	$2008E8	5	Crâne
+286	$2008F0	5	  Nix
+287	$2008F8	8	    Scor
+288	$200900	8	.marinSy
+289	$200908	5	lbune
+290	$200910	8	Flan ble
+291	$200918	6	u Rukh
+292	$200920	8	    Démo
+293	$200928	8	n mer Pa
+294	$200930	8	stenague
+295	$200938	3	???
+296	$200940	7	  Golem
+297	$200948	8	    Chim
+298	$200950	8	aira  Sh
+299	$200958	3	iva
+300	$200960	5	Ifrit
+301	$200968	7	  Ramuh
+302	$200970	8	    Cait
+303	$200978	8	 Sith Dr
+304	$200980	4	aken
+305	$200988	7	Crapaud
+306	$200990	8	  Spectr
+307	$200998	8	e   Even
+308	$2009A0	8	tail  Dr
+309	$2009A8	7	azombie
+310	$2009B0	7	Chimère
+311	$2009B8	8	  Adagol
+312	$2009C0	8	em  Giga
+313	$2009C8	8	s vertRo
+314	$2009D0	5	nkien
+315	$2009D8	8	Bio-sold
+316	$2009E0	8	atTunnel
+317	$2009E8	8	ier Tote
+318	$2009F0	8	ibis  Be
+319	$2009F8	7	lphégor
+320	$200A00	8	Diabloti
+321	$200A08	8	n Harpie
+322	$200A10	8	    Gark
+323	$200A18	8	imasraCh
+324	$200A20	6	arabia
+325	$200A28	8	Gilkhélo
+326	$200A30	7	neOméga
+327	$200A38	8	    Gran
+328	$200A40	6	d chef
+329	$200A48	0	
+330	$200A50	6	Rapace
+331	$200A58	8	  Rapace
+332	$200A60	8	    Karl
+333	$200A68	8	abos  Gé
+334	$200A70	6	mellia
+335	$200A78	6	Sirène
+336	$200A80	8	  Sirène
+337	$200A88	8	    Forz
+338	$200A90	8	a     Ma
+339	$200A98	5	gissa
+340	$200AA0	6	Galura
+341	$200AA8	8	  Liq.ïee
+342	$200AB0	8	 feuLiq.
+343	$200AB8	8	ïee feuLi
+344	$200AC0	8	q.ïee feu
+345	$200AC8	8	Commanda
+346	$200AD0	8	ntVer sa
+347	$200AD8	8	blesTrou
+348	$200AE0	0	
+349	$200AE8	0	
+350	$200AF0	8	Adatortu
+351	$200AF8	8	e L.-fla
+352	$200B00	8	mmesL.-m
+353	$200B08	8	issilesEx
+354	$200B10	5	death
+355	$200B18	5	Canon
+356	$200B20	8	  Archéo
+357	$200B28	8	eilArch
+358	$200B30	8	éoeilAr
+359	$200B38	8	chéoeil
+360	$200B40	8	Archéoei
+361	$200B48	8	lArchéo
+362	$200B50	8	eilMant
+363	$200B58	8	icore Ti
+364	$200B60	3	tan
+365	$200B68	8	Purobolo
+366	$200B70	8	s Raviss
+367	$200B78	8	eur Gilg
+368	$200B80	8	amesh Tr
+369	$200B88	4	iton
+370	$200B90	8	Assassin
+371	$200B98	8	  Chario
+372	$200BA0	8	t   Néo-
+373	$200BA8	8	GarulaGi
+374	$200BB0	7	lgamesh
+375	$200BB8	5	T-Rex
+376	$200BC0	7	  Shiva
+377	$200BC8	8	    Ravi
+378	$200BD0	8	sseur Go
+379	$200BD8	4	usse
+380	$200BE0	5	Fleur
+381	$200BE8	7	  Fleur
+382	$200BF0	8	    Fleu
+383	$200BF8	8	r     Fl
+384	$200C00	3	eur
+385	$200C08	5	Fleur
+386	$200C10	8	  Gilgam
+387	$200C18	8	esh Enki
+388	$200C20	8	du    At
+389	$200C28	4	omos
+390	$200C30	0	
+391	$200C38	0	
+392	$200C40	0	
+393	$200C48	0	
+394	$200C50	0	
+395	$200C58	5	Ahuri
+396	$200C60	8	  Mélusi
+397	$200C68	8	ne  Gilg
+398	$200C70	8	amesh Ex
+399	$200C78	5	death
+400	$200C80	8	Fourmili
+401	$200C88	7	onMomie
+402	$200C90	8	    Vipè
+403	$200C98	8	re    Mé
+404	$200CA0	6	catête
+405	$200CA8	8	Mélusine
+406	$200CB0	8	  Mélusi
+407	$200CB8	8	ne  Mélu
+408	$200CC0	8	sine  Mé
+409	$200CC8	6	lusine
+410	$200CD0	4	Odin
+411	$200CD8	8	  Gargou
+412	$200CE0	8	illeTrit
+413	$200CE8	8	onien Né
+414	$200CF0	5	regat
+415	$200CF8	6	Phobos
+416	$200D00	8	  Omnisc
+417	$200D08	8	ientMino
+418	$200D10	8	taure Lé
+419	$200D18	7	viathan
+420	$200D20	7	Wendigo
+421	$200D28	6	  Gogo
+422	$200D30	8	    Baha
+423	$200D38	8	mut   Ju
+424	$200D40	7	raeibis
+425	$200D48	8	Halicarna
+426	$200D50	8	s.Exdeat
+427	$200D58	8	h   NéoE
+428	$200D60	8	xdeathNé
+429	$200D68	8	oExdeath
+430	$200D70	7	Gobelin
+431	$200D78	8	  Griffe
+432	$200D80	8	 ferSerg
+433	$200D88	8	ent   Ca
+434	$200D90	6	bonakk
+435	$200D98	8	Argigrif
+436	$200DA0	8	feNéo-go
+437	$200DA8	8	belinCalo
+438	$200DB0	8	fist. Az
+439	$200DB8	7	ulmagia
+440	$200DC0	8	Cataclys
+441	$200DC8	8	meNécrop
+442	$200DD0	8	hobeGéme
+443	$200DD8	8	llia  Ob
+444	$200DE0	5	usier
+445	$200DE8	7	Obusier
+446	$200DF0	8	  Gilgam
+447	$200DF8	8	esh Ahur
+448	$200E00	8	i     Ch
+449	$200E08	8	ef momie
+450	$200E10	6	Apanda
+451	$200E18	7	  Alter
+452	$200E20	8	MannFurt
+453	$200E28	8	if    Ra
+454	$200E30	7	visseur
+455	$200E38	5	Cœurl
+456	$200E40	8	  Liq.ïee
+457	$200E48	8	 feuBête
+458	$200E50	8	 Kuza Ca
+459	$200E58	3	non
+460	$200E60	8	Panthère
+461	$200E68	8	  Shinry
+462	$200E70	8	û   Barr
+463	$200E78	4	ière
+464	$200E80	0	
+465	$200E88	0	
+466	$200E90	0	
+467	$200E98	0	
+468	$200EA0	0	
+469	$200EA8	0	
+470	$200EB0	7	Chocobo
+471	$200EB8	8	  GrosCh
+472	$200EC0	8	oco.Sylp
+473	$200EC8	8	hide  Ré
+474	$200ED0	4	mora
+475	$200ED8	5	Shiva
+476	$200EE0	7	  Ramuh
+477	$200EE8	8	    Ifri
+478	$200EF0	8	t     Ti
+479	$200EF8	3	tan
+480	$200F00	5	Golem
+481	$200F08	8	  Catobl
+482	$200F10	8	epasAhur
+483	$200F18	8	i     Sy
+484	$200F20	4	ldra
+485	$200F28	4	Odin
+486	$200F30	8	  Phénix
+487	$200F38	8	    Lévi
+488	$200F40	8	athan Ba
+489	$200F48	5	hamut
