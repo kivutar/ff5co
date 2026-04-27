@@ -265,7 +265,7 @@ my %token2b = (
 my $pointer_offset = 0x2013F0;
 my $pointer_count = 2160;
 my $mode = "en";
-my $script_file = "texts/en/dialog.txt";
+my $script_file = "texts/en/ok/dialog.txt";
 my $base_rom = "ff5en.sfc";
 my $output_rom = "ff5co.sfc";
 my $debug_line;
@@ -284,10 +284,10 @@ if (defined $ARGV[0]) {
 }
 
 if ($mode eq "fr") {
-    $script_file = "texts/fr/dialog.txt" if !defined $ARGV[1] && defined $ARGV[0] && $ARGV[0] eq "fr";
+    $script_file = "texts/fr/ok/dialog.txt" if !defined $ARGV[1] && defined $ARGV[0] && $ARGV[0] eq "fr";
     $base_rom = "ff5fr.sfc";
 } elsif ($mode eq "co" || $mode eq "co-debug") {
-    $script_file = "texts/co/dialog.txt" if !defined $script_file || $script_file eq "texts/en/dialog.txt";
+    $script_file = "texts/co/ok/dialog.txt" if !defined $script_file || $script_file eq "texts/en/ok/dialog.txt";
     $base_rom = "ff5co.sfc";
 }
 
@@ -406,7 +406,7 @@ foreach my $line (@lines) {
 }
 
 if ($mode eq "co-debug") {
-    die "Usage: perl insert.pl co-debug LINE [texts/co/dialog.txt]\n" unless defined $debug_line;
+    die "Usage: perl insert.pl co-debug LINE [texts/co/ok/dialog.txt]\n" unless defined $debug_line;
     die "Invalid debug line: $debug_line\n" unless $debug_line =~ /^\d+$/;
     die "Debug line out of range: $debug_line\n" unless $debug_line >= 1 && $debug_line <= scalar(@entries);
 

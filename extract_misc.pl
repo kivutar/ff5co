@@ -143,32 +143,54 @@ my %b2c_co = (
     "B6" => "ìt",
 );
 
-my %b2c_menu = (
-    "11" => "pt",
-    "12" => "i",
-    "13" => "m",
-    "14" => "um",
-    "16" => "Ret",
-    "17" => "ir",
-    "18" => "er",
-    "19" => "",
-    "1A" => "",
+my %b2c_menu_common = (
     "34" => "F",
     "35" => "o",
     "36" => "r",
     "37" => "m",
     "38" => ".",
+    "CD" => "%",
+    "CF" => ":",
+);
+
+my %b2c_menu_fr = (
+    "11" => "p",
+    "12" => "t",
+    "13" => "i",
+    "14" => "mum",
+    "16" => "Ret",
+    "17" => "ir",
+    "18" => "er",
+    "19" => "",
+    "1A" => "",
     "94" => "i",
     "A3" => "u",
     "A4" => "ip",
-    "B0" => "ui",
+    "B0" => "il",
     "B1" => "ti",
-    "D6" => "P",
-    "DB" => "M",
-    "DC" => "P",
+    "D6" => "'",
     "DF" => "ns",
-    "E4" => "tt",
-    "E6" => "ll",
+    "AE" => "Fin",
+);
+
+my %b2c_menu_fr_words = (
+    "2D35" => "Niv",
+    "BBBA" => "aid",
+    "DBDC" => "lan",
+);
+
+my %b2c_menu_en = (
+    "94" => "il",
+    "95" => "it",
+    "96" => " ",
+    "97" => "li",
+    "98" => "ll",
+    "99" => "'",
+    "A5" => "fi",
+    "A4" => "ti",
+    "AA" => "",
+    "B0" => "tt",
+    "C5" => "-",
 );
 
 my %b2c_effect_fr = (
@@ -327,6 +349,111 @@ sub dump_zero_split_with_extra {
     print "$path ($index entries)\n";
 }
 
+sub menu_shop_extra_table {
+    if ($mode eq "en") {
+        return (%b2c_menu_common, %b2c_menu_en);
+    }
+
+    return (%b2c_menu_common, %b2c_menu_fr);
+}
+
+sub menu_shop_word_table {
+    return %b2c_menu_fr_words if $mode eq "fr" || $mode eq "co";
+    return ();
+}
+
+sub normalize_menu_shop {
+    my $decoded = shift;
+
+    if ($mode eq "en") {
+        $decoded =~ s/^ +//;
+        $decoded =~ s/ +$//;
+        $decoded =~ s/Opiptimum/Optimum/g;
+        $decoded =~ s/Opipmum/Optimum/g;
+        $decoded =~ s/Strgth\./Strength/g;
+        $decoded =~ s/Def\./Defense/g;
+        $decoded =~ s/Evade +%/Evade %/g;
+        $decoded =~ s/How may I help you\?'+/How may I help you?/g;
+        $decoded =~ s/What do you want\?'+/What do you want?/g;
+        $decoded =~ s/How many\?'+/How many?/g;
+        $decoded =~ s/Not enough money\.+/Not enough money!/g;
+        $decoded =~ s/You have too many\.+/You have too many!/g;
+        $decoded =~ s/You already have it\.+/You already have it!/g;
+        $decoded =~ s/Thank you!'+/Thank you!/g;
+        $decoded =~ s/Bat\.Mode/Bat. Mode/g;
+        $decoded =~ s/Bat\.Speed/Bat. Speed/g;
+        $decoded =~ s/Msg\.Speed/Msg. Speed/g;
+        $decoded =~ s/Cmd\.Set/Cmd Set/g;
+        $decoded =~ s/^ipped$/Equipped/g;
+        $decoded =~ s/equEquipped/equipped/g;
+        $decoded =~ s/Equip "Optimum'/Equip "Optimum"/g;
+        $decoded =~ s/Don't move!!/Don't move!/g;
+        $decoded =~ s/([!?])'+$/$1/g;
+        $decoded =~ s/button\.+/button./g;
+        return $decoded;
+    }
+
+    $decoded =~ s/^ +//;
+    $decoded =~ s/ +$//;
+    $decoded =~ s/Puis-je vous aidïeer\?/Puis-je vous aider?/g;
+    $decoded =~ s/Vous lPavez déjà\./Vous l’avez déjà./g;
+    $decoded =~ s/Merci beaucoup’/Merci beaucoup !/g;
+    $decoded =~ s/ser Trie/Sort. Trés/g;
+    $decoded =~ s/r Rares/Obj. rares/g;
+    $decoded =~ s/BMPche/Blanche/g;
+    $decoded =~ s/Qu\\A6ter/Quitter/g;
+    $decoded =~ s/Con\\B5gurar/configurer/g;
+    $decoded =~ s/âp\\B4mo/optimo/g;
+    $decoded =~ s/botên/botón/g;
+    $decoded =~ s/^ipé$/Équipé/g;
+    $decoded =~ s/A\\E4\\E6nte/Attente/g;
+    $decoded =~ s/Fonds insuffisants’/Fonds insuffisants !/g;
+    $decoded =~ s/Vous,là-bas’/Vous, là-bas !/g;
+    $decoded =~ s/Pas un geste’/Pas un geste !/g;
+    return $decoded;
+}
+
+sub dump_menu_shop {
+    my ($filename, $start, $end) = @_;
+    my $block = substr($bytes, $start, ($end - $start) + 1);
+    my @parts = split(/\x00/, $block, -1);
+    my @lines = ();
+    my $offset = $start;
+    my $index = 0;
+    my %table = (%decode_table, menu_shop_extra_table());
+    my %words = menu_shop_word_table();
+
+    for my $part (@parts) {
+        my $trimmed = trim_record($part);
+        my @raw = unpack("C*", $trimmed);
+        my $decoded = "";
+
+        for (my $i = 0; $i < @raw; $i++) {
+            my $hex = sprintf("%02X", $raw[$i]);
+
+            if ($i + 1 < @raw) {
+                my $pair = $hex . sprintf("%02X", $raw[$i + 1]);
+                if (exists $words{$pair}) {
+                    $decoded .= $words{$pair};
+                    $i++;
+                    next;
+                }
+            }
+
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        $decoded = normalize_menu_shop($decoded);
+        push @lines, join("\t", $index, sprintf('$%06X', $offset), length($trimmed), $decoded);
+        $offset += length($part) + 1;
+        $index++;
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($index entries)\n";
+}
+
 sub dump_pointer_table {
     my ($filename, $pointer_offset, $pointer_count, $text_offset) = @_;
     my @offsets = ();
@@ -453,7 +580,7 @@ dump_pointer_table("item_descriptions.txt",     0x275100, 0x80, 0x275200);
 dump_fixed("item_names_battle.txt",             0x275860, 0x27705F, 16);
 dump_fixed("support_abilities_battle.txt",      0x277060, 0x27739F, 16);
 
-dump_zero_split_with_extra("menu_shop.txt",     0x272F00, 0x2733FF, \%b2c_menu);
+dump_menu_shop("menu_shop.txt",                 0x272F00, 0x2733FF);
 dump_item_names_menu("item_names_menu.txt",     0x111380, 0x111C7F);
 dump_fixed("magic_names_field_menu.txt",        0x111C80, 0x111E87, 8);
 dump_fixed("shop_names.txt",                    0x112D00, 0x112D3F, 8);
