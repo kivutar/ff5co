@@ -171,6 +171,15 @@ my %b2c_menu = (
     "E6" => "ll",
 );
 
+my %b2c_effect_fr = (
+    "52" => " ",
+);
+
+my %b2c_effect_en = (
+    "96" => " ",
+    "C5" => "-",
+);
+
 my $mode = "fr";
 my $rom = "ff5fr.sfc";
 
@@ -373,6 +382,37 @@ sub dump_fixed_with_extra {
     print "$path ($count entries)\n";
 }
 
+sub dump_effect_names {
+    my ($filename, $start, $end) = @_;
+    my @lines = ();
+    my $count = int((($end - $start) + 1) / 16);
+    my %table = %decode_table;
+
+    if ($mode eq "fr" || $mode eq "co") {
+        %table = (%table, %b2c_effect_fr);
+    } elsif ($mode eq "en") {
+        %table = (%table, %b2c_effect_en);
+    }
+
+    for (my $i = 0; $i < $count; $i++) {
+        my $offset = $start + ($i * 16);
+        my $record = substr($bytes, $offset, 16);
+        my $trimmed = trim_record($record);
+        my $decoded = "";
+
+        for my $b (unpack("C*", $trimmed)) {
+            my $hex = sprintf("%02X", $b);
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($count entries)\n";
+}
+
 sub dump_item_names_menu {
     my ($filename, $start, $end) = @_;
     my @lines = ();
@@ -404,7 +444,7 @@ sub dump_item_names_menu {
 dump_fixed("monster_names.txt",                 0x200000, 0x200F4F, 16);
 dump_fixed("ability_names.txt",                 0x201150, 0x2013EF, 16);
 dump_fixed("area_headings.txt",                 0x270000, 0x2708FF, 8);
-dump_fixed("effect_names.txt",                  0x270900, 0x270F8F, 16);
+dump_effect_names("effect_names.txt",           0x270900, 0x270F8F);
 dump_fixed("magic_names_battle_menu.txt",       0x270F90, 0x27177F, 16);
 dump_fixed("magic_names_battle_messages.txt",   0x271780, 0x27275F, 16);
 dump_fixed("rare_items.txt",                    0x273560, 0x2736FF, 16);

@@ -1,100 +1,100 @@
-0	$270900	15	Mysidian\96Rabbit
+0	$270900	15	Mysidian Rabbit
 1	$270910	8	Squirrel
-2	$270920	9	Bee\96Swarm
+2	$270920	9	Bee Swarm
 3	$270930	11	Nightingale
 4	$270940	7	Momonga
 5	$270950	6	Falcon
 6	$270960	5	Skunk
-7	$270970	9	Wild\96Boar
+7	$270970	9	Wild Boar
 8	$270980	7	Unicorn
 9	$270990	7	Failure
 10	$2709A0	6	Potion
-11	$2709B0	13	Water\96of\96Life
-12	$2709C0	8	X\C5Potion
+11	$2709B0	13	Water of Life
+12	$2709C0	8	X-Potion
 13	$2709D0	6	Elixir
 14	$2709E0	12	Resurrection
-15	$2709F0	13	Maiden's\96Kiss
+15	$2709F0	13	Maiden's Kiss
 16	$270A00	5	Ether
 17	$270A10	10	Neutralize
-18	$270A20	10	Cure\96Blind
-19	$270A30	12	Dragon\96Power
-20	$270A40	11	Dark\96Potion
+18	$270A20	10	Cure Blind
+19	$270A30	12	Dragon Power
+20	$270A40	11	Dark Potion
 21	$270A50	8	HiPotion
-22	$270A60	11	Half\96Elixir
-23	$270A70	9	Ether\96Dry
+22	$270A60	11	Half Elixir
+23	$270A70	9	Ether Dry
 24	$270A80	5	Call1
 25	$270A90	13	Reincarnation
-26	$270AA0	14	Lillith's\96Kiss
-27	$270AB0	13	Resist\96Poison
-28	$270AC0	11	Resist\96Fire
-29	$270AD0	13	Dragon\96Shield
-30	$270AE0	10	Dark\96Ether
+26	$270AA0	14	Lillith's Kiss
+27	$270AB0	13	Resist Poison
+28	$270AC0	11	Resist Fire
+29	$270AD0	13	Dragon Shield
+30	$270AE0	10	Dark Ether
 31	$270AF0	7	Failure
 32	$270B00	7	Mix0023
 33	$270B10	7	Mix0024
-34	$270B20	11	Giant\96Drink
-35	$270B30	11	Dark\96Elixir
-36	$270B40	10	Fenix\96Down
-37	$270B50	12	Kiss\96of\96Life
-38	$270B60	11	Life\96Shield
+34	$270B20	11	Giant Drink
+35	$270B30	11	Dark Elixir
+36	$270B40	10	Fenix Down
+37	$270B50	12	Kiss of Life
+38	$270B60	11	Life Shield
 39	$270B70	7	Panacea
-40	$270B80	10	Resist\96Ice
-41	$270B90	14	Resist\96Thunder
-42	$270BA0	12	Dragon\96Armor
-43	$270BB0	12	Death\96Potion
-44	$270BC0	16	Kiss\96of\96Blessing
-45	$270BD0	10	Drain\96Kiss
+40	$270B80	10	Resist Ice
+41	$270B90	14	Resist Thunder
+42	$270BA0	12	Dragon Armor
+43	$270BB0	12	Death Potion
+44	$270BC0	16	Kiss of Blessing
+45	$270BD0	10	Drain Kiss
 46	$270BE0	8	Levitate
-47	$270BF0	12	Lamia's\96Kiss
-48	$270C00	13	Dragon's\96Kiss
-49	$270C10	11	Toad's\96Kiss
+47	$270BF0	12	Lamia's Kiss
+48	$270C00	13	Dragon's Kiss
+49	$270C10	11	Toad's Kiss
 50	$270C20	9	Holywater
-51	$270C30	13	Bacchus'\96Wine
-52	$270C40	13	Sampson\96Power
-53	$270C50	15	Elemental\96Power
-54	$270C60	11	Holy\96Breath
+51	$270C30	13	Bacchus' Wine
+52	$270C40	13	Sampson Power
+53	$270C50	15	Elemental Power
+54	$270C60	11	Holy Breath
 55	$270C70	7	Failure
-56	$270C80	13	Protect\96Drink
-57	$270C90	11	Split\96Shell
-58	$270CA0	11	Haste\96Drink
+56	$270C80	13	Protect Drink
+57	$270C90	11	Split Shell
+58	$270CA0	11	Haste Drink
 59	$270CB0	7	Failure
 60	$270CC0	9	Explosive
 61	$270CD0	8	Antidote
 62	$270CE0	11	Restorative
-63	$270CF0	13	Poison\96Breath
+63	$270CF0	13	Poison Breath
 64	$270D00	6	Poison
 65	$270D10	7	Eyedrop
-66	$270D20	9	Dark\96Sigh
-67	$270D30	8	Dark\96Gas
-68	$270D40	13	Dragon\96Breath
-69	$270D50	11	Dark\96Breath
-70	$270D60	12	Shadow\96Flare
+66	$270D20	9	Dark Sigh
+67	$270D30	8	Dark Gas
+68	$270D40	13	Dragon Breath
+69	$270D50	11	Dark Breath
+70	$270D60	12	Shadow Flare
 71	$270D70	5	Call2
 72	$270D80	5	Call3
 73	$270D90	4	Gust
 74	$270DA0	10	Earthquake
-75	$270DB0	8	Gale\96Cut
+75	$270DB0	8	Gale Cut
 76	$270DC0	7	Tornado
-77	$270DD0	12	Branch\96Arrow
-78	$270DE0	10	Leaf\96Dance
-79	$270DF0	12	Branch\96Spear
-80	$270E00	9	Vine\96Hell
-81	$270E10	10	Dust\96Storm
+77	$270DD0	12	Branch Arrow
+78	$270DE0	10	Leaf Dance
+79	$270DF0	12	Branch Spear
+80	$270E00	9	Vine Hell
+81	$270E10	10	Dust Storm
 82	$270E20	9	Quicksand
-83	$270E30	12	Desert\96Storm
-84	$270E40	9	Heat\96Sand
+83	$270E30	12	Desert Storm
+84	$270E40	9	Heat Sand
 85	$270E50	7	Tsunami
 86	$270E60	9	Whirlpool
-87	$270E70	11	Big\96Tsunami
-88	$270E80	11	Big\96Tsunami
-89	$270E90	11	Faen\96Fantom
-90	$270EA0	11	Will\C5o\C5Wisp
-91	$270EB0	16	Bottomless\96Swamp
-92	$270EC0	11	Poison\96Mist
+87	$270E70	11	Big Tsunami
+88	$270E80	11	Big Tsunami
+89	$270E90	11	Faen Fantom
+90	$270EA0	11	Will-o-Wisp
+91	$270EB0	16	Bottomless Swamp
+92	$270EC0	11	Poison Mist
 93	$270ED0	9	Waterfall
 94	$270EE0	10	Stalactite
-95	$270EF0	7	Cave\C5in
-96	$270F00	10	Sonic\96Boom
+95	$270EF0	7	Cave-in
+96	$270F00	10	Sonic Boom
 97	$270F10	5	Dummy
 98	$270F20	5	Dummy
 99	$270F30	5	Dummy
