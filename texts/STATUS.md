@@ -16,6 +16,7 @@ Current `ok` set:
 - `shop_names.txt`
 - `character_names.txt`
 - `concepts_misc.txt`
+- `song_names.txt`
 
 Current `partial` set:
 
@@ -35,7 +36,6 @@ Current `partial` set:
 - `magic_names_battle_menu.txt`
 - `magic_names_battle_messages.txt`
 - `menu_ability_text.txt`
-- `song_names.txt`
 - `support_abilities_battle.txt`
 
 Current `broken` set:

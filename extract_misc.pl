@@ -401,6 +401,7 @@ sub output_path {
         concepts_misc.txt
         job_names.txt
         shop_names.txt
+        song_names.txt
     );
     my %partial = map { $_ => 1 } qw(
         ability_names.txt
@@ -419,7 +420,6 @@ sub output_path {
         monster_names.txt
         monster_specialties.txt
         rare_items.txt
-        song_names.txt
         support_abilities_battle.txt
     );
 
@@ -787,6 +787,37 @@ sub dump_battle_record_text {
         $decoded =~ s/ +$//;
 
         push @lines, join("\t", $i, sprintf('$%06X', $offset), length($record), $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($count entries)\n";
+}
+
+sub dump_song_names {
+    my ($filename, $start, $count, $width) = @_;
+    my @lines = ();
+    my %table = %decode_table;
+
+    if ($mode eq "en") {
+        %table = (%table, %b2c_magic_field_en);
+    } else {
+        %table = (%table, %b2c_magic_field_fr, "9B" => "ï");
+    }
+
+    for (my $i = 0; $i < $count; $i++) {
+        my $offset = $start + ($i * $width);
+        my $record = substr($bytes, $offset, $width);
+        my $trimmed = trim_record($record);
+        my @raw = unpack("C*", $trimmed);
+        my $decoded = "";
+
+        for my $b (@raw) {
+            my $hex = sprintf("%02X", $b);
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
     }
 
     my $path = output_path($filename);
@@ -1261,7 +1292,7 @@ dump_support_abilities_battle("support_abilities_battle.txt", 0x277060, 33, 24);
 dump_menu_shop("menu_shop.txt",                 0x00F987, 0x270000, 139);
 dump_item_names_menu("item_names_menu.txt",     0x111380, 0x111C7F);
 dump_magic_names_field_menu("magic_names_field_menu.txt", 0x111C80, 0x111E87);
-dump_fixed_count_with_extra("song_names.txt",   0x111E8A, 8, 9, ($mode eq "en" ? \%b2c_magic_field_en : \%b2c_magic_field_fr));
+dump_song_names("song_names.txt",               0x111E8A, 8, 9);
 dump_fixed_count_with_extra("blue_magic_names.txt", 0x11200D, 30, 9, ($mode eq "en" ? \%b2c_magic_field_en : \%b2c_magic_field_fr));
 dump_fixed_count("concepts_misc.txt",           0x1128B6, 24, 8);
 dump_fixed("shop_names.txt",                    0x112D00, 0x112D3F, 8);
