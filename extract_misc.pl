@@ -593,17 +593,26 @@ sub normalize_menu_shop {
 }
 
 sub dump_menu_shop {
-    my ($filename, $start, $end) = @_;
-    my $block = substr($bytes, $start, ($end - $start) + 1);
-    my @parts = split(/\x00/, $block, -1);
+    my ($filename, $pointer_offset, $base_offset, $count) = @_;
     my @lines = ();
-    my $offset = $start;
-    my $index = 0;
     my %table = (%decode_table, menu_shop_extra_table());
     my %words = menu_shop_word_table();
 
-    for my $part (@parts) {
-        my $trimmed = trim_record($part);
+    for (my $index = 0; $index < $count; $index++) {
+        my $raw = substr($bytes, $pointer_offset + ($index * 2), 2);
+        my $start = unpack("v", $raw);
+        my $offset = $base_offset + $start;
+        my $record = "";
+        my $j = $offset;
+
+        while ($j < length($bytes)) {
+            my $byte = substr($bytes, $j, 1);
+            last if ord($byte) == 0x00;
+            $record .= $byte;
+            $j++;
+        }
+
+        my $trimmed = trim_record($record);
         my @raw = unpack("C*", $trimmed);
         my $decoded = "";
 
@@ -624,13 +633,11 @@ sub dump_menu_shop {
 
         $decoded = normalize_menu_shop($decoded);
         push @lines, join("\t", $index, sprintf('$%06X', $offset), length($trimmed), $decoded);
-        $offset += length($part) + 1;
-        $index++;
     }
 
     my $path = output_path($filename);
     write_text($path, join("\n", @lines) . "\n");
-    print "$path ($index entries)\n";
+    print "$path ($count entries)\n";
 }
 
 sub dump_offset_table_strings {
@@ -1198,12 +1205,12 @@ dump_effect_names("effect_names.txt",           0x270900, 0x270F8F);
 dump_magic_names_battle_menu("magic_names_battle_menu.txt", 0x270F90, 0x27177F);
 dump_fixed_count("magic_names_battle_messages.txt", 0x271780, 169, 24);
 dump_fixed_count_with_extra("rare_items.txt",   0x273568, 24, 13, ($mode eq "en" ? \%b2c_item_en : \%b2c_item_fr));
-dump_fixed("monster_specialties.txt",           0x273700, 0x273AF0, 16);
+dump_fixed_count("monster_specialties.txt",     0x273700, 64, 16);
 dump_offset_table_strings("item_descriptions.txt", 0x114000, 0x80, 0x110000, 0x00);
 dump_fixed_count_with_extra("item_names_battle.txt", 0x275860, 256, 24, ($mode eq "en" ? \%b2c_item_en : \%b2c_item_fr));
 dump_support_abilities_battle("support_abilities_battle.txt", 0x277060, 33, 24);
 
-dump_menu_shop("menu_shop.txt",                 0x272F00, 0x2733FF);
+dump_menu_shop("menu_shop.txt",                 0x00F987, 0x270000, 139);
 dump_item_names_menu("item_names_menu.txt",     0x111380, 0x111C7F);
 dump_magic_names_field_menu("magic_names_field_menu.txt", 0x111C80, 0x111E87);
 dump_fixed("shop_names.txt",                    0x112D00, 0x112D3F, 8);

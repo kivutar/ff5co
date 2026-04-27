@@ -61,3 +61,4 @@
 60	$273AC0	13	Poison\96Pollen
 61	$273AD0	15	Darkness\96Pollen
 62	$273AE0	12	Curse\96Pollen
+63	$273AF0	12	Charm\96Pollen

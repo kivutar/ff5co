@@ -137,11 +137,3 @@
 136	$273374	9	Eqp:
 137	$27337E	26	Please assign each command
 138	$273399	23	to at least one button.
-139	$2733B1	1	.
-140	$2733B3	8	button.
-141	$2733BC	21	at least one button.
-142	$2733D2	16	east one button.
-143	$2733E3	3	on.
-144	$2733E7	2	n.
-145	$2733EA	1	.
-146	$2733EC	0	
