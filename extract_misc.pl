@@ -1199,5 +1199,4 @@ dump_magic_names_field_menu("magic_names_field_menu.txt", 0x111C80, 0x111E87);
 dump_fixed("shop_names.txt",                    0x112D00, 0x112D3F, 8);
 dump_fixed("character_names.txt",               0x115500, 0x11551D, 6);
 dump_fixed("job_names.txt",                     0x115600, 0x1156AF, 8);
-dump_fixed("support_abilities_menu.txt",        0x115800, 0x1159DF, 8);
 dump_menu_ability_text("menu_ability_text.txt", 0x116200, 33, 8);
