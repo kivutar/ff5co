@@ -7,14 +7,14 @@
 6	$272F28	6	Talent
 7	$272F2F	6	Objets
 8	$272F36	5	Magie
-9	$272F3C	6	Eq.\A4er
+9	$272F3C	6	Equiper
 10	$272F43	5	Etats
-11	$272F4A	6	Op\B1ons
+11	$272F4A	6	Options
 12	$272F51	6	Sauver
 13	$272F58	5	Temps
 14	$272F5F	3	  :
-15	$272F65	2	Gil
-16	$272F68	5	\34\35\36\37\38
+15	$272F65	2	Gui
+16	$272F68	5	Form.
 17	$272F6E	5	Utili
 18	$272F74	0	
 19	$272F75	10	Equipement
@@ -22,12 +22,12 @@
 21	$272F87	0	
 22	$272F88	6	Talent
 23	$272F8F	1	/
-24	$272F91	5	O[DialogueItem][DialogueAbility]\13\14
+24	$272F91	5	Optimum
 25	$272F97	0	
-26	$272F98	5	\16[Wait]\18\19\1A
+26	$272F98	5	Retirer
 27	$272F9E	6	Main-D
 28	$272FA5	6	Main-G
-29	$272FAC	6	2 maÇ\DF
+29	$272FAC	6	2 mains
 30	$272FB3	4	Tête
 31	$272FB8	5	Corps
 32	$272FBE	7	Access.
@@ -47,24 +47,24 @@
 46	$273022	0	
 47	$273023	7	Talents
 48	$27302E	1	:
-49	$273030	2	\2D\35
+49	$273030	2	\2Do
 50	$273033	18	Puis-je vous \BBïeer?
 51	$273046	4	Ach.
 52	$27304B	4	Ven.
 53	$273050	3	  \AE
 54	$273054	0	
-55	$273055	2	\A4é
+55	$273055	2	ipé
 56	$273059	7	Possédé
 57	$273061	17	Que désirez-vous?
 58	$273073	8	Combien?
-59	$27307C	18	Fonds Ç\DFuffisants’
+59	$27307C	18	Fonds insuffisants’
 60	$27308F	18	Vous en avez trop.
-61	$2730A2	17	Vous l\D6avez déjà.
+61	$2730A2	17	Vous lPavez déjà.
 62	$2730B4	15	Merci beaucoup’
 63	$2730C4	14	   Convient à:
 64	$2730D5	8	ser Trie
 65	$2730DE	7	r Rares
-66	$2730E6	6	B\DB\DCche
+66	$2730E6	6	BMPche
 67	$2730ED	5	Noire
 68	$2730F3	6	Chrono
 69	$2730FA	6	Espers
@@ -74,7 +74,7 @@
 73	$273115	0	
 74	$273116	6	Cargar
 75	$27311D	10	Completado
-76	$273128	6	 ac\B1va
+76	$273128	6	 activa
 77	$27312F	5	Reset
 78	$273135	3	ABC
 79	$273139	3	abc
@@ -90,7 +90,7 @@
 89	$273181	7	Possédé
 90	$273189	4	Vide
 91	$27318E	11	Nouveau jeu
-92	$27319A	24	Mode       Ac\B1vé  A\E4\E6nte
+92	$27319A	24	Mode       Activé  Attllnte
 93	$2731B3	19	Con\B5gurar jugadores
 94	$2731C7	10	Vit.Combat
 95	$2731D2	9	Affichage
@@ -105,7 +105,7 @@
 104	$273275	23	Eqp.Auto   âp\B4mo  Vac!o
 105	$27328D	23	Manette    Normal Conf.
 106	$2732A5	4	Salir
-107	$2732AA	13	Simple Mul\B1p.
+107	$2732AA	13	Simple Multip.
 108	$2732B8	7	Couleur
 109	$2732C0	1	R
 110	$2732C2	1	V
@@ -120,7 +120,7 @@
 119	$2732F4	1	L
 120	$2732F6	1	R
 121	$2732F8	6	SELECT
-122	$2732FF	22	Acc Des Men Map Fil Def
+122	$2732FF	22	Acc Des Men Map Fui Def
 123	$273316	8	Capturé:
 124	$27331F	11	Menù simple
 125	$27332B	5	Cette

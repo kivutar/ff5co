@@ -143,6 +143,34 @@ my %b2c_co = (
     "B6" => "ìt",
 );
 
+my %b2c_menu = (
+    "11" => "pt",
+    "12" => "i",
+    "13" => "m",
+    "14" => "um",
+    "16" => "Ret",
+    "17" => "ir",
+    "18" => "er",
+    "19" => "",
+    "1A" => "",
+    "34" => "F",
+    "35" => "o",
+    "36" => "r",
+    "37" => "m",
+    "38" => ".",
+    "94" => "i",
+    "A3" => "u",
+    "A4" => "ip",
+    "B0" => "ui",
+    "B1" => "ti",
+    "D6" => "P",
+    "DB" => "M",
+    "DC" => "P",
+    "DF" => "ns",
+    "E4" => "tt",
+    "E6" => "ll",
+);
+
 my $mode = "fr";
 my $rom = "ff5fr.sfc";
 
@@ -168,6 +196,29 @@ my $bytes = read_binary($rom);
 my $output_dir = "texts/$mode";
 
 make_path($output_dir) unless -d $output_dir;
+make_path("$output_dir/ok", "$output_dir/partial", "$output_dir/broken");
+
+sub output_path {
+    my $filename = shift;
+    my %ok = map { $_ => 1 } qw(
+        character_names.txt
+        job_names.txt
+        shop_names.txt
+    );
+    my %partial = map { $_ => 1 } qw(
+        effect_names.txt
+        item_names_battle.txt
+        item_names_menu.txt
+        magic_names_battle_messages.txt
+        menu_shop.txt
+        monster_specialties.txt
+        rare_items.txt
+    );
+
+    return "$output_dir/ok/$filename" if $ok{$filename};
+    return "$output_dir/partial/$filename" if $partial{$filename};
+    return "$output_dir/broken/$filename";
+}
 
 sub decode {
     my @bytes = unpack("C*", shift);
@@ -212,7 +263,7 @@ sub dump_fixed {
         push @lines, join("\t", $i, sprintf('$%06X', $offset), $rawlen, $decoded);
     }
 
-    my $path = "$output_dir/$filename";
+    my $path = output_path($filename);
     write_text($path, join("\n", @lines) . "\n");
     print "$path ($count entries)\n";
 }
@@ -233,7 +284,36 @@ sub dump_zero_split {
         $index++;
     }
 
-    my $path = "$output_dir/$filename";
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($index entries)\n";
+}
+
+sub dump_zero_split_with_extra {
+    my ($filename, $start, $end, $extra) = @_;
+    my $block = substr($bytes, $start, ($end - $start) + 1);
+    my @parts = split(/\x00/, $block, -1);
+    my @lines = ();
+    my $offset = $start;
+    my $index = 0;
+    my %table = (%decode_table, %$extra);
+
+    for my $part (@parts) {
+        my $trimmed = trim_record($part);
+        my @raw = unpack("C*", $trimmed);
+        my $decoded = "";
+
+        for my $b (@raw) {
+            my $hex = sprintf("%02X", $b);
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        push @lines, join("\t", $index, sprintf('$%06X', $offset), length($trimmed), $decoded);
+        $offset += length($part) + 1;
+        $index++;
+    }
+
+    my $path = output_path($filename);
     write_text($path, join("\n", @lines) . "\n");
     print "$path ($index entries)\n";
 }
@@ -262,9 +342,63 @@ sub dump_pointer_table {
         push @lines, join("\t", $i, sprintf('$%06X', $offset), length($record), $decoded);
     }
 
-    my $path = "$output_dir/$filename";
+    my $path = output_path($filename);
     write_text($path, join("\n", @lines) . "\n");
     print "$path ($pointer_count entries)\n";
+}
+
+sub dump_fixed_with_extra {
+    my ($filename, $start, $end, $width, $extra) = @_;
+    my @lines = ();
+    my $count = int((($end - $start) + 1) / $width);
+    my %table = (%decode_table, %$extra);
+
+    for (my $i = 0; $i < $count; $i++) {
+        my $offset = $start + ($i * $width);
+        my $record = substr($bytes, $offset, $width);
+        my $trimmed = trim_record($record);
+        my @raw = unpack("C*", $trimmed);
+        my $decoded = "";
+
+        for my $b (@raw) {
+            my $hex = sprintf("%02X", $b);
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($count entries)\n";
+}
+
+sub dump_item_names_menu {
+    my ($filename, $start, $end) = @_;
+    my @lines = ();
+    my $offset = $start;
+    my $index = 0;
+    my %icon_markers = map { $_ => 1 } qw(BE BF E3 E7 E8 E9 EA EB EC ED EE EF F0 F1 F2 F3 F4);
+    my %table = (%decode_table, "94" => "i", "95" => "n");
+
+    while ($offset + 9 <= $end + 1) {
+        my $record = substr($bytes, $offset, 9);
+        my @raw = unpack("C*", $record);
+        my $marker = sprintf("%02X", $raw[0]);
+        my $text = $icon_markers{$marker} ? substr($record, 1) : $record;
+        my $trimmed = trim_record($text);
+        my $decoded = "";
+        for my $b (unpack("C*", $trimmed)) {
+            my $hex = sprintf("%02X", $b);
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+        push @lines, join("\t", $index++, sprintf('$%06X', $offset), length($trimmed), $decoded);
+        $offset += 9;
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path (" . scalar(@lines) . " entries)\n";
 }
 
 dump_fixed("monster_names.txt",                 0x200000, 0x200F4F, 16);
@@ -273,14 +407,14 @@ dump_fixed("area_headings.txt",                 0x270000, 0x2708FF, 8);
 dump_fixed("effect_names.txt",                  0x270900, 0x270F8F, 16);
 dump_fixed("magic_names_battle_menu.txt",       0x270F90, 0x27177F, 16);
 dump_fixed("magic_names_battle_messages.txt",   0x271780, 0x27275F, 16);
-dump_zero_split("menu_shop.txt",                0x272F00, 0x2733FF);
 dump_fixed("rare_items.txt",                    0x273560, 0x2736FF, 16);
 dump_fixed("monster_specialties.txt",           0x273700, 0x273AF0, 16);
 dump_pointer_table("item_descriptions.txt",     0x275100, 0x80, 0x275200);
 dump_fixed("item_names_battle.txt",             0x275860, 0x27705F, 16);
 dump_fixed("support_abilities_battle.txt",      0x277060, 0x27739F, 16);
 
-dump_fixed("item_names_menu.txt",               0x111380, 0x111C7F, 8);
+dump_zero_split_with_extra("menu_shop.txt",     0x272F00, 0x2733FF, \%b2c_menu);
+dump_item_names_menu("item_names_menu.txt",     0x111380, 0x111C7F);
 dump_fixed("magic_names_field_menu.txt",        0x111C80, 0x111E87, 8);
 dump_fixed("shop_names.txt",                    0x112D00, 0x112D3F, 8);
 dump_fixed("character_names.txt",               0x115500, 0x11551D, 6);
