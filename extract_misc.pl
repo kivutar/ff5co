@@ -372,6 +372,7 @@ sub output_path {
     );
     my %partial = map { $_ => 1 } qw(
         ability_names.txt
+        area_headings.txt
         effect_names.txt
         item_names_battle.txt
         item_descriptions.txt
@@ -611,6 +612,36 @@ sub dump_offset_table_strings {
             $j++;
         }
 
+        my $decoded = decode($record);
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($record), $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($pointer_count entries)\n";
+}
+
+sub dump_offset_span_table {
+    my ($filename, $pointer_offset, $pointer_count, $base_offset, $final_limit) = @_;
+    my @offsets = ();
+    my @lines = ();
+
+    for (my $i = 0; $i < $pointer_count; $i++) {
+        my $raw = substr($bytes, $pointer_offset + ($i * 2), 2);
+        push @offsets, unpack("v", $raw);
+    }
+    push @offsets, $final_limit;
+
+    for (my $i = 0; $i < $pointer_count; $i++) {
+        my $start = $offsets[$i];
+        my $next = $offsets[$i + 1];
+        my $length = $next - $start;
+        my $offset = $base_offset + $start;
+        my $record = substr($bytes, $offset, $length);
+        if ($i == $pointer_count - 1) {
+            my $end_pos = index($record, "END");
+            next if $end_pos >= 0;
+        }
         my $decoded = decode($record);
         push @lines, join("\t", $i, sprintf('$%06X', $offset), length($record), $decoded);
     }
@@ -1081,7 +1112,7 @@ sub dump_monster_names {
 
 dump_monster_names("monster_names.txt",         0x200050, 384, 10);
 dump_ability_names("ability_names.txt",         0x201150, 0x2013EF);
-dump_fixed("area_headings.txt",                 0x270000, 0x2708FF, 8);
+dump_offset_span_table("area_headings.txt",     0x107000, 164, 0x270000, 2304);
 dump_effect_names("effect_names.txt",           0x270900, 0x270F8F);
 dump_magic_names_battle_menu("magic_names_battle_menu.txt", 0x270F90, 0x27177F);
 dump_fixed("magic_names_battle_messages.txt",   0x271780, 0x27275F, 16);

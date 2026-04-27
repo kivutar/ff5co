@@ -1,0 +1,163 @@
+0	$270000	4	????
+1	$270004	12	Crystal Room
+2	$270010	3	Inn
+3	$270013	9	Item Shop
+4	$27001C	11	Weapon Shop
+5	$270027	10	Armor Shop
+6	$270031	17	Weapon/Armor Shop
+7	$270042	10	Magic Shop
+8	$27004C	6	Tavern
+9	$270052	4	Hall
+10	$270056	10	Grand Hall
+11	$270060	11	Throne Room
+12	$27006B	7	Storage
+13	$270072	7	Rooftop
+14	$270079	7	Balcony
+15	$270080	4	Jail
+16	$270084	2	B8
+17	$270086	2	B7
+18	$270088	2	B6
+19	$27008A	2	B5
+20	$27008C	2	B4
+21	$27008E	2	B3
+22	$270090	2	B2
+23	$270092	2	B1
+24	$270094	2	1F
+25	$270096	2	2F
+26	$270098	2	3F
+27	$27009A	2	4F
+28	$27009C	2	5F
+29	$27009E	2	6F
+30	$2700A0	2	7F
+31	$2700A2	2	8F
+32	$2700A4	2	9F
+33	$2700A6	3	10F
+34	$2700A9	3	11F
+35	$2700AC	3	12F
+36	$2700AF	3	13F
+37	$2700B2	3	14F
+38	$2700B5	3	15F
+39	$2700B8	3	16F
+40	$2700BB	3	17F
+41	$2700BE	3	18F
+42	$2700C1	3	19F
+43	$2700C4	3	20F
+44	$2700C7	3	21F
+45	$2700CA	3	22F
+46	$2700CD	3	23F
+47	$2700D0	3	24F
+48	$2700D3	3	25F
+49	$2700D6	3	26F
+50	$2700D9	3	27F
+51	$2700DC	3	28F
+52	$2700DF	3	29F
+53	$2700E2	3	30F
+54	$2700E5	11	First Level
+55	$2700F0	12	Second Level
+56	$2700FC	11	Third Level
+57	$270107	12	Fourth Level
+58	$270113	11	Fifth Level
+59	$27011E	11	Sixth Level
+60	$270129	10	First Room
+61	$270133	11	Second Room
+62	$27013E	10	Third Room
+63	$270148	11	Fourth Room
+64	$270153	10	Fifth Room
+65	$27015D	10	Sixth Room
+66	$270167	12	Wind Crystal
+67	$270173	13	Water Crystal
+68	$270180	12	Fire Crystal
+69	$27018C	13	Earth Crystal
+70	$270199	11	Wind Shrine
+71	$2701A4	11	Wind Shrine
+72	$2701AF	13	Phoenix Tower
+73	$2701BC	13	Phoenix Tower
+74	$2701C9	10	Fork Tower
+75	$2701D3	10	Fork Tower
+76	$2701DD	11	White Tower
+77	$2701E8	16	White Tower \C5 1F
+78	$2701F8	11	Black Tower
+79	$270203	16	Black Tower \C5 1F
+80	$270213	13	Castle Tycoon
+81	$270220	18	Castle Tycoon \C5 1F
+82	$270232	14	Hiryuu's Tower
+83	$270240	16	Meteor at Tycoon
+84	$270250	12	Castle Worus
+85	$27025C	17	Castle Worus \C5 1F
+86	$27026D	17	Castle Worus \C5 B1
+87	$27027E	26	Castle Worus \C5 Water Tower
+88	$270298	5	Worus
+89	$27029D	11	Worus Tower
+90	$2702A8	15	Meteor at Worus
+91	$2702B7	13	Castle Karnak
+92	$2702C4	18	Castle Karnak \C5 1F
+93	$2702D6	18	Castle Karnak \C5 B1
+94	$2702E8	6	Karnak
+95	$2702EE	16	Meteor at Karnak
+96	$2702FE	9	Steamship
+97	$270307	22	Steamship \C5 Power Room
+98	$27031D	14	Exdeath Castle
+99	$27032B	13	Barrier Tower
+100	$270338	10	Castle Bal
+101	$270342	15	Castle Bal \C5 1F
+102	$270351	15	Castle Bal \C5 B1
+103	$270360	14	Castle Surgate
+104	$27036E	19	Castle Surgate \C5 1F
+105	$270381	19	Castle Surgate \C5 B1
+106	$270394	24	Castle Surgate \C5 Library
+107	$2703AC	5	Blank
+108	$2703B1	19	Sealed Castle Kuzar
+109	$2703C4	5	Blank
+110	$2703C9	4	Tule
+111	$2703CD	12	Zokk's House
+112	$2703D9	6	Carwen
+113	$2703DF	3	Lix
+114	$2703E2	6	Istory
+115	$2703E8	12	Istory Falls
+116	$2703F4	15	Ancient Library
+117	$270403	8	Crescent
+118	$27040B	20	Crescent Island \C5 B1
+119	$27041F	36	Crescent Island \C5 Underground Hangar
+120	$270443	11	Ruined City
+121	$27044E	19	Meteor at the Ruins
+122	$270461	11	Lonka Ruins
+123	$27046C	6	Jacole
+124	$270472	14	Cave of Jacole
+125	$270480	5	Rugor
+126	$270485	3	Mua
+127	$270488	19	Great Forest of Mua
+128	$27049B	21	Elder Tree \C5 Interior
+129	$2704B0	14	Moogle Village
+130	$2704BE	4	Kelb
+131	$2704C2	14	Kelgar's House
+132	$2704D0	14	Town of Mirage
+133	$2704DE	19	Development Village
+134	$2704F1	11	Secret Cave
+135	$2704FC	16	Pirates' Hideout
+136	$27050C	11	Pirate Ship
+137	$270517	11	Torna Canal
+138	$270522	14	Ship Graveyard
+139	$270530	12	Great Trench
+140	$27053C	12	Guido's Cave
+141	$270548	11	West Valley
+142	$270553	12	Death Valley
+143	$27055F	14	North Mountain
+144	$27056D	23	North Mountain \C5 Summit
+145	$270584	13	Hiryuu Valley
+146	$270591	16	Quicksand Desert
+147	$2705A1	7	Pyramid
+148	$2705A8	18	Cleft of Dimension
+149	$2705BA	14	Chocobo Forest
+150	$2705C8	20	Black Chocobo Forest
+151	$2705DC	7	Airship
+152	$2705E3	11	Zeza's Ship
+153	$2705EE	10	Big Bridge
+154	$2705F8	16	Beginner's House
+155	$270608	12	Lenna's Room
+156	$270614	11	King's Room
+157	$27061F	22	Solitary Island Temple
+158	$270635	12	Bard's House
+159	$270641	12	Queen's Room
+160	$27064D	11	Sealed Room
+161	$270658	10	Elder Tree
+162	$270662	17	Underground River
