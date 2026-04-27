@@ -1,26 +1,24 @@
-0	$273560	16	        Bracelet
-1	$273570	16	     Memento\96Bag
-2	$273580	8	  \BCCas\AEe
-3	$273590	0	
-4	$2735A0	0	
-5	$2735B0	0	
-6	$2735C0	0	
-7	$2735D0	16	Pendant      Pen
-8	$2735E0	16	dant      \BCTorna
-9	$2735F0	16	\96Canal Hiryuu\96Pl
-10	$273600	8	ant Bell
-11	$273610	16	 Adamantite   Mo
-12	$273620	16	ogle\96Fur   Echo\96
-13	$273630	16	Plant   Elder\96Br
-14	$273640	16	anch Sealed\96Book
-15	$273650	16	  First\96\96TabletS
-16	$273660	16	econd\96TabletThir
-17	$273670	16	d\96\96TabletFourth\96
-18	$273680	15	TabletWorld\96Map
-19	$273690	11	   Splinter
-20	$2736A0	16	oD\A4D[TAB1]E\24EoE\A4E[TAB1]F\24F
-21	$2736B0	16	oF\A4F[TAB1]G\24GoG\A4G[TAB1]H\24H
-22	$2736C0	16	oH\A4H[TAB1]I\24IoI\A4I\A4I\A4I
-23	$2736D0	16	\A4I\A4I\A4I\A4I\A4I\A4I\A4I\A4I
-24	$2736E0	16	\A4I\A4I\A4I\A4I\A4I\A4I\A4I\A4I
-25	$2736F0	2	\A4I
+0	$273568	8	Bracelet
+1	$273575	11	Memento Bag
+2	$273582	6	\BCCas\AEe
+3	$27358F	0	
+4	$27359C	0	
+5	$2735A9	0	
+6	$2735B6	0	
+7	$2735C3	0	
+8	$2735D0	7	Pendant
+9	$2735DD	7	Pendant
+10	$2735EA	12	\BCTorna Canal
+11	$2735F7	12	Hiryuu Plant
+12	$273604	4	Bell
+13	$273611	10	Adamantite
+14	$27361E	10	Moogle Fur
+15	$27362B	10	Echo Plant
+16	$273638	12	Elder Branch
+17	$273645	11	Sealed Book
+18	$273652	13	First  Tablet
+19	$27365F	13	Second Tablet
+20	$27366C	13	Third  Tablet
+21	$273679	13	Fourth Tablet
+22	$273686	9	World Map
+23	$273693	8	Splinter

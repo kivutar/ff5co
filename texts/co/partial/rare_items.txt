@@ -1,26 +1,24 @@
-0	$273560	16	        Brassard
-1	$273570	13	     Souvenir
-2	$273580	15	  Passe-partout
-3	$273590	0	
-4	$2735A0	0	
-5	$2735B0	0	
-6	$2735C0	0	
-7	$2735D0	16	Pendentif    Pen
-8	$2735E0	16	dentif    Clé du
-9	$2735F0	16	 canal Herbe dra
-10	$273600	10	gonsGrelot
-11	$273610	16	 Adamantine   Fo
-12	$273620	16	urrure mogsHer.m
-13	$273630	14	urmures Rameau
-14	$273640	14	     Manuscrit
-15	$273650	16	  Tablette 1   T
-16	$273660	16	ablette 2   Tabl
-17	$273670	16	ette 3   Tablett
-18	$273680	16	e 4   Carte mond
-19	$273690	10	e  Echarde
-20	$2736A0	16	oD\A4D[TAB1]E\24EoE\A4E[TAB1]F\24F
-21	$2736B0	16	oF\A4F[TAB1]G\24GoG\A4G[TAB1]H\24H
-22	$2736C0	16	oH\A4H[TAB1]I\24IoI\A4I\A4I\A4I
-23	$2736D0	16	\A4I\A4I\A4I\A4I\A4I\A4I\A4I\A4I
-24	$2736E0	16	\A4I\A4I\A4I\A4I\A4I\A4I\A4I\A4I
-25	$2736F0	2	\A4I
+0	$273568	8	Brassard
+1	$273575	8	Souvenir
+2	$273582	13	Passe-partout
+3	$27358F	0	
+4	$27359C	0	
+5	$2735A9	0	
+6	$2735B6	0	
+7	$2735C3	0	
+8	$2735D0	9	Pendentif
+9	$2735DD	9	Pendentif
+10	$2735EA	12	Clé du canal
+11	$2735F7	13	Herbe dragons
+12	$273604	6	Grelot
+13	$273611	10	Adamantine
+14	$27361E	13	Fourrure mogs
+15	$27362B	12	Her.murmures
+16	$273638	6	Rameau
+17	$273645	9	Manuscrit
+18	$273652	10	Tablette 1
+19	$27365F	10	Tablette 2
+20	$27366C	10	Tablette 3
+21	$273679	10	Tablette 4
+22	$273686	11	Carte monde
+23	$273693	7	Echarde

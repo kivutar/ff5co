@@ -460,6 +460,24 @@ sub dump_fixed {
     print "$path ($count entries)\n";
 }
 
+sub dump_fixed_count {
+    my ($filename, $start, $count, $width) = @_;
+    my @lines = ();
+
+    for (my $i = 0; $i < $count; $i++) {
+        my $offset = $start + ($i * $width);
+        my $record = substr($bytes, $offset, $width);
+        my $trimmed = trim_record($record);
+        my $decoded = decode($trimmed);
+        my $rawlen = length($trimmed);
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), $rawlen, $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($count entries)\n";
+}
+
 sub dump_zero_split {
     my ($filename, $start, $end) = @_;
     my $block = substr($bytes, $start, ($end - $start) + 1);
@@ -675,6 +693,31 @@ sub dump_fixed_with_extra {
     my ($filename, $start, $end, $width, $extra) = @_;
     my @lines = ();
     my $count = int((($end - $start) + 1) / $width);
+    my %table = (%decode_table, %$extra);
+
+    for (my $i = 0; $i < $count; $i++) {
+        my $offset = $start + ($i * $width);
+        my $record = substr($bytes, $offset, $width);
+        my $trimmed = trim_record($record);
+        my @raw = unpack("C*", $trimmed);
+        my $decoded = "";
+
+        for my $b (@raw) {
+            my $hex = sprintf("%02X", $b);
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($count entries)\n";
+}
+
+sub dump_fixed_count_with_extra {
+    my ($filename, $start, $count, $width, $extra) = @_;
+    my @lines = ();
     my %table = (%decode_table, %$extra);
 
     for (my $i = 0; $i < $count; $i++) {
@@ -1020,11 +1063,8 @@ sub dump_magic_names_field_menu {
 }
 
 sub dump_support_abilities_battle {
-    my ($filename, $start, $end) = @_;
+    my ($filename, $start, $count, $width) = @_;
     my @lines = ();
-    my $width = 8;
-    my $offset = $start;
-    my $index = 0;
     my %table = %decode_table;
 
     if ($mode eq "en") {
@@ -1033,33 +1073,11 @@ sub dump_support_abilities_battle {
         %table = (%table, %b2c_support_battle_fr);
     }
 
-    my $current = "";
-    my $current_start = $offset;
-    my $current_len = 0;
-
-    while ($offset + $width <= $end + 1) {
+    for (my $i = 0; $i < $count; $i++) {
+        my $offset = $start + ($i * $width);
         my $record = substr($bytes, $offset, $width);
-        my @raw = unpack("C*", $record);
-        my $is_empty = !grep { $_ != 0xFF } @raw;
-
-        if ($is_empty) {
-            if ($current ne "") {
-                $current =~ s/^ +//;
-                $current =~ s/ +$//;
-                push @lines, join("\t", $index++, sprintf('$%06X', $current_start), $current_len, $current);
-                $current = "";
-                $current_len = 0;
-            }
-            $offset += $width;
-            next;
-        }
-
-        if ($current eq "") {
-            $current_start = $offset;
-        }
-
-        my $decoded = "";
         my $trimmed = trim_record($record);
+        my $decoded = "";
         for my $b (unpack("C*", $trimmed)) {
             my $hex = sprintf("%02X", $b);
             $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
@@ -1071,20 +1089,12 @@ sub dump_support_abilities_battle {
             $decoded =~ s/^œil lynx$/Œil lynx/;
         }
 
-        $current .= $decoded;
-        $current_len += length($trimmed);
-        $offset += $width;
-    }
-
-    if ($current ne "") {
-        $current =~ s/^ +//;
-        $current =~ s/ +$//;
-        push @lines, join("\t", $index++, sprintf('$%06X', $current_start), $current_len, $current);
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
     }
 
     my $path = output_path($filename);
     write_text($path, join("\n", @lines) . "\n");
-    print "$path (" . scalar(@lines) . " entries)\n";
+    print "$path ($count entries)\n";
 }
 
 sub dump_menu_ability_text {
@@ -1186,12 +1196,12 @@ dump_ability_names("ability_names.txt",         0x201150, 0x2013EF);
 dump_offset_span_table("area_headings.txt",     0x107000, 164, 0x270000, 2304);
 dump_effect_names("effect_names.txt",           0x270900, 0x270F8F);
 dump_magic_names_battle_menu("magic_names_battle_menu.txt", 0x270F90, 0x27177F);
-dump_fixed("magic_names_battle_messages.txt",   0x271780, 0x27275F, 16);
-dump_fixed("rare_items.txt",                    0x273560, 0x2736FF, 16);
+dump_fixed_count("magic_names_battle_messages.txt", 0x271780, 169, 24);
+dump_fixed_count_with_extra("rare_items.txt",   0x273568, 24, 13, ($mode eq "en" ? \%b2c_item_en : \%b2c_item_fr));
 dump_fixed("monster_specialties.txt",           0x273700, 0x273AF0, 16);
 dump_offset_table_strings("item_descriptions.txt", 0x114000, 0x80, 0x110000, 0x00);
-dump_fixed("item_names_battle.txt",             0x275860, 0x27705F, 16);
-dump_support_abilities_battle("support_abilities_battle.txt", 0x277060, 0x27739F);
+dump_fixed_count_with_extra("item_names_battle.txt", 0x275860, 256, 24, ($mode eq "en" ? \%b2c_item_en : \%b2c_item_fr));
+dump_support_abilities_battle("support_abilities_battle.txt", 0x277060, 33, 24);
 
 dump_menu_shop("menu_shop.txt",                 0x272F00, 0x2733FF);
 dump_item_names_menu("item_names_menu.txt",     0x111380, 0x111C7F);
