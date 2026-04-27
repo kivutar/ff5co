@@ -392,6 +392,9 @@ sub output_path {
     my %partial = map { $_ => 1 } qw(
         ability_names.txt
         area_headings.txt
+        battle_record_text.txt
+        blue_magic_names.txt
+        concepts_misc.txt
         effect_names.txt
         item_names_battle.txt
         item_descriptions.txt
@@ -404,6 +407,7 @@ sub output_path {
         monster_names.txt
         monster_specialties.txt
         rare_items.txt
+        song_names.txt
         support_abilities_battle.txt
     );
 
@@ -1206,6 +1210,7 @@ dump_magic_names_battle_menu("magic_names_battle_menu.txt", 0x270F90, 0x27177F);
 dump_fixed_count("magic_names_battle_messages.txt", 0x271780, 169, 24);
 dump_fixed_count_with_extra("rare_items.txt",   0x273568, 24, 13, ($mode eq "en" ? \%b2c_item_en : \%b2c_item_fr));
 dump_fixed_count("monster_specialties.txt",     0x273700, 64, 16);
+dump_fixed_count("battle_record_text.txt",      0x275800, 5, 17);
 dump_offset_table_strings("item_descriptions.txt", 0x114000, 0x80, 0x110000, 0x00);
 dump_fixed_count_with_extra("item_names_battle.txt", 0x275860, 256, 24, ($mode eq "en" ? \%b2c_item_en : \%b2c_item_fr));
 dump_support_abilities_battle("support_abilities_battle.txt", 0x277060, 33, 24);
@@ -1213,6 +1218,9 @@ dump_support_abilities_battle("support_abilities_battle.txt", 0x277060, 33, 24);
 dump_menu_shop("menu_shop.txt",                 0x00F987, 0x270000, 139);
 dump_item_names_menu("item_names_menu.txt",     0x111380, 0x111C7F);
 dump_magic_names_field_menu("magic_names_field_menu.txt", 0x111C80, 0x111E87);
+dump_fixed_count_with_extra("song_names.txt",   0x111E8A, 8, 9, ($mode eq "en" ? \%b2c_magic_field_en : \%b2c_magic_field_fr));
+dump_fixed_count_with_extra("blue_magic_names.txt", 0x11200D, 30, 9, ($mode eq "en" ? \%b2c_magic_field_en : \%b2c_magic_field_fr));
+dump_fixed_count("concepts_misc.txt",           0x1128B6, 24, 8);
 dump_fixed("shop_names.txt",                    0x112D00, 0x112D3F, 8);
 dump_fixed("character_names.txt",               0x115500, 0x11551D, 6);
 dump_fixed("job_names.txt",                     0x115600, 0x1156AF, 8);

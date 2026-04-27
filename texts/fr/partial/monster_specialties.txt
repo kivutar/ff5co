@@ -61,3 +61,4 @@
 60	$273AC0	14	Poudre\52Arsenic
 61	$273AD0	13	Poudre\52Cécité
 62	$273AE0	14	Poudre\52Acinèse
+63	$273AF0	14	Poudre\52Démence

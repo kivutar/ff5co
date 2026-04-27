@@ -20,6 +20,9 @@ Current `partial` set:
 
 - `ability_names.txt`
 - `area_headings.txt`
+- `battle_record_text.txt`
+- `blue_magic_names.txt`
+- `concepts_misc.txt`
 - `menu_shop.txt`
 - `rare_items.txt`
 - `item_names_battle.txt`
@@ -32,6 +35,7 @@ Current `partial` set:
 - `magic_names_battle_menu.txt`
 - `magic_names_battle_messages.txt`
 - `menu_ability_text.txt`
+- `song_names.txt`
 - `support_abilities_battle.txt`
 
 Current `broken` set:

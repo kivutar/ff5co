@@ -1,0 +1,30 @@
+0	$11200D	7	Condemn
+1	$112016	8	Roulette
+2	$11201F	8	AquaRake
+3	$112028	7	L5 Doom
+4	$112031	8	L4 Qrter
+5	$11203A	6	L2 Old
+6	$112043	8	L3 Flare
+7	$11204C	8	FrogSong
+8	$112055	8	TinySong
+9	$11205E	5	Flash
+10	$112067	8	Time Slip
+11	$112070	8	MoonFlut
+12	$112079	8	DethClaw
+13	$112082	4	Aero
+14	$11208B	6	Aero 2
+15	$112094	6	Aero 3
+16	$11209D	8	Emission
+17	$1120A6	8	GblinPnch
+18	$1120AF	8	DrkShock
+19	$1120B8	8	GuardOff
+20	$1120C1	6	Fusion
+21	$1120CA	8	MindBlst
+22	$1120D3	6	Vampire
+23	$1120DC	6	Hammer
+24	$1120E5	8	MghtyGrd
+25	$1120EE	8	Exploder
+26	$1120F7	4	????
+27	$112100	8	Blowfish
+28	$112109	8	WhiteWind
+29	$112112	7	Missile

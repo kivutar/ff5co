@@ -137,16 +137,3 @@
 136	$27338E	4	Eqp:
 137	$273398	21	Por favor asigne cada
 138	$2733AE	27	comando a al menos un botìn
-139	$2733CA	2	ìn
-140	$2733CD	6	botìn
-141	$2733D4	0	
-142	$2733D5	2	ìn
-143	$2733D8	0	
-144	$2733D9	1	n
-145	$2733DB	7	n botìn
-146	$2733E3	16	l menos un botìn
-147	$2733F4	0	
-148	$2733F5	3	tìn
-149	$2733F9	4	otìn
-150	$2733FE	1	n
-151	$273400	0	

@@ -1,0 +1,30 @@
+0	$11200D	8	Châtiment
+1	$112016	8	Roulette
+2	$11201F	6	Bulles
+3	$112028	7	Mort N5
+4	$112031	8	Demi2 N4
+5	$11203A	8	Déclin N2
+6	$112043	8	Eclat N3
+7	$11204C	7	Coasser
+8	$112055	7	Liliput
+9	$11205E	5	Flash
+10	$112067	7	Fatigue
+11	$112070	5	Flûte
+12	$112079	7	Lacérer
+13	$112082	6	Rafale
+14	$11208B	7	Rafale2
+15	$112094	7	Rafale3
+16	$11209D	7	Brasier
+17	$1120A6	5	Poing
+18	$1120AF	5	Ombre
+19	$1120B8	8	Défense-
+20	$1120C1	8	Don vital
+21	$1120CA	8	Illusion
+22	$1120D3	7	Vampire
+23	$1120DC	7	Maillet
+24	$1120E5	6	Mother
+25	$1120EE	8	Kamikaze
+26	$1120F7	3	???
+27	$112100	8	1000 ép.
+28	$112109	7	Mistral
+29	$112112	7	Missile
