@@ -237,6 +237,35 @@ my %b2c_ability_fr_words = (
     "E5DD" => "chi",
 );
 
+my %b2c_magic_menu_en = (
+    "94" => "il",
+    "95" => "it",
+    "96" => " ",
+    "97" => "li",
+    "98" => "ll",
+    "A4" => "ti",
+    "AC" => "if",
+    "AF" => "ir",
+    "B0" => "tt",
+    "C5" => "-",
+    "C4" => "",
+);
+
+my %b2c_magic_menu_en_words = (
+    "AD7A" => "lta",
+    "AD93" => "ltz",
+    "E3AD" => "It",
+);
+
+my %b2c_magic_menu_fr = (
+    "52" => " ",
+    "A6" => "it",
+    "B0" => "il",
+    "B1" => "ti",
+    "B5" => "œ",
+    "C4" => "",
+);
+
 my $mode = "fr";
 my $rom = "ff5fr.sfc";
 
@@ -276,6 +305,7 @@ sub output_path {
         effect_names.txt
         item_names_battle.txt
         item_names_menu.txt
+        magic_names_battle_menu.txt
         magic_names_battle_messages.txt
         menu_shop.txt
         monster_specialties.txt
@@ -683,11 +713,95 @@ sub dump_ability_names {
     print "$path ($count entries)\n";
 }
 
+sub dump_magic_names_battle_menu {
+    my ($filename, $start, $end) = @_;
+    my @lines = ();
+    my $width = 12;
+    my $count = int((($end - $start) + 1) / $width);
+    my %table = %decode_table;
+    my %words = ();
+
+    if ($mode eq "en") {
+        %table = (%table, %b2c_magic_menu_en);
+        %words = %b2c_magic_menu_en_words;
+    } elsif ($mode eq "fr" || $mode eq "co") {
+        %table = (%table, %b2c_magic_menu_fr);
+    }
+
+    for (my $i = 0; $i < $count; $i++) {
+        my $offset = $start + ($i * $width);
+        my $record = substr($bytes, $offset, $width);
+        my $trimmed = trim_record($record);
+        my @raw = unpack("C*", $trimmed);
+        my $decoded = "";
+
+        for (my $j = 0; $j < @raw; $j++) {
+            my $hex = sprintf("%02X", $raw[$j]);
+
+            if ($j + 1 < @raw) {
+                my $pair = $hex . sprintf("%02X", $raw[$j + 1]);
+                if (exists $words{$pair}) {
+                    $decoded .= $words{$pair};
+                    $j++;
+                    next;
+                }
+            }
+
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        $decoded =~ s/^ +//;
+        $decoded =~ s/ +$//;
+
+        if ($mode eq "en") {
+            $decoded =~ s/^\\ADemMagic0\d$/Item Magic/;
+            $decoded =~ s/^Power$/Power/;
+            $decoded =~ s/^Speed$/Speed/;
+            $decoded =~ s/^Vitality$/Vitality/;
+            $decoded =~ s/^Magic$/Magic/;
+            $decoded =~ s/^Whisper Wind$/Whisper Wind/;
+            $decoded =~ s/^Earth Wall$/Earth Wall/;
+            $decoded =~ s/^Waterbug$/Jitterbug/ if $decoded eq "WaltzJitterbug" || $decoded eq "Waltz Jitterbug";
+            $decoded =~ s/^WaltzJitterbug$/Waltz Jitterbug/;
+            $decoded =~ s/^MagicBarrier$/Magic Barrier/;
+            $decoded =~ s/^MagictBarrier$/Magic Barrier/;
+            $decoded =~ s/^Fight$/Fight/;
+            $decoded =~ s/^Specialty$/Specialty/;
+            $decoded =~ s/^White Wind$/White Wind/;
+            $decoded =~ s/^GblinPunch$/GoblinPunch/;
+            $decoded =~ s/^Attack$/Attack/;
+            $decoded =~ s/^Delta Attack$/Delta Attack/;
+            $decoded =~ s/^Targeting$/Targeting/;
+            $decoded =~ s/^No-Dmg Magic$/No-Dmg Magic/;
+            $decoded =~ s/^Variant Atak$/Variant Atak/;
+            $decoded =~ s/^ItemMagic0(\d)$/Item Magic 0$1/;
+            $decoded =~ s/^ItemMagic$/Item Magic/;
+        } else {
+            $decoded =~ s/^Ga!a$/Gaïa/;
+            $decoded =~ s/^Ga!a Muraille$/Gaïa Muraille/;
+            $decoded =~ s/^Lance S\\BBïenée$/Lance Saignée/;
+            $decoded =~ s/^Coûûû’$/Coûûû’/;
+            $decoded =~ s/^Séduc\B1on$/Séduction/;
+            $decoded =~ s/^Diges\B1on$/Digestion/;
+            $decoded =~ s/^Electrocu\B1on$/Electrocution/;
+            $decoded =~ s/^Ypér\A6e$/Hypérite/;
+            $decoded =~ s/^Fu\A6e$/Fuite/;
+            $decoded =~ s/^Espr\A6$/Esprit/;
+        }
+
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($trimmed), $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($count entries)\n";
+}
+
 dump_fixed("monster_names.txt",                 0x200000, 0x200F4F, 16);
 dump_ability_names("ability_names.txt",         0x201150, 0x2013EF);
 dump_fixed("area_headings.txt",                 0x270000, 0x2708FF, 8);
 dump_effect_names("effect_names.txt",           0x270900, 0x270F8F);
-dump_fixed("magic_names_battle_menu.txt",       0x270F90, 0x27177F, 16);
+dump_magic_names_battle_menu("magic_names_battle_menu.txt", 0x270F90, 0x27177F);
 dump_fixed("magic_names_battle_messages.txt",   0x271780, 0x27275F, 16);
 dump_fixed("rare_items.txt",                    0x273560, 0x2736FF, 16);
 dump_fixed("monster_specialties.txt",           0x273700, 0x273AF0, 16);

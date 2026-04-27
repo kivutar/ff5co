@@ -1,0 +1,169 @@
+0	$270F90	6	Menuet
+1	$270F9C	5	Etude
+2	$270FA8	5	Hymne
+3	$270FB4	4	Mana
+4	$270FC0	8	Héro!que
+5	$270FCC	7	Requiem
+6	$270FD8	4	Lied
+7	$270FE4	4	Aria
+8	$270FF0	4	Ruée
+9	$270FFC	4	Alizé
+10	$271008	7	Piranha
+11	$271014	10	Transcend.
+12	$271020	11	Fulguration
+13	$27102C	11	Divine com.
+14	$271038	11	Colère Ga!a
+15	$271044	8	Muraille
+16	$271050	12	œil diabolique
+17	$27105C	11	Eclat rubis
+18	$271068	5	Orage
+19	$271074	11	Zantetsuken
+20	$271080	12	Terre brâlée
+21	$27108C	7	Tsunami
+22	$271098	10	Méga Eclat
+23	$2710A4	11	Gros choco.
+24	$2710B0	7	Gungnir
+25	$2710BC	12	Terre brâlée
+26	$2710C8	12	Lance Saignée
+27	$2710D4	12	Lance Aspire
+28	$2710E0	6	Eggman
+29	$2710EC	10	Item magic
+30	$2710F8	10	Item magic
+31	$271104	10	Item magic
+32	$271110	10	Item magic
+33	$27111C	10	Item magic
+34	$271128	5	Valse
+35	$271134	4	Jazz
+36	$271140	5	Tango
+37	$27114C	8	Blindage
+38	$271158	11	Danse sabre
+39	$271164	10	Aura glace
+40	$271170	11	Entortiller
+41	$27117C	8	Attaquer
+42	$271188	12	Att.spéciale
+43	$271194	9	Châtiment
+44	$2711A0	8	Roulette
+45	$2711AC	6	Bulles
+46	$2711B8	7	Mort N5
+47	$2711C4	8	Demi2 N4
+48	$2711D0	9	Déclin N2
+49	$2711DC	8	Eclat N3
+50	$2711E8	7	Coasser
+51	$2711F4	7	Liliput
+52	$271200	5	Flash
+53	$27120C	7	Fatigue
+54	$271218	5	Flûte
+55	$271224	7	Lacérer
+56	$271230	6	Rafale
+57	$27123C	7	Rafale2
+58	$271248	7	Rafale3
+59	$271254	7	Brasier
+60	$271260	5	Poing
+61	$27126C	5	Ombre
+62	$271278	8	Défense-
+63	$271284	9	Don vital
+64	$271290	8	Illusion
+65	$27129C	7	Vampire
+66	$2712A8	7	Maillet
+67	$2712B4	6	Mother
+68	$2712C0	8	Kamikaze
+69	$2712CC	3	???
+70	$2712D8	8	1000 ép.
+71	$2712E4	7	Mistral
+72	$2712F0	7	Missile
+73	$2712FC	6	Coûûû’
+74	$271308	10	Niveau bas
+75	$271314	4	Fuite
+76	$271320	7	Wendigo
+77	$27132C	6	Byblos
+78	$271338	11	Sens unique
+79	$271344	12	Grande croix
+80	$271350	5	Delta
+81	$27135C	11	Antimissile
+82	$271368	11	Fluctuation
+83	$271374	12	Régénération
+84	$271380	12	Rafale cing.
+85	$27138C	12	Invincibilité
+86	$271398	7	Ciblage
+87	$2713A4	5	100 G
+88	$2713B0	11	Invisibilité
+89	$2713BC	9	Faucheuse
+90	$2713C8	11	Remontrance
+91	$2713D4	7	Blaster
+92	$2713E0	7	Picorer
+93	$2713EC	8	Etreinte
+94	$2713F8	5	Spore
+95	$271404	7	Haleine
+96	$271410	10	Danse mort
+97	$27141C	12	Poudr.zombie
+98	$271428	10	Hal.zombie
+99	$271434	5	Esprit
+100	$271440	8	Séduction
+101	$27144C	11	Entortiller
+102	$271458	11	Vent prisme
+103	$271464	9	Pirouette
+104	$271470	11	Rayon gamma
+105	$27147C	10	Trou blanc
+106	$271488	5	Epine
+107	$271494	9	Maelstrom
+108	$2714A0	2	Os
+109	$2714AC	8	Ficelage
+110	$2714B8	8	Digestion
+111	$2714C4	12	Rocketopoing
+112	$2714D0	6	Ypérite
+113	$2714DC	9	Almageste
+114	$2714E8	12	Sables mouv.
+115	$2714F4	5	Rayon
+116	$271500	8	Engelure
+117	$27150C	7	Blizzard
+118	$271518	5	Givre
+119	$271524	12	Electrocution
+120	$271530	8	Secousse
+121	$27153C	11	Zantetsuken
+122	$271548	12	Raz-de-marée
+123	$271554	10	Méga Eclat
+124	$271560	10	Dissonance
+125	$27156C	5	Toile
+126	$271578	5	Mucus
+127	$271584	6	Séisme
+128	$271590	8	Attaquer
+129	$27159C	10	Traitement
+130	$2715A8	7	Bunshin
+131	$2715B4	12	Coup de vent
+132	$2715C0	7	Flammes
+133	$2715CC	8	Tonnerre
+134	$2715D8	12	Onde de choc
+135	$2715E4	12	Déflagration
+136	$2715F0	8	Guérison
+137	$2715FC	10	Sénescence
+138	$271608	10	Giga Eclat
+139	$271614	7	Ceindre
+140	$271620	9	Trou noir
+141	$27162C	10	Possession
+142	$271638	8	Polarité
+143	$271644	6	Aimant
+144	$271650	6	Reflet
+145	$27165C	6	Sauter
+146	$271668	6	Portail
+147	$271674	7	Ouragan
+148	$271680	9	Jettatura
+149	$27168C	5	Objet
+150	$271698	5	Objet
+151	$2716A4	5	Objet
+152	$2716B0	7	Sangsue
+153	$2716BC	12	Nuage obscur
+154	$2716C8	11	Congélation
+155	$2716D4	10	Brume néf.
+156	$2716E0	6	Fusion
+157	$2716EC	11	Vent infer.
+158	$2716F8	10	Onde chaos
+159	$271704	5	Fléau
+160	$271710	10	Corps noir
+161	$27171C	10	Apocalypse
+162	$271728	3	Gaz
+163	$271734	6	Objets
+164	$271740	6	Objets
+165	$27174C	6	Objets
+166	$271758	6	Objets
+167	$271764	6	Objets
+168	$271770	0	

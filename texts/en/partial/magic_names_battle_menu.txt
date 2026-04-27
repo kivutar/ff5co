@@ -1,0 +1,169 @@
+0	$270F90	6	Power
+1	$270F9C	6	Speed
+2	$270FA8	9	Vitality
+3	$270FB4	6	Magic
+4	$270FC0	5	Hero
+5	$270FCC	8	Requiem
+6	$270FD8	5	Love
+7	$270FE4	6	Charm
+8	$270FF0	12	Chocobo Kick
+9	$270FFC	12	Whisper Wind
+10	$271008	8	Latch On
+11	$271014	12	Diamond Dust
+12	$271020	9	Judgement
+13	$27102C	11	Hell Blazes
+14	$271038	10	Earth Rage
+15	$271044	9	Earth Wall
+16	$271050	9	Demon Eye
+17	$27105C	10	Ruby Light
+18	$271068	12	Thunderstorm
+19	$271074	9	True Edge
+20	$271080	12	Resurrection
+21	$27108C	11	Clean Sweep
+22	$271098	10	Mega Flare
+23	$2710A4	11	Fat Chocobo
+24	$2710B0	6	Gungnir
+25	$2710BC	12	Resurrection
+26	$2710C8	12	Dragon Swd 1
+27	$2710D4	12	Dragon Swd 2
+28	$2710E0	8	Egg Chop
+29	$2710EC	10	Item Magic
+30	$2710F8	10	Item Magic
+31	$271104	10	Item Magic
+32	$271110	10	Item Magic
+33	$27111C	10	Item Magic
+34	$271128	12	Mystery Waltz
+35	$271134	8	Jitterbug
+36	$271140	10	Temptation
+37	$27114C	12	Magic Barrier
+38	$271158	11	Sword Dance
+39	$271164	8	Ice Aura
+40	$271170	8	Entangle
+41	$27117C	5	Fight
+42	$271188	9	Specialty
+43	$271194	7	Condemn
+44	$2711A0	8	Roulette
+45	$2711AC	9	Aqua Rake
+46	$2711B8	8	L.5 Doom
+47	$2711C4	9	L.4 Qrter
+48	$2711D0	7	L.2 Old
+49	$2711DC	9	L.3 Flare
+50	$2711E8	9	Frog Song
+51	$2711F4	9	Tiny Song
+52	$271200	5	Flash
+53	$27120C	9	Time Slip
+54	$271218	9	MoonFlute
+55	$271224	9	DeathClaw
+56	$271230	4	Aero
+57	$27123C	5	Aero2
+58	$271248	5	Aero3
+59	$271254	8	Emission
+60	$271260	9	GoblinPunch
+61	$27126C	9	DarkShock
+62	$271278	9	Guard Off
+63	$271284	6	Fusion
+64	$271290	9	MindBlast
+65	$27129C	6	Vampire
+66	$2712A8	9	MgcHammer
+67	$2712B4	9	Big Guard
+68	$2712C0	8	Exploder
+69	$2712CC	4	????
+70	$2712D8	8	Blowfish
+71	$2712E4	9	White Wind
+72	$2712F0	7	Missile
+73	$2712FC	9	Kurururu!
+74	$271308	9	LevelDown
+75	$271314	6	Escape
+76	$271320	12	Stalker Att.
+77	$27132C	11	Byblos Att.
+78	$271338	7	No Clue
+79	$271344	11	Grand Cross
+80	$271350	10	Delta Attack
+81	$27135C	11	Interceptor
+82	$271368	12	BarrierChng.
+83	$271374	11	Regeneration
+84	$271380	8	Gale Cut
+85	$27138C	12	No-Dmg Magic
+86	$271398	8	Targeting
+87	$2713A4	10	Gravity 100
+88	$2713B0	8	Darkness
+89	$2713BC	12	Reaper Sword
+90	$2713C8	10	Punishment
+91	$2713D4	7	Blaster
+92	$2713E0	4	Beak
+93	$2713EC	3	Hug
+94	$2713F8	5	Spore
+95	$271404	12	PoisonBreath
+96	$271410	10	Dead Dance
+97	$27141C	12	ZombiePowder
+98	$271428	12	ZombieBreath
+99	$271434	4	Spirit
+100	$271440	5	Allure
+101	$27144C	8	Entangle
+102	$271458	12	Rainbow Wind
+103	$271464	12	StrangeDance
+104	$271470	12	MagneticField
+105	$27147C	9	White Hole
+106	$271488	6	Needle
+107	$271494	9	Maelstrom
+108	$2714A0	4	Bone
+109	$2714AC	8	Tailscrew
+110	$2714B8	12	Stomach Acid
+111	$2714C4	12	Rocket Punch
+112	$2714D0	12	Mustard Bomb
+113	$2714DC	8	Almagest
+114	$2714E8	9	Quicksand
+115	$2714F4	10	Atomic Ray
+116	$271500	10	Petit Blaze
+117	$27150C	9	Snowstorm
+118	$271518	5	Blaze
+119	$271524	11	Elec. Shock
+120	$271530	12	Earth Shaker
+121	$27153C	9	True Edge
+122	$271548	10	Tidal Wave
+123	$271554	10	Mega Flare
+124	$271560	10	Sonic Wave
+125	$27156C	6	Thread
+126	$271578	5	Mucus
+127	$271584	5	Quake
+128	$271590	5	Fight
+129	$27159C	8	Medicine
+130	$2715A8	5	Image
+131	$2715B4	11	Breath Wing
+132	$2715C0	5	Flame
+133	$2715CC	7	Thunder
+134	$2715D8	10	Surge Beam
+135	$2715E4	9	Explosion
+136	$2715F0	6	Remedy
+137	$2715FC	11	Valiant Atak
+138	$271608	10	Giga Flare
+139	$271614	5	Circle
+140	$271620	8	Wormhole
+141	$27162C	7	Possess
+142	$271638	6	Dynamo
+143	$271644	6	Magnet
+144	$271650	11	Rev.Polarity
+145	$27165C	4	Jump
+146	$271668	6	Degeon
+147	$271674	9	Hurricane
+148	$271680	11	Demon's Eye
+149	$27168C	4	Item
+150	$271698	4	Item
+151	$2716A4	4	Item
+152	$2716B0	9	Terminate
+153	$2716BC	11	Valiant Atak
+154	$2716C8	4	Howl
+155	$2716D4	5	Circle
+156	$2716E0	8	Wormhole
+157	$2716EC	7	Possess
+158	$2716F8	9	Pole Shift
+159	$271704	6	Magnet
+160	$271710	11	Rev.Polarity
+161	$27171C	4	Jump
+162	$271728	8	Hold Gas
+163	$271734	4	Item
+164	$271740	4	Item
+165	$27174C	4	Item
+166	$271758	4	Item
+167	$271764	4	Item
+168	$271770	0	
