@@ -266,6 +266,31 @@ my %b2c_magic_menu_fr = (
     "C4" => "",
 );
 
+my %b2c_magic_field_en = (
+    %b2c_magic_menu_en,
+    "E3" => "",
+    "E4" => "",
+    "E5" => "",
+    "E6" => "",
+);
+
+my %b2c_magic_field_fr = (
+    "52" => " ",
+    "A6" => "it",
+    "B0" => "il",
+    "B1" => "ti",
+    "B5" => "œ",
+    "C4" => "",
+);
+
+my %b2c_magic_field_fr_words = (
+    "B7BA" => "sid",
+    "BBDE" => "aig",
+    "D3D5" => "été",
+    "D7D8" => "él",
+    "E5B8" => "cla",
+);
+
 my $mode = "fr";
 my $rom = "ff5fr.sfc";
 
@@ -307,6 +332,7 @@ sub output_path {
         item_names_menu.txt
         magic_names_battle_menu.txt
         magic_names_battle_messages.txt
+        magic_names_field_menu.txt
         menu_shop.txt
         monster_specialties.txt
         rare_items.txt
@@ -797,6 +823,106 @@ sub dump_magic_names_battle_menu {
     print "$path ($count entries)\n";
 }
 
+sub normalize_magic_field_entry {
+    my ($mode, $index, $decoded) = @_;
+
+    $decoded =~ s/^ +//;
+    $decoded =~ s/ +$//;
+
+    if ($mode eq "en") {
+        $decoded =~ s/^Sylph $/Sylph/;
+        $decoded =~ s/^Shiva $/Shiva/;
+        $decoded =~ s/^Ramuh $/Ramuh/;
+        $decoded =~ s/^Ifrit $/Ifrit/;
+        $decoded =~ s/^Titan $/Titan/;
+        $decoded =~ s/^Golem $/Golem/;
+        $decoded =~ s/^Odin  $/Odin/;
+        return $decoded;
+    }
+
+    $decoded =~ s/^Feu   $/Feu/;
+    $decoded =~ s/^Glace $/Glace/;
+    $decoded =~ s/^Venin $/Venin/;
+    $decoded =~ s/^Sommeil$/Sommeil/;
+    $decoded =~ s/^Saignée$/Saignée/;
+    $decoded =~ s/^Fossile$/Fossile/;
+    $decoded =~ s/^sidéral$/Sidéral/;
+    $decoded =~ s/^Récup$/Récup/;
+    $decoded =~ s/^Vitesse$/Vitesse/;
+    $decoded =~ s/^Léviter$/Léviter/;
+    $decoded =~ s/^M!étéîte$/Météo/;
+    $decoded =~ s/^Météîte$/Météo/;
+    $decoded =~ s/^Célrité$/Célérité/;
+    $decoded =~ s/^Catob\.Ah$/Catob. Ah/;
+    $decoded =~ s/^Syldra$/Syldra/;
+    $decoded =~ s/^Baha$/Baha/;
+    return $decoded;
+}
+
+sub dump_magic_names_field_menu {
+    my ($filename, $start, $end) = @_;
+    my @lines = ();
+    my $offset = $start;
+    my $index = 0;
+
+    my %table = %decode_table;
+    my %words = ();
+
+    if ($mode eq "en") {
+        %table = (%table, %b2c_magic_field_en);
+    } elsif ($mode eq "fr" || $mode eq "co") {
+        %table = (%table, %b2c_magic_field_fr);
+        %words = %b2c_magic_field_fr_words;
+    }
+
+    for (my $i = 0; $i < 72; $i++) {
+        my $record = substr($bytes, $offset, 6);
+        my $trimmed = trim_record($record);
+        my @raw = unpack("C*", $trimmed);
+        my $decoded = "";
+
+        for (my $j = 0; $j < @raw; $j++) {
+            my $hex = sprintf("%02X", $raw[$j]);
+
+            if ($j + 1 < @raw) {
+                my $pair = $hex . sprintf("%02X", $raw[$j + 1]);
+                if (exists $words{$pair}) {
+                    $decoded .= $words{$pair};
+                    $j++;
+                    next;
+                }
+            }
+
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        $decoded = normalize_magic_field_entry($mode, $index, $decoded);
+        push @lines, join("\t", $index++, sprintf('$%06X', $offset), length($trimmed), $decoded);
+        $offset += 6;
+    }
+
+    while ($offset <= $end) {
+        my $remaining = ($end - $offset) + 1;
+        my $width = $remaining >= 6 ? 6 : $remaining;
+        my $record = substr($bytes, $offset, $width);
+        my $trimmed = trim_record($record);
+        my $decoded = "";
+
+        for my $b (unpack("C*", $trimmed)) {
+            my $hex = sprintf("%02X", $b);
+            $decoded .= exists $table{$hex} ? $table{$hex} : "\\" . $hex;
+        }
+
+        $decoded = normalize_magic_field_entry($mode, $index, $decoded);
+        push @lines, join("\t", $index++, sprintf('$%06X', $offset), length($trimmed), $decoded);
+        $offset += 6;
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path (" . scalar(@lines) . " entries)\n";
+}
+
 dump_fixed("monster_names.txt",                 0x200000, 0x200F4F, 16);
 dump_ability_names("ability_names.txt",         0x201150, 0x2013EF);
 dump_fixed("area_headings.txt",                 0x270000, 0x2708FF, 8);
@@ -811,7 +937,7 @@ dump_fixed("support_abilities_battle.txt",      0x277060, 0x27739F, 16);
 
 dump_menu_shop("menu_shop.txt",                 0x272F00, 0x2733FF);
 dump_item_names_menu("item_names_menu.txt",     0x111380, 0x111C7F);
-dump_fixed("magic_names_field_menu.txt",        0x111C80, 0x111E87, 8);
+dump_magic_names_field_menu("magic_names_field_menu.txt", 0x111C80, 0x111E87);
 dump_fixed("shop_names.txt",                    0x112D00, 0x112D3F, 8);
 dump_fixed("character_names.txt",               0x115500, 0x11551D, 6);
 dump_fixed("job_names.txt",                     0x115600, 0x1156AF, 8);
