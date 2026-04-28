@@ -9,6 +9,8 @@ perl insert_item_names_menu.pl co texts/co/item_names_menu.txt ff5co.sfc
 perl insert_job_names.pl co texts/co/job_names.txt ff5co.sfc
 perl insert_shop_names.pl co texts/co/shop_names.txt ff5co.sfc
 perl insert_concepts_misc.pl co texts/co/concepts_misc.txt ff5co.sfc
+perl insert_menu_ability_text.pl co texts/co/menu_ability_text.txt ff5co.sfc
+perl insert_support_abilities_battle.pl co texts/co/support_abilities_battle.txt ff5co.sfc
 perl insert_effect_names.pl co texts/co/effect_names.txt ff5co.sfc
 perl insert_ability_names.pl co texts/co/ability_names.txt ff5co.sfc
 perl insert_item_descriptions.pl co texts/co/item_descriptions.txt ff5co.sfc

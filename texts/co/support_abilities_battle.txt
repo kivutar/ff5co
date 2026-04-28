@@ -1,33 +1,33 @@
-0	$277060	15	Equiper Bouclier
-1	$277078	14	Equiper Armure
-2	$277090	13	Equiper Ruban
-3	$2770A8	12	Equiper Epée
-4	$2770C0	13	Equiper Lance
-5	$2770D8	14	Equiper Katana
-6	$2770F0	13	Equiper Hache
-7	$277108	11	Equiper Arc
-8	$277120	13	Equiper Fouet
-9	$277138	13	Equiper Harpe
-10	$277150	8	Roublard
+0	$277060	15	Equipà Scudi
+1	$277078	14	Equipà Armura
+2	$277090	13	Equipà Nastri
+3	$2770A8	12	Equipà Spade
+4	$2770C0	13	Equipà Lance
+5	$2770D8	14	Equipà Katane
+6	$2770F0	13	Equipà Scuri
+7	$277108	11	Equipà Archi
+8	$277120	13	Equipà Fruste
+9	$277138	13	Equipà Arpe
+10	$277150	8	Agilità+
 11	$277168	7	HP +10%
 12	$277180	7	HP +20%
 13	$277198	7	HP +30%
 14	$2771B0	7	MP +10%
 15	$2771C8	7	MP +30%
-16	$2771E0	6	Pugilat
-17	$2771F8	7	2 mains
-18	$277210	7	2 armes
-19	$277228	8	Médecine
-20	$277240	7	Couvrir
-21	$277258	7	Riposte
-22	$277270	7	Blocage
-23	$277288	8	Assimiler
-24	$2772A0	7	Blindage
-25	$2772B8	8	Férocité
-26	$2772D0	8	Vigilance
-27	$2772E8	10	Initiative
-28	$277300	7	Œil lynx
-29	$277318	8	Vélocité
-30	$277330	9	Détection
-31	$277348	16	Equiper Sceptres
+16	$2771E0	6	Pugilatu
+17	$2771F8	7	2 mani
+18	$277210	7	2 armi
+19	$277228	8	Medicina
+20	$277240	7	Copre
+21	$277258	7	Riposta
+22	$277270	7	Bloccu
+23	$277288	8	Amparera
+24	$2772A0	7	Blindaghju
+25	$2772B8	8	Furia
+26	$2772D0	8	Vigilanza
+27	$2772E8	10	Allerta
+28	$277300	7	Passaghju
+29	$277318	8	Passu sic.
+30	$277330	9	Trappule
+31	$277348	16	Equipà Scettri
 32	$277360	6	Sprint
