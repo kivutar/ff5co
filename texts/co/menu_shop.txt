@@ -4,136 +4,136 @@
 3	$272F0F	8	HP     /
 4	$272F18	8	MP     /
 5	$272F21	6	Classe
-6	$272F28	6	Talenti
-7	$272F2F	6	Ogetti
-8	$272F36	5	Magia
-9	$272F3C	6	Equipà
-10	$272F43	5	Stati
-11	$272F4A	6	Opzioni
-12	$272F51	6	Salvà
+6	$272F28	7	Talenti
+7	$272F30	6	Ogetti
+8	$272F37	5	Magia
+9	$272F3D	6	Equipà
+10	$272F44	5	Stati
+11	$272F4A	7	Opzioni
+12	$272F52	5	Salvà
 13	$272F58	5	Tempu
-14	$272F5F	3	:
-15	$272F65	2	Gil
-16	$272F68	5	Forma
-17	$272F6E	5	Usu.
-18	$272F74	0	
-19	$272F75	10	Equipagiu
-20	$272F80	6	LIVELLU
-21	$272F87	0	
-22	$272F88	6	Talenti
-23	$272F8F	1	/
-24	$272F91	5	Optimu
+14	$272F5E	3	:
+15	$272F64	2	Gil
+16	$272F67	5	Forma
+17	$272F6D	4	Usu.
+18	$272F72	0	
+19	$272F73	9	Equipagiu
+20	$272F7D	7	LIVELLU
+21	$272F85	0	
+22	$272F86	7	Talenti
+23	$272F8E	1	/
+24	$272F90	6	Optimu
 25	$272F97	0	
-26	$272F98	5	Caccià
-27	$272F9E	6	Mano-D
-28	$272FA5	6	Mano-S
-29	$272FAC	6	2 mani
-30	$272FB3	4	Capu
-31	$272FB8	5	Corpu
-32	$272FBE	7	Access.
-33	$272FC6	5	Forza
-34	$272FCC	7	Agilità
-35	$272FD4	7	Vigore
+26	$272F98	6	Caccià
+27	$272F9F	6	Mano-D
+28	$272FA6	6	Mano-S
+29	$272FAD	6	2 mani
+30	$272FB4	4	Capu
+31	$272FB9	5	Corpu
+32	$272FBF	7	Access.
+33	$272FC7	5	Forza
+34	$272FCD	7	Agilità
+35	$272FD5	6	Vigore
 36	$272FDC	5	Magia
 37	$272FE2	7	Attaccu
-38	$272FEB	7	Difesa
-39	$272FF3	7	Schiv.
-40	$272FFB	5	Pesu
-41	$273005	1	…
-42	$273007	1	%
-43	$273009	10	Esperienza
-44	$273015	11	Liv. seg.
-45	$273021	0	
-46	$273022	0	
-47	$273023	7	Talenti
-48	$27302E	1	:
-49	$273030	2	Liv
-50	$273033	18	Possu aiutà vi?
-51	$273046	4	Cumpr.
-52	$27304B	4	Vend.
-53	$273050	3	Fine
-54	$273054	0	
-55	$273055	2	Equip.
-56	$273059	7	Puss.
-57	$273061	17	Chì vuleriate?
-58	$273073	8	Quantu?
-59	$27307C	18	Soldi insufficienti !
-60	$27308F	18	Ne avete troppu.
-61	$2730A2	17	L'avete digià.
-62	$2730B4	15	Vi ringraziu !
-63	$2730C4	14	Cunvene à:
-64	$2730D5	8	Ord. tes.
-65	$2730DE	7	Og. rari
-66	$2730E6	6	Bianca
-67	$2730ED	5	Nera
-68	$2730F3	6	Tempu
-69	$2730FA	6	Esper
-70	$273101	5	Turch.
-71	$273107	6	Canti
-72	$27310E	6	MP:
-73	$273115	0	
-74	$273116	6	Caricà
-75	$27311D	10	Fattu
-76	$273128	6	Attivu
-77	$27312F	5	Reset
-78	$273135	3	ABC
-79	$273139	3	abc
-80	$27313D	3	Fine
-81	$273141	5	Spada
-82	$273147	2	OK
-83	$27314A	17	Chì venderete?
-84	$27315C	8	Quantu?
-85	$273165	0	
-86	$273166	12	Piglià tuttu
-87	$273173	6	Esce
-88	$27317A	6	Tesoru
-89	$273181	7	Puss.
-90	$273189	4	Viotu
-91	$27318E	11	Novu ghjocu
-92	$27319A	24	Modu       Attivu  Attesa
-93	$2731B3	19	Cunfig. ghjuc.
-94	$2731C7	10	Vit.Cumb.
-95	$2731D2	9	Vit.Testu
-96	$2731DC	11	Rapidu Lentu
-97	$2731E8	11	1 2 3 4 5 6
-98	$2731F4	24	Cumandi    Nurm. Sempl.
-99	$27320D	21	Barra ATB  Iè     No
-100	$273223	22	Sonu       Stereo Mono
-101	$27323A	16	C-Pad 1  C-Pad 2
-102	$27324B	24	Cursore    Auto   Mem.
-103	$273264	16	Cunfig. manetta
-104	$273275	23	Eqp.auto   optimum  viotu
-105	$27328D	23	Manetta    Nurm. Pers.
-106	$2732A5	4	Esce
-107	$2732AA	13	Simp./Mult.
-108	$2732B8	7	Culore
-109	$2732C0	1	R
-110	$2732C2	1	V
-111	$2732C4	1	B
-112	$2732C6	10	[ColorPreview]
-113	$2732D1	12	Voi, quallà !
-114	$2732DE	13	ùn vi move !
-115	$2732EC	1	A
-116	$2732EE	1	B
-117	$2732F0	1	X
-118	$2732F2	1	Y
-119	$2732F4	1	L
-120	$2732F6	1	R
-121	$2732F8	6	SELECT
-122	$2732FF	22	Azn Ann Men Map Fil Dif
-123	$273316	8	Catturà:
-124	$27331F	11	Menu cortu
-125	$27332B	5	Sta
-126	$273331	7	partita?
-127	$273339	7	Sguassà
-128	$273341	5	sta
-129	$273347	7	partita?
-130	$27334F	3	Iè
-131	$273353	3	No
-132	$273357	8	Finitu
-133	$273360	17	Scelta talenti
-134	$273372	19	Equipagiu optimum
-135	$273386	7	Equipà
-136	$27338E	4	Eqp:
-137	$273398	21	Assignate ogni cumandu
-138	$2733AE	27	à almenu un buttone
+38	$272FEA	6	Difesa
+39	$272FF1	6	Schiv.
+40	$272FF8	4	Pesu
+41	$272FFD	1	…
+42	$272FFF	1	%
+43	$273001	10	Esperienza
+44	$27300C	9	Liv. seg.
+45	$273016	0	
+46	$273017	0	
+47	$273018	7	Talenti
+48	$273020	1	:
+49	$273022	3	Liv
+50	$273026	15	Possu aiutà vi?
+51	$273036	6	Cumpr.
+52	$27303D	5	Vend.
+53	$273043	4	Fine
+54	$273048	0	
+55	$273049	6	Equip.
+56	$273050	5	Puss.
+57	$273056	14	Chê vuleriate?
+58	$273065	7	Quantu?
+59	$27306D	21	Soldi insufficienti !
+60	$273083	16	Ne avete troppu.
+61	$273094	14	Léavete digià.
+62	$2730A3	14	Vi ringraziu !
+63	$2730B2	10	Cunvene à:
+64	$2730BD	9	Ord. tes.
+65	$2730C7	8	Og. rari
+66	$2730D0	6	Bianca
+67	$2730D7	4	Nera
+68	$2730DC	5	Tempu
+69	$2730E2	5	Esper
+70	$2730E8	6	Turch.
+71	$2730EF	5	Canti
+72	$2730F5	6	MP:
+73	$2730FC	0	
+74	$2730FD	6	Caricà
+75	$273104	5	Fattu
+76	$27310A	6	Attivu
+77	$273111	5	Reset
+78	$273117	3	ABC
+79	$27311B	3	abc
+80	$27311F	4	Fine
+81	$273124	5	Spada
+82	$27312A	2	OK
+83	$27312D	14	Chê venderete?
+84	$27313C	7	Quantu?
+85	$273144	0	
+86	$273145	12	Piglià tuttu
+87	$273152	4	Esce
+88	$273157	6	Tesoru
+89	$27315E	5	Puss.
+90	$273164	5	Viotu
+91	$27316A	11	Novu ghjocu
+92	$273176	25	Modu       Attivu  Attesa
+93	$273190	14	Cunfig. ghjuc.
+94	$27319F	9	Vit.Cumb.
+95	$2731A9	9	Vit.Testu
+96	$2731B3	12	Rapidu Lentu
+97	$2731C0	11	1 2 3 4 5 6
+98	$2731CC	23	Cumandi    Nurm. Sempl.
+99	$2731E4	20	Barra ATB  Iè     No
+100	$2731F9	22	Sonu       Stereo Mono
+101	$273210	16	C-Pad 1  C-Pad 2
+102	$273221	22	Cursore    Auto   Mem.
+103	$273238	15	Cunfig. manetta
+104	$273248	25	Eqp.auto   optimum  viotu
+105	$273262	22	Manetta    Nurm. Pers.
+106	$273279	4	Esce
+107	$27327E	11	Simp./Mult.
+108	$27328A	6	Culore
+109	$273291	1	R
+110	$273293	1	V
+111	$273295	1	B
+112	$273297	10	[ColorPreview]
+113	$2732A2	13	Voi, quallà !
+114	$2732B0	12	ùn vi move !
+115	$2732BD	1	A
+116	$2732BF	1	B
+117	$2732C1	1	X
+118	$2732C3	1	Y
+119	$2732C5	1	L
+120	$2732C7	1	R
+121	$2732C9	6	SELECT
+122	$2732D0	23	Azn Ann Men Map Fil Dif
+123	$2732E8	8	Catturà:
+124	$2732F1	10	Menu cortu
+125	$2732FC	3	Sta
+126	$273300	8	partita?
+127	$273309	7	Sguassà
+128	$273311	3	sta
+129	$273315	8	partita?
+130	$27331E	2	Iè
+131	$273321	2	No
+132	$273324	6	Finitu
+133	$27332B	14	Scelta talenti
+134	$27333A	17	Equipagiu optimum
+135	$27334C	6	Equipà
+136	$273353	4	Eqp:
+137	$27335D	22	Assignate ogni cumandu
+138	$273374	19	à almenu un buttone
