@@ -1,100 +1,100 @@
 0	$270900	8	Echigoya
-1	$270910	7	Ecureuil
-2	$270920	16	Essaim d’abeilles
-3	$270930	9	Rossignol
+1	$270910	7	Scuiattulu
+2	$270920	16	Sciame d'ape
+3	$270930	9	Rusignolu
 4	$270940	10	Polatouche
-5	$270950	6	Faucon
-6	$270960	9	Mouffette
-7	$270970	7	Sanglier
-8	$270980	7	Licorne
-9	$270990	7	Paution
-10	$2709A0	6	Potion
-11	$2709B0	10	Eau vitale
-12	$2709C0	8	Potion X
-13	$2709D0	5	Elixir
-14	$2709E0	12	Résurrection
-15	$2709F0	6	Baiser
-16	$270A00	5	Ether
-17	$270A10	11	Neutralisant
-18	$270A20	12	Vue parfaite
-19	$270A30	16	Puissance dragon
-20	$270A40	14	Potion obscure
-21	$270A50	7	Potion\E2
-22	$270A60	10	Demi-élixir
-23	$270A70	8	Triéther
+5	$270950	6	Falcu
+6	$270960	9	Muffetta
+7	$270970	7	Cignale
+8	$270980	7	Licorna
+9	$270990	7	Fallu
+10	$2709A0	6	Pozione
+11	$2709B0	10	Acqua vitale
+12	$2709C0	8	Pozione X
+13	$2709D0	5	Elisir
+14	$2709E0	12	Risurrezzione
+15	$2709F0	6	Basgiu
+16	$270A00	5	Etere
+17	$270A10	11	Neutralizante
+18	$270A20	12	Vista perfetta
+19	$270A30	16	Forza di dragone
+20	$270A40	14	Pozione scura
+21	$270A50	7	Pozione\E2
+22	$270A60	10	Mezu elisir
+23	$270A70	8	Trietere
 24	$270A80	7	Spare 1
-25	$270A90	13	Réincarnation
-26	$270AA0	15	Baiser de Lilith
-27	$270AB0	9	Antivenin
-28	$270AC0	7	Antifeu
-29	$270AD0	13	Mur du dragon
-30	$270AE0	12	Ether sombre
-31	$270AF0	7	Paution
-32	$270B00	10	Mélange 23
-33	$270B10	10	Mélange 24
-34	$270B20	13	Sirop vitalité
-35	$270B30	12	Elixir sombre
-36	$270B40	15	Queue de Phénix
-37	$270B50	15	Bouche à bouche
-38	$270B60	15	Barrière vitale
-39	$270B70	6	Remède
-40	$270B80	10	Anti-glace
-41	$270B90	11	Anti-éclair
-42	$270BA0	14	Peau de dragon
-43	$270BB0	14	Potion mortelle
-44	$270BC0	11	Baiser béni
-45	$270BD0	14	Baiser Succube
-46	$270BE0	16	Baume Lévitation
-47	$270BF0	15	Baiser de Lamia
-48	$270C00	16	Baiser de dragon
-49	$270C10	14	Baiser crapaud
-50	$270C20	10	Eau bénite
-51	$270C30	16	Cidre de Bacchus
-52	$270C40	15	Force de Samson
-53	$270C50	16	Puis.élémentaire
-54	$270C60	14	Haleine sacrée
-55	$270C70	7	Paution
-56	$270C80	13	Potion Armure
-57	$270C90	15	Soupe de tortue
-58	$270CA0	9	Jus Turbo
-59	$270CB0	7	Paution
+25	$270A90	13	Reincarnazione
+26	$270AA0	15	Basgiu di Lilith
+27	$270AB0	9	Antiveleno
+28	$270AC0	7	Antifocu
+29	$270AD0	13	Muru di dragone
+30	$270AE0	12	Etere scuru
+31	$270AF0	7	Fallu
+32	$270B00	10	Mistura 23
+33	$270B10	10	Mistura 24
+34	$270B20	13	Sciroppu vitale
+35	$270B30	12	Elisir scuru
+36	$270B40	15	Coda di Fenice
+37	$270B50	15	Bocca à bocca
+38	$270B60	15	Barrera vitale
+39	$270B70	6	Rimediu
+40	$270B80	10	Antighiacciu
+41	$270B90	11	Anti-lampu
+42	$270BA0	14	Pelle di dragone
+43	$270BB0	14	Pozione mortale
+44	$270BC0	11	Basgiu benedettu
+45	$270BD0	14	Basgiu Succube
+46	$270BE0	16	Balsamu Lievità
+47	$270BF0	15	Basgiu di Lamia
+48	$270C00	16	Basgiu dragone
+49	$270C10	14	Basgiu rospu
+50	$270C20	10	Acqua santa
+51	$270C30	16	Sidru di Bacchus
+52	$270C40	15	Forza di Samson
+53	$270C50	16	Forza element.
+54	$270C60	14	Fiatu sacru
+55	$270C70	7	Fallu
+56	$270C80	13	Pozione armura
+57	$270C90	15	Suppa turtuga
+58	$270CA0	9	Suchju Turbo
+59	$270CB0	7	Fallu
 60	$270CC0	6	T.N.T.
-61	$270CD0	8	Antidote
-62	$270CE0	9	Stimulant
-63	$270CF0	7	Haleine
-64	$270D00	6	Toxine
-65	$270D10	6	Collyre
-66	$270D20	13	Soupir sombre
-67	$270D30	10	Gaz sombre
-68	$270D40	14	Haleine dragon
-69	$270D50	15	Haleine obscure
-70	$270D60	13	Matière noire
+61	$270CD0	8	Antidotu
+62	$270CE0	9	Stimulante
+63	$270CF0	7	Fiatu
+64	$270D00	6	Tossina
+65	$270D10	6	Colliriu
+66	$270D20	13	Suspiru scuru
+67	$270D30	10	Gas scuru
+68	$270D40	14	Fiatu di dragone
+69	$270D50	15	Fiatu scuru
+70	$270D60	13	Materia nera
 71	$270D70	7	Spare 2
 72	$270D80	7	Spare 3
-73	$270D90	10	Bourrasque
-74	$270DA0	6	Séisme
-75	$270DB0	16	Rafale cinglante
-76	$270DC0	7	Tornade
-77	$270DD0	9	Brindilles
-78	$270DE0	14	Feuilles mortes
-79	$270DF0	15	Troncs d’arbres
-80	$270E00	6	Lierre
-81	$270E10	7	Sirocco
-82	$270E20	15	Sables mouvants
-83	$270E30	16	Tempête de sable
+73	$270D90	10	Buriana
+74	$270DA0	6	Sisma
+75	$270DB0	16	Raffica tagl.
+76	$270DC0	7	Tornada
+77	$270DD0	9	Ramincelli
+78	$270DE0	14	Foglie morte
+79	$270DF0	15	Tronchi d'arburi
+80	$270E00	6	Edera
+81	$270E10	7	Sciroccu
+82	$270E20	15	Sabbie mobili
+83	$270E30	16	Tempesta di rena
 84	$270E40	3	Erg
 85	$270E50	7	Tsunami
-86	$270E60	15	Tourbillon marin
-87	$270E70	14	Vague sismique
-88	$270E80	14	Vague sismique
-89	$270E90	10	Ectoplasme
-90	$270EA0	9	Feu follet
-91	$270EB0	8	Marécage
-92	$270EC0	13	Brume toxique
-93	$270ED0	7	Cascade
-94	$270EE0	10	Stalactite
-95	$270EF0	6	Eboulis
-96	$270F00	12	Bang sonique
+86	$270E60	15	Turbinu marinu
+87	$270E70	14	Onda sismica
+88	$270E80	14	Onda sismica
+89	$270E90	10	Ectoplasma
+90	$270EA0	9	Focu follet
+91	$270EB0	8	Palude
+92	$270EC0	13	Bruma tossica
+93	$270ED0	7	Cascata
+94	$270EE0	10	Stalattite
+95	$270EF0	6	Frana
+96	$270F00	12	Bang sonicu
 97	$270F10	7	\AEDummy\AF
 98	$270F20	7	\AEDummy\AF
 99	$270F30	7	\AEDummy\AF
