@@ -1,5 +1,5 @@
-0	$275800	16	Total combates:[TotalBattles]
-1	$275811	16	Total enemigos:[EnemiesKilled]
-2	$275822	16	Exp. Media:[AverageExp]
-3	$275833	16	Tesoros %:[TreasureRate]%
-4	$275844	16	Guardados:[TimesSaved]
+0	$275800	16	Cumbatti:[TotalBattles]
+1	$275811	16	Nemici:[EnemiesKilled]
+2	$275822	16	Exp.med.:[AverageExp]
+3	$275833	16	Tesori %:[TreasureRate]%
+4	$275844	16	Salvatu:[TimesSaved]

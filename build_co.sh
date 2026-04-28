@@ -17,6 +17,7 @@ perl insert_magic_names_battle_menu.pl co texts/co/magic_names_battle_menu.txt f
 perl insert_menu_ability_text.pl co texts/co/menu_ability_text.txt ff5co.sfc
 perl insert_support_abilities_battle.pl co texts/co/support_abilities_battle.txt ff5co.sfc
 perl insert_effect_names.pl co texts/co/effect_names.txt ff5co.sfc
+perl insert_battle_record_text.pl co texts/co/battle_record_text.txt ff5co.sfc
 perl insert_ability_names.pl co texts/co/ability_names.txt ff5co.sfc
 perl insert_item_descriptions.pl co texts/co/item_descriptions.txt ff5co.sfc
 perl insert_area_headings.pl co texts/co/area_headings.txt ff5co.sfc
