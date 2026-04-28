@@ -228,7 +228,7 @@
 227	$111B7B	6	Elisir
 228	$111B84	8	C.Fenice
 229	$111B8D	6	Basgiu
-230	$111B96	9	Acqua s\A6ta
+230	$111B96	9	Acq.s\A6ta
 231	$111B9F	8	Carapace
 232	$111BA8	8	Antidotu
 233	$111BB1	8	Colliriu
