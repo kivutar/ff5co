@@ -1,24 +1,24 @@
-0	$273568	8	Brassard
-1	$273575	8	Souvenir
-2	$273582	13	Passe-partout
+0	$273568	8	Brassardu
+1	$273575	8	Ricordu
+2	$273582	13	Passa.partù
 3	$27358F	0	
 4	$27359C	0	
 5	$2735A9	0	
 6	$2735B6	0	
 7	$2735C3	0	
-8	$2735D0	9	Pendentif
-9	$2735DD	9	Pendentif
-10	$2735EA	12	Clé du canal
-11	$2735F7	13	Herbe dragons
-12	$273604	6	Grelot
-13	$273611	10	Adamantine
-14	$27361E	13	Fourrure mogs
-15	$27362B	12	Her.murmures
-16	$273638	6	Rameau
-17	$273645	9	Manuscrit
-18	$273652	10	Tablette 1
-19	$27365F	10	Tablette 2
-20	$27366C	10	Tablette 3
-21	$273679	10	Tablette 4
-22	$273686	11	Carte monde
-23	$273693	7	Echarde
+8	$2735D0	9	Pendente
+9	$2735DD	9	Pendente
+10	$2735EA	12	Chjave canal
+11	$2735F7	13	Erba dragone
+12	$273604	6	Sonaglio
+13	$273611	10	Adamantina
+14	$27361E	13	Pelu di mog
+15	$27362B	12	Erba eco
+16	$273638	6	Ramu
+17	$273645	9	Manuscr.
+18	$273652	10	Tavuletta1
+19	$27365F	10	Tavuletta2
+20	$27366C	10	Tavuletta3
+21	$273679	10	Tavuletta4
+22	$273686	11	Carta mondu
+23	$273693	7	Scheggia
