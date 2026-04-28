@@ -1,163 +1,163 @@
 0	$270000	4	????
-1	$270004	15	Salle du cristal
-2	$270013	7	Auberge
-3	$27001A	8	Boutique
-4	$270022	7	Arsenal
-5	$270029	8	Armurier
-6	$270031	5	Bazar
-7	$270036	7	Echoppe
-8	$27003D	7	Taverne
-9	$270044	11	Antichambre
-10	$27004F	11	Grande salle
-11	$27005A	13	Salle du trône
-12	$270067	8	Entrepôt
-13	$27006F	4	Toit
-14	$270073	6	Balcon
-15	$270079	6	Prison
-16	$27007F	3	SS8
-17	$270082	3	SS7
-18	$270085	3	SS6
-19	$270088	3	SS5
-20	$27008B	3	SS4
-21	$27008E	3	SS3
-22	$270091	3	SS2
-23	$270094	3	SS1
-24	$270097	15	Rez-de-chaussée
-25	$2700A6	3	1er
-26	$2700A9	2	2e
-27	$2700AB	2	3e
-28	$2700AD	2	4e
-29	$2700AF	2	5e
-30	$2700B1	2	6e
-31	$2700B3	2	7e
-32	$2700B5	2	8e
-33	$2700B7	2	9e
-34	$2700B9	3	10e
-35	$2700BC	3	11e
-36	$2700BF	3	12e
-37	$2700C2	3	13e
-38	$2700C5	3	14e
-39	$2700C8	3	15e
-40	$2700CB	3	16e
-41	$2700CE	3	17e
-42	$2700D1	3	18e
-43	$2700D4	3	19e
-44	$2700D7	3	20e
-45	$2700DA	3	21e
-46	$2700DD	3	22e
-47	$2700E0	3	23e
-48	$2700E3	3	24e
-49	$2700E6	3	25e
-50	$2700E9	3	26e
-51	$2700EC	3	27e
-52	$2700EF	3	28e
-53	$2700F2	3	30e
-54	$2700F5	10	1er niveau
-55	$2700FF	9	2e niveau
-56	$270108	9	3e niveau
-57	$270111	9	4e niveau
-58	$27011A	9	5e niveau
-59	$270123	9	6e niveau
-60	$27012C	9	1ère salle
-61	$270135	7	2e salle
-62	$27013C	7	3e salle
-63	$270143	7	4e salle
-64	$27014A	7	5e salle
-65	$270151	7	6e salle
-66	$270158	15	Cristal du vent
-67	$270167	16	Cristal de l’eau
-68	$270177	14	Cristal du feu
-69	$270185	19	Cristal de la terre
-70	$270198	14	Temple du vent
-71	$2701A6	20	Temple du vent - RDC
-72	$2701BA	14	Tour du phénix
-73	$2701C8	20	Tour du phénix - RDC
-74	$2701DC	13	Tour fourchue
-75	$2701E9	19	Tour fourchue - RDC
-76	$2701FC	12	Tour blanche
-77	$270208	18	Tour blanche - RDC
-78	$27021A	10	Tour noire
-79	$270224	16	Tour noire - RDC
-80	$270234	17	Château de Tycoon
-81	$270245	23	Château de Tycoon - RDC
-82	$27025C	14	Tour du dragon
-83	$27026A	20	Aérolithe de Tycoon\52\52
-84	$27027E	16	Château de Wolse
-85	$27028E	22	Château de Wolse - RDC
-86	$2702A4	22	Château de Wolse - SS1
-87	$2702BA	32	Château de Wolse - Tour des eaux
-88	$2702DA	5	Wolse
-89	$2702DF	13	Tour de Wolse
-90	$2702EC	17	Aérolithe de Wolse
-91	$2702FD	17	Château de Karnak
-92	$27030E	23	Château de Karnak - RDC
-93	$270325	23	Château de Karnak - SS1
-94	$27033C	6	Karnak
-95	$270342	20	Aérolithe de Karnak\52\52
-96	$270356	16	Navire thermique
-97	$270366	29	Navire thermique - Chaufferie
-98	$270383	17	Château d’Exdeath
-99	$270394	16	Tour protectrice
-100	$2703A4	15	Citadelle de Bal
-101	$2703B3	21	Citadelle de Bal - RDC
-102	$2703C8	21	Citadelle de Bal - SS1
-103	$2703DD	18	Château de Surgate
-104	$2703EF	24	Château de Surgate - RDC
-105	$270407	24	Château de Surgate - SS1
-106	$27041F	32	Château de Surgate - Bibliothèque
-107	$27043F	6	\AENada\AF
-108	$270445	27	Kuza, le château des sceaux
-109	$270460	6	\AENada\AF
-110	$270466	4	Tule
-111	$27046A	13	Maison de Zok
-112	$270477	6	Carwen
-113	$27047D	3	Lix
-114	$270480	7	Istorie
-115	$270487	16	Chutes d’Istorie
-116	$270497	23	Bibliothèque des anciens
-117	$2704AE	6	Lunule
-118	$2704B4	19	Ile de Lunule - SS1
-119	$2704C7	24	Ile de Lunule - Entrepôt
-120	$2704DF	25	Ruines de la ville de Gohn
-121	$2704F8	16	Aérolithe de Gohn
-122	$270508	15	Ruines de Ronka
-123	$270517	6	Jacole
-124	$27051D	16	Grotte de Jacole
-125	$27052D	6	Rugole
-126	$270533	3	Mua
-127	$270536	19	Grande forêt de Mua
-128	$270549	13	Arbre gardien
-129	$270556	15	Village des mogs
-130	$270565	6	Quelbe
-131	$27056B	16	Maison de Kelgar
-132	$27057B	11	Fantasmagor
-133	$270586	23	Village des développeurs
-134	$27059D	15	Caverne secrète
-135	$2705AC	18	Refuge des pirates
-136	$2705BE	13	Bateau pirate
-137	$2705CB	14	Canal de Torna
-138	$2705D9	18	Cimetière d’épaves
-139	$2705EB	17	Fosse sous-marine
-140	$2705FC	15	Antre de Ghido\52
-141	$27060B	14	Val de l’ouest
-142	$270619	16	Vallée de la mort
-143	$270629	12	Mont du nord
-144	$270635	21	Mont du nord - Sommet
-145	$27064A	15	Val des dragons
-146	$270659	26	Désert des sables mouvants
-147	$270673	15	Pyramide de Mua
-148	$270682	26	Fissure interdimensionnelle
-149	$27069C	18	Forêt des chocobos
-150	$2706AE	21	Forêt du chocobo noir
-151	$2706C3	8	Vaisseau
-152	$2706CB	15	Flotte de Xezat
-153	$2706DA	10	Grand pont
-154	$2706E4	16	Club des novices
-155	$2706F4	16	Chambre de Lenna
-156	$270704	14	Chambre du roi
-157	$270712	16	Temple insulaire
-158	$270722	15	Maison du barde
-159	$270731	13	Salle du trône
-160	$27073E	15	Salle des sceaux
-161	$27074D	13	Arbre gardien
-162	$27075A	19	Rivière souterraine
+1	$270004	18	Sala di u cristallu
+2	$270016	7	Osteria
+3	$27001D	7	Buttega
+4	$270024	8	Arsenale
+5	$27002C	7	Armaria
+6	$270033	5	Bazar
+7	$270038	8	Magheria
+8	$270040	7	Taverna
+9	$270047	10	Anticamera
+10	$270051	9	Sala maiô
+11	$27005A	15	Sala di u tronu
+12	$270069	8	Magazenu
+13	$270071	5	Tettu
+14	$270076	7	Balcone
+15	$27007D	6	Prigiô
+16	$270083	3	SS8
+17	$270086	3	SS7
+18	$270089	3	SS6
+19	$27008C	3	SS5
+20	$27008F	3	SS4
+21	$270092	3	SS3
+22	$270095	3	SS2
+23	$270098	3	SS1
+24	$27009B	2	PT
+25	$27009D	2	1u
+26	$27009F	2	2u
+27	$2700A1	2	3u
+28	$2700A3	2	4u
+29	$2700A5	2	5u
+30	$2700A7	2	6u
+31	$2700A9	2	7u
+32	$2700AB	2	8u
+33	$2700AD	2	9u
+34	$2700AF	3	10u
+35	$2700B2	3	11u
+36	$2700B5	3	12u
+37	$2700B8	3	13u
+38	$2700BB	3	14u
+39	$2700BE	3	15u
+40	$2700C1	3	16u
+41	$2700C4	3	17u
+42	$2700C7	3	18u
+43	$2700CA	3	19u
+44	$2700CD	3	20u
+45	$2700D0	3	21u
+46	$2700D3	3	22u
+47	$2700D6	3	23u
+48	$2700D9	3	24u
+49	$2700DC	3	25u
+50	$2700DF	3	26u
+51	$2700E2	3	27u
+52	$2700E5	3	28u
+53	$2700E8	3	30u
+54	$2700EB	8	1u pianu
+55	$2700F3	8	2u pianu
+56	$2700FB	8	3u pianu
+57	$270103	8	4u pianu
+58	$27010B	8	5u pianu
+59	$270113	8	6u pianu
+60	$27011B	7	1a sala
+61	$270122	7	2a sala
+62	$270129	7	3a sala
+63	$270130	7	4a sala
+64	$270137	7	5a sala
+65	$27013E	7	6a sala
+66	$270145	19	Cristallu di u ventu
+67	$270158	19	Cristallu di l'acqua
+68	$27016B	18	Cristallu di u focu
+69	$27017D	19	Cristallu di a terra
+70	$270190	17	Tempiu di u ventu
+71	$2701A1	22	Tempiu di u ventu - PT
+72	$2701B7	15	Torre di Fenice
+73	$2701C6	20	Torre di Fenice - PT
+74	$2701DA	13	Torre furcata
+75	$2701E7	18	Torre furcata - PT
+76	$2701F9	12	Torre bianca
+77	$270205	17	Torre bianca - PT
+78	$270216	10	Torre nera
+79	$270220	15	Torre nera - PT
+80	$27022F	17	Castellu di Tycoon
+81	$270240	22	Castellu di Tycoon - PT
+82	$270256	14	Torre di Hiryû
+83	$270264	19	Aérolite di Tycoon\52\52
+84	$270277	16	Castellu di Wolse
+85	$270287	21	Castellu di Wolse - PT
+86	$27029C	22	Castellu di Wolse - SS1
+87	$2702B2	35	Castellu di Wolse - Torre di l'acque
+88	$2702D5	5	Wolse
+89	$2702DA	14	Torre di Wolse
+90	$2702E8	16	Aérolite di Wolse
+91	$2702F8	17	Castellu di Karnak
+92	$270309	22	Castellu di Karnak - PT
+93	$27031F	23	Castellu di Karnak - SS1
+94	$270336	6	Karnak
+95	$27033C	19	Aérolite di Karnak\52\52
+96	$27034F	12	Nave termica
+97	$27035B	22	Nave termica - Caldaia
+98	$270371	17	Castellu d'Exdeath
+99	$270382	16	Torre prutettiva
+100	$270392	14	Castellu di Bal
+101	$2703A0	19	Castellu di Bal - PT
+102	$2703B3	20	Castellu di Bal - SS1
+103	$2703C7	18	Castellu di Surgate
+104	$2703D9	23	Castellu di Surgate - PT
+105	$2703F0	24	Castellu di Surgate - SS1
+106	$270408	31	Castellu di Surgate - Bibbiuteca
+107	$270427	6	\AENada\AF
+108	$27042D	26	Kuza, u castellu di i sigilli
+109	$270447	6	\AENada\AF
+110	$27044D	4	Tule
+111	$270451	11	Casa di Zok
+112	$27045C	6	Carwen
+113	$270462	3	Lix
+114	$270465	7	Istorie
+115	$27046C	17	Cascate d'Istorie
+116	$27047D	23	Bibbiuteca di l'antichi
+117	$270494	6	Lunule
+118	$27049A	21	Isula di Lunule - SS1
+119	$2704AF	26	Isula di Lunule - Magazenu
+120	$2704C9	24	Rovine di a cità di Gohn
+121	$2704E1	15	Aérolite di Gohn
+122	$2704F0	15	Rovine di Ronka
+123	$2704FF	6	Jacole
+124	$270505	16	Grotta di Jacole
+125	$270515	6	Rugole
+126	$27051B	3	Mua
+127	$27051E	21	Grande furesta di Mua
+128	$270533	16	Arburu guardianu
+129	$270543	14	Paese di i mog
+130	$270551	6	Quelbe
+131	$270557	14	Casa di Kelgar
+132	$270565	11	Fantasmagor
+133	$270570	22	Paese di i sviluppatori
+134	$270586	14	Grotta secreta
+135	$270594	19	Rifugiu di i pirati
+136	$2705A7	11	Nave pirata
+137	$2705B2	15	Canale di Torna
+138	$2705C1	17	Cimiteriu d'epave
+139	$2705D2	17	Fossa suttumarina
+140	$2705E3	15	Antre di Ghido\52
+141	$2705F2	15	Valle di l'ovest
+142	$270601	15	Valle di a morte
+143	$270610	16	Monte di u nordu
+144	$270620	23	Monte di u nordu - Cima
+145	$270637	17	Valle di i dragoni
+146	$270648	25	Desertu di e sabbie mobili
+147	$270661	15	Piramide di Mua
+148	$270670	25	Fessura interdimensionale
+149	$270689	21	Furesta di i chocobos
+150	$27069E	25	Furesta di u chocobo neru
+151	$2706B7	7	Vascellu
+152	$2706BE	15	Flotta di Xezat
+153	$2706CD	12	Grande ponte
+154	$2706D9	17	Club di i nuvizii
+155	$2706EA	15	Camera di Lenna
+156	$2706F9	14	Camera di u rè
+157	$270707	15	Tempiu insulare
+158	$270716	15	Casa di u bardu
+159	$270725	18	Camera di a regina
+160	$270737	15	Sala di i sigilli
+161	$270746	16	Arburu guardianu
+162	$270756	17	Fiume suttarraniu
