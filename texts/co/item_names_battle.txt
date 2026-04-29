@@ -1,43 +1,43 @@
 0	$275860	0	
-1	$275878	8	Mano nuda
+1	$275878	9	Mano nuda
 2	$275890	7	Cultellu
-3	$2758A8	5	Pugnale
-4	$2758C0	15	Pugnale di mithril
+3	$2758A8	7	Pugnale
+4	$2758C0	17	Pugnale di mithril
 5	$2758D8	5	Kunai
-6	$2758F0	8	Stilettu
-7	$275908	15	Pugnale di parata
+6	$2758F0	7	Stilettu
+7	$275908	17	Pugnale di parata
 8	$275920	7	Kodachi
-9	$275938	18	Pugnale di ramu
+9	$275938	15	Pugnale di ramu
 10	$275950	13	Pugnale eolicu
 11	$275968	9	Assassinu
 12	$275980	6	Katana
 13	$275998	8	Claymore
 14	$2759B0	11	Spada longa
-15	$2759C8	14	Spada di mithril
-16	$2759E0	13	Lama di corallu
+15	$2759C8	15	Spada di mithril
+16	$2759E0	14	Lama di corallu
 17	$2759F8	6	Glaive
 18	$275A10	6	Spathe
 19	$275A28	5	Sabre
-20	$275A40	16	Spada di ghjudiziu
+20	$275A40	18	Spada di ghjudiziu
 21	$275A58	8	Excalibur
 22	$275A70	8	Ragnarok
-23	$275A88	5	Lancia
-24	$275AA0	7	Ghjavellu
-25	$275AB8	15	Lancia di mithril
+23	$275A88	6	Lancia
+24	$275AA0	8	Ghjavellu
+25	$275AB8	16	Lancia di mithril
 26	$275AD0	7	Trident
-27	$275AE8	12	Lancia zefira
+27	$275AE8	13	Lancia zefira
 28	$275B00	8	Partisan
 29	$275B18	6	Sagaie
 30	$275B30	5	Angon
 31	$275B48	12	Lancia sacra
-32	$275B60	15	Lancia di u dragone
-33	$275B78	6	Scure
+32	$275B60	19	Lancia di u dragone
+33	$275B78	5	Scure
 34	$275B90	7	Martellu
 35	$275BA8	7	Mannara
 36	$275BC0	5	Mazza
 37	$275BD8	13	Scure tossica
-38	$275BF0	14	Martellu di Gaia
-39	$275C08	13	Scure runica
+38	$275BF0	15	Martellu di Gaia
+39	$275C08	12	Scure runica
 40	$275C20	7	Mjollnir
 41	$275C38	6	Ashura
 42	$275C50	8	Kazekiri
@@ -48,69 +48,69 @@
 47	$275CC8	8	Masamune
 48	$275CE0	8	Murakumo
 49	$275CF8	7	Scettru
-50	$275D10	14	Scettru di focu
-51	$275D28	16	Scettru di ghjacciu
+50	$275D10	15	Scettru di focu
+51	$275D28	19	Scettru di ghjacciu
 52	$275D40	16	Scettru di lampu
-53	$275D58	15	Scettru velenu
+53	$275D58	14	Scettru velenu
 54	$275D70	16	Scettru di Lilith
 55	$275D88	13	Scettru magus
-56	$275DA0	5	Bastone
-57	$275DB8	15	Bastone di mithril
+56	$275DA0	7	Bastone
+57	$275DB8	17	Bastone di mithril
 58	$275DD0	7	Mazzulu
 59	$275DE8	7	Caduceu
-60	$275E00	16	Bastone di luce
-61	$275E18	13	Bastone di saviu
+60	$275E00	15	Bastone di luce
+61	$275E18	16	Bastone di saviu
 62	$275E30	8	Damoclès
-63	$275E48	10	Arcu di focu
-64	$275E60	12	Arcu di ghjacciu
-65	$275E78	15	Arcu di lampu
-66	$275E90	8	Arcu neru
+63	$275E48	12	Arcu di focu
+64	$275E60	16	Arcu di ghjacciu
+65	$275E78	13	Arcu di lampu
+66	$275E90	9	Arcu neru
 67	$275EA8	7	Escarpa
-68	$275EC0	8	Arcu elfu
-69	$275ED8	13	Arcu di Yoichi
-70	$275EF0	13	Arcu d'Artémis
+68	$275EC0	9	Arcu elfu
+69	$275ED8	14	Arcu di Yoichi
+70	$275EF0	14	Arcu d'Artémis
 71	$275F08	4	Lyre
-72	$275F20	13	Lira onirica
+72	$275F20	12	Lira onirica
 73	$275F38	13	Lira di Lamia
 74	$275F50	13	Lira d'Apollon
-75	$275F68	5	Frusta
-76	$275F80	13	Frusta à catena
-77	$275F98	14	Frusta di lampu
-78	$275FB0	12	Frusta di focu
-79	$275FC8	15	Frusta di dragone
-80	$275FE0	6	Campana
-81	$275FF8	14	Campana di Gaia
+75	$275F68	6	Frusta
+76	$275F80	15	Frusta à catena
+77	$275F98	15	Frusta di lampu
+78	$275FB0	14	Frusta di focu
+79	$275FC8	17	Frusta di dragone
+80	$275FE0	7	Campana
+81	$275FF8	15	Campana di Gaia
 82	$276010	7	Carillon
 83	$276028	7	Clarine
 84	$276040	7	Rapiera
-85	$276058	13	Spada sanguina
+85	$276058	14	Spada sanguina
 86	$276070	12	Spada runica
-87	$276088	11	Spada di focu
-88	$2760A0	13	Spada di ghjacciu
-89	$2760B8	15	Chakram lunare
+87	$276088	13	Spada di focu
+88	$2760A0	17	Spada di ghjacciu
+89	$2760B8	14	Chakram lunare
 90	$2760D0	8	Shuriken
 91	$2760E8	13	Fuma shuriken
 92	$276100	8	Excalipur
 93	$276118	5	Tumba
-94	$276130	7	Piombu
+94	$276130	6	Piombu
 95	$276148	8	Goupillon
 96	$276160	16	Scettru d'Olorin
 97	$276178	15	Lama di i bravi
 98	$276190	4	Suie
-99	$2761A8	7	Cesoie
-100	$2761C0	15	Chakram solare
-101	$2761D8	12	Arcu d'argentu
-102	$2761F0	16	Arcu di l'uraganu
-103	$276208	7	Arcu coi
+99	$2761A8	6	Cesoie
+100	$2761C0	14	Chakram solare
+101	$2761D8	14	Arcu d'argentu
+102	$2761F0	17	Arcu di l'uraganu
+103	$276208	8	Arcu coi
 104	$276220	7	Avicida
 105	$276238	7	Fatalità
-106	$276250	16	Scure di i titani
+106	$276250	17	Scure di i titani
 107	$276268	15	Cultellu barbaru
-108	$276280	5	Lupinu
-109	$276298	14	Pugnale danzante
-110	$2762B0	9	Acu neru
-111	$2762C8	9	Mano manca
-112	$2762E0	9	Mano dritta
+108	$276280	6	Lupinu
+109	$276298	16	Pugnale danzante
+110	$2762B0	8	Acu neru
+111	$2762C8	10	Mano manca
+112	$2762E0	11	Mano dritta
 113	$2762F8	7	Dummy
 114	$276310	7	Dummy
 115	$276328	7	Dummy
@@ -128,84 +128,84 @@
 127	$276448	7	Dummy
 128	$276460	0	
 129	$276478	6	Pavese
-130	$276490	3	Scudu
-131	$2764A8	7	Scudu
-132	$2764C0	6	Scudu di mithril
-133	$2764D8	12	Scudu d'oru
-134	$2764F0	15	Scudu d'Egida
-135	$276508	17	Pavese di diamante
-136	$276520	18	Scudu di cristal
-137	$276538	6	Cascu
-138	$276550	6	Elmu
-139	$276568	5	Armettu
-140	$276580	15	Armettu di mithril
-141	$276598	10	Armettu d'oru
-142	$2765B0	16	Armettu di diamante
-143	$2765C8	17	Cascu di cristal
+130	$276490	5	Scudu
+131	$2764A8	5	Scudu
+132	$2764C0	15	Scudu di mithril
+133	$2764D8	11	Scudu d'oru
+134	$2764F0	13	Scudu d'Egida
+135	$276508	18	Pavese di diamante
+136	$276520	16	Scudu di cristal
+137	$276538	5	Cascu
+138	$276550	4	Elmu
+139	$276568	7	Armettu
+140	$276580	17	Armettu di mithril
+141	$276598	13	Armettu d'oru
+142	$2765B0	19	Armettu di diamante
+143	$2765C8	16	Cascu di cristal
 144	$2765E0	7	Cappellu
 145	$2765F8	5	Toccu
 146	$276610	5	Mitra
 147	$276628	7	Diadema
-148	$276640	7	Spilla
-149	$276658	5	Nastru
-150	$276670	6	Turbante
-151	$276688	5	Berrettu
+148	$276640	5	Spilla
+149	$276658	6	Nastru
+150	$276670	8	Turbante
+151	$276688	8	Berrettu
 152	$2766A0	8	Capucciu
 153	$2766B8	5	Tiara
 154	$2766D0	8	Cuirassa
 155	$2766E8	6	Armura
-156	$276700	13	Armura di ferru
+156	$276700	15	Armura di ferru
 157	$276718	16	Armura di mithril
-158	$276730	11	Armura d'oru
-159	$276748	17	Armura di diamante
+158	$276730	12	Armura d'oru
+159	$276748	18	Armura di diamante
 160	$276760	17	Armura di cristal
-161	$276778	15	Cotta di ramu
+161	$276778	13	Cotta di ramu
 162	$276790	6	Kimono
-163	$2767A8	14	Cotta d'argentu
-164	$2767C0	16	Tunica di ninja
+163	$2767A8	15	Cotta d'argentu
+164	$2767C0	15	Tunica di ninja
 165	$2767D8	5	Cotta
 166	$2767F0	7	Custume
-167	$276808	4	Vesta
-168	$276820	12	Vesta di seta
-169	$276838	7	Tunica
+167	$276808	5	Vesta
+168	$276820	13	Vesta di seta
+169	$276838	6	Tunica
 170	$276850	6	Surplis
-171	$276868	15	Vesta di luce
+171	$276868	13	Vesta di luce
 172	$276880	10	Vesta nera
 173	$276898	12	Vesta bianca
 174	$2768B0	5	Veste
 175	$2768C8	5	Anellu
-176	$2768E0	4	Guantu
-177	$2768F8	6	Muffula
-178	$276910	4	Cappa
-179	$276928	13	Anellu maladettu
-180	$276940	8	Occhiali
-181	$276958	7	Sandali
-182	$276970	14	Guantu di mithril
-183	$276988	17	Brassardu d'argentu
-184	$2769A0	19	Brassardu di diamante
+176	$2768E0	6	Guantu
+177	$2768F8	7	Muffula
+178	$276910	5	Cappa
+179	$276928	15	Anellu maladettu
+180	$276940	7	Occhiali
+181	$276958	6	Sandali
+182	$276970	16	Guantu di mithril
+183	$276988	19	Brassardu d'argentu
+184	$2769A0	21	Brassardu di diamante
 185	$2769B8	14	Veste di forza
 186	$2769D0	8	Forzalet
 187	$2769E8	4	Alba
-188	$276A00	6	Anellu
+188	$276A00	5	Anellu
 189	$276A18	11	Anellu rossu
 190	$276A30	15	Anellu di corallu
 191	$276A48	10	Cotta d'os
-192	$276A60	8	Mocassinu
+192	$276A60	9	Mocassinu
 193	$276A78	8	Giuntura
-194	$276A90	8	Gantellu
-195	$276AA8	6	Maschera
-196	$276AC0	14	Scudu di focu
-197	$276AD8	6	Borra
-198	$276AF0	16	Scudu di Genji
-199	$276B08	15	Cascu di Genji
+194	$276A90	7	Gantellu
+195	$276AA8	8	Maschera
+196	$276AC0	13	Scudu di focu
+197	$276AD8	5	Borra
+198	$276AF0	14	Scudu di Genji
+199	$276B08	14	Cascu di Genji
 200	$276B20	15	Armura di Genji
-201	$276B38	13	Guantu di Genji
-202	$276B50	15	Anellu di riflessu
-203	$276B68	8	Curona
-204	$276B80	17	Curona di spine
-205	$276B98	16	Scudu di ghjacciu
+201	$276B38	15	Guantu di Genji
+202	$276B50	17	Anellu di riflessu
+203	$276B68	6	Curona
+204	$276B80	15	Curona di spine
+205	$276B98	17	Scudu di ghjacciu
 206	$276BB0	15	Scudu di sangue
-207	$276BC8	11	Vesta prisma
+207	$276BC8	12	Vesta prisma
 208	$276BE0	8	Chausson
 209	$276BF8	7	Dummy
 210	$276C10	7	Dummy
@@ -222,30 +222,30 @@
 221	$276D18	7	Dummy
 222	$276D30	7	Dummy
 223	$276D48	7	Dummy
-224	$276D60	6	Pozione
-225	$276D78	7	Pozione+
+224	$276D60	7	Pozione
+225	$276D78	8	Pozione\C8
 226	$276D90	5	Etere
 227	$276DA8	5	Elisir
-228	$276DC0	15	Coda di Fenice
+228	$276DC0	14	Coda di Fenice
 229	$276DD8	6	Basgiu
-230	$276DF0	10	Acqua santa
+230	$276DF0	11	Acqua santa
 231	$276E08	8	Carapace
 232	$276E20	8	Antidotu
-233	$276E38	6	Colliriu
-234	$276E50	4	Dente
+233	$276E38	7	Colliriu
+234	$276E50	5	Dente
 235	$276E68	8	H-Spaziu
-236	$276E80	8	Sbloccu
-237	$276E98	6	Schiaffu
+236	$276E80	7	Sbloccu
+237	$276E98	8	Schiaffu
 238	$276EB0	7	Dummy
 239	$276EC8	5	Lampa
 240	$276EE0	5	Tenda
-241	$276EF8	7	Padiglione
-242	$276F10	5	Sciroppu
-243	$276F28	6	Nettare
+241	$276EF8	9	Padiglione
+242	$276F10	8	Sciroppu
+243	$276F28	7	Nettare
 244	$276F40	7	Bivanda
 245	$276F58	6	Tisana
 246	$276F70	7	Cocktail
-247	$276F88	6	Blasone
+247	$276F88	7	Blasone
 248	$276FA0	7	Medaglia
 249	$276FB8	5	Ramuh
 250	$276FD0	10	Catoblepas

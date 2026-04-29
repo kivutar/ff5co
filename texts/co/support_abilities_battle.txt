@@ -1,33 +1,33 @@
-0	$277060	15	Equipà Scudi
-1	$277078	14	Equipà Armura
+0	$277060	12	Equipà Scudi
+1	$277078	13	Equipà Armura
 2	$277090	13	Equipà Nastri
 3	$2770A8	12	Equipà Spade
-4	$2770C0	13	Equipà Lance
-5	$2770D8	14	Equipà Katane
-6	$2770F0	13	Equipà Scuri
-7	$277108	11	Equipà Archi
+4	$2770C0	12	Equipà Lance
+5	$2770D8	13	Equipà Katane
+6	$2770F0	12	Equipà Scuri
+7	$277108	12	Equipà Archi
 8	$277120	13	Equipà Fruste
-9	$277138	13	Equipà Arpe
-10	$277150	8	Agilità+
+9	$277138	11	Equipà Arpe
+10	$277150	7	Agilità\C8
 11	$277168	7	HP +10%
 12	$277180	7	HP +20%
 13	$277198	7	HP +30%
 14	$2771B0	7	MP +10%
 15	$2771C8	7	MP +30%
-16	$2771E0	6	Pugilatu
-17	$2771F8	7	2 mani
-18	$277210	7	2 armi
+16	$2771E0	7	Pugilatu
+17	$2771F8	6	2 mani
+18	$277210	6	2 armi
 19	$277228	8	Medicina
-20	$277240	7	Copre
+20	$277240	5	Copre
 21	$277258	7	Riposta
-22	$277270	7	Bloccu
+22	$277270	6	Bloccu
 23	$277288	8	Amparera
-24	$2772A0	7	Blindaghju
-25	$2772B8	8	Furia
+24	$2772A0	9	Blindaghju
+25	$2772B8	5	Furia
 26	$2772D0	8	Vigilanza
-27	$2772E8	10	Allerta
-28	$277300	7	Passaghju
-29	$277318	8	Passu sic.
-30	$277330	9	Trappule
-31	$277348	16	Equipà Scettri
+27	$2772E8	6	Allerta
+28	$277300	9	Passaghju
+29	$277318	10	Passu sic.
+30	$277330	8	Trappule
+31	$277348	14	Equipà Scettri
 32	$277360	6	Sprint

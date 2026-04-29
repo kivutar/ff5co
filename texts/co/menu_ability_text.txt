@@ -1,33 +1,33 @@
-0	$116200	8	Equipà\F1
-1	$116208	8	Equipà\F3
-2	$116210	8	Equipà\C1
-3	$116218	8	Equipà\E3
-4	$116220	8	Equipà\E8
-5	$116228	8	Equipà\EA
-6	$116230	8	Equipà\E9\BF
-7	$116238	8	Equipà\ED
-8	$116240	8	Equipà\EF
-9	$116248	8	Equipà\EE
-10	$116250	8	Agilità+
+0	$116200	7	Equipà\F1
+1	$116208	7	Equipà\F3
+2	$116210	7	Equipà\C1
+3	$116218	7	Equipà\E3
+4	$116220	7	Equipà\E8
+5	$116228	7	Equipà\EA
+6	$116230	8	Equipà\BF\BF
+7	$116238	7	Equipà\ED
+8	$116240	7	Equipà\EF
+9	$116248	7	Equipà\EE
+10	$116250	7	Agilità\C8
 11	$116258	6	HP +10%
 12	$116260	6	HP +20%
 13	$116268	6	HP +30%
 14	$116270	6	MP +10%
 15	$116278	6	MP +30%
 16	$116280	7	Pugilat
-17	$116288	7	2 mani
-18	$116290	7	2 armi
+17	$116288	6	2 mani
+18	$116290	6	2 armi
 19	$116298	8	Medicina
-20	$1162A0	7	Copre
+20	$1162A0	5	Copre
 21	$1162A8	7	Riposta
-22	$1162B0	7	Bloccu
+22	$1162B0	6	Bloccu
 23	$1162B8	8	Amparera
-24	$1162C0	8	Blindag.
-25	$1162C8	8	Furia
-26	$1162D0	8	Vigilanz
-27	$1162D8	8	Allerta
+24	$1162C0	7	Blindag.
+25	$1162C8	5	Furia
+26	$1162D0	7	Vigilanz
+27	$1162D8	6	Allerta
 28	$1162E0	8	Passagh.
 29	$1162E8	8	No dannu
 30	$1162F0	8	Trappule
-31	$1162F8	8	Equipà\EB
+31	$1162F8	7	Equipà\EB
 32	$116300	6	Sprint

@@ -1,5 +1,5 @@
-0	$275800	16	Cumbatti:[TotalBattles]
-1	$275811	16	Nemici:[EnemiesKilled]
-2	$275822	16	Exp.med.:[AverageExp]
-3	$275833	16	Tesori %:[TreasureRate]%
-4	$275844	16	Salvatu:[TimesSaved]
+0	$275800	10	Cumbatti:[TotalBattles]
+1	$275811	8	Nemici:[EnemiesKilled]
+2	$275822	10	Exp.med.:[AverageExp]
+3	$275833	11	Tesori %:[TreasureRate]%
+4	$275844	9	Salvatu:[TimesSaved]

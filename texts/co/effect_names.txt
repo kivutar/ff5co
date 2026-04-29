@@ -1,100 +1,100 @@
 0	$270900	8	Echigoya
-1	$270910	7	Scuiattulu
-2	$270920	16	Sciame d'ape
+1	$270910	10	Scuiattulu
+2	$270920	12	Sciame d'ape
 3	$270930	9	Rusignolu
 4	$270940	10	Polatouche
-5	$270950	6	Falcu
-6	$270960	9	Muffetta
+5	$270950	5	Falcu
+6	$270960	8	Muffetta
 7	$270970	7	Cignale
 8	$270980	7	Licorna
-9	$270990	7	Fallu
-10	$2709A0	6	Pozione
-11	$2709B0	10	Acqua vitale
-12	$2709C0	8	Pozione X
+9	$270990	4	Fallu
+10	$2709A0	7	Pozione
+11	$2709B0	12	Acqua vitale
+12	$2709C0	9	Pozione X
 13	$2709D0	5	Elisir
-14	$2709E0	12	Risurrezzione
+14	$2709E0	13	Risurrezzione
 15	$2709F0	6	Basgiu
 16	$270A00	5	Etere
-17	$270A10	11	Neutralizante
-18	$270A20	12	Vista perfetta
+17	$270A10	12	Neutralizante
+18	$270A20	14	Vista perfetta
 19	$270A30	16	Forza di dragone
-20	$270A40	14	Pozione scura
-21	$270A50	7	Pozione\E2
+20	$270A40	13	Pozione scura
+21	$270A50	8	Pozione\E2
 22	$270A60	10	Mezu elisir
 23	$270A70	8	Trietere
 24	$270A80	7	Spare 1
-25	$270A90	13	Reincarnazione
+25	$270A90	14	Reincarnazione
 26	$270AA0	15	Basgiu di Lilith
-27	$270AB0	9	Antiveleno
-28	$270AC0	7	Antifocu
-29	$270AD0	13	Muru di dragone
-30	$270AE0	12	Etere scuru
-31	$270AF0	7	Fallu
+27	$270AB0	10	Antiveleno
+28	$270AC0	8	Antifocu
+29	$270AD0	15	Muru di dragone
+30	$270AE0	11	Etere scuru
+31	$270AF0	4	Fallu
 32	$270B00	10	Mistura 23
 33	$270B10	10	Mistura 24
-34	$270B20	13	Sciroppu vitale
-35	$270B30	12	Elisir scuru
-36	$270B40	15	Coda di Fenice
-37	$270B50	15	Bocca à bocca
-38	$270B60	15	Barrera vitale
-39	$270B70	6	Rimediu
-40	$270B80	10	Antighiacciu
-41	$270B90	11	Anti-lampu
-42	$270BA0	14	Pelle di dragone
-43	$270BB0	14	Pozione mortale
-44	$270BC0	11	Basgiu benedettu
+34	$270B20	15	Sciroppu vitale
+35	$270B30	11	Elisir scuru
+36	$270B40	14	Coda di Fenice
+37	$270B50	13	Bocca à bocca
+38	$270B60	14	Barrera vitale
+39	$270B70	7	Rimediu
+40	$270B80	12	Antighiacciu
+41	$270B90	10	Anti-lampu
+42	$270BA0	15	Pelle di dragone
+43	$270BB0	15	Pozione mortale
+44	$270BC0	16	Basgiu benedettu
 45	$270BD0	14	Basgiu Succube
-46	$270BE0	16	Balsamu Lievità
+46	$270BE0	15	Balsamu Lievità
 47	$270BF0	15	Basgiu di Lamia
-48	$270C00	16	Basgiu dragone
-49	$270C10	14	Basgiu rospu
-50	$270C20	10	Acqua santa
+48	$270C00	14	Basgiu dragone
+49	$270C10	12	Basgiu rospu
+50	$270C20	11	Acqua santa
 51	$270C30	16	Sidru di Bacchus
 52	$270C40	15	Forza di Samson
-53	$270C50	16	Forza element.
-54	$270C60	14	Fiatu sacru
-55	$270C70	7	Fallu
-56	$270C80	13	Pozione armura
-57	$270C90	15	Suppa turtuga
-58	$270CA0	9	Suchju Turbo
-59	$270CB0	7	Fallu
+53	$270C50	14	Forza element.
+54	$270C60	11	Fiatu sacru
+55	$270C70	4	Fallu
+56	$270C80	14	Pozione armura
+57	$270C90	13	Suppa turtuga
+58	$270CA0	12	Suchju Turbo
+59	$270CB0	4	Fallu
 60	$270CC0	6	T.N.T.
 61	$270CD0	8	Antidotu
-62	$270CE0	9	Stimulante
-63	$270CF0	7	Fiatu
-64	$270D00	6	Tossina
-65	$270D10	6	Colliriu
+62	$270CE0	10	Stimulante
+63	$270CF0	5	Fiatu
+64	$270D00	7	Tossina
+65	$270D10	7	Colliriu
 66	$270D20	13	Suspiru scuru
-67	$270D30	10	Gas scuru
-68	$270D40	14	Fiatu di dragone
-69	$270D50	15	Fiatu scuru
-70	$270D60	13	Materia nera
+67	$270D30	9	Gas scuru
+68	$270D40	16	Fiatu di dragone
+69	$270D50	11	Fiatu scuru
+70	$270D60	12	Materia nera
 71	$270D70	7	Spare 2
 72	$270D80	7	Spare 3
-73	$270D90	10	Buriana
-74	$270DA0	6	Sisma
-75	$270DB0	16	Raffica tagl.
+73	$270D90	7	Buriana
+74	$270DA0	5	Sisma
+75	$270DB0	13	Raffica tagl.
 76	$270DC0	7	Tornada
 77	$270DD0	9	Ramincelli
-78	$270DE0	14	Foglie morte
-79	$270DF0	15	Tronchi d'arburi
-80	$270E00	6	Edera
-81	$270E10	7	Sciroccu
-82	$270E20	15	Sabbie mobili
+78	$270DE0	11	Foglie morte
+79	$270DF0	16	Tronchi d'arburi
+80	$270E00	5	Edera
+81	$270E10	8	Sciroccu
+82	$270E20	12	Sabbie mobili
 83	$270E30	16	Tempesta di rena
 84	$270E40	3	Erg
 85	$270E50	7	Tsunami
-86	$270E60	15	Turbinu marinu
-87	$270E70	14	Onda sismica
-88	$270E80	14	Onda sismica
+86	$270E60	14	Turbinu marinu
+87	$270E70	12	Onda sismica
+88	$270E80	12	Onda sismica
 89	$270E90	10	Ectoplasma
-90	$270EA0	9	Focu follet
-91	$270EB0	8	Palude
+90	$270EA0	10	Focu follet
+91	$270EB0	6	Palude
 92	$270EC0	13	Bruma tossica
 93	$270ED0	7	Cascata
 94	$270EE0	10	Stalattite
-95	$270EF0	6	Frana
-96	$270F00	12	Bang sonicu
+95	$270EF0	5	Frana
+96	$270F00	11	Bang sonicu
 97	$270F10	7	\AEDummy\AF
 98	$270F20	7	\AEDummy\AF
 99	$270F30	7	\AEDummy\AF

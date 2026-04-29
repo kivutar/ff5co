@@ -714,6 +714,39 @@ sub dump_offset_table_strings {
     print "$path ($pointer_count entries)\n";
 }
 
+sub dump_battle_messages {
+    my ($filename, $pointer_offset, $pointer_count, $base_offset, $eol_byte, $escape_byte) = @_;
+    my @lines = ();
+
+    for (my $i = 0; $i < $pointer_count; $i++) {
+        my $raw = substr($bytes, $pointer_offset + ($i * 2), 2);
+        my $start = unpack("v", $raw);
+        my $offset = $base_offset + $start;
+        my $record = "";
+        my $j = $offset;
+        my $prev = undef;
+
+        while ($j < length($bytes)) {
+            my $byte = ord(substr($bytes, $j, 1));
+
+            if ($byte == $eol_byte) {
+                last if !defined($prev) || $prev != $escape_byte;
+            }
+
+            $record .= chr($byte);
+            $prev = $byte;
+            $j++;
+        }
+
+        my $decoded = decode($record);
+        push @lines, join("\t", $i, sprintf('$%06X', $offset), length($record), $decoded);
+    }
+
+    my $path = output_path($filename);
+    write_text($path, join("\n", @lines) . "\n");
+    print "$path ($pointer_count entries)\n";
+}
+
 sub dump_offset_span_table {
     my ($filename, $pointer_offset, $pointer_count, $base_offset, $final_limit) = @_;
     my @offsets = ();
@@ -1580,6 +1613,7 @@ dump_offset_span_table("area_headings.txt",     0x107000, 164, 0x270000, 2304);
 dump_effect_names("effect_names.txt",           0x270900, 0x270F8F);
 dump_magic_names_battle_menu("magic_names_battle_menu.txt", 0x270F90, 0x27177F);
 dump_magic_names_battle_messages("magic_names_battle_messages.txt", 0x271780, 169, 24);
+dump_battle_messages("battle_messages.txt",     0x1139A9, 81, 0x270000, 0x00, 0x10);
 dump_rare_items("rare_items.txt",               0x273568, 24, 13);
 dump_monster_specialties("monster_specialties.txt", 0x273700, 64, 16);
 dump_battle_record_text("battle_record_text.txt", 0x275800, 5, 17);

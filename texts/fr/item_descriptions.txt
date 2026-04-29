@@ -11,7 +11,7 @@
 10	$1141AD	15	Soigne Fossile.
 11	$1141BD	12	Soigne Mini.
 12	$1141CA	35	Invoque un Esper>pendant le combat.
-13	$1141EE	46	A l\D6air libre.Rend des>HP et des MP à l\D6éq.\A4e.
+13	$1141EE	46	A l'air libre.Rend des>HP et des MP à l'éq.\A4e.
 14	$11421D	30	Commande ’Boire.>HP augmentés.
 15	$11423C	35	Commande ’Boire.>Attaque augmentée.
 16	$114260	38	Commande ’Boire.>Effets du sort Turbo.
@@ -31,8 +31,8 @@
 30	$114421	43	Puissance des sorts>élémentaires augmentée.
 31	$11444D	37	Puissance des sorts>sacrés augmentée.
 32	$114473	40	Protège contre Zombie>et Vieillissement.
-33	$11449C	42	Annule la plupart des>altérations d\D6états.
-34	$1144C7	48	Absorbe l\D6eau,résiste au>feu et craint l\D6éclair.
+33	$11449C	42	Annule la plupart des>altérations d'états.
+34	$1144C7	48	Absorbe l'eau,résiste au>feu et craint l'éclair.
 35	$1144F8	19	Arrière:Atq.normale
 36	$11450C	32	Augmente la puissance>des mains.
 37	$11452D	40	A plus de chance de>contrôler un ennemi.
@@ -41,7 +41,7 @@
 40	$11457F	0	
 41	$114580	44	MP req.\AC pour effectuer>des coups critiques.
 42	$1145AD	26	Diminue les HP du>porteur.
-43	$1145C8	33	Cause l\D6altération>d\D6état Zombie.
+43	$1145C8	33	Cause l'altération>d'état Zombie.
 44	$1145EA	41	Annule la protection>contre les attaques.
 45	$114614	45	Cause les mêmes effets>que le sort Châtiment.
 46	$114642	0	

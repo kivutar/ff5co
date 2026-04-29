@@ -1,64 +1,64 @@
 0	$273700	13	Colpu criticu
 1	$273710	5	Agulla
-2	$273720	8	Denti davanti
+2	$273720	13	Denti davanti
 3	$273730	5	Queue
 4	$273740	6	Griffa
 5	$273750	5	Pinza
-6	$273760	16	Scettru
-7	$273770	16	Ottu zampe
-8	$273780	8	Dece zampe
+6	$273760	7	Scettru
+7	$273770	10	Ottu zampe
+8	$273780	10	Dece zampe
 9	$273790	5	Corne
-10	$2737A0	4	Carica
-11	$2737B0	13	Colpu di corpu
-12	$2737C0	6	Carapace
-13	$2737D0	8	Picatoghju
-14	$2737E0	8	Pinna
+10	$2737A0	6	Carica
+11	$2737B0	14	Colpu di corpu
+12	$2737C0	8	Carapace
+13	$2737D0	10	Picatoghju
+14	$2737E0	5	Pinna
 15	$2737F0	9	Tentacule
 16	$273800	6	Langue
 17	$273810	7	Morsure
-18	$273820	5	Gumitu
+18	$273820	6	Gumitu
 19	$273830	5	Scure
-20	$273840	12	Colpu di testa
-21	$273850	13	Griffa diritta
-22	$273860	5	Taculu
-23	$273870	5	Schiaffu
+20	$273840	14	Colpu di testa
+21	$273850	14	Griffa diritta
+22	$273860	6	Taculu
+23	$273870	8	Schiaffu
 24	$273880	5	Lance
 25	$273890	3	Ala
 26	$2738A0	6	Stoccu
-27	$2738B0	13	Colpu ghjinochju
+27	$2738B0	16	Colpu ghjinochju
 28	$2738C0	14	Forza psichica
-29	$2738D0	4	Zanna
+29	$2738D0	5	Zanna
 30	$2738E0	14	Pugnu invisib.
-31	$2738F0	6	Trapassu
-32	$273900	16	Pugnu di manca
-33	$273910	7	Sbracciata
-34	$273920	12	Calciu di punta
+31	$2738F0	8	Trapassu
+32	$273900	14	Pugnu di manca
+33	$273910	10	Sbracciata
+34	$273920	15	Calciu di punta
 35	$273930	10	Mineuchi
-36	$273940	8	Affondu
-37	$273950	8	Strappu
-38	$273960	9	Lama vacuum
-39	$273970	10	Calciu altu
-40	$273980	7	Sfracella
-41	$273990	7	Colpu duru
-42	$2739A0	11	Pressione
-43	$2739B0	6	Trapanu
+36	$273940	7	Affondu
+37	$273950	7	Strappu
+38	$273960	11	Lama vacuum
+39	$273970	11	Calciu altu
+40	$273980	8	Sfracella
+41	$273990	10	Colpu duru
+42	$2739A0	9	Pressione
+43	$2739B0	7	Trapanu
 44	$2739C0	7	Stretta
 45	$2739D0	4	Faux
 46	$2739E0	8	Yagyûryû
-47	$2739F0	11	Graffi di gattu
-48	$273A00	4	Angulu
-49	$273A10	7	Abbr. d'orsu
-50	$273A20	9	Colpu calante
-51	$273A30	8	Scivulata
-52	$273A40	7	Dita
+47	$2739F0	15	Graffi di gattu
+48	$273A00	6	Angulu
+49	$273A10	12	Abbr. d'orsu
+50	$273A20	13	Colpu calante
+51	$273A30	9	Scivulata
+52	$273A40	4	Dita
 53	$273A50	7	Riposta
 54	$273A60	6	Vacuum
 55	$273A70	7	Mannaia
 56	$273A80	6	Vacuum
 57	$273A90	0	
 58	$273AA0	0	
-59	$273AB0	12	Polvera vechju
+59	$273AB0	14	Polvera vechju
 60	$273AC0	14	Polvera velenu
-61	$273AD0	13	Polvera cecità
-62	$273AE0	14	Polv. paralisi
+61	$273AD0	14	Polvera cecità
+62	$273AE0	13	Polv. paralisi
 63	$273AF0	14	Polvera pazzia

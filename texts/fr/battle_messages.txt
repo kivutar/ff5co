@@ -1,0 +1,81 @@
+0	$272760	5	K-O !
+1	$272766	5	K-O !
+2	$27276C	24	Pétrification graduelle !
+3	$272785	9	Crapaud !
+4	$27278F	6	Mini !
+5	$272796	12	Lévitation !
+6	$2727A3	8	Poison !
+7	$2727AC	8	Zombie !
+8	$2727B5	9	Aveugle !
+9	$2727BF	14	Vieillissement !
+10	$2727CE	8	Sommeil !
+11	$2727D7	11	Paralysie !
+12	$2727E3	11	Confusion !
+13	$2727EF	7	Furie !
+14	$2727F7	9	Mutisme !
+15	$272801	9	Illusion !
+16	$27280B	9	Illusion !
+17	$272815	17	Niveau [DialogueGil]|HP [DialogueGil]>/[DialogueGil][Bartz]
+18	$27281E	8	HP [DialogueGil]>/[DialogueGil][Bartz]
+19	$272827	13	Craint : Eau.
+20	$272835	14	Craint : Vent.
+21	$272844	15	Craint : Terre.
+22	$272854	15	Craint : Sacré.
+23	$272864	16	Craint : Poison.
+24	$272875	18	Craint : Tonnerre.
+25	$272888	15	Craint : Glace.
+26	$272898	13	Craint : Feu.
+27	$2728A6	22	Vous avez l’avantage !
+28	$2728BD	18	Attaque surprise !
+29	$2728D0	12	Aucun effet.
+30	$2728DD	17	MP insuffisants !
+31	$2728EF	21	Incapable de parler !
+32	$272905	16	Fuite impossible
+33	$272916	9	Volé «[DialogueAbility]»!
+34	$272920	9	Vol raté.
+35	$27292A	13	Ennemi calme.
+36	$272938	17	Ennemi contrôlé !
+37	$27294A	24	L’ennemi est trop fort !
+38	$272963	24	L’ennemi vous a repéré !
+39	$27297C	10	Hi hi hi !
+40	$272987	13	Subjugation !
+41	$272995	10	Victoire !
+42	$2729A0	13	Fin de partie
+43	$2729AE	5	Fuite
+44	$2729B4	10	[DialogueGil]|[DialogueGil]> EXP !
+45	$2729B6	8	[DialogueGil]> EXP !
+46	$2729BF	7	[DialogueGil][Bartz] PT !
+47	$2729C7	25	Le niveau de [DialogueItem] augmente !
+48	$2729E1	29	Nv. de classe de [DialogueItem] augmenté !
+49	$2729FF	12	Appris «\15» !
+50	$272A0C	12	Appris : \13 !
+51	$272A19	20	Appris «\15 Niveau [DialogueGil]>»
+52	$272A2E	31	Jeté dans une autre dimension !
+53	$272A4E	29	Plus que 30 secondes à vivre…
+54	$272A6C	31	Atteint : niveau multiple de 5.
+55	$272A8C	31	Atteint : niveau multiple de 4.
+56	$272AAC	31	Atteint : niveau multiple de 2.
+57	$272ACC	31	Atteint : niveau multiple de 3.
+58	$272AEC	8	Fossile !
+59	$272AF5	8	Zombie !
+60	$272AFE	18	Attaque diminuée !
+61	$272B11	18	Défense diminuée !
+62	$272B24	11	Niveau \E25 !
+63	$272B30	11	Niveau -5 !
+64	$272B3C	25	Niveau réduit de moitié !
+65	$272B56	32	La toile vous empêche de bouger !
+66	$272B77	32	Un liquide gluant vous ralentit !
+67	$272B98	22	MP réduits de moitié !
+68	$272BAF	20	Changement de page !
+69	$272BC4	11	Embuscade !
+70	$272BD0	20	Ponction cervicale !
+71	$272BE5	26	Incapable de se souvenir !
+72	$272C00	38	Vous tombez dans une autre dimension !
+73	$272C27	12	Aucun effet.
+74	$272C34	22	L’ennemi est distrait…
+75	$272C4B	14	Rien à voler !
+76	$272C5A	21	Ennemi déjà contrôlé.
+77	$272C70	37	Le héros à moitié cuit n’est pas là !
+78	$272C96	19	Contrôle impossible
+79	$272CAA	18	Capture impossible
+80	$272CBD	23	L’objet [DialogueAbility] s’est brisé !

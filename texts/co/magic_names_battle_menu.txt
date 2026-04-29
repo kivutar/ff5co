@@ -1,165 +1,165 @@
 0	$270F90	6	Menuet
-1	$270F9C	5	Studiu
-2	$270FA8	5	Innu
+1	$270F9C	6	Studiu
+2	$270FA8	4	Innu
 3	$270FB4	4	Mana
-4	$270FC0	8	Eroicu
+4	$270FC0	6	Eroicu
 5	$270FCC	7	Requiem
-6	$270FD8	4	Amore
+6	$270FD8	5	Amore
 7	$270FE4	4	Aria
-8	$270FF0	4	Calc.Choco
-9	$270FFC	4	Alisiu
+8	$270FF0	10	Calc.Choco
+9	$270FFC	5	Alisiu
 10	$271008	7	Piranha
 11	$271014	10	Polv.diam.
-12	$271020	11	Ghjudiziu
+12	$271020	9	Ghjudiziu
 13	$27102C	11	Fiamm infer
 14	$271038	11	Collera Gaia
-15	$271044	8	Muraglia
-16	$271050	12	Ochju diav.
+15	$271044	7	Muraglia
+16	$271050	11	Ochju diav.
 17	$27105C	11	Luce rubina
-18	$271068	5	Tempesta
+18	$271068	8	Tempesta
 19	$271074	11	Zantetsuken
-20	$271080	12	Risurrez.
+20	$271080	9	Risurrez.
 21	$27108C	7	Tsunami
-22	$271098	10	Mega Bagliò
-23	$2710A4	11	Grossu choc.
+22	$271098	10	Mega Bagliô
+23	$2710A4	12	Grossu choc.
 24	$2710B0	7	Gungnir
-25	$2710BC	12	Risurrez.
+25	$2710BC	9	Risurrez.
 26	$2710C8	12	Lancia sang.
-27	$2710D4	12	Lancia asp.
-28	$2710E0	6	Tagliu ovu
-29	$2710EC	10	Ogetti mag.
-30	$2710F8	10	Ogetti mag.
-31	$271104	10	Ogetti mag.
-32	$271110	10	Ogetti mag.
-33	$27111C	10	Ogetti mag.
-34	$271128	5	Valzer
+27	$2710D4	11	Lancia asp.
+28	$2710E0	9	Tagliu ovu
+29	$2710EC	11	Ogetti mag.
+30	$2710F8	11	Ogetti mag.
+31	$271104	11	Ogetti mag.
+32	$271110	11	Ogetti mag.
+33	$27111C	11	Ogetti mag.
+34	$271128	6	Valzer
 35	$271134	4	Jazz
 36	$271140	5	Tango
-37	$27114C	8	Blindaghju
+37	$27114C	9	Blindaghju
 38	$271158	11	Danza sabra
-39	$271164	10	Aura ghiac.
-40	$271170	11	Impiglia
-41	$27117C	8	Attaccà
-42	$271188	12	Spiciale
-43	$271194	9	Castigu
+39	$271164	11	Aura ghiac.
+40	$271170	7	Impiglia
+41	$27117C	7	Attaccà
+42	$271188	8	Spiciale
+43	$271194	7	Castigu
 44	$2711A0	8	Roulette
-45	$2711AC	6	Rast.Aqua
-46	$2711B8	7	Morte N5
-47	$2711C4	8	Metà N4
+45	$2711AC	9	Rast.Aqua
+46	$2711B8	8	Morte N5
+47	$2711C4	7	Metà N4
 48	$2711D0	9	Vechju N2
-49	$2711DC	8	Bagliò N3
-50	$2711E8	7	Cantu rospu
-51	$2711F4	7	Cantu mini
+49	$2711DC	8	Bagliô N3
+50	$2711E8	11	Cantu rospu
+51	$2711F4	10	Cantu mini
 52	$271200	5	Flash
-53	$27120C	7	Sciv.tempu
-54	$271218	5	Fluta luna
-55	$271224	7	Unghia mort
-56	$271230	6	Aero
-57	$27123C	7	Aero2
-58	$271248	7	Aero3
-59	$271254	7	Emissione
-60	$271260	5	Pugnu gob.
-61	$27126C	5	Scossa nera
-62	$271278	8	Difesa-
-63	$271284	9	Fusione
-64	$271290	8	Scuppiu m.
+53	$27120C	10	Sciv.tempu
+54	$271218	10	Fluta luna
+55	$271224	11	Unghia mort
+56	$271230	4	Aero
+57	$27123C	5	Aero2
+58	$271248	5	Aero3
+59	$271254	9	Emissione
+60	$271260	10	Pugnu gob.
+61	$27126C	11	Scossa nera
+62	$271278	7	Difesa-
+63	$271284	7	Fusione
+64	$271290	10	Scuppiu m.
 65	$27129C	7	Vampire
-66	$2712A8	7	Mart.mag.
-67	$2712B4	6	Gran muru
+66	$2712A8	9	Mart.mag.
+67	$2712B4	9	Gran muru
 68	$2712C0	8	Kamikaze
 69	$2712CC	3	???
-70	$2712D8	8	1000 aghi
-71	$2712E4	7	Ventu bian.
+70	$2712D8	9	1000 aghi
+71	$2712E4	11	Ventu bian.
 72	$2712F0	7	Missile
 73	$2712FC	6	Kuuuu!
-74	$271308	10	Livellu-
+74	$271308	7	Livellu-
 75	$271314	4	Fuite
-76	$271320	7	Att. stalk
-77	$27132C	6	Att. Bybl.
-78	$271338	11	Sens unicu
+76	$271320	10	Att. stalk
+77	$27132C	10	Att. Bybl.
+78	$271338	10	Sens unicu
 79	$271344	12	Grande croce
-80	$271350	5	Att. Delta
-81	$27135C	11	Intercett.
+80	$271350	10	Att. Delta
+81	$27135C	10	Intercett.
 82	$271368	11	Cambia mur.
-83	$271374	12	Rigeneraz.
-84	$271380	12	Tagliu vent
-85	$27138C	12	Magia no-d.
-86	$271398	7	Mira
+83	$271374	10	Rigeneraz.
+84	$271380	10	Tagliu vent
+85	$27138C	11	Magia no-d.
+86	$271398	4	Mira
 87	$2713A4	5	100 G
-88	$2713B0	11	Oscurità
-89	$2713BC	9	Spada morte
-90	$2713C8	11	Punizione
+88	$2713B0	8	Oscurità
+89	$2713BC	11	Spada morte
+90	$2713C8	9	Punizione
 91	$2713D4	7	Blaster
-92	$2713E0	7	Beccu
-93	$2713EC	8	Abbracciu
+92	$2713E0	5	Beccu
+93	$2713EC	9	Abbracciu
 94	$2713F8	5	Spora
-95	$271404	7	Fiatu toss.
+95	$271404	11	Fiatu toss.
 96	$271410	10	Danza mort
-97	$27141C	12	Polv. zombi
-98	$271428	10	Fiatu zombi
-99	$271434	5	Spiritu
-100	$271440	8	Attiru
-101	$27144C	11	Impiglia
-102	$271458	11	Ventu arcu
-103	$271464	9	Danza str.
-104	$271470	11	Campu mag.
+97	$27141C	11	Polv. zombi
+98	$271428	11	Fiatu zombi
+99	$271434	7	Spiritu
+100	$271440	6	Attiru
+101	$27144C	7	Impiglia
+102	$271458	10	Ventu arcu
+103	$271464	10	Danza str.
+104	$271470	10	Campu mag.
 105	$27147C	10	Bucu bianc
 106	$271488	5	Agulla
 107	$271494	9	Maelstrom
 108	$2714A0	2	Os
 109	$2714AC	8	Giracoda
-110	$2714B8	8	Acidu stom.
-111	$2714C4	12	Pugnu razz.
-112	$2714D0	6	Bomba most.
+110	$2714B8	11	Acidu stom.
+111	$2714C4	11	Pugnu razz.
+112	$2714D0	11	Bomba most.
 113	$2714DC	9	Almageste
-114	$2714E8	12	Sabbie mov.
-115	$2714F4	5	Raghju at.
-116	$271500	8	Picc. focu
-117	$27150C	7	Nevicata
-118	$271518	5	Focu
-119	$271524	12	Scossa el.
-120	$271530	8	Scossa ter.
+114	$2714E8	11	Sabbie mov.
+115	$2714F4	10	Raghju at.
+116	$271500	10	Picc. focu
+117	$27150C	8	Nevicata
+118	$271518	4	Focu
+119	$271524	10	Scossa el.
+120	$271530	11	Scossa ter.
 121	$27153C	11	Zantetsuken
-122	$271548	12	Onda marina
-123	$271554	10	Mega Bagliò
-124	$271560	10	Onda son.
-125	$27156C	5	Tela
+122	$271548	11	Onda marina
+123	$271554	10	Mega Bagliô
+124	$271560	9	Onda son.
+125	$27156C	4	Tela
 126	$271578	5	Muccu
-127	$271584	6	Sisma
-128	$271590	8	Attaccà
+127	$271584	5	Sisma
+128	$271590	7	Attaccà
 129	$27159C	10	Traitement
 130	$2715A8	7	Bunshin
-131	$2715B4	12	Ala ventu
-132	$2715C0	7	Fiamma
-133	$2715CC	8	Toneru
-134	$2715D8	12	Raghju sur.
-135	$2715E4	12	Esplusione
-136	$2715F0	8	Rimediu
-137	$2715FC	10	Att. val.
-138	$271608	10	Giga Bagliò
+131	$2715B4	9	Ala ventu
+132	$2715C0	6	Fiamma
+133	$2715CC	6	Toneru
+134	$2715D8	11	Raghju sur.
+135	$2715E4	10	Esplusione
+136	$2715F0	7	Rimediu
+137	$2715FC	9	Att. val.
+138	$271608	10	Giga Bagliô
 139	$271614	7	Cerchiu
 140	$271620	9	Trou neru
-141	$27162C	10	Pussede
-142	$271638	8	Dinamo
-143	$271644	6	Magnete
-144	$271650	6	Inv.polar.
-145	$27165C	6	Saltu
+141	$27162C	7	Pussede
+142	$271638	6	Dinamo
+143	$271644	7	Magnete
+144	$271650	10	Inv.polar.
+145	$27165C	5	Saltu
 146	$271668	6	Portal
 147	$271674	7	Uraganu
-148	$271680	9	Ochju dim.
-149	$27168C	5	Ogettu
-150	$271698	5	Ogettu
-151	$2716A4	5	Ogettu
+148	$271680	10	Ochju dim.
+149	$27168C	6	Ogettu
+150	$271698	6	Ogettu
+151	$2716A4	6	Ogettu
 152	$2716B0	7	Termina
-153	$2716BC	12	Nivulu sc.
-154	$2716C8	11	Ululatu
+153	$2716BC	10	Nivulu sc.
+154	$2716C8	7	Ululatu
 155	$2716D4	10	Bruma nef.
-156	$2716E0	6	Fusione
-157	$2716EC	11	Ventu infer.
-158	$2716F8	10	Onda caos
-159	$271704	5	Flagellu
+156	$2716E0	7	Fusione
+157	$2716EC	12	Ventu infer.
+158	$2716F8	9	Onda caos
+159	$271704	7	Flagellu
 160	$271710	10	Corpu neru
-161	$27171C	10	Apocaliss.
+161	$27171C	9	Apocaliss.
 162	$271728	3	Gas
 163	$271734	6	Ogetti
 164	$271740	6	Ogetti

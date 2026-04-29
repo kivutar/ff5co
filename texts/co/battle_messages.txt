@@ -1,0 +1,81 @@
+0	$272760	5	K-O !
+1	$272766	5	K-O !
+2	$27276C	24	Pitrificazione graduale !
+3	$272785	9	Rospu !
+4	$27278F	6	Mini !
+5	$272796	12	Lievità !
+6	$2727A3	8	Velenu !
+7	$2727AC	8	Zombie !
+8	$2727B5	9	Cecità !
+9	$2727BF	14	Invechjamentu !
+10	$2727CE	8	Sonniu !
+11	$2727D7	11	Paralisi !
+12	$2727E3	11	Cunfusione !
+13	$2727EF	7	Furia !
+14	$2727F7	9	Silenziu !
+15	$272801	9	Illusione !
+16	$27280B	9	Illusione !
+17	$272815	17	Niveau [DialogueGil]|HP [DialogueGil]>/[DialogueGil][Bartz]
+18	$27281E	8	HP [DialogueGil]>/[DialogueGil][Bartz]
+19	$272827	13	Debule : Acqua.
+20	$272835	14	Debule : Ventu.
+21	$272844	15	Debule : Terra.
+22	$272854	15	Debule : Sacru.
+23	$272864	16	Debule : Velenu.
+24	$272875	18	Debule : Tronu.
+25	$272888	15	Debule : Ghiacciu.
+26	$272898	13	Debule : Focu.
+27	$2728A6	22	Avete u vantaghju !
+28	$2728BD	18	Attaccu surpresa !
+29	$2728D0	12	Nisun effettu.
+30	$2728DD	17	MP insufficienti !
+31	$2728EF	21	ùn pò parlà !
+32	$272905	16	Fuga impussibile
+33	$272916	9	Arrubatu [DialogueAbility]!
+34	$272920	9	Furtu fiascu.
+35	$27292A	13	Nemicu calmu.
+36	$272938	17	Nemicu cuntrullatu !
+37	$27294A	24	U nemicu hè troppu forte !
+38	$272963	24	U nemicu vi hà vistu !
+39	$27297C	10	Hi hi hi !
+40	$272987	13	Subjugazione !
+41	$272995	10	Vittoria !
+42	$2729A0	13	Fine di partita
+43	$2729AE	5	Fuga
+44	$2729B4	10	[DialogueGil]|[DialogueGil]> EXP !
+45	$2729B6	8	[DialogueGil]> EXP !
+46	$2729BF	7	[DialogueGil][Bartz] PT !
+47	$2729C7	25	[DialogueItem] cresce di liveddu !
+48	$2729E1	29	Liv. classe di [DialogueItem] cresciutu !
+49	$2729FF	12	Amparatu : \15 !
+50	$272A0C	12	Amparatu : \13 !
+51	$272A19	20	Amparatu : \15 Liv. [DialogueGil]>
+52	$272A2E	31	Gettatu in un'altra dimensione !
+53	$272A4E	29	Solu 30 seconde da campà…
+54	$272A6C	31	Culpisce : liveddu multiplu di 5.
+55	$272A8C	31	Culpisce : liveddu multiplu di 4.
+56	$272AAC	31	Culpisce : liveddu multiplu di 2.
+57	$272ACC	31	Culpisce : liveddu multiplu di 3.
+58	$272AEC	8	Fossile !
+59	$272AF5	8	Zombie !
+60	$272AFE	18	Attaccu calatu !
+61	$272B11	18	Difesa calata !
+62	$272B24	11	Liveddu \E25 !
+63	$272B30	11	Liveddu -5 !
+64	$272B3C	25	Liveddu dimezatu !
+65	$272B56	32	A tela vi impedisce di move vi !
+66	$272B77	32	Un liquidu viscosu vi rallenta !
+67	$272B98	22	MP dimezati !
+68	$272BAF	20	Pagina vultata !
+69	$272BC4	11	Imbuscata !
+70	$272BD0	20	Punzione cervicale !
+71	$272BE5	26	Incapace di ricurdà si !
+72	$272C00	38	Cascate in un'altra dimensione !
+73	$272C27	12	Nisun effettu.
+74	$272C34	22	U nemicu hè distrattu…
+75	$272C4B	14	Nunda à arrubà !
+76	$272C5A	21	Nemicu digià cuntrullatu.
+77	$272C70	37	Ma u colpu ùn ghjunse !
+78	$272C96	19	Cuntrullu impussibile
+79	$272CAA	18	Cattura impussibile
+80	$272CBD	23	L'ogettu [DialogueAbility] s'hè rottu !
