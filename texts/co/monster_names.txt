@@ -1,12 +1,12 @@
 0	$200050	7	Gobelin
 1	$20005A	5	Guêpe
 2	$200064	8	Noisette
-3	$20006E	9	Chat noir
+3	$20006E	9	Gattu neru
 4	$200078	10	Rhinolophe
-5	$200082	5	Crabe
+5	$200082	5	Granciu
 6	$20008C	7	Stropar
-7	$200096	10	Lutin noir
-8	$2000A0	7	Serpent
+7	$200096	10	Fol.neru
+8	$2000A0	7	Serpente
 9	$2000AA	8	Moldwynd
 10	$2000B4	7	Bouffon
 11	$2000BE	4	Urne
@@ -15,9 +15,9 @@
 14	$2000DC	8	Acanthor
 15	$2000E6	7	Encorné
 16	$2000F0	5	Tatou
-17	$2000FA	10	Loup rouge
+17	$2000FA	10	Lupu rossu
 18	$200104	6	Garula
-19	$20010E	9	Squelette
+19	$20010E	9	Scheletru
 20	$200118	9	Calcussul
 21	$200122	10	Pétrazombi
 22	$20012C	6	Psycho
@@ -26,7 +26,7 @@
 25	$20014A	6	Gallus
 26	$200154	5	Tombe
 27	$20015E	7	Crapaud
-28	$200168	6	Soldat
+28	$200168	6	Suldatu
 29	$200172	5	Vizir
 30	$20017C	6	Draken
 31	$200186	9	Pas de Seul
@@ -34,30 +34,30 @@
 33	$20019A	6	Aiguil
 34	$2001A4	2	Zu
 35	$2001AE	4	Nakk
-36	$2001B8	6	Tortue
-37	$2001C2	6	Frelon
+36	$2001B8	6	Tartar.
+37	$2001C2	6	Calabr.
 38	$2001CC	9	Mithrigon
 39	$2001D6	5	Ramuh
-40	$2001E0	7	Spectre
-41	$2001EA	6	Esprit
+40	$2001E0	7	Spettru
+41	$2001EA	6	Spiritu
 42	$2001F4	5	Piège
 43	$2001FE	9	Vainqueur
 44	$200208	10	Garkimasra
 45	$200212	7	Sergent
-46	$20021C	7	Sorcier
+46	$20021C	7	Magu
 47	$200226	8	Cabonakk
 48	$200230	5	Gigas
-49	$20023A	7	Page 32
-50	$200244	7	Page 64
-51	$20024E	8	Page 128
-52	$200258	8	Page 256
+49	$20023A	7	Pagina32
+50	$200244	7	Pagina64
+51	$20024E	8	Pagina128
+52	$200258	8	Pagina256
 53	$200262	5	Ifrit
 54	$20026C	5	Bombo
 55	$200276	10	Doublézard
-56	$200280	10	Bio-soldat
+56	$200280	10	Biosold.
 57	$20028A	8	Faucheur
-58	$200294	8	Feu noir
-59	$20029E	9	Golem roc
+58	$200294	8	Focu neru
+59	$20029E	9	Gol.petra
 60	$2002A8	10	Minidragon
 61	$2002B2	9	Prototype
 62	$2002BC	7	Chimère
@@ -70,11 +70,11 @@
 69	$200302	8	Eventail
 70	$20030C	5	Lamia
 71	$200316	10	Archéopaud
-72	$200320	5	Hydre
-73	$20032A	10	Hydre bleue
-74	$200334	7	Poisson
+72	$200320	5	Idra
+73	$20032A	10	Idr.turch
+74	$200334	7	Pesciu
 75	$20033E	6	Tréant
-76	$200348	9	Ombre feu
+76	$200348	9	Omb.focu
 77	$200352	9	Tarentule
 78	$20035C	7	Grizzli
 79	$200366	9	Tunnelier
@@ -82,13 +82,13 @@
 81	$20037A	9	Orque-fée
 82	$200384	8	Dévoreur
 83	$20038E	10	Mandragore
-84	$200398	9	Bête Kuza
+84	$200398	9	Best.Kuza
 85	$2003A2	9	Porc-épic
 86	$2003AC	8	Annélide
 87	$2003B6	9	Boucligon
 88	$2003C0	7	Flambos
 89	$2003CA	9	Acrophyse
-90	$2003D4	9	Mange-mog
+90	$2003D4	9	Mangiamog
 91	$2003DE	6	Lopros
 92	$2003E8	10	Crânophage
 93	$2003F2	10	Aquaépines
@@ -96,73 +96,73 @@
 95	$200406	7	Cornago
 96	$200410	8	Ridicule
 97	$20041A	10	Spironaute
-98	$200424	5	Taupe
+98	$200424	5	Talpa
 99	$20042E	6	Lycaon
-100	$200438	9	Dragon os
-101	$200442	5	Aigle
+100	$200438	9	Drag.ossu
+101	$200442	5	Acula
 102	$20044C	9	Drazombie
 103	$200456	5	Golem
 104	$200460	4	Néon
 105	$20046A	9	Magnétite
-106	$200474	9	Chevalier
+106	$200474	9	Cavalieru
 107	$20047E	8	Pérégrin
 108	$200488	7	Piégeur
 109	$200492	9	Gravimage
 110	$20049C	10	G.Ziggurat
-111	$2004A6	10	Lapin soin
+111	$2004A6	10	Lepre cura
 112	$2004B0	9	Géotortue
 113	$2004BA	9	Déchireur
 114	$2004C4	10	Catoblepas
 115	$2004CE	8	Minimage
 116	$2004D8	9	Gelagelée
 117	$2004E2	6	Mammon
-118	$2004EC	9	Diablotin
+118	$2004EC	9	Diavultt
 119	$2004F6	7	Vouivre
 120	$200500	8	Gémellia
-121	$20050A	4	Loup
-122	$200514	10	Nécrolapin
-123	$20051E	10	MageReflet
-124	$200528	10	Magidragon
-125	$200532	9	Démoniste
+121	$20050A	4	Lupu
+122	$200514	10	Necrolepr
+123	$20051E	10	Mag.rifl.
+124	$200528	10	Magidrago
+125	$200532	9	Demonistu
 126	$20053C	8	Adagolem
 127	$200546	5	Cœurl
-128	$200550	9	Poing fer
-129	$20055A	9	Drag.Bleu
-130	$200564	10	Drag.Rouge
-131	$20056E	10	Drag.Jaune
+128	$200550	9	Pug.ferru
+129	$20055A	9	Dr.turch.
+130	$200564	10	Drag.rossu
+131	$20056E	10	Drag.gial.
 132	$200578	6	Rêveur
-133	$200582	10	Tronc noir
+133	$200582	10	Troncneru
 134	$20058C	8	Hérisson
 135	$200596	6	Python
 136	$2005A0	5	Ombre
 137	$2005AA	10	Gigas orme
 138	$2005B4	3	Pao
-139	$2005BE	10	Aspic noir
+139	$2005BE	10	Aspicneru
 140	$2005C8	10	Métamorphe
 141	$2005D2	7	Inconnu
 142	$2005DC	8	Scorpion
 143	$2005E6	7	Barrett
 144	$2005F0	7	Sekhmet
-145	$2005FA	10	Reine Lamia
+145	$2005FA	10	Reg.Lamia
 146	$200604	10	Rajiformes
 147	$20060E	9	Lithograph
 148	$200618	10	Archéosaur
 149	$200622	7	Zéphyra
-150	$20062C	10	AmeExdeath
+150	$20062C	10	An.Exdeath
 151	$200636	6	Limace
 152	$200640	5	Veuve
 153	$20064A	6	Mucare
 154	$200654	8	Bourreau
-155	$20065E	6	Harpie
+155	$20065E	6	Arpia
 156	$200668	7	Danseur
 157	$200672	5	Damné
 158	$20067C	8	Rigilame
-159	$200686	10	Petit mage
+159	$200686	10	Magu chjuc
 160	$200690	10	Chronomage
-161	$20069A	9	Dragon os
-162	$2006A4	10	Grand mage
+161	$20069A	9	Drag.ossu
+162	$2006A4	10	Magu grand
 163	$2006AE	8	Bretteur
-164	$2006B8	10	MusclesFer
+164	$2006B8	10	Mus.ferru
 165	$2006C2	7	Berserk
 166	$2006CC	9	Drazombie
 167	$2006D6	6	Druide
@@ -176,15 +176,15 @@
 175	$200726	7	Inconnu
 176	$200730	7	Inconnu
 177	$20073A	7	Noctule
-178	$200744	6	Corail
+178	$200744	6	Corallu
 179	$20074E	8	Tomberry
-180	$200758	10	Gel aqueux
+180	$200758	10	Gelacquos
 181	$200762	9	Bagarreur
 182	$20076C	8	Alchymia
-183	$200776	10	Drag.rouge
-184	$200780	10	HydreBleue
-185	$20078A	9	Dragon os
-186	$200794	10	Bombo noir
+183	$200776	10	Drg.rossu
+184	$200780	10	Idr.turch
+185	$20078A	9	Drag.ossu
+186	$200794	10	Bombo neru
 187	$20079E	10	DanseLames
 188	$2007A8	10	Baldanders
 189	$2007B2	8	Malemort
@@ -201,9 +201,9 @@
 200	$200820	6	Griffe
 201	$20082A	10	Roi Béhém.
 202	$200834	10	Farfarello
-203	$20083E	9	Nécromant
+203	$20083E	9	Necromant
 204	$200848	5	Ninja
-205	$200852	6	Dragon
+205	$200852	6	Dragone
 206	$20085C	10	Dracoeibis
 207	$200866	5	Rhyos
 208	$200870	10	Vér.niveau
@@ -217,14 +217,14 @@
 216	$2008C0	9	Gilgamesh
 217	$2008CA	8	Sahuagin
 218	$2008D4	7	Anémone
-219	$2008DE	10	Ibis marin
+219	$2008DE	10	Ibismarin
 220	$2008E8	5	Crâne
 221	$2008F2	3	Nix
 222	$2008FC	10	Scor.marin
 223	$200906	7	Sylbune
-224	$200910	9	Flan bleu
+224	$200910	9	Flan turch
 225	$20091A	4	Rukh
-226	$200924	9	Démon mer
+226	$200924	9	Demon mare
 227	$20092E	10	Pastenague
 228	$200938	3	???
 229	$200942	5	Golem
@@ -235,19 +235,19 @@
 234	$200974	9	Cait Sith
 235	$20097E	6	Draken
 236	$200988	7	Crapaud
-237	$200992	8	Spectre 
+237	$200992	8	Spettru
 238	$20099C	8	Eventail
 239	$2009A6	9	Drazombie
 240	$2009B0	7	Chimère
 241	$2009BA	8	Adagolem
 242	$2009C4	10	Gigas vert
 243	$2009CE	7	Ronkien
-244	$2009D8	10	Bio-soldat
+244	$2009D8	10	Biosold.
 245	$2009E2	9	Tunnelier
 246	$2009EC	8	Toteibis
 247	$2009F6	9	Belphégor
-248	$200A00	10	Diablotin 
-249	$200A0A	6	Harpie
+248	$200A00	10	Diavultt
+249	$200A0A	6	Arpia
 250	$200A14	10	Garkimasra
 251	$200A1E	8	Charabia
 252	$200A28	10	Gilkhélone
@@ -263,11 +263,11 @@
 262	$200A8C	5	Forza
 263	$200A96	7	Magissa
 264	$200AA0	6	Galura
-265	$200AAA	10	Liq.ïee feu
-266	$200AB4	10	Liq.ïee feu
-267	$200ABE	10	Liq.ïee feu
+265	$200AAA	10	Liq.focu
+266	$200AB4	10	Liq.focu
+267	$200ABE	10	Liq.focu
 268	$200AC8	10	Commandant
-269	$200AD2	10	Ver sables
+269	$200AD2	10	Verme rena
 270	$200ADC	4	Trou
 271	$200AE6	0	
 272	$200AF0	9	Adatortue
@@ -275,15 +275,15 @@
 274	$200B04	10	L.-missiles
 275	$200B0E	7	Exdeath
 276	$200B18	5	Canon
-277	$200B22	10	Archéoeil
-278	$200B2C	10	Archéoeil
-279	$200B36	10	Archéoeil
-280	$200B40	10	Archéoeil
-281	$200B4A	10	Archéoeil
+277	$200B22	10	Archeochj
+278	$200B2C	10	Archeochj
+279	$200B36	10	Archeochj
+280	$200B40	10	Archeochj
+281	$200B4A	10	Archeochj
 282	$200B54	9	Manticore
 283	$200B5E	5	Titan
 284	$200B68	9	Purobolos
-285	$200B72	9	Ravisseur
+285	$200B72	9	Rapitore
 286	$200B7C	9	Gilgamesh
 287	$200B86	6	Triton
 288	$200B90	8	Assassin
@@ -292,7 +292,7 @@
 291	$200BAE	9	Gilgamesh
 292	$200BB8	5	T-Rex
 293	$200BC2	5	Shiva
-294	$200BCC	9	Ravisseur
+294	$200BCC	9	Rapitore
 295	$200BD6	6	Gousse
 296	$200BE0	5	Fleur
 297	$200BEA	5	Fleur
@@ -312,7 +312,7 @@
 311	$200C76	7	Exdeath
 312	$200C80	10	Fourmilion
 313	$200C8A	5	Momie
-314	$200C94	6	Vipère
+314	$200C94	6	Vipera
 315	$200C9E	8	Mécatête
 316	$200CA8	8	Mélusine
 317	$200CB2	8	Mélusine
@@ -334,7 +334,7 @@
 333	$200D52	7	Exdeath
 334	$200D5C	10	NéoExdeath
 335	$200D66	10	NéoExdeath
-336	$200D70	7	Gobelin
+336	$200D70	7	Goblin
 337	$200D7A	10	Griffe fer
 338	$200D84	7	Sergent
 339	$200D8E	8	Cabonakk
@@ -349,25 +349,25 @@
 348	$200DE8	7	Obusier
 349	$200DF2	9	Gilgamesh
 350	$200DFC	5	Ahuri
-351	$200E06	10	Chef momie
+351	$200E06	10	Cap.mummia
 352	$200E10	6	Apanda
 353	$200E1A	10	Alter Mann
 354	$200E24	6	Furtif
-355	$200E2E	9	Ravisseur
+355	$200E2E	9	Rapitore
 356	$200E38	5	Cœurl
-357	$200E42	10	Liq.ïee feu
-358	$200E4C	9	Bête Kuza
+357	$200E42	10	Liq.focu
+358	$200E4C	9	Best.Kuza
 359	$200E56	5	Canon
 360	$200E60	8	Panthère
-361	$200E6A	7	Shinryû
-362	$200E74	8	Barrière
+361	$200E6A	7	Shinryu
+362	$200E74	8	Barriera
 363	$200E7E	0	
 364	$200E88	0	
 365	$200E92	0	
 366	$200E9C	0	
 367	$200EA6	0	
 368	$200EB0	7	Chocobo
-369	$200EBA	10	GrosChoco.
+369	$200EBA	10	GrossChoc
 370	$200EC4	8	Sylphide
 371	$200ECE	6	Rémora
 372	$200ED8	5	Shiva
