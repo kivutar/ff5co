@@ -502,7 +502,7 @@
 502	$219AA2	214	 Jenica : Basta per oghje.>Sarissa : Uff ! Sò straculta !>>Jenica : A regina vuleria chì vo>andessite à mette a principessa>Lenna à dorme. Vò à currege i>vostri duveri. Aiò !>Sarissa : Va bè !|
 503	$219AEC	74	 Jenica : Ùn vi scurdate di vultà>quì senza traghjinà !>Sarissa : Iè ! \AEOh…\AF|
 504	$219C0A	286	 Sarissa : O Lenna… Dumane,>babbu è eiu, anderemu à fà una>spassighjata cù Hiryû !>Lenna : Papa, papupu !>Sarissa : Dice ch'ùn ci hè nunda di>più bellu chè vulà in celu à>spinu à un dragone ! È chì quand'omu>fighjeghja in ghjò, hè cum'è s'è>tutti avissinu ricevutu u sortilegiu>Lévitation !|
-505	$219C69	95	 Sarissa : Innò, aspetta… Euh…>Ùn era mica Léviter… Crapaud ?>Renvoi ? Ah ! Mini ! Eccu !|
+505	$219C69	95	 Sarissa : Innò, aspetta… Euh…>Ùn era mica Léviter… Rospu ?>Renvoi ? Ah ! Mini ! Eccu !|
 506	$219C98	47	 Jenica : Si serà attardata torna>una volta…|
 507	$219D5D	197	 Lenna : Sarissa…>Faris : Iè ?>Lenna : Saria forse>megliu di ùn dì à u>cancelliere quale sì per avà.>Ùn ti lasciaria mai più sorte>da u palazzu !>Faris : Hai ragiò…|
 508	$219D86	41	 Faris : Ci tocca à andà à ritruvà>babbu…|
@@ -775,7 +775,7 @@
 775	$21EB91	61	 Ah ! M'avete fatta paura !>Pruvava d'imità un addestratore…|
 776	$21EBA2	17	 Pecura : Bêêêê !|
 777	$21EBBC	26	 Rana : Coââ ! Coââ !|
-778	$21EBEB	47	 A rana hà lasciatu cascà u>sortilegiu Crapaud !|
+778	$21EBEB	47	 A rana hà lasciatu cascà u>sortilegiu Rospu !|
 779	$21EC25	58	 Site i viaghjatori chì>volenu prutege u cristallu ?|
 780	$21EC6E	73	 In quellu casu, sta canzona vi>serà sicuramente utile durante a>vostra cerca !|
 781	$21EC8D	31	 >\52\52\52\52\52\52\52Amparatu : Cantu d'amore !|
