@@ -73,7 +73,7 @@
 72	$2712F0	7	Missile
 73	$2712FC	6	Kuuuu!
 74	$271308	7	Livellu-
-75	$271314	4	Fuite
+75	$271314	4	Fuga
 76	$271320	10	Att. stalk
 77	$27132C	10	Att. Bybl.
 78	$271338	10	Sens unicu
