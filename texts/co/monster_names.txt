@@ -2,7 +2,7 @@
 1	$20005A	5	Vespa
 2	$200064	10	Mangianoci
 3	$20006E	10	Gattu neru
-4	$200078	10	Rhinolophe
+4	$200078	9	Pipistrel
 5	$200082	7	Granciu
 6	$20008C	7	Stropar
 7	$200096	8	Fol.neru
@@ -22,7 +22,7 @@
 21	$200122	10	Pétrazombi
 22	$20012C	6	Psycho
 23	$200136	10	Limace roc
-24	$200140	9	Gaélichat
+24	$200140	10	Gattu gala
 25	$20014A	9	Cocatrice
 26	$200154	5	Tomba
 27	$20015E	5	Rospu
@@ -64,8 +64,8 @@
 63	$2002C6	7	Actinie
 64	$2002D0	9	Assassinu
 65	$2002DA	4	Orsu
-66	$2002E4	7	Mage Rê
-67	$2002EE	7	Ronkien
+66	$2002E4	7	Magu Ra
+67	$2002EE	9	Cav.Lonka
 68	$2002F8	8	Maschera
 69	$200302	8	Eventail
 70	$20030C	5	Lamia
@@ -76,8 +76,8 @@
 75	$20033E	6	Tréant
 76	$200348	8	Omb.focu
 77	$200352	9	Tarentula
-78	$20035C	7	Grizzli
-79	$200366	9	Tunnelier
+78	$20035C	9	Orsu prig
+79	$200366	9	Scavatore
 80	$200370	6	Dyrule
 81	$20037A	9	Orcu fata
 82	$200384	10	Divuradore
@@ -90,7 +90,7 @@
 89	$2003CA	9	Acrophyse
 90	$2003D4	9	Mangiamog
 91	$2003DE	6	Lopros
-92	$2003E8	10	Crânophage
+92	$2003E8	10	Mangiacra
 93	$2003F2	10	Aquaépines
 94	$2003FC	8	Basiliscu
 95	$200406	7	Cornago
@@ -106,14 +106,14 @@
 105	$20046A	9	Magnétite
 106	$200474	8	Cavalieru
 107	$20047E	8	Pérégrin
-108	$200488	7	Piégeur
+108	$200488	10	Trappatore
 109	$200492	9	Gravimage
 110	$20049C	10	G.Ziggurat
 111	$2004A6	10	Lepre cura
-112	$2004B0	9	Géotortue
+112	$2004B0	10	Tartaterra
 113	$2004BA	9	Déchireur
 114	$2004C4	10	Catoblepas
-115	$2004CE	8	Minimage
+115	$2004CE	9	Mini magu
 116	$2004D8	9	Gelagelée
 117	$2004E2	6	Mammon
 118	$2004EC	8	Diavultt
@@ -154,14 +154,14 @@
 153	$20064A	6	Mucare
 154	$200654	4	Boia
 155	$20065E	5	Arpia
-156	$200668	7	Danseur
+156	$200668	10	Ballarinu
 157	$200672	7	Dannatu
 158	$20067C	8	Rigilame
 159	$200686	10	Magu chjuc
 160	$200690	10	Chronomage
 161	$20069A	9	Drag.ossu
 162	$2006A4	10	Magu grand
-163	$2006AE	8	Bretteur
+163	$2006AE	9	Duellante
 164	$2006B8	9	Mus.ferru
 165	$2006C2	7	Berserk
 166	$2006CC	9	Drazombie
@@ -175,7 +175,7 @@
 174	$20071C	9	Incugnutu
 175	$200726	9	Incugnutu
 176	$200730	9	Incugnutu
-177	$20073A	7	Noctule
+177	$20073A	9	Pipistrel
 178	$200744	6	Corallu
 179	$20074E	8	Tomberry
 180	$200758	9	Gelacquos
@@ -199,14 +199,14 @@
 198	$20080C	10	Hectoculus
 199	$200816	9	Ekarissor
 200	$200820	6	Griffa
-201	$20082A	10	Roi Béhém.
+201	$20082A	9	Re Béhém.
 202	$200834	10	Farfarello
 203	$20083E	9	Necromant
 204	$200848	5	Ninja
 205	$200852	7	Dragone
 206	$20085C	10	Dracoeibis
 207	$200866	5	Rhyos
-208	$200870	10	Vér.niveau
+208	$200870	9	Verif.liv
 209	$20087A	10	Flagelleur
 210	$200884	8	Euménide
 211	$20088E	9	Cristelle
@@ -220,7 +220,7 @@
 219	$2008DE	9	Ibismarin
 220	$2008E8	6	Craniu
 221	$2008F2	3	Nix
-222	$2008FC	10	Scor.marin
+222	$2008FC	10	Scorp.mare
 223	$200906	7	Sylbune
 224	$200910	10	Flan turch
 225	$20091A	4	Rukh
@@ -320,7 +320,7 @@
 319	$200CC6	8	Mélusine
 320	$200CD0	4	Odin
 321	$200CDA	8	Garguglia
-322	$200CE4	9	Tritonien
+322	$200CE4	7	Tritone
 323	$200CEE	7	Néregat
 324	$200CF8	6	Phobos
 325	$200D02	10	Omniscient
