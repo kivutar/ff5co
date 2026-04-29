@@ -14,6 +14,7 @@ perl insert_blue_magic_names.pl co texts/co/blue_magic_names.txt ff5co.sfc
 perl insert_rare_items.pl co texts/co/rare_items.txt ff5co.sfc
 perl insert_magic_names_field_menu.pl co texts/co/magic_names_field_menu.txt ff5co.sfc
 perl insert_magic_names_battle_menu.pl co texts/co/magic_names_battle_menu.txt ff5co.sfc
+perl insert_magic_names_battle_messages.pl co texts/co/magic_names_battle_messages.txt ff5co.sfc
 perl insert_menu_ability_text.pl co texts/co/menu_ability_text.txt ff5co.sfc
 perl insert_support_abilities_battle.pl co texts/co/support_abilities_battle.txt ff5co.sfc
 perl insert_effect_names.pl co texts/co/effect_names.txt ff5co.sfc
