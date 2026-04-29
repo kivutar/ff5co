@@ -1,28 +1,28 @@
 0	$273700	13	Colpu criticu
 1	$273710	5	Agulla
 2	$273720	13	Denti davanti
-3	$273730	5	Queue
+3	$273730	4	Coda
 4	$273740	6	Griffa
 5	$273750	5	Pinza
 6	$273760	7	Scettru
 7	$273770	10	Ottu zampe
 8	$273780	10	Dece zampe
-9	$273790	5	Corne
+9	$273790	5	Cornu
 10	$2737A0	6	Carica
 11	$2737B0	14	Colpu di corpu
 12	$2737C0	8	Carapace
 13	$2737D0	10	Picatoghju
 14	$2737E0	5	Pinna
-15	$2737F0	9	Tentacule
-16	$273800	6	Langue
-17	$273810	7	Morsure
+15	$2737F0	9	Tentaculu
+16	$273800	6	Lingua
+17	$273810	5	Morsu
 18	$273820	6	Gumitu
 19	$273830	5	Scure
 20	$273840	14	Colpu di testa
 21	$273850	14	Griffa diritta
 22	$273860	6	Taculu
 23	$273870	8	Schiaffu
-24	$273880	5	Lance
+24	$273880	6	Lancia
 25	$273890	3	Ala
 26	$2738A0	6	Stoccu
 27	$2738B0	16	Colpu ghjinochju
