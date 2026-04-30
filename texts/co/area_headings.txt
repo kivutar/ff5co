@@ -81,19 +81,19 @@
 80	$27022F	17	Castellu di Tycoon
 81	$270240	22	Castellu di Tycoon - PT
 82	$270256	14	Torre di Hiryû
-83	$270264	19	Aérolite di Tycoon\52\52
+83	$270264	19	Aerolitu di Tycoon\52\52
 84	$270277	16	Castellu di Wolse
 85	$270287	21	Castellu di Wolse - PT
 86	$27029C	22	Castellu di Wolse - SS1
 87	$2702B2	35	Castellu di Wolse - Torre di l'acque
 88	$2702D5	5	Wolse
 89	$2702DA	14	Torre di Wolse
-90	$2702E8	16	Aérolite di Wolse
+90	$2702E8	16	Aerolitu di Wolse
 91	$2702F8	17	Castellu di Karnak
 92	$270309	22	Castellu di Karnak - PT
 93	$27031F	23	Castellu di Karnak - SS1
 94	$270336	6	Karnak
-95	$27033C	19	Aérolite di Karnak\52\52
+95	$27033C	19	Aerolitu di Karnak\52\52
 96	$27034F	12	Nave termica
 97	$27035B	22	Nave termica - Caldaia
 98	$270371	17	Castellu d'Exdeath
@@ -119,7 +119,7 @@
 118	$27049A	21	Isula di Lunule - SS1
 119	$2704AF	26	Isula di Lunule - Magazenu
 120	$2704C9	24	Rovine di a cità di Gohn
-121	$2704E1	15	Aérolite di Gohn
+121	$2704E1	15	Aerolitu di Gohn
 122	$2704F0	15	Rovine di Ronka
 123	$2704FF	6	Jacole
 124	$270505	16	Grotta di Jacole
