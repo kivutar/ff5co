@@ -2,6 +2,13 @@ use utf8;
 use open qw(:std :encoding(UTF-8));
 use File::Slurper qw(read_binary write_text);
 use File::Path qw(make_path);
+use FindBin;
+
+if (defined $ARGV[0] && $ARGV[0] eq "jp") {
+    shift @ARGV;
+    exec $^X, "$FindBin::Bin/extract_misc_jp.pl", @ARGV;
+    die "Cannot run Japanese misc extractor: $!\n";
+}
 
 
 my %b2c = (
